@@ -1,8 +1,0 @@
-Package: com.antique.haptic10
-Name: Haptic10
-Depends: mobilesubstrate
-Version: 1.27.4
-Architecture: iphoneos-arm
-Maintainer: Antique
-Author: Antique
-Section: Tweaks
