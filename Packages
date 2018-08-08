@@ -1,0 +1,1037 @@
+Package: com.antique.3dnodiv10
+Version: 0_1.2
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/3DNoDiv10.deb
+Size: 3240
+Installed-Size: 136
+MD5sum: f9c80570d1e9aada74eef45aca47c506
+Description: Remove the 3D Touch Separators for iOS 10!
+Name: 3DNoDiv10
+Author: Antique
+
+Package: com.antique.ahoyhoy
+Version: 2.9-1+debug
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Ahoyhoy.deb
+Size: 11048
+Installed-Size: 148
+MD5sum: c3453e48888a4fd65bd8140f2be4bae3
+Name: Ahoyhoy
+Author: Antique
+Icon: / file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.apollo
+Version: 3.35
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/Apollo.deb
+Size: 7078
+Installed-Size: 140
+MD5sum: 00833966474b202d16fb9d4579c1ce27
+Name: Apollo
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/apollo.html
+
+Package: com.antique.appitizer
+Version: 1.00.3
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: firmware (>= 8.4), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/Appitizer.deb
+Size: 127442
+Installed-Size: 460
+MD5sum: 4dd0a5df794a39fa6545afca6a47c848
+Description: Legacy iOS 9 App Switcher
+Name: Appitizer
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.atlas
+Version: z1.0-1+debug
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Atlas.deb
+Size: 3720
+Installed-Size: 136
+MD5sum: b8a92f72dac5075da25b0239688d5963
+Description: New CC Style for iOS 10
+Name: Atlas
+Author: Antique
+
+Package: com.antique.auroramp
+Version: 2.1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/AuroraMP.deb
+Size: 5842
+Installed-Size: 136
+MD5sum: 9840b4b25cd567b39e6d054bca1517b7
+Description: Show 'Now Playing' in the CC
+Name: AuroraMP
+Author: Antique
+
+Package: com.antique.bassdrop
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/BassDrop.deb
+Size: 34470
+Installed-Size: 400
+MD5sum: 86aa214faa70a1a70acd7dbbe7d84a97
+Description: Custom sound for your charging delight!
+Name: BassDrop
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/bassdrop.html
+
+Package: com.antique.blurryls
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/BlurryLS.deb
+Size: 3792
+Installed-Size: 200
+MD5sum: f12484b2c75a2d0df6b4c09d07921589
+Description: Better iOS 10 LS Notifications!
+Name: BlurryLS
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/blurryls.html
+
+Package: com.antique.blurst
+Version: 0.8
+Section: Development
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Blurst.deb
+Size: 16688
+Installed-Size: 320
+MD5sum: 4b5cfdd95bc0fec4eaf87f95b61db4da
+Name: Blurst
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/blurst.html
+
+Package: com.antique.bottombanners
+Version: 2
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/BottomBanners.deb
+Size: 18008
+Installed-Size: 292
+MD5sum: 1cf54b5ecc54c001f043281541d23ee0
+Description: Snazzy descriptions go here 😉
+Name: BottomBanners
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/bottombanners.html
+
+Package: com.antique.buzz
+Version: 8.3.4
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Buzz.deb
+Size: 7496
+Installed-Size: 140
+MD5sum: c3d4b08c978b37745f27b65f1941b3a8
+Name: Buzz
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.camhdr+
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CamHDR.deb
+Size: 3408
+Installed-Size: 120
+MD5sum: bf720878a13270cae8c5a8ae0a42344b
+Description: An awesome MobileSubstrate tweak!
+Name: CamHDR+
+Author: Antique
+
+Package: com.antique.carousell
+Version: 1_2.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Carousell.deb
+Size: 2910
+Installed-Size: 200
+MD5sum: 37acf30cabc709d5e7f39884f016374d
+Description: Endless scrolling on the HS
+Name: Carousell
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/carousell.html
+
+Package: com.antique.ccdotsaway
+Version: 2.1-1+debug
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/CCDotsAway.deb
+Size: 3052
+Installed-Size: 136
+MD5sum: 283d07053c86d595b532f6ece614272d
+Description: Remove the page dots in the CC
+Name: CCDotsAway
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/ccdotsaway.html
+
+Package: com.antique.chatter
+Version: 5.1.1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/Chatty.deb
+Size: 9480
+Installed-Size: 136
+MD5sum: 6415456a8e3178f86a55733764893917
+Name: Chatty
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/chatty.html
+
+Package: com.antique.controlclock
+Version: 1.1_4
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ControlClock.deb
+Size: 5334
+Installed-Size: 136
+MD5sum: 1ed827272667983f2a9ed5b57c184b48
+Description: Show the time on the Control Center
+Name: Control Clock
+Author: Antique
+
+Package: com.antique.darksnap
+Version: 1.3
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/DarkSnap.deb
+Size: 6040
+Installed-Size: 200
+MD5sum: 2eb9a5c26b9602892b3acbb6eff44a8d
+Description: Cinema Mode for Snapchat
+Name: DarkSnap
+Author: Antique
+Depiction: https://antiquebeta.github.io/darksnap.html
+
+Package: com.antique.dividersaway
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/DividersAway.deb
+Size: 3034
+Installed-Size: 136
+MD5sum: e31b564c4446ad50d4c45117765c9aa1
+Description: Remove Separators(System Wide) for iOS 10
+Name: DividersAway
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/dividersaway.html
+
+Package: com.antique.droidbars
+Version: 0.0.55
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/DroidBars.deb
+Size: 3508
+Installed-Size: 136
+MD5sum: bdd2df793adbb105720866b18d5dcbc1
+Description: Android style contact bars for Messages
+Name: DroidBars
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/droidbars.html
+
+Package: com.antique.etheral
+Version: 1.0
+Section: Special
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Etheral.deb
+Size: 7290
+Installed-Size: 200
+MD5sum: 8d4da37ca36b5c394c2bc73d975fd6e6
+Description: Modern & Sleek UI for iOS 10
+Name: Etheral
+Author: Antique <boernai290@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Health_and_Fitness.png
+
+Package: com.antique.flop
+Version: 7.0-1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Flop.deb
+Size: 2746
+Installed-Size: 200
+MD5sum: d2fae685f4d8a7f2ac56bd97946d4d12
+Description: Remove the battery icon from the Status Bar.
+Name: Flop
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/flop.html
+
+Package: com.antique.galaxypulse
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/GalaxyPulse.deb
+Size: 6690
+Installed-Size: 200
+MD5sum: b5ed19f473cc598e6a7fa1ca4fbdd026
+Description: Galaxy S7 Charging Animation on the LS
+Name: GalaxyPulse
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/galaxypulse.html
+
+Package: com.antique.gimmeheysiri
+Version: 0.2b
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/GimmeHeySiri.deb
+Size: 3050
+Installed-Size: 200
+MD5sum: f30cb9fde55125dfdd6b08920e27d266
+Description: Untethered Hey Siri for all devices on iOS 10
+Name: GimmeHeySiri
+Author: Antique
+
+Package: com.antique.haptic10
+Version: 1.27.4
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Haptic.deb
+Size: 9928
+Installed-Size: 284
+MD5sum: e057327569923d61551ba5f560944eaf
+Name: Haptic10
+Author: Antique
+
+Package: com.antique.homi+
+Version: 0.1.47
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/HomiPlus.deb
+Size: 13724
+Installed-Size: 304
+MD5sum: 974d3a538615f8d44c5ffb95db99d16a
+Description: Remove Dock. Add Icons & Much More.
+Name: Homi+
+Author: Antique
+
+Package: com.antique.i8corners
+Version: 0.12
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/i8Corners.deb
+Size: 15118
+Installed-Size: 352
+MD5sum: a0f312b2b85c4d406b66a9630fed7809
+Description: iPhone 8 inspired screen corners
+Name: i8Corners
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/i8corners.html
+
+Package: com.antique.infinios
+Version: 4.8
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.antique.chatter, com.antique.shutterbug, com.antique.sys+, com.antique.apollo, com.antique.buzz, com.antique.springify, com.antique.ahoyhoy, com.antique.safaron, com.antique.snapped, com.antique.theatre
+Architecture: iphoneos-arm
+Filename: ./debs/InfiniOS.deb
+Size: 61286
+Installed-Size: 296
+MD5sum: 6144cc50c4ee369f1646b7da69a721d8
+Description: Bring your dreams and imagination to life!
+Name: InfiniOS
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/infinios.html
+
+Package: com.antique.keydown
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.antique.keydown_1.0_iphoneos-arm.deb
+Size: 3760
+Installed-Size: 200
+MD5sum: 3e60025a2b8551c6e8bbf15fbb66dd81
+Description: Swipe the keyboard to dismiss anywhere
+Name: KeyDown
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/keydown.html
+
+Package: com.antique.lightscameralive
+Version: 10.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LightsCameraLIVE.deb
+Size: 3694
+Installed-Size: 136
+MD5sum: 6a44d10bad75d29d7a1fa2059dbc9c24
+Description: Enable Live Photos on all iDevices
+Name: LightsCameraLIVE
+Author: Antique
+
+Package: com.antique.live+
+Version: 1.0-7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Live.deb
+Size: 9624
+Installed-Size: 252
+MD5sum: 7edb516efb08b1b314a6e7a25b1a0515
+Name: Live+
+Author: Antique
+
+Package: com.antique.livepapers
+Version: 2.1-1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LivePapers.deb
+Size: 3902
+Installed-Size: 136
+MD5sum: 9eec95ecebc2bdcb5cea130379ad4345
+Description: Live Camera Preview on the HS
+Name: LivePapers
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/livepapers.html
+
+Package: com.antique.lowpowernolock
+Version: 2.7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LowPowerNoLock.deb
+Size: 3752
+Installed-Size: 136
+MD5sum: 644c71ee8952522a30d53c4ea81e039e
+Description: Low Power Mode and No Autolock Working Together
+Name: LowPowerNoLock
+Author: Antique
+
+Package: com.antique.lsnobatt
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LSNoBatt.deb
+Size: 3640
+Installed-Size: 136
+MD5sum: e1c0011a0eff69e9ae2f5340d4163a3a
+Description: An awesome MobileSubstrate tweak!
+Name: LSNoBatt
+Author: Antique
+
+Package: com.antique.lsticktock
+Version: 0.0.1-1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LSTickTock.deb
+Size: 5514
+Installed-Size: 280
+MD5sum: 6043ab819ffbf326a5737e79f126257f
+Description: An awesome MobileSubstrate tweak!
+Name: LSTickTock
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.lucidcambars
+Version: 0.001
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LucidCamBars.deb
+Size: 2878
+Installed-Size: 200
+MD5sum: 8fbaa97f4f534b1143a40fc86c9b720a
+Description: Transparent Camera Bars. Woo!
+Name: LucidCamBars
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/lucidcambars.html
+
+Package: com.antique.lunasafari
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/LunaSafari.deb
+Size: 4762
+Installed-Size: 120
+MD5sum: 530d692e20a06b9e5c375e605b3f0408
+Description: An awesome MobileSubstrate tweak!
+Name: LunaSafari
+Author: Antique
+
+Package: com.antique.materia
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Materia.deb
+Size: 27496
+Installed-Size: 364
+MD5sum: 86f39cbd8ade025a821cbcb5c78615f8
+Description: Google Pixel 2 Power Menu for iOS
+Name: Materia
+Author: Antique
+Depiction: http://antiqueofficial.zapto.org/materia.html
+
+Package: com.antique.metanoia
+Version: a0.1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Metanoia.deb
+Size: 11058
+Installed-Size: 200
+MD5sum: 8f2182c136ee4e491188704730923c93
+Description: A Beautiful Analog Clock on the LS
+Name: Metanoia
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/metanoia.html
+
+Package: com.antique.minibar
+Version: 0.3.8
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MiniBar.deb
+Size: 12504
+Installed-Size: 348
+MD5sum: ee17c26f97197ac7a0aafe2c5cb943c0
+Description: Mini Status Bar for iOS 10
+Name: MiniBar
+Author: Antique
+Depiction: https://antiquebeta.github.io/minibar.html
+
+Package: com.antique.minicc
+Version: 1.78
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MiniCC.deb
+Size: 7574
+Installed-Size: 344
+MD5sum: c20c494951b27b5e9d9b78ce247bad74
+Description: Mini Control Center for iOS 10
+Name: MiniCC
+Author: Antique
+Depiction: https://antiquebeta.github.io/minicc.html
+
+Package: com.antique.minichargeos
+Version: 0.14
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MiniChargeOS.deb
+Size: 67452
+Installed-Size: 328
+MD5sum: 90522164d1423d1ad8f3ac1e4a32eead
+Name: MiniChargeOS
+Author: Antique
+
+Package: com.antique.minihud
+Version: 2_0.2
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MiniHUD.deb
+Size: 7656
+Installed-Size: 344
+MD5sum: 931eb0887b9764f29ae6ddaefe376c03
+Description: Mini Volume HUD for iOS 10
+Name: MiniHUD
+Author: Antique
+Depiction: https://antiquebeta.github.io/minihud.html
+
+Package: com.antique.mininc
+Version: 1.87
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MiniNC.deb
+Size: 2860
+Installed-Size: 200
+MD5sum: 2bca02bbd42fbb3858f37140a5868984
+Description: Mini Notification Center for iOS 10
+Name: MiniNC
+Author: Antique
+Depiction: https://antiquebeta.github.io/mininc.html
+
+Package: com.antique.mmguesses
+Version: 1.3a-2+debug
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/MMGuesses.deb
+Size: 3662
+Installed-Size: 136
+MD5sum: 7aa267a9dfc56e386bf578e05e5065a2
+Description: Unlimited Guesses
+Name: MMGuesses
+Author: Antique
+
+Package: com.antique.muesly
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Muesly.deb
+Size: 9372
+Installed-Size: 252
+MD5sum: e44c4e780819058b9057b42fb37915e6
+Name: Muesly
+Author: Antique
+
+Package: com.antique.neutron
+Version: 2.1.2-1+debug
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Neutron.deb
+Size: 7932
+Installed-Size: 204
+MD5sum: c0165df438d63abfe38a5528d31dccb2
+Description: Displays the battery charge on the LS
+Name: Neutron
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/neutron.html
+
+Package: com.antique.noclickhome
+Version: 1.1.7
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoClickHome.deb
+Size: 4548
+Installed-Size: 136
+MD5sum: 425fd1541e7807ad4a41280340437de1
+Name: NoClickHome
+Author: Antique
+
+Package: com.antique.nomoreexpire
+Version: 0.3a
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoMoreExpire.deb
+Size: 3764
+Installed-Size: 136
+MD5sum: 0d65a54c7acc4cd224c50f9a004c1545
+Description: Remove App Expiration Forever!
+Name: NoMoreExpire
+Author: Antique
+
+Package: com.antique.nosleeppls
+Version: 0.4-1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/NoSleepPls.deb
+Size: 8832
+Installed-Size: 284
+MD5sum: 70e0a7475845abaf81c27f130d9f18f3
+Description: Keep that pesky lockscreen awake for longer
+Name: NoSleepPls
+Author: Antique
+
+Package: com.antique.oops
+Version: 6.6.6
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Oops.deb
+Size: 72332
+Installed-Size: 284
+MD5sum: 808cc80eee70b72b2f652394bc1a626b
+Description: Duh Duh Duuuuh
+Name: Oops
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.orelse
+Version: 0.12.7
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/OrElse.deb
+Size: 4394
+Installed-Size: 200
+MD5sum: 943e8b4b7ed5569e95e5b9acaacddbd4
+Description: Are you being lazy? Set an alert!
+Name: OrElse
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.outofcontrol
+Version: 6.1a
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/OutOfControl.deb
+Size: 3956
+Installed-Size: 136
+MD5sum: 97889928ff3ebf5165193e8f80ce8545
+Description: Randomised Control Center Toggle Colours
+Name: OutOfControl
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.pixzel
+Version: 7.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Pixzel.deb
+Size: 51780
+Installed-Size: 188
+MD5sum: 336d227051f5e7c8cb8ab7ecf8ecefcb
+Description: Google Pixel Launcher for iOS
+Name: Pixzel
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/pixzel.html
+
+Package: com.antique.quayshift
+Version: 0.1.3
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/QuayShift.deb
+Size: 15598
+Installed-Size: 352
+MD5sum: fafb2c6a205940c84ff0eeb5d1ce4af5
+Description: Custom 'Y' position for the dock
+Name: QuayShift
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/quayshift.html
+
+Package: com.antique.revealnc10
+Version: 0.66
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/RevealNC10.deb
+Size: 3190
+Installed-Size: 136
+MD5sum: ceade636de3d697953b2b91e8f5f4d43
+Description: Reveal the NC from the top
+Name: RevealNC10
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/revealnc10.html
+
+Package: com.antique.rotolock
+Version: 0.2-1
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/RotoLock.deb
+Size: 3238
+Installed-Size: 136
+MD5sum: cdc2d03e242637824330720b735d5339
+Description: Force rotation of the Lockscreen
+Name: RotoLock
+Author: Antique
+
+Package: com.antique.safaron
+Version: 3.1
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Safaron.deb
+Size: 8584
+Installed-Size: 148
+MD5sum: ab061facf054e27578231d9b85c222f2
+Name: Safaron
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/safaron.html
+
+Package: com.antique.sbunlocked
+Version: 0.35a
+Section: iOS 10
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SBUnlocked.deb
+Size: 11396
+Installed-Size: 288
+MD5sum: 383dcbc39871e11a620943fa08935988
+Description: Customisable Homescreen, Lockscreen, Notification Center, Control Center, Status Bar and more.
+Name: SBUnlocked
+Author: Antique <boernai290@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/Site-Specific_Apps.png
+
+Package: com.antique.serum
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Serum.deb
+Size: 46160
+Installed-Size: 292
+MD5sum: efc76cda302c3b3237ba243b6d5cce2c
+Description: iOS 11 Inspired Music Player for iOS 10
+Name: Serum
+Author: Antique
+Depiction: http://antiqueofficial.zapto.org/serum.html
+
+Package: com.antique.sharpersheets
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SharperSheets.deb
+Size: 2648
+Installed-Size: 200
+MD5sum: b93dda2bebdb39662f25ed34266ac054
+Description: Slightly sharpen the edges of alerts
+Name: SharperSheets
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/sharpersheets.html
+
+Package: com.antique.shutterbug
+Version: 0.4.6
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/ShutterBug.deb
+Size: 5398
+Installed-Size: 136
+MD5sum: 1bca3d4f91e873ed1e056d5d6d1a6763
+Name: ShutterBug
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.slimmerbanners
+Version: 1.0
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SlimmerBanners.deb
+Size: 6382
+Installed-Size: 200
+MD5sum: 4a8de527cb1c8b2ddbcbdabf71f8a98d
+Description: Make those banners slimmer, Apple is getting lazy.
+Name: SlimmerBanners
+Author: Antique
+
+Package: com.antique.slimsliders
+Version: 0.3-1+debug
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SlimSliders.deb
+Size: 3556
+Installed-Size: 136
+MD5sum: f2ab2386363fe1cba6707540bfee7c28
+Description: Remove the round button on all sliders
+Name: SlimSliders
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/slimsliders.html
+
+Package: com.antique.snapped
+Version: 3.7
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Snapped.deb
+Size: 5098
+Installed-Size: 136
+MD5sum: 9a9ec7b1302974be8170b45bb329e568
+Name: Snapped
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.springify
+Version: 2.6a
+Section: Beta
+Maintainer: Antique
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Springify.deb
+Size: 4098
+Installed-Size: 136
+MD5sum: ca540bf0604f44f96a93398e947ffb81
+Name: Springify
+Author: Antique
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
+Package: com.antique.surge
+Version: 0.4
+Section: Tweaks
+Maintainer: Antique
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Surge.deb
+Size: 16676
+Installed-Size: 284
+MD5sum: bf38129de7c5c8aa52aec02416ef1de0
+Description: Enter awesome description here
+Name: Surge
+Author: Antique, sk8r, gilshahar7, uroboro
+Depiction: https://antiquebeta.github.io/surge.html
+
+Package: com.antique.swipeebar
+Version: 1.1.37
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/SwipeeBar.deb
+Size: 4780
+Installed-Size: 136
+MD5sum: 79a1253d86f8950caba36d0f3f7b90f4
+Description: Enhanced Scrolling for Table Views
+Name: SwipeeBar
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.sys+
+Version: 2.2
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Sys.deb
+Size: 5332
+Installed-Size: 200
+MD5sum: 0dc0554f0ffca70cd376703e79224daf
+Name: Sys+
+Author: Antique <boernai290@gmail.com>
+
+Package: com.antique.taptapcclight
+Version: 4.6
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/TapTapCCLight.deb
+Size: 24738
+Installed-Size: 364
+MD5sum: 15af8763572f9b3998bd5bb61f6ec7a1
+Description: Tap the ends of the CC brightness/volume sliders to change the levels
+Name: TapTapCCLight
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/taptapcclight.html
+
+Package: com.antique.theatre
+Version: 1.05
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate, com.antique.infinios
+Architecture: iphoneos-arm
+Filename: ./debs/Theatre.deb
+Size: 5994
+Installed-Size: 200
+MD5sum: 9f1ded447a8343d783ae5dd9895a70ed
+Name: Theatre
+Author: Antique <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/theatre.html
+
+Package: com.antique.zentinal
+Version: a2.8
+Section: Tweaks
+Maintainer: Antique <boernai290@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/Zentinal.deb
+Size: 4104
+Installed-Size: 136
+MD5sum: fcf17e80b05821420b24992a27ec17de
+Description: Zentinal. Display your volume button use.
+Name: Zentinal
+Author: Antique  <boernai290@gmail.com>
+Depiction: https://antiquebeta.github.io/zentinal.html
+
+Package: com.laughingquoll.quickdialpro
+Version: 1.4
+Section: Tweaks
+Maintainer: LaughingQuoll, Antique
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Replaces: com.laughingquoll.quickdiallite
+Architecture: iphoneos-arm
+Filename: ./debs/QuickDialPro.deb
+Size: 300234
+Installed-Size: 720
+MD5sum: f0c1a7c5359e7720c8fa3d56410ad935
+Description: Quickly dial a number chosen in the settings by holding or force touching the corresponding numbers
+Name: QuickDial Pro
+Author: LaughingQuoll, Antique
+Depiction: https://antiquebeta.github.io/quickdialpro.html
+
