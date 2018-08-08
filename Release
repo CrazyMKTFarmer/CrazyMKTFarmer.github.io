@@ -1,8 +1,11 @@
-Origin: Antique's Cydia Repo
-Label: Antique's Cydia Repo
+Origin: Bảo Trì - Không Cài - Lỗi Đấy 🇻🇳🇻🇳🇻🇳
+Label: 🇻🇳 FrankyNouva
 Suite: stable
-Version: 10.2
-Codename: ios
+Version: 1.0
+Codename: frankynouva
 Architectures: iphoneos-arm
 Components: main
-Description: Where your dreams become reality
+Description:  iSPEAs - Biệt Hội Đam Mê IOS
+MD5Sum:
+ e591d6d17096f486fc75417af19048eb 681 Packages
+ 7d4bed3bccbe5ec14be27a9fd09878d1 500 Packages.bz2
