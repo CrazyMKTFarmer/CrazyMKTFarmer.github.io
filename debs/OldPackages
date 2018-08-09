@@ -1,45 +1,14 @@
-Package: com.AKiiimFrankyN0uva.SmartVolcontrol21.0
-Name: SmartVolcontrol2 Patch
-Version: 1.0
+Package: com.AKiiimFrankyN0uva.Pascal0.2
+Name: Pascal
+Version: 0.2
 Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! SmartVolcontrol2 Patch for CrackTool3
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Beautiful & Modern Volume Controls
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/SmartVolcontrol21.0.html
-Author: Xarold
-Section: IOS 11.3.1
-Depends: firmware (>= 11.0), com.repo.xarold.com.cracktool3, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/SmartVolcontrol21.0.deb
-
-
-Size: 482698
-MD5sum: 6f57f7acd3b9698e7d8821347b9e63f5
-
-Package: com.AKiiimFrankyN0uva.XBarRemover1.0
-Name: XBarRemover
-Version: 1.0
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! ‫لازالة المظهر المزعج في الايفون اكس لشريط الحالة‬Hide the spam strip at the bottom of the screen on iPhone X
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/XBarRemover1.0.html
-Author: Spark
+Depiction: https://frankynouva.github.io/depic/Pascal0.2.html
+Author: Antique
 Section: IOS 11.3.1
 Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: https://github.com/thanhtrungmobile/thanhtrungmobile.github.io/raw/master/debs/XBarRemover1.0.deb
-Size: 3398
-MD5sum: 59ce6ce509a0d03c32a31070b1317709
-
-Package: com.AKiiimFrankyN0uva.FreeRAMUnderTimeX1.0
-Name: FreeRAMUnderTimeX
-Version: 1.0
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Adds the free RAM under the status bar on iPhone X.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/FreeRAMUnderTimeX1.0.html
-Author: i4M1k0SU <im1k0su@me.com>
-Section: IOS 11.3.1
-Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: com.neinzedd9.dateundertimex
-Filename: debs/com.akiiimfrankynouva.FreeRAMUnderTimeX1.0.deb
-Size: 3664
-MD5sum: 6366c1ced38109204384b9b1d7197047
+Filename: /debs/Pascal0.2.deb
+Size: 33610
+MD5sum: c242160b80f9eb7c28c090d68bc620f4
 
