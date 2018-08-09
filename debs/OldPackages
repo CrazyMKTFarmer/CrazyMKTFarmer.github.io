@@ -9,9 +9,8 @@ Author: Spark
 Section: IOS 11.3.1
 Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: https://github.com/thanhtrungmobile/thanhtrungmobile.github.io/raw/master/debs/XBarRemover1.0.deb
-
-Size: 3400
-MD5sum: 1b825f173e9c4499756013298705d98f
+Size: 3398
+MD5sum: 59ce6ce509a0d03c32a31070b1317709
 
 Package: com.AKiiimFrankyN0uva.FreeRAMUnderTimeX1.0
 Name: FreeRAMUnderTimeX
