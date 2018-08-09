@@ -1,3 +1,19 @@
+Package: com.AKiiimFrankyN0uva.SmartVolcontrol21.0
+Name: SmartVolcontrol2 Patch
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! SmartVolcontrol2 Patch for CrackTool3
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SmartVolcontrol21.0.html
+Author: Xarold
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), com.repo.xarold.com.cracktool3, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SmartVolcontrol21.0.deb
+
+
+Size: 482698
+MD5sum: 6f57f7acd3b9698e7d8821347b9e63f5
+
 Package: com.AKiiimFrankyN0uva.XBarRemover1.0
 Name: XBarRemover
 Version: 1.0
