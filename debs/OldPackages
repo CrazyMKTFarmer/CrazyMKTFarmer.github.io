@@ -9,8 +9,8 @@ Author: julioverne
 Section: IOS 11.3.1
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/CrackTool33.0-beta8.deb
-Size: 150472
-MD5sum: dd68a52b59d3a10f90176d26f1f2bd85
+Size: 150474
+MD5sum: 7575cea24cd681e83d63d71ac5375b4f
 
 Package: com.AKiiimFrankyN0uva.CallBar0.2-2
 Name: CallBar X
@@ -23,8 +23,8 @@ Author: Elias Limneos
 Section: IOS 11.3.1
 Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/CallBar0.2-2.deb
-Size: 183414
-MD5sum: 044b3530a71386677e36a2de75c8872b
+Size: 183420
+MD5sum: 6b5230be4f990e639ac95c3e97832a76
 
 Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Name: AKiiim Repo Icons
