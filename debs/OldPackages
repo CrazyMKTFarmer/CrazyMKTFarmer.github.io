@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CrackTool33.0-beta8
+Name: CrackTool3 (iOS 11)
+Version: 3.0-beta8
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Crack Tweaks on one click. arm64
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CrackTool33.0-beta8.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CrackTool33.0-beta8.deb
+Size: 150472
+MD5sum: dd68a52b59d3a10f90176d26f1f2bd85
+
 Package: com.AKiiimFrankyN0uva.CallBar0.2-2
 Name: CallBar X
 Version: 0.2-2
