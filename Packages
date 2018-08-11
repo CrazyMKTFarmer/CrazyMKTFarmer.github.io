@@ -1,3 +1,261 @@
+Package: com.AKiiimFrankyN0uva.FullSafari1.2-1
+Name: FullSafari
+Version: 1.2-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Enable iPad-like Safari tabs on any device, always.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FullSafari1.2-1.html
+Author: bensge <benno@bensge.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FullSafari1.2-1.deb
+Size: 12540
+MD5sum: 231114779b3338239909c5fee15ad650
+
+Package: com.AKiiimFrankyN0uva.Homeless0.0.2-1+debug
+Name: Homeless
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hide various UI elements
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Homeless0.0.2-1+debug.html
+Author: Maxwell Dausch
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Homeless0.0.2-1+debug.deb
+Size: 399228
+MD5sum: 4bb8cc4181b34a825ca31a70604bf5eb
+
+Package: com.AKiiimFrankyN0uva.LocalIAPStore1.4-2
+Name: LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LocalIAPStore1.4-2.html
+Author: anondev
+Section: IOS 11.3.1
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/LocalIAPStore1.4-2.deb
+Size: 71114
+MD5sum: 6653ed4fd4cbc8baa37da0e0b6b4ab73
+
+Package: com.AKiiimFrankyN0uva.netKillUIbeta0.2.1-1
+Name: netKillUIbeta (iOS 11)
+Version: 0.2.1-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! GUI for arp-scan and arp-spoof.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/netKillUIbeta0.2.1-1.html
+Author: Teggers
+Section: IOS 11.3.1
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: eu.teggers.netkillui
+Filename: /debs/netKillUIbeta0.2.1-1.deb
+Size: 813534
+MD5sum: a57c2a419b05420744b9342d19c9e76d
+
+Package: com.AKiiimFrankyN0uva.Palert1.1.0-2
+Name: Palert
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! tvOS style alerts
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Palert1.1.0-2.html
+Author: Integeritis <integeritis@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Palert1.1.0-2.deb
+Size: 134394
+MD5sum: 46ac9e7910bf9298cf9eb1dc2003041d
+
+Package: com.AKiiimFrankyN0uva.PhotoManager1.3.3
+Name: PhotoManager
+Version: 1.3.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add many features to the photos app.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhotoManager1.3.3.html
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhotoManager1.3.3.deb
+Size: 169704
+MD5sum: 2435af5e385b57e845775f6e525c6a55
+
+Package: com.AKiiimFrankyN0uva.PhotoSize1.0
+Name: PhotoSize
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Displays size of selected photos & videos
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhotoSize1.0.html
+Author: Sinister Industries <SinisterIndustriesDev@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhotoSize1.0.deb
+Size: 44428
+MD5sum: 67c5d5a577223991cc407fb84b399abe
+
+Package: com.AKiiimFrankyN0uva.RecordPause1.3
+Name: RecordPause
+Version: 1.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Pause/resume video recording.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/RecordPause1.3.html
+Author: SpicaT
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/RecordPause1.3.deb
+Size: 32304
+MD5sum: 0af2c0e4fbcf47d40ea1842d8efb0de2
+
+Package: com.AKiiimFrankyN0uva.SwipeForMore1.1.7
+Name: SwipeForMore
+Version: 1.1.7
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Manage packages via swipe.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SwipeForMore1.1.7.html
+Author: PoomSmart <poomst@hotmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 8.0), cydia (>= 1.1.19), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SwipeForMore1.1.7.deb
+Size: 27288
+MD5sum: e385b4b9e033b80127a59890979e9819
+
+Package: com.AKiiimFrankyN0uva.TapTapFlip1.4.2
+Name: TapTapFlip
+Version: 1.4.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Double tap to flip camera
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TapTapFlip1.4.2.html
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TapTapFlip1.4.2.deb
+Size: 13082
+MD5sum: 3b7b9e513a5ac319551dd69d44bfda27
+
+Package: com.AKiiimFrankyN0uva.0vigilate0.0.1
+Name: 0vigilate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! An awesome MobileSubstrate tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/0vigilate0.0.1.html
+Author: Tonyk7
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/0vigilate0.0.1.deb
+Size: 2504
+MD5sum: 19bf09d9ca56b5508150feff8bc1a52d
+
+Package: com.AKiiimFrankyN0uva.3Edgy5Me1.0-6
+Name: 3Edgy5Me
+Version: 1.0-6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Customizable S8 Style Edge Notifications on iOS (iOS 9 — 10)
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/3Edgy5Me1.0-6.html
+Author: Will Smillie <williamfsmillie+tweaks@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/3Edgy5Me1.0-6.deb
+Size: 259996
+MD5sum: 3b943239d222f144b6ccd2cc6e9daa16
+
+Package: com.AKiiimFrankyN0uva.Tweak1.0.1
+Name: Tweak Count 2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! count of installed tweaks in Cydia
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Tweak1.0.1.html
+Author: Alexandre <Alexandre31.tweak@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), cydia (>= 1.1.19), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.alex.tweaksnumber
+Replaces: com.alex.tweaksnumber
+Filename: /debs/Tweak1.0.1.deb
+Size: 32124
+MD5sum: 242b2a2259089f744f3a7c492cb8fc14
+
+Package: com.AKiiimFrankyN0uva.TSS1.2.0
+Name: TSS Saver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A one-click tool to save blobs using TSSsaver.1conan.com
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TSS1.2.0.html
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: IOS 11.3.1
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TSS1.2.0.deb
+Size: 177788
+MD5sum: 890aa202db9a715045d86a4f75f59de2
+
+Package: com.AKiiimFrankyN0uva.SwipeSelection1.0.3-1
+Name: SwipeSelection Pro
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Swipe along the keyboard to move cursor & select text.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SwipeSelection1.0.3-1.html
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.iky1e.swipeselection
+Filename: /debs/SwipeSelection1.0.3-1.deb
+Size: 44878
+MD5sum: b6a6d6d8be4b7a9357ecf02fc684acf6
+
+Package: com.AKiiimFrankyN0uva.SwipeExpander1.0.11-1
+Name: SwipeExpander
+Version: 1.0.11-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! keyboard key swipes for text & actions
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SwipeExpander1.0.11-1.html
+Author: Jerry En <Jerry+swipeexpander@jerryen.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: jp.ashikase.showcase, org.thebigboss.deleteword, com.sassoty.keycuts, com.a3tweaks.altkeyboard2
+Replaces: jp.ashikase.showcase
+Filename: /debs/SwipeExpander1.0.11-1.deb
+Size: 154496
+MD5sum: a51daf3cd99b243f5c36cfc683a0c47d
+
+Package: com.AKiiimFrankyN0uva.StatusHUD2.0.0
+Name: StatusHUD 2
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Put volume HUD in status bar
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/StatusHUD2.0.0.html
+Author: Alan Yip <alan@tweak.cc>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 6.0), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/StatusHUD2.0.0.deb
+Size: 44206
+MD5sum: dc38e2ca1000b7d8d7bac8f7d629624f
+
+Package: com.AKiiimFrankyN0uva.Speed10.1-1
+Name: Speed Intensifier
+Version: 10.1-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speeds up iOS Animations
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Speed10.1-1.html
+Author: pw5a29 <pw5a29@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 6.0), preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Speed10.1-1.deb
+Size: 59712
+MD5sum: 41e0c2dbcdfa67f82e9ce7e5786d184d
+
 Package: com.AKiiimFrankyN0uva.Screenshot0.0.3
 Name: Screenshot Flipswitch
 Version: 0.0.3
