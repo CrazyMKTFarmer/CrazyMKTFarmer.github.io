@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SmartLPM1.3.0-1
+Name: SmartLPM
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SmartLPM1.3.0-1.html
+Author: smokin1337
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SmartLPM1.3.0-1.deb
+Size: 149276
+MD5sum: d0fc86e01815886e8464acacfc830237
+
 Package: com.AKiiimFrankyN0uva.SpinXI1.0.7
 Name: SpinXI
 Version: 1.0.7
