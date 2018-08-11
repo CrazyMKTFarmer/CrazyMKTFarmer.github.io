@@ -1,3 +1,133 @@
+Package: com.AKiiimFrankyN0uva.CCModules1.6-3
+Name: CCModules (Depreciated)
+Version: 1.6-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! This version of CCModules is no longer supported. Please use CCModules (Safe, Uses Silo) in the Tweaks section from now on.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CCModules1.6-3.html
+Author: jailbreak365
+Section: Tweaks
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CCModules1.6-3.deb
+Size: 849844
+MD5sum: d641cd26cbe8a821ac5cae030cdc9d88
+
+Package: com.AKiiimFrankyN0uva.CCSupport1.1.1
+Name: CCSupport
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Support tweak for CC modules!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CCSupport1.1.1.html
+Author: opa334 <opa334@protonmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: /debs/CCSupport1.1.1.deb
+Size: 29480
+MD5sum: f147d9afcdd33dc5bc84fe979008ac94
+
+Package: com.AKiiimFrankyN0uva.CloseCam0.0-beta2
+Name: CloseCam
+Version: 0.0-beta2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Close/Kill Camera App When Exit
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CloseCam0.0-beta2.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CloseCam0.0-beta2.deb
+Size: 6480
+MD5sum: 53debb47ad38341e0bdeb4d15f4b8e26
+
+Package: com.AKiiimFrankyN0uva.CopyRepoURL0.0.1
+Name: CopyRepoURL
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! copy repo url from Cydia Sources list
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CopyRepoURL0.0.1.html
+Author: Chikuwa <chikuwajb@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CopyRepoURL0.0.1.deb
+Size: 51710
+MD5sum: a21927e267e51b611dc5ac0ff7574069
+
+Package: com.AKiiimFrankyN0uva.CyDown6.9.6
+Name: CyDown
+Version: 6.9.6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Cydia Download Manager & Extra Features!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CyDown6.9.6.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CyDown6.9.6.deb
+Size: 1524184
+MD5sum: c105041ff9b6286d2395d244f36f1800
+
+Package: com.AKiiimFrankyN0uva.DataMeter1.4-3
+Name: DataMeter
+Version: 1.4-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! DataMeter for iOS 7-10 Notification Center
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DataMeter1.4-3.html
+Author: Minuit <minuits@163.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DataMeter1.4-3.deb
+Size: 338382
+MD5sum: c24b4d5bb88d64c9d91a1688d930eedf
+
+Package: com.AKiiimFrankyN0uva.DeleteForever0.0.1-57
+Name: DeleteForever
+Version: 0.0.1-57
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! "Delete Permanently" option for Photos.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DeleteForever0.0.1-57.html
+Author: Creatix <ioscreatix@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DeleteForever0.0.1-57.deb
+Size: 276430
+MD5sum: 4f1025c37b1269550cf1d433d4766437
+
+Package: com.AKiiimFrankyN0uva.Ext3nder021a
+Name: Ext3nder Installer
+Version: 021a
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Cydia Extender Installer With Extra Features
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Ext3nder021a.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: ldid, unzip, coreutils, zip, sed
+Conflicts: com.julioverne.ext3nder, com.repo.xarold.com.ext3nder
+Filename: /debs/Ext3nder021a.deb
+Size: 517676
+MD5sum: f755363e46d361ee2e1d91f0faf5da70
+
+Package: com.AKiiimFrankyN0uva.Activator1.0
+Name: Activator Việt Hoá
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Bản Tiếng Việt cho Activator
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.0.html
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Activator1.0.deb
+Size: 9288
+MD5sum: 130ef12f02ba08e4e3b30e6857b890cc
+
 Package: com.AKiiimFrankyN0uva.FlipConvert0.0-beta5
 Name: FlipConvert
 Version: 0.0-beta5
