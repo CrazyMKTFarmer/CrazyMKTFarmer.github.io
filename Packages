@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SpotCC0.0.9-1+debug
+Name: SpotCC
+Version: 0.0.9-1+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Tweak to bring up ControlCenter instead of Spotlight on the HomeScreen.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SpotCC0.0.9-1+debug.html
+Author: Kiran Patil
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SpotCC0.0.9-1+debug.deb
+Size: 4708
+MD5sum: 37e1990d45cf101dc5eaaf518a1df9c9
+
 Package: com.AKiiimFrankyN0uva.ScreenRecorderForcedAudio1.0-3
 Name: ScreenRecorderForcedAudio
 Version: 1.0-3
