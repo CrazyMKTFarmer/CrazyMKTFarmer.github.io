@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Apps1.3.0
+Name: Apps Manager
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Apps1.3.0.html
+Author: TIGI Software <satashi2009@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Apps1.3.0.deb
+Size: 3204212
+MD5sum: 83bda52fef472f1715d56d247104fa9f
+
 Package: com.AKiiimFrankyN0uva.CrackTool33.0-beta8
 Name: CrackTool3 (iOS 11)
 Version: 3.0-beta8
