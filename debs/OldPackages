@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ScreenRecorderForcedAudio1.0-3
+Name: ScreenRecorderForcedAudio
+Version: 1.0-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! This tweak will force the phone audio to be recorded even when the micophone is turned ON.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ScreenRecorderForcedAudio1.0-3.html
+Author: Kiran Patil
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ScreenRecorderForcedAudio1.0-3.deb
+Size: 28688
+MD5sum: baf2a13d9d19560be083f713635653b8
+
 Package: com.AKiiimFrankyN0uva.SmartLPM1.3.0-1
 Name: SmartLPM
 Version: 1.3.0-1
