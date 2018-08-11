@@ -1,3 +1,117 @@
+Package: com.AKiiimFrankyN0uva.Screenshot0.0.3
+Name: Screenshot Flipswitch
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Take screenshot via Flipswitch.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Screenshot0.0.3.html
+Author: PoomSmart <poomst@hotmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate, com.a3tweaks.flipswitch, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Screenshot0.0.3.deb
+Size: 12722
+MD5sum: ca815cd73dafd26e0faa6b5d82c26bfc
+
+Package: com.AKiiimFrankyN0uva.SBCard0.0-beta1
+Name: SBCard
+Version: 0.0-beta1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add HomeScreen Card to Switcher, swipe up to close all apps.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SBCard0.0-beta1.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SBCard0.0-beta1.deb
+Size: 5824
+MD5sum: 6960cb69f62b33602303b1869fa01f5c
+
+Package: com.AKiiimFrankyN0uva.ResetAllKiller1.0.2
+Name: ResetAllKiller
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! disable dangerous Reset buttons in Settings App
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ResetAllKiller1.0.2.html
+Author: Lunatik <lunatik@crazy.net>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 3.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ResetAllKiller1.0.2.deb
+Size: 6352
+MD5sum: 3618bcb6ea827587585450ba7964bbb5
+
+Package: com.AKiiimFrankyN0uva.RealCC1.0.1
+Name: RealCC
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Actually disable Wi-Fi from the iOS 11 CC
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/RealCC1.0.1.html
+Author: Jake James <jakeashacks@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/RealCC1.0.1.deb
+Size: 4300
+MD5sum: 86560c4425e8e859d50a7cc87a7d243e
+
+Package: com.AKiiimFrankyN0uva.PowerSelector1.1-1
+Name: PowerSelector (CCSupport)
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! The power supply relation of a device is operated.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PowerSelector1.1-1.html
+Author: ichitaso <willfeeltips@gmail.com>
+Section: IOS 11.3.1
+Depends: com.opa334.ccsupport, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: firmware (>= 11.0)
+Filename: /debs/PowerSelector1.1-1.deb
+Size: 79678
+MD5sum: 9e1d5c89fd6e0221732e2736c86db93b
+
+Package: com.AKiiimFrankyN0uva.iWhiteboard1.9
+Name: iWhiteboard
+Version: 1.9
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Draw or annotate over any running App. Shake to activate.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/iWhiteboard1.9.html
+Author: Andrew Aude <admin@andyplace.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), libactivator, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/iWhiteboard1.9.deb
+Size: 180158
+MD5sum: 18fb2b7732bc857adc944efa044cf36a
+
+Package: com.AKiiimFrankyN0uva.InApp1.0-beta1a
+Name: InApp Purchases iOS 10.x
+Version: 1.0-beta1a
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! iOS 10x 64bit and 32 bit Pwns In-App purchases on iOS 11 X com.repo.xarold.com.inapp_1.0-beta1a_iphoneos-arm com.repo.xarold.com.inapp_1.0-beta1a_iphoneos-arm.deb iOS 10xCompatible with ARMv8( free games and Applications ).Enable in settings.PRESS "DISMISS 'ON POPUP!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/InApp1.0-beta1a.html
+Author: InApp
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/InApp1.0-beta1a.deb
+Size: 4182
+MD5sum: 5a27d66c3148b642cc30845ba72c25fe
+
+Package: com.AKiiimFrankyN0uva.iCleaner7.7.0k
+Name: iCleaner Pro 64bit
+Version: 7.7.0k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! The first real iOS system cleaner & optimizer
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/iCleaner7.7.0k.html
+Author: Ivano Bilenchi
+Section: IOS 11.3.1
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: org.altervista.exilecom.icleaner
+Filename: /debs/iCleaner7.7.0k.deb
+Size: 10856366
+MD5sum: b9474defdeb37fea3f8208ff094d48a9
+
 Package: com.AKiiimFrankyN0uva.ForceInPicture1.1
 Name: ForceInPicture
 Version: 1.1
