@@ -1,3 +1,32 @@
+Package: com.AKiiimFrankyN0uva.Accelerated1.6
+Name: Accelerated Home Button
+Version: 1.6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speeds up home button presses
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Accelerated1.6.html
+Author: Mehul Rao <mehulrao@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Accelerated1.6.deb
+Size: 4192
+MD5sum: f7ac2aaebd7f635a2e0fb4b51047c501
+
+Package: com.AKiiimFrankyN0uva.BigShotJb0.0.2-2
+Name: BigShotJb (iOS 11)
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! take screenshots of full vertical scrollable area
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BigShotJb0.0.2-2.html
+Author: Tapan Thaker (tapthaker)
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate, libactivator (>= 1.8.3), com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.tapthaker.bigshotjb
+Filename: /debs/BigShotJb0.0.2-2.deb
+Size: 32792
+MD5sum: dd5a4e74f641c814489ff7b7b00a4968
+
 Package: com.AKiiimFrankyN0uva.Apps1.3.0
 Name: Apps Manager
 Version: 1.3.0
