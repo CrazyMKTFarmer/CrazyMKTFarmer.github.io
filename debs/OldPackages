@@ -1,3 +1,131 @@
+Package: com.AKiiimFrankyN0uva.AdBlock1.0.5
+Name: AdBlock for YouTube
+Version: 1.0.5
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Block YouTube Ads and Video Ads
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AdBlock1.0.5.html
+Author: Majd Alfhaily
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AdBlock1.0.5.deb
+Size: 41350
+MD5sum: 1a8210d4055025d85122606eeab86f61
+
+Package: com.AKiiimFrankyN0uva.App1.0r-101
+Name: App Admin
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Downgrade iOS apps to any previous version! No AppSync needed!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/App1.0r-101.html
+Author: UnlimApps Inc.
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Filename: /debs/App1.0r-101.deb
+Size: 861454
+MD5sum: 3fcef33797b8045d037b8421cddb1d5a
+
+Package: com.AKiiimFrankyN0uva.Appcon1.4.3
+Name: Appcon
+Version: 1.4.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Set icon images from your photo library.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Appcon1.4.3.html
+Author: merdok <merdok87@o2.pl>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Appcon1.4.3.deb
+Size: 273514
+MD5sum: 5763116f5a7a2713ea7291cdde0596a4
+
+Package: com.AKiiimFrankyN0uva.AppHide0.2.2
+Name: AppHide
+Version: 0.2.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hide apps on the homescreen and from spotlight via Settings.app.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AppHide0.2.2.html
+Author: Jerry En
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AppHide0.2.2.deb
+Size: 29750
+MD5sum: 79dd4cf80246aadcf613249d85f862c0
+
+Package: com.AKiiimFrankyN0uva.AppSync31.1
+Name: AppSync Unified
+Version: 31.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Enables the ability to install unsigned/fakesigned iOS applications.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AppSync31.1.html
+Author: Linus Yang, Karen/あけみ
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.repo.xarold.com.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Filename: /debs/AppSync31.1.deb
+Size: 37834
+MD5sum: d497bf921afc29a94261ffe84a0f38be
+
+Package: com.AKiiimFrankyN0uva.BetterTextSelection1.1
+Name: BetterTextSelection
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Fixes the default text selection.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BetterTextSelection1.1.html
+Author: Frozen Penguin <penguins_can_fly@live.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/BetterTextSelection1.1.deb
+Size: 6350
+MD5sum: 0c9b852c3289500bbb723f4232f75da2
+
+Package: com.AKiiimFrankyN0uva.Bolders0.0.4-2
+Name: Bolders
+Version: 0.0.4-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Bigger bolder folders.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Bolders0.0.4-2.html
+Author: candoizo <andreasmgott@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Bolders0.0.4-2.deb
+Size: 20100
+MD5sum: 7ec62e885c94e99854e114fdb3d978f3
+
+Package: com.AKiiimFrankyN0uva.BottomControlX1.1.0
+Name: BottomControlX
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Easier access to your ControlCenter on iPhone X.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BottomControlX1.1.0.html
+Author: XCXiao <958169971@qq.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/BottomControlX1.1.0.deb
+Size: 127988
+MD5sum: 12a10f4b613fb584641e0648dfc0aeb2
+
+Package: com.AKiiimFrankyN0uva.CacheWipe0.0-beta1
+Name: CacheWipe
+Version: 0.0-beta1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Clear Apps Caches Switch
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CacheWipe0.0-beta1.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CacheWipe0.0-beta1.deb
+Size: 17178
+MD5sum: 302e156f720321a2ef6220b7f90b9341
+
 Package: com.AKiiimFrankyN0uva.CCModules1.6-3
 Name: CCModules (Depreciated)
 Version: 1.6-3
