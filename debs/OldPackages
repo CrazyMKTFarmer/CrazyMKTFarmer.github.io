@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SmartVolumeControl21.0.1
+Name: SmartVolumeControl2
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! iOS most advanced volume controller.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SmartVolumeControl21.0.1.html
+Author: midkin
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SmartVolumeControl21.0.1.deb
+Size: 483286
+MD5sum: 69444e1e1d9410fc0559bdc7b17ec15f
+
 Package: com.AKiiimFrankyN0uva.AdBlock1.0.5
 Name: AdBlock for YouTube
 Version: 1.0.5
@@ -125,20 +139,6 @@ Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.akiiimfrankynouva.akiiimf
 Filename: /debs/CacheWipe0.0-beta1.deb
 Size: 17178
 MD5sum: 302e156f720321a2ef6220b7f90b9341
-
-Package: com.AKiiimFrankyN0uva.CCModules1.6-3
-Name: CCModules (Depreciated)
-Version: 1.6-3
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! This version of CCModules is no longer supported. Please use CCModules (Safe, Uses Silo) in the Tweaks section from now on.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/CCModules1.6-3.html
-Author: jailbreak365
-Section: Tweaks
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/CCModules1.6-3.deb
-Size: 849844
-MD5sum: d641cd26cbe8a821ac5cae030cdc9d88
 
 Package: com.AKiiimFrankyN0uva.CCSupport1.1.1
 Name: CCSupport
