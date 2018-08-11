@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SpinXI1.0.7
+Name: SpinXI
+Version: 1.0.7
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Circular lock screen media controls
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SpinXI1.0.7.html
+Author: s1ris
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SpinXI1.0.7.deb
+Size: 86244
+MD5sum: 938dce56655fcc910580ce14dad13716
+
 Package: com.AKiiimFrankyN0uva.SmartVolumeControl21.0.1
 Name: SmartVolumeControl2
 Version: 1.0.1
