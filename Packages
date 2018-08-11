@@ -1,3 +1,33 @@
+Package: com.AKiiimFrankyN0uva.FlipConvert0.0-beta5
+Name: FlipConvert
+Version: 0.0-beta5
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Port Flipswitch Toggles With CCSupport
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FlipConvert0.0-beta5.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FlipConvert0.0-beta5.deb
+Size: 12138
+MD5sum: 7a11d9e6a8cd081a00325f0f2fca654d
+
+Package: com.AKiiimFrankyN0uva.Flex3-EarlyAccess4
+Name: Flex 3
+Version: 3-EarlyAccess4
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Develop your own tweaks and share them on the Flex Community Cloud
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Flex3-EarlyAccess4.html
+Author: John Coates <john@johncoates.me>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, flex3, flex3beta, flex3featurecatalog
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, flex3, flex3beta, flex3featurecatalog
+Filename: /debs/Flex3-EarlyAccess4.deb
+Size: 20615220
+MD5sum: 8bebe9e2927b7acea76f06f6516563cd
+
 Package: com.AKiiimFrankyN0uva.FullSafari1.2-1
 Name: FullSafari
 Version: 1.2-1
