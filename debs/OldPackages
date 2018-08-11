@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.AudioRecorder1.6-93
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Version: 1.6-93
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Most Advanced iOS Call Recorder Ever!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AudioRecorder1.6-93.html
+Author: Elias Limneos
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
+Filename: /debs/AudioRecorder1.6-93.deb
+Size: 3834558
+MD5sum: 9026d4555230969ede3b869922716aaa
+
 Package: com.AKiiimFrankyN0uva.Accelerated1.6
 Name: Accelerated Home Button
 Version: 1.6
