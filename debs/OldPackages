@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CallbarXXX1.0
+Name: CallbarXXX
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Gỡ CallbarX, cài bản mới nhất,cài tweak CallbarXXX, bật Filza, vào /var/mobile/CallbarX. sẽ biết nên làm gì tiếp theo 😂😂😂
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CallbarXXX1.0.html
+Author: FrankyNouva
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CallbarXXX1.0.deb
+Size: 146490
+MD5sum: a7c7e5f12ffe3b36bcf47c6fcd2f2708
+
 Package: com.AKiiimFrankyN0uva.StoreSwitcher1.0.0
 Name: StoreSwitcher 2
 Version: 1.0.0
