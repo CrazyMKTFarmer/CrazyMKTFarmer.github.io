@@ -9,8 +9,8 @@ Author: FrankyNouva
 Section: IOS 11.3.1
 Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/CallbarXXX1.0.deb
-Size: 146490
-MD5sum: a7c7e5f12ffe3b36bcf47c6fcd2f2708
+Size: 146508
+MD5sum: d9eeeda863c877c2c81988022eead8ad
 
 Package: com.AKiiimFrankyN0uva.StoreSwitcher1.0.0
 Name: StoreSwitcher 2
