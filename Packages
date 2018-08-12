@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.StoreSwitcher1.0.0
+Name: StoreSwitcher 2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Adds a button to switch account in App Store account page on iOS 11+.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/StoreSwitcher1.0.0.html
+Author: subdiox
+Section: IOS 11.3.1
+Depends: firmware (>= 11), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/StoreSwitcher1.0.0.deb
+Size: 11578
+MD5sum: d8c178d1913f5038a888ff6ff465eb5c
+
 Package: com.AKiiimFrankyN0uva.SpotCC0.0.9-1+debug
 Name: SpotCC
 Version: 0.0.9-1+debug
