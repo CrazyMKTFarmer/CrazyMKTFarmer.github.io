@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Yalu1.0b7
+Name: Yalu (10.0-10.2)
+Version: 1.0b7
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! loading.....
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Yalu1.0b7.html
+Author: repack by FrankyNouva
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Yalu1.0b7.deb
+Size: 7889932
+MD5sum: 9d4119f20f99278b7fe443fc82328d3a
+
 Package: com.AKiiimFrankyN0uva.Pangu1.1
 Name: Pangu (9.2-9.3.3)
 Version: 1.1
