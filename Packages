@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Electra11.2-11.3.11.0.4
+Name: Electra11.2-11.3.1
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! loading.....
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Electra11.2-11.3.11.0.4.html
+Author: repack by FrankyNouva
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Electra11.2-11.3.11.0.4.deb
+Size: 20160344
+MD5sum: e2e11ee9638eaa908868528f28e4d7d3
+
 Package: com.AKiiimFrankyN0uva.DelectraX1.0.1
 Name: DelectraX
 Version: 1.0.1
