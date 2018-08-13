@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Pangu1.1
+Name: Pangu (9.2-9.3.3)
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! loading.....
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Pangu1.1.html
+Author: repack by FrankyNouva
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Pangu1.1.deb
+Size: 23682240
+MD5sum: e0eeda6237757f9a8d07f9caf8f5f0fc
+
 Package: com.AKiiimFrankyN0uva.Electra11.2-11.3.11.0.4
 Name: Electra11.2-11.3.1
 Version: 1.0.4
