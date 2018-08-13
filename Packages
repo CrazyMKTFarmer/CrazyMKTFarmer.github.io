@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DelectraX1.0.1
+Name: DelectraX
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Đây là công cụ xoá Jailbreak 11.2-11.3.1 do Franky Mod lại từ file Unjailbreak.sh của KirovAir.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DelectraX1.0.1.html
+Author: KirovAir & FrankyNouva
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DelectraX1.0.1.deb
+Size: 4460
+MD5sum: c9867388db1506ec43a77bf8b8570b44
+
 Package: com.AKiiimFrankyN0uva.AutoWall0.0-beta1
 Name: AutoWall
 Version: 0.0-beta1
