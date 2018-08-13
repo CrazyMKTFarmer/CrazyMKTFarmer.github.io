@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.AutoWall0.0-beta1
+Name: AutoWall
+Version: 0.0-beta1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Scheduled Wallpapers
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AutoWall0.0-beta1.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AutoWall0.0-beta1.deb
+Size: 51594
+MD5sum: b57c4cb00a39685615df25dfe10e807b
+
 Package: com.AKiiimFrankyN0uva.CallPro0.3-2+debug
 Name: CallPro
 Version: 0.3-2+debug
