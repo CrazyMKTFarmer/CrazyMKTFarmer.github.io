@@ -1,4 +1,0 @@
-#!/bin/sh
-
-mv -f /FrankyNouva/* /User/Documents/Ext3nder/
-exit 0

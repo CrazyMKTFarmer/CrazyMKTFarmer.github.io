@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CallPro0.3-2+debug
+Name: CallPro
+Version: 0.3-2+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Currently in beta, aspires to be an advanced, fully Bio-Protected call manager for iOS 11! Secures calls when you hand you phone to someone during calls
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CallPro0.3-2+debug.html
+Author: Samar
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CallPro0.3-2+debug.deb
+Size: 1602
+MD5sum: c79b6d17623a91a9618592bc8ca370ad
+
 Package: com.AKiiimFrankyN0uva.ElectraRemover3VFS1.0
 Name: ElectraRemover3VFS
 Version: 1.0
