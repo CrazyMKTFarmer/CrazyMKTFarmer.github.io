@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.UrbanNC1.0.0
+Name: UrbanNC
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Replaces "No Older Notifications" text with the Urban Dictionary Word of the Day
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/UrbanNC1.0.0.html
+Author: NeinZedd9 <rockiesrockyoursocks@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/UrbanNC1.0.0.deb
+Size: 7460
+MD5sum: 79c494ab23714e0eef0c909c372ced33
+
 Package: com.AKiiimFrankyN0uva.CallBar0.3-14
 Name: CallBar X (Việt Hoá)
 Version: 0.3-14
