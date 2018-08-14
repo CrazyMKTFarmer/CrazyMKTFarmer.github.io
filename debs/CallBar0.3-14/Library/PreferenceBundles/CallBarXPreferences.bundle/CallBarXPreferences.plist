@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>label</key>
+			<string>Bật</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>CallBarXUserGuideController</string>
+			<key>label</key>
+			<string>Thông tin</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Hiển thị</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>CallBarXStyleListItemsController</string>
+			<key>id</key>
+			<string>CALLBARX_STYLE</string>
+			<key>key</key>
+			<string>viewStyle</string>
+			<key>label</key>
+			<string>Kiểu hiển thị</string>
+			<key>validTitles</key>
+			<array>
+				<string>Xám</string>
+				<string>Mờ xám</string>
+				<string>Bo viền X (Cong)</string>
+				<string>Bo viền X (Không Cong)</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>id</key>
+			<string>CALLBARX_POSITION</string>
+			<key>key</key>
+			<string>isTop</string>
+			<key>label</key>
+			<string>Hiển thị từ vị trí</string>
+			<key>validTitles</key>
+			<array>
+				<string>Trên</string>
+				<string>Dưới</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>0</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>id</key>
+			<string>USE_AT_LOCKSCREEN</string>
+			<key>key</key>
+			<string>useAtLockScreen</string>
+			<key>label</key>
+			<string>Hiển thị ở màn hình khoá</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>-1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>CallBarXStyleListItemsController</string>
+			<key>id</key>
+			<string>CALLBARX_LOCKSTYLE</string>
+			<key>key</key>
+			<string>lockscreenViewStyle</string>
+			<key>label</key>
+			<string>Kiểu hiển thị ở màn hình khoá</string>
+			<key>validTitles</key>
+			<array>
+				<string>Chọn như trên</string>
+				<string>Xám</string>
+				<string>Mờ xám</string>
+				<string>Bo viền X (Cong)</string>
+				<string>Bo viền X (Không Cong)</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>-1</integer>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>-1</integer>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>id</key>
+			<string>CALLBARX_LOCKSCREENPOSITION</string>
+			<key>key</key>
+			<string>lockScreenTop</string>
+			<key>label</key>
+			<string>Hiển thị từ vị trí</string>
+			<key>validTitles</key>
+			<array>
+				<string>Chọn như trên</string>
+				<string>Trên</string>
+				<string>Dưới</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>-1</integer>
+				<integer>1</integer>
+				<integer>0</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useAppSpecificButtonColors</string>
+			<key>label</key>
+			<string>Hiển thị các nút thao tác</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>allowMarquee</string>
+			<key>label</key>
+			<string>Cuộn dài tên</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>isMinimalLookForIncoming</string>
+			<key>label</key>
+			<string>Minimal Look (Incoming Calls)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Cuộc Gọi</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>useForFacetimeVideo</string>
+			<key>label</key>
+			<string>Kích hoạt cho FaceTime Video</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>allowLockWhileInCall</string>
+			<key>label</key>
+			<string>Allow Lock UI During Call</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>exitPhoneAppOnCall</string>
+			<key>label</key>
+			<string>Trở về màn hình chính khi nhấn Gọi</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>You can use an activation method to bring up CallBar X dialer interface and quickly make calls from anywhere.</string>
+			<key>label</key>
+			<string>Cài đặt Quay số</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>showVoiceMailButton</string>
+			<key>label</key>
+			<string>Nút Thư thoại ở Quay số</string>
+		</dict>
+		<dict>
+			<key>activatorListener</key>
+			<string>CallBarX Dialer</string>
+			<key>bundle</key>
+			<string>LibActivator</string>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>id</key>
+			<string>ACTIVATOR</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Thiết lập Cử chỉ</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>CallBarXNativeActivationController</string>
+			<key>id</key>
+			<string>NATIVE_ACTIVATION</string>
+			<key>label</key>
+			<string>Thiết lập Cử chỉ</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Expand to Native UI is not available for FaceTime Video.</string>
+			<key>label</key>
+			<string>Thêm</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>vibrateOnAnswer</string>
+			<key>label</key>
+			<string>Rung khi trả lời (Gọi đi)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>key</key>
+			<string>vibrateOnAnswerIncoming</string>
+			<key>label</key>
+			<string>Rung khi trả lời (Gọi đến)</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>net.limneos.callbarx.settingsChanged</string>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>net.limneos.callbarx</string>
+			<key>id</key>
+			<string>FORCETOUCH</string>
+			<key>key</key>
+			<string>touch3DToNativeUI</string>
+			<key>label</key>
+			<string>3D Touch Expands Native UI</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>openPaymentInfo:</string>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>id</key>
+			<string>PAYMENT_INFO</string>
+			<key>label</key>
+			<string>Thông tin thanh toán</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>CallBarXOtherTweaksController</string>
+			<key>id</key>
+			<string>OTHER_TWEAKS</string>
+			<key>label</key>
+			<string>Các tinh chỉnh khác</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>©2018 @limneos</string>
+		</dict>
+		<dict>
+			<key>alignment</key>
+			<integer>2</integer>
+			<key>cell</key>
+			<string>PSTitleCell</string>
+			<key>cellClass</key>
+			<string>CallBarCreditsCell</string>
+			<key>label</key>
+			<string>CallBar X - iOS 11</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>CallBar X</string>
+</dict>
+</plist>

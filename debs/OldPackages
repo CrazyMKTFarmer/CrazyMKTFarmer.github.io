@@ -1,16 +1,16 @@
 Package: com.AKiiimFrankyN0uva.CallBar0.3-14
-Name: CallBar X
+Name: CallBar X (Việt Hoá)
 Version: 0.3-14
 Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! xoá mọi bản cũ, k cần cracktool3!
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! xoá mọi bản cũ, k cần cracktool3! Thank Mr.Khuê
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/CallBar0.3-14.html
-Author: Elias Limneos, crack by Khuê <limneoselias@gmail.com>
+Author: Elias Limneos, cracked by Khuê <limneoselias@gmail.com>
 Section: IOS 11.3.1
 Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/CallBar0.3-14.deb
-Size: 184336
-MD5sum: 71690e82f5444a6aceec131ef443beb5
+Size: 184356
+MD5sum: a9bfb8c36c3507f1465374ac71f8f1f9
 
 Package: com.AKiiimFrankyN0uva.Avertas7-1
 Name: Avertas
