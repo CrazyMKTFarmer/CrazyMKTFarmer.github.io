@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Avertas7-1
+Name: Avertas
+Version: 7-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Quick Switcher and Hot Corners
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Avertas7-1.html
+Author: kunderscore <kunderscore3@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Avertas7-1.deb
+Size: 49986
+MD5sum: a44e282309d7ddfbb1984866afba4fe6
+
 Package: com.AKiiimFrankyN0uva.Yalu1.0b7
 Name: Yalu (10.0-10.2)
 Version: 1.0b7
