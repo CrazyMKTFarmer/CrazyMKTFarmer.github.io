@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.HomeGesture1.8.1k
+Name: HomeGesture (Việt Hoá)
+Version: 1.8.1k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Enable iPhone X home gesture on other devices.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/HomeGesture1.8.1k.html
+Author: VitaTaf/MidnightChips/PINPAL, VH by Quang Giau
+Section: IOS 11.3.1
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: com.spark.libsparkapplist
+Filename: /debs/HomeGesture1.8.1k.deb
+Size: 747436
+MD5sum: 6b0cd967e49230a828c71c3db52a586b
+
 Package: com.AKiiimFrankyN0uva.BetterCCXI1.3.9k
 Name: BetterCCXI (Việt Hoá)
 Version: 1.3.9k
