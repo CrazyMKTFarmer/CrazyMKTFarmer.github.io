@@ -1,3 +1,44 @@
+Package: com.AKiiimFrankyN0uva.NudePassScreen1.0
+Name: NudePassScreen
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Nudify the PassCode Screen!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NudePassScreen1.0.html
+Author: Kiran Patil
+Section: IOS 11.3.1
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NudePassScreen1.0.deb
+Size: 30352
+MD5sum: bf8b0e874e17c2da25c3b64ff78962bf
+
+Package: com.akiiimfrankynouva.akiiimfrankynouva2.0
+Name: AKiiim Repo Icons
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Officials AKiiim Repo Icons
+Depiction: https://frankynouva.github.io/depic/IconRepo.html
+Author: FrankyNouva
+Section: System
+Essential: yes
+Filename: /debs/RepoIncon2.0.deb
+Size: 344530
+MD5sum: e41a6039c7b1415ad08e6892b33b63c8
+
+Package: com.AKiiimFrankyN0uva.ActivatorFix1.1
+Name: ActivatorFix
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ActivatorFix1.1.html
+Author: Jake James
+Section: IOS 11.3.1
+Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ActivatorFix1.1.deb
+Size: 8718
+MD5sum: 358873a5bbc4c0c21b38a91cf736ebcd
+
 Package: com.AKiiimFrankyN0uva.Power1.2.2
 Name: Power Tap (iOS 11)
 Version: 1.2.2
