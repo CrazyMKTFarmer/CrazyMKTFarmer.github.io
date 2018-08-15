@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FacebookDarkMode2.0.1
+Name: FacebookDarkMode
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Dark mode for Facebook
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FacebookDarkMode2.0.1.html
+Author: FoxfortMobile
+Section: IOS 11.3.1
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FacebookDarkMode2.0.1.deb
+Size: 475334
+MD5sum: 68377748152972df3a03d09ce1229d1a
+
 Package: com.AKiiimFrankyN0uva.TapTapRespring1.0.0-1
 Name: TapTapRespring
 Version: 1.0.0-1
