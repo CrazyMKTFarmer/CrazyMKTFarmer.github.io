@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.Snapper1.3
+Name: Snapper 2
+Version: 1.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Pin screenshots on the screen.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Snapper1.3.html
+Author: Jonathan Winger Lang
+Section: IOS 11.3.1
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.jontelang.snapper, com.repo.xarold.com.snapper
+Filename: /debs/Snapper1.3.deb
+Size: 294914
+MD5sum: e2ad1a298339c77f03d540efc32c5b36
+
 Package: com.AKiiimFrankyN0uva.FuckOffCCGrabber0.0.1
 Name: FuckOffCCGrabber
 Version: 0.0.1
@@ -1389,7 +1404,7 @@ MD5sum: 6b5230be4f990e639ac95c3e97832a76
 
 Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Name: AKiiim Repo Icons
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Description: Officials AKiiim Repo Icons
 Depiction: https://frankynouva.github.io/depic/IconRepo.html
@@ -1397,5 +1412,5 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/IconRepo.deb
-Size: 1333202
-MD5sum: 0e0bf33a30d4263094be69064b064612
+Size: 344524
+MD5sum: 61c5dc78067da027aed7cb311725d8b7
