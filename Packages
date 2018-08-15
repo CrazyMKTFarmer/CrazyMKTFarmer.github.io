@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Disconnected1.0
+Name: Disconnected
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Display a notification when your WIFI connection drops.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Disconnected1.0.html
+Author: D4ni
+Section: IOS 11.3.1
+Depends: mobilesubstrate, net.limneos.libbulletin, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Disconnected1.0.deb
+Size: 4250
+MD5sum: 589d5c5890d86414552fdfc19c4b9429
+
 Package: com.AKiiimFrankyN0uva.SpeedXI0.0.1-b1
 Name: SpeedXI
 Version: 0.0.1-b1
@@ -82,19 +96,6 @@ Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.a
 Filename: /debs/NudePassScreen1.0.deb
 Size: 30352
 MD5sum: bf8b0e874e17c2da25c3b64ff78962bf
-
-Package: com.akiiimfrankynouva.akiiimfrankynouva2.0
-Name: AKiiim Repo Icons
-Version: 2.0
-Architecture: iphoneos-arm
-Description: Officials AKiiim Repo Icons
-Depiction: https://frankynouva.github.io/depic/IconRepo.html
-Author: FrankyNouva
-Section: System
-Essential: yes
-Filename: /debs/RepoIcon2.0.deb
-Size: 344524
-MD5sum: 61c5dc78067da027aed7cb311725d8b7
 
 Package: com.AKiiimFrankyN0uva.ActivatorFix1.1
 Name: ActivatorFix
