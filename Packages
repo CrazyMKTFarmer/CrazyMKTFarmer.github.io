@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DataMeter1.4-3
+Name: DataMeter (Việt Hoá)
+Version: 1.4-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! DataMeter for iOS 7-10 Notification Center
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DataMeter1.4-3.html
+Author: Minuit, VH by Khue <minuits@163.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DataMeter1.4-3.deb
+Size: 338324
+MD5sum: 6f4b1c7dacb9f79ced9127ec50b4d5c8
+
 Package: com.AKiiimFrankyN0uva.Cydia0.9.43
 Name: Cydia Eraser
 Version: 0.9.43
