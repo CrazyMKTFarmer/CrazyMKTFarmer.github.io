@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.YouTube1.7
+Name: YouTube Tools
+Version: 1.7
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Essential toolbox for YouTube app.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/YouTube1.7.html
+Author: Justin Petkovic
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/YouTube1.7.deb
+Size: 29996
+MD5sum: 5bb9de079b9f062b625920b44e0339b2
+
 Package: com.AKiiimFrankyN0uva.Iconator111.9.9.5
 Name: Iconator11
 Version: 1.9.9.5
@@ -1511,5 +1525,5 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/IconRepo.deb
-Size: 344530
-MD5sum: e1a0b3f3c7256edd336f4021450133cf
+Size: 344580
+MD5sum: 846a9116581b350b59a0886b69ad5a80
