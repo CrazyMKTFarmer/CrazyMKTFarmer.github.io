@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.XB-AutoNetwork1.3
+Name: XB-AutoNetwork
+Version: 1.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Save battery disabling WiFi or Data!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/XB-AutoNetwork1.3.html
+Author: Olivier Crespo <ocbarrio@yahoo.es>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.oly.xb-ccmodules, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/XB-AutoNetwork1.3.deb
+Size: 292402
+MD5sum: f5d6be2da31e5c797a6d992fc4c8ee23
+
 Package: com.AKiiimFrankyN0uva.PhoneScroll0.0-beta2
 Name: PhoneScroll
 Version: 0.0-beta2
