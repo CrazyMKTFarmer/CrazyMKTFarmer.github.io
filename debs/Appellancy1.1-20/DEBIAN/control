@@ -1,0 +1,12 @@
+Package: com.AKiiimFrankyN0uva.Appellancy1.1-20
+Name: Appellancy (iOS 11)
+Version: 1.1-20
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Control your phone with your face!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Appellancy1.1-20.html
+Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy

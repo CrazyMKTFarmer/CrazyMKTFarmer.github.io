@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Cydia0.9.43
+Name: Cydia Eraser
+Version: 0.9.43
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! specific utility to unjailbreak most devices
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Cydia0.9.43.html
+Author: Jay Freeman (saurik)
+Section: IOS 11.3.1
+Depends: firmware (>= 7.1), firmware (<= 10.3.3), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Cydia0.9.43.deb
+Size: 519210
+MD5sum: 8ea4160ac013c03678be91ba84edd5b5
+
 Package: com.AKiiimFrankyN0uva.Appellancy1.1-20
 Name: Appellancy (iOS 11)
 Version: 1.1-20

@@ -1,0 +1,3 @@
+#!/bin/sh
+su mobile -c uicache
+exit 0
