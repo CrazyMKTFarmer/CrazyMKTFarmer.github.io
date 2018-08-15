@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Safari2-e
+Name: Safari Plus
+Version: 2-e
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Various enhancements to Safari 2e's custom services must have
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Safari2-e.html
+Author: mrfredtouhey
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Safari2-e.deb
+Size: 394064
+MD5sum: cfe03c0aa457e3653775c64869633fd0
+
 Package: com.AKiiimFrankyN0uva.Safi1.2
 Name: Safi
 Version: 1.2
@@ -1426,5 +1440,5 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/IconRepo.deb
-Size: 344524
-MD5sum: 61c5dc78067da027aed7cb311725d8b7
+Size: 344518
+MD5sum: 6c53069105b8ec951ca03eea25fcb64d
