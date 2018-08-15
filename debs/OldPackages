@@ -1,3 +1,32 @@
+Package: com.AKiiimFrankyN0uva.Power1.2.2
+Name: Power Tap (iOS 11)
+Version: 1.2.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Power Tap allows you to toggle the power down bar through different settings, such as "reboot," "respring," and "safe mode." Toggling takes place when you tap the slider's knob (a circular icon with a power symbol). Power Tap is intended to replace the earlier tweak "Slide to Reboot."
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Power1.2.2.html
+Author: subdiox
+Section: IOS 11.3.1
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.dpkgdan.slidetoreboot, com.myrepospace.dpkgdan.powertap, com.myrepospace.dpkgdan.slidetoreboot
+Filename: /debs/Power1.2.2.deb
+Size: 33866
+MD5sum: 1f3538d8f7d5d5aa11a9d337a7388d5f
+
+Package: com.AKiiimFrankyN0uva.WishDia0.0-beta1
+Name: WishDia
+Version: 0.0-beta1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Wish List For Cydia
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/WishDia0.0-beta1.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/WishDia0.0-beta1.deb
+Size: 19130
+MD5sum: 50979b0b7f7937674847983cd5f2162b
+
 Package: com.AKiiimFrankyN0uva.SafariUnleashed1.1
 Name: SafariUnleashed PRO
 Version: 1.1
@@ -82,22 +111,6 @@ Depends: firmware (>= 7.1), firmware (<= 10.3.3), com.akiiimfrankynouva.akiiimfr
 Filename: /debs/Cydia0.9.43.deb
 Size: 519210
 MD5sum: 8ea4160ac013c03678be91ba84edd5b5
-
-Package: com.AKiiimFrankyN0uva.Appellancy1.1-20
-Name: Appellancy (iOS 11)
-Version: 1.1-20
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Control your phone with your face!
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Appellancy1.1-20.html
-Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
-Section: IOS 11.3.1
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
-Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: /debs/Appellancy1.1-20.deb
-Size: 3708852
-MD5sum: 29d4de4ec683a47dd24ce5601abc2433
 
 Package: com.AKiiimFrankyN0uva.UrbanNC1.0.0
 Name: UrbanNC
