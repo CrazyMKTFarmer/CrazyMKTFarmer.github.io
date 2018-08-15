@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.PhoneScroll0.0-beta2
+Name: PhoneScroll
+Version: 0.0-beta2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Tap In Selected Tap Bar For Scroll To Top
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhoneScroll0.0-beta2.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhoneScroll0.0-beta2.deb
+Size: 4716
+MD5sum: f89a28e052f64570b07bc90a8554788b
+
 Package: com.AKiiimFrankyN0uva.NoLiveClock1.0
 Name: NoLiveClock
 Version: 1.0
