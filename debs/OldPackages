@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.NoLiveClock1.0
+Name: NoLiveClock
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Disable the live clock.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoLiveClock1.0.html
+Author: D4ni
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoLiveClock1.0.deb
+Size: 3584
+MD5sum: 821e944a471da257303318e3459f5a4e
+
 Package: com.AKiiimFrankyN0uva.PreferenceOrganizer4.0.5
 Name: PreferenceOrganizer 2
 Version: 4.0.5
@@ -1455,5 +1469,5 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/IconRepo.deb
-Size: 344518
-MD5sum: 6c53069105b8ec951ca03eea25fcb64d
+Size: 344530
+MD5sum: e1a0b3f3c7256edd336f4021450133cf
