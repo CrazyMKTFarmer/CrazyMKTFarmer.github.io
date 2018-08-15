@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.MultiAccount1.7.4
+Name: MultiAccount Master
+Version: 1.7.4
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! switch between your account
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/MultiAccount1.7.4.html
+Author: Tinyapps.cn
+Section: IOS 11.3.1
+Depends: firmware (>= 5.1), mobilesubstrate (>= 0.9.5000), applist (>= 1.5.13), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/MultiAccount1.7.4.deb
+Size: 9415542
+MD5sum: 02ffa444744e418ced338f76f9b91c31
+
 Package: com.AKiiimFrankyN0uva.Crayola1.0.3
 Name: Crayola
 Version: 1.0.3
@@ -65,8 +79,8 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/RepoIcon2.0.deb
-Size: 344514
-MD5sum: 03811793351583dc8cff9771419b42a4
+Size: 344524
+MD5sum: 61c5dc78067da027aed7cb311725d8b7
 
 Package: com.AKiiimFrankyN0uva.ActivatorFix1.1
 Name: ActivatorFix
