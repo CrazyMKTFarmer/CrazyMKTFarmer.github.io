@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Appstore0.0-beta8
+Name: Appstore No History
+Version: 0.0-beta8
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Clean Updated Apps History
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Appstore0.0-beta8.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: preferenceloader, mobilesubstrate, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Appstore0.0-beta8.deb
+Size: 30776
+MD5sum: d122f15f1013ab1bf3ea301b6434e325
+
 Package: com.AKiiimFrankyN0uva.PhoneCaller1.6.1
 Name: PhoneCaller
 Version: 1.6.1
