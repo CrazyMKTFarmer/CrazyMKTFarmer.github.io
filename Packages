@@ -1,18 +1,18 @@
 Package: com.AKiiimFrankyN0uva.Appellancy1.1-20
-Name: Appellancy
+Name: Appellancy (iOS 11)
 Version: 1.1-20
 Architecture: iphoneos-arm
 Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Control your phone with your face!
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/Appellancy1.1-20.html
-Author: Elijah Frederickson <elijah.frederickson@gmail.com>
+Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
 Section: IOS 11.3.1
-Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch, com.bd452.libpass (>= 2.1.0-2), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
 Filename: /debs/Appellancy1.1-20.deb
-Size: 7889300
-MD5sum: 7c4a82a416d8b13f476700bb3dcf9255
+Size: 3708852
+MD5sum: 29d4de4ec683a47dd24ce5601abc2433
 
 Package: com.AKiiimFrankyN0uva.UrbanNC1.0.0
 Name: UrbanNC
