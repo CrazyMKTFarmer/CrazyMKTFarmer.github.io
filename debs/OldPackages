@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Safi1.2
+Name: Safi
+Version: 1.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Simply Put, Folders
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Safi1.2.html
+Author: LacertosusDeus
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Safi1.2.deb
+Size: 34416
+MD5sum: f614ca3c9a28373167e67311f2cbc469
+
 Package: com.AKiiimFrankyN0uva.Snapper1.3
 Name: Snapper 2
 Version: 1.3
