@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ColorfulKBD3.0.0-3v
+Name: ColorfulKBD Pro (Việt Hoá)
+Version: 3.0.0-3v
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! An awesome KeyBoard coloring tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ColorfulKBD3.0.0-3v.html
+Author: ipon3g, VH by Soái Ca
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ColorfulKBD3.0.0-3v.deb
+Size: 160714
+MD5sum: 3cfd26d2fbca45b7e9d307d76c87112e
+
 Package: com.AKiiimFrankyN0uva.HomeGesture1.8.1k
 Name: HomeGesture (Việt Hoá)
 Version: 1.8.1k
