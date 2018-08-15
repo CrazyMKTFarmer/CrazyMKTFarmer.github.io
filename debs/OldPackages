@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SpeedXI0.0.1-b1
+Name: SpeedXI
+Version: 0.0.1-b1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speed Up Animation For IOS 11.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SpeedXI0.0.1-b1.html
+Author: pxcex
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SpeedXI0.0.1-b1.deb
+Size: 5694
+MD5sum: 046262b3cae04b7a875ced2d0d1a78eb
+
 Package: com.AKiiimFrankyN0uva.MultiAccount1.7.4
 Name: MultiAccount Master
 Version: 1.7.4
