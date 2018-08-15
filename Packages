@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.iloveBrownies1.0.0
+Name: iloveBrownies
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! The Tweak Let Safari App Automatically Accept Cookies Prompts! Tested on iOS 11.3.1. Thanks sinfool Patch.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/iloveBrownies1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/iloveBrownies1.0.0.deb
+Size: 6688
+MD5sum: 73956534cce7e67f450da339f8f65794
+
 Package: com.AKiiimFrankyN0uva.Appstore0.0-beta8
 Name: Appstore No History
 Version: 0.0-beta8
@@ -1560,7 +1574,7 @@ MD5sum: 6b5230be4f990e639ac95c3e97832a76
 
 Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Name: AKiiim Repo Icons
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Description: Officials AKiiim Repo Icons
 Depiction: https://frankynouva.github.io/depic/IconRepo.html
