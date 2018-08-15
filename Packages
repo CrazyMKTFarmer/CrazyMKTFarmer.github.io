@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.PhoneCaller1.6.1
+Name: PhoneCaller
+Version: 1.6.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Find out who's calling before answering
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhoneCaller1.6.1.html
+Author: Osama Muhammed
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhoneCaller1.6.1.deb
+Size: 348774
+MD5sum: f1a9cb45c920a2272d7e59cff8cf536d
+
 Package: com.AKiiimFrankyN0uva.TextEmojis1.0.1
 Name: TextEmojis
 Version: 1.0.1
