@@ -1,3 +1,19 @@
+Package: com.AKiiimFrankyN0uva.LockPlus1.2.6
+Name: LockPlus Pro
+Version: 1.2.6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! The ultimate lock screen tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LockPlus1.2.6.html
+Author: JunesiPhone
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/LockPlus1.2.6.deb
+Size: 16149850
+MD5sum: bdcde934e4e44726129f40a5641b9ad3
+
+Package: com.AKiiimFrankyN0uva.sud01.0.0
+Name: sud0
 Package: com.AKiiimFrankyN0uva.iloveBrownies1.0.0
 Name: iloveBrownies
 Version: 1.0.0
