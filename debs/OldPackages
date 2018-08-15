@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.TextEmojis1.0.1
+Name: TextEmojis
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Easily input emojis with text shortcodes
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TextEmojis1.0.1.html
+Author: Andreas Henriksson
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.3), preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: se.nosskirneh.textemojisfree
+Filename: /debs/TextEmojis1.0.1.deb
+Size: 461538
+MD5sum: b72fb983199a3c29bf4f454483054002
+
 Package: com.AKiiimFrankyN0uva.YouTube1.7
 Name: YouTube Tools
 Version: 1.7
