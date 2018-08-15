@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FuckOffCCGrabber0.0.1
+Name: FuckOffCCGrabber
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hides the CC grabber in lockscreen!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FuckOffCCGrabber0.0.1.html
+Author: Kiet Ha
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FuckOffCCGrabber0.0.1.deb
+Size: 3558
+MD5sum: 5694e67bef32fe2569ab86e4ebfd7230
+
 Package: com.AKiiimFrankyN0uva.Disconnected1.0
 Name: Disconnected
 Version: 1.0
