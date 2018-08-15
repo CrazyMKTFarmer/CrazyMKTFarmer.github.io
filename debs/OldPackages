@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.Crayola1.0.3
+Name: Crayola
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Crayola
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Crayola1.0.3.html
+Author: Chloee
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.chloeeisoaky.twitterdarkmode, com.tapsharp.twitterdarkmode, com.halston696.twitteruicustomizer
+Filename: /debs/Crayola1.0.3.deb
+Size: 1094558
+MD5sum: 00f4c9884c7b28310cdd15a71cc52bc6
+
 Package: com.AKiiimFrankyN0uva.FacebookDarkMode2.0.1
 Name: FacebookDarkMode
 Version: 2.0.1
@@ -50,8 +65,8 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/RepoIcon2.0.deb
-Size: 344530
-MD5sum: e41a6039c7b1415ad08e6892b33b63c8
+Size: 344514
+MD5sum: 03811793351583dc8cff9771419b42a4
 
 Package: com.AKiiimFrankyN0uva.ActivatorFix1.1
 Name: ActivatorFix
