@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Recall1.0
+Name: Recall
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Automatic Call Recorder
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Recall1.0.html
+Author: subdiox
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Recall1.0.deb
+Size: 11968
+MD5sum: 5b7025b3f4457b1d9e66b39e02549919
+
 Package: com.AKiiimFrankyN0uva.CCSpaceItems1.0.0
 Name: CCSpaceItems
 Version: 1.0.0
