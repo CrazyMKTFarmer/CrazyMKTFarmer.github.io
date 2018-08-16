@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.No1.0
+Name: No Volume Slider
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! No volume slider for all apps.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/No1.0.html
+Author: Rishanan
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/No1.0.deb
+Size: 3516
+MD5sum: 23bb7355f2c903e36d9d700c7425522e
+
 Package: com.AKiiimFrankyN0uva.BackupAZ1.1
 Name: BackupAZ 3 (iOS 10 - 11)
 Version: 1.1
