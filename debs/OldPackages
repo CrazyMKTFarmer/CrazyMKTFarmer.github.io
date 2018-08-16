@@ -1,3 +1,76 @@
+Package: com.AKiiimFrankyN0uva.CCSpaceItems1.0.0
+Name: CCSpaceItems
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Choose the CC Spacing Value between Items!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CCSpaceItems1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CCSpaceItems1.0.0.deb
+Size: 68816
+MD5sum: 72122e352dd8cbc83cdb9ef03de3c2d9
+
+Package: com.AKiiimFrankyN0uva.App1.0r-101
+Name: App Admin
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Downgrade iOS apps to any previous version! No AppSync needed!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/App1.0r-101.html
+Author: UnlimApps Inc.
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Filename: /debs/App1.0r-101.deb
+Size: 861452
+MD5sum: db21365f6d18645ab18bf50fd74c760c
+
+Package: com.AKiiimFrankyN0uva.Activator1.0
+Name: Activator Việt Hoá
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Bản Tiếng Việt cho Activator
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.0.html
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Activator1.0.deb
+Size: 9296
+MD5sum: 4b686c8ea44c95d4499a7197859cf90e
+
+Package: com.AKiiimFrankyN0uva.Accelerated1.6
+Name: Accelerated Home Button
+Version: 1.6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speeds up home button presses
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Accelerated1.6.html
+Author: Mehul Rao <mehulrao@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Accelerated1.6.deb
+Size: 4192
+MD5sum: eba560de54a43402037664a8f399eee2
+
+Package: com.AKiiimFrankyN0uva.Activator1.9.13-beta2
+Name: Activator
+Version: 1.9.13-beta2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Centralized gestures, button and shortcut management for iOS
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.9.13-beta2.html
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16-beta2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Filename: /debs/Activator1.9.13-beta2.deb
+Size: 1206428
+MD5sum: 356df619539af4550d49da5bbfc5d799
+
 Package: com.AKiiimFrankyN0uva.No1.0
 Name: No Volume Slider
 Version: 1.0
@@ -792,21 +865,6 @@ Filename: /debs/AdBlock1.0.5.deb
 Size: 41350
 MD5sum: 1a8210d4055025d85122606eeab86f61
 
-Package: com.AKiiimFrankyN0uva.App1.0r-101
-Name: App Admin
-Version: 1.0r-101
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Downgrade iOS apps to any previous version! No AppSync needed!!!
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/App1.0r-101.html
-Author: UnlimApps Inc.
-Section: IOS 11.3.1
-Depends: firmware (>= 7.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
-Filename: /debs/App1.0r-101.deb
-Size: 861454
-MD5sum: 3fcef33797b8045d037b8421cddb1d5a
-
 Package: com.AKiiimFrankyN0uva.Appcon1.4.3
 Name: Appcon
 Version: 1.4.3
@@ -1007,20 +1065,6 @@ Conflicts: com.julioverne.ext3nder, com.repo.xarold.com.ext3nder
 Filename: /debs/Ext3nder021a.deb
 Size: 517676
 MD5sum: f755363e46d361ee2e1d91f0faf5da70
-
-Package: com.AKiiimFrankyN0uva.Activator1.0
-Name: Activator Việt Hoá
-Version: 1.0
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Bản Tiếng Việt cho Activator
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Activator1.0.html
-Author: LoveJB <nguyenvanha9xyz@gmail.com>
-Section: IOS 11.3.1
-Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/Activator1.0.deb
-Size: 9288
-MD5sum: 130ef12f02ba08e4e3b30e6857b890cc
 
 Package: com.AKiiimFrankyN0uva.FlipConvert0.0-beta5
 Name: FlipConvert
@@ -1528,22 +1572,6 @@ Filename: /debs/AppCake5.5.9.1.deb
 Size: 10366328
 MD5sum: 84835e5dbe410995197763f0bf24b868
 
-Package: com.AKiiimFrankyN0uva.Activator1.9.13-beta2
-Name: Activator
-Version: 1.9.13-beta2
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Centralized gestures, button and shortcut management for iOS
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Activator1.9.13-beta2.html
-Author: Ryan Petrich <rpetrich+activator@gmail.com>
-Section: IOS 11.3.1
-Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16-beta2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
-Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
-Filename: /debs/Activator1.9.13-beta2.deb
-Size: 1206406
-MD5sum: 97ba9e518305ca108b1d9bf499034848
-
 Package: com.AKiiimFrankyN0uva.BetterCCXI1.3.9
 Name: BetterCCXI
 Version: 1.3.9
@@ -1572,20 +1600,6 @@ Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
 Filename: /debs/AudioRecorder1.6-93.deb
 Size: 3834558
 MD5sum: 9026d4555230969ede3b869922716aaa
-
-Package: com.AKiiimFrankyN0uva.Accelerated1.6
-Name: Accelerated Home Button
-Version: 1.6
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speeds up home button presses
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Accelerated1.6.html
-Author: Mehul Rao <mehulrao@gmail.com>
-Section: IOS 11.3.1
-Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/Accelerated1.6.deb
-Size: 4192
-MD5sum: f7ac2aaebd7f635a2e0fb4b51047c501
 
 Package: com.AKiiimFrankyN0uva.BigShotJb0.0.2-2
 Name: BigShotJb (iOS 11)
