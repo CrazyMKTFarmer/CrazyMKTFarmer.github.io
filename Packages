@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DuplexClockX1.2-1+debug
+Name: DuplexClockX Pro
+Version: 1.2-1+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Modify Your Clock from setting with Dual Timezone Supports & Other settings.http://www.nsdateformatter.com/ for more date time format settings.An updated version of DuplexClock & Undertime by sharedRoutine,gilshahar7 & NeinZedd9 for iPhone X forked by Manu,
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DuplexClockX1.2-1+debug.html
+Author: manu
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DuplexClockX1.2-1+debug.deb
+Size: 60272
+MD5sum: 434645a894072f0c0d98b0959d92463d
+
 Package: com.AKiiimFrankyN0uva.Recall1.0
 Name: Recall
 Version: 1.0
