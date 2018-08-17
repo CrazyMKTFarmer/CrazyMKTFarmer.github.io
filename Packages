@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.RaiseToAnswer1.0-1b
+Name: RaiseToAnswer (iOS 11)
+Version: 1.0-1b
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Raise phone to answer phone calls
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/RaiseToAnswer1.0-1b.html
+Author: MohammadAG, julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.mohammadag.raisetoanswer
+Filename: /debs/RaiseToAnswer1.0-1b.deb
+Size: 7046
+MD5sum: a5cc219630103f882c1a0c8de8ddf515
+
 Package: com.AKiiimFrankyN0uva.QuickUnlock1.0
 Name: QuickUnlock (iOS 11)
 Version: 1.0
