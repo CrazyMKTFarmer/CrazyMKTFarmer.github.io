@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.CacheClearer0.1a
+Name: CacheClearer (iOS 11)
+Version: 0.1a
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CacheClearer0.1a.html
+Author: Ryan Petrich, julioverne
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.rpetrich.cacheclearer
+Filename: /debs/CacheClearer0.1a.deb
+Size: 9322
+MD5sum: 0604075c1ab4da831b8c4576366a6a73
+
 Package: com.AKiiimFrankyN0uva.DuplexClockX1.2-1+debug
 Name: DuplexClockX Pro
 Version: 1.2-1+debug
