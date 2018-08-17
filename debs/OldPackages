@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.TapVideoConfig0.0.2
+Name: TapVideoConfig
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Change video configuration directly in Camera app.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TapVideoConfig0.0.2.html
+Author: SpicaT <spica.tweak@outlook.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TapVideoConfig0.0.2.deb
+Size: 9636
+MD5sum: c2170df468a1734d872816cdcfc32504
+
 Package: com.AKiiimFrankyN0uva.FujiXI1.1
 Name: FujiXI
 Version: 1.1
