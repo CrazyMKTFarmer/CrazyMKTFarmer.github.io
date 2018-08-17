@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.PasscodeText0.1
+Name: PasscodeText
+Version: 0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Tweak to change the passcode text.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PasscodeText0.1.html
+Author: Funsky (Coupaings) <funskydev@outlook.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PasscodeText0.1.deb
+Size: 58340
+MD5sum: 70661d4cdbf68b09e0283e4015fa7105
+
 Package: com.AKiiimFrankyN0uva.CacheClearer0.1a
 Name: CacheClearer (iOS 11)
 Version: 0.1a
