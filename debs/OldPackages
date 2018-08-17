@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FujiXI1.1
+Name: FujiXI
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! macOS login screen on your lock screen.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FujiXI1.1.html
+Author: Emil Avara
+Section: Widgets
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FujiXI1.1.deb
+Size: 61704
+MD5sum: f7793a0f26f832648f8487674ed8dbb2
+
 Package: com.AKiiimFrankyN0uva.CCDataMore1.0-3
 Name: CCDataMore
 Version: 1.0-3
