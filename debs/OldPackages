@@ -1,3 +1,34 @@
+Package: com.AKiiimFrankyN0uva.Appellancy1.1-20a
+Name: Appellancy (iOS 11)
+Version: 1.1-20a
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Control your phone with your face!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Appellancy1.1-20a.html
+Author: Elijah Frederickson, julioverne <elijah.frederickson@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Filename: /debs/Appellancy1.1-20a.deb
+Size: 3709234
+MD5sum: 18a7a58333c305d9e0f82f8172a80a9b
+
+Package: com.AKiiimFrankyN0uva.BigShotJb0.0.2-2
+Name: BigShotJb (iOS 11)
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! take screenshots of full vertical scrollable area
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BigShotJb0.0.2-2.html
+Author: Tapan Thaker (tapthaker), julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
+Filename: /debs/BigShotJb0.0.2-2.deb
+Size: 32768
+MD5sum: 45229c5f0a426d304ae04db0ea537b5e
+
 Package: com.AKiiimFrankyN0uva.Circle1.1
 Name: Circle Icons
 Version: 1.1
