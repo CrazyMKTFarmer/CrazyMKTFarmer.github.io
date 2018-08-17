@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.vWallpaper0.5.0-3
+Name: vWallpaper 2 (iOS 11)
+Version: 0.5.0-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/vWallpaper0.5.0-3.html
+Author: skrew, julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
+Filename: /debs/vWallpaper0.5.0-3.deb
+Size: 11336556
+MD5sum: 68a7a7beacb223c797e94da75753e2f3
+
 Package: com.AKiiimFrankyN0uva.PasscodeText0.1
 Name: PasscodeText
 Version: 0.1
