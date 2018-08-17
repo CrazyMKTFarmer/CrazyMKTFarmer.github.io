@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Circle1.1
+Name: Circle Icons
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Circle1.1.html
+Author: dunkston
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Circle1.1.deb
+Size: 4384
+MD5sum: 5a0a0e8ca5930ee05b71f9aadef0bbcd
+
 Package: com.AKiiimFrankyN0uva.RaiseToAnswer1.0-1b
 Name: RaiseToAnswer (iOS 11)
 Version: 1.0-1b
