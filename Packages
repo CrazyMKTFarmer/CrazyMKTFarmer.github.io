@@ -1,16 +1,16 @@
-Package: com.AKiiimFrankyN0uva.Fix9.0
-Name: Fix
-Version: 9.0
+Package: com.AKiiimFrankyN0uva.TapVideoConfig0.0.3
+Name: TapVideoConfig 3
+Version: 0.0.3
 Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! không cài
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Change video configuration directly in Camera app.
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Fix9.0.html
-Author: FrankyNouva
-Section: Syst3m
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/Fix9.0.deb
-Size: 692
-MD5sum: 353f1e500e8cca8b6f7cce7eebf7aa80
+Depiction: https://frankynouva.github.io/depic/TapVideoConfig0.0.3.html
+Author: SpicaT <spica.tweak@outlook.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TapVideoConfig0.0.3.deb
+Size: 9634
+MD5sum: 7c112b4ed9ad2c5d6d32c8601d4a791c
 
 Package: com.AKiiimFrankyN0uva.TapVideoConfig0.0.2
 Name: TapVideoConfig
