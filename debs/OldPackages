@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Fix9.0
+Name: Fix
+Version: 9.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! không cài
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Fix9.0.html
+Author: FrankyNouva
+Section: Syst3m
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Fix9.0.deb
+Size: 692
+MD5sum: 353f1e500e8cca8b6f7cce7eebf7aa80
+
 Package: com.AKiiimFrankyN0uva.TapVideoConfig0.0.2
 Name: TapVideoConfig
 Version: 0.0.2
@@ -11,20 +25,6 @@ Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouv
 Filename: /debs/TapVideoConfig0.0.2.deb
 Size: 9636
 MD5sum: c2170df468a1734d872816cdcfc32504
-
-Package: com.AKiiimFrankyN0uva.FujiXI1.1
-Name: FujiXI
-Version: 1.1
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! macOS login screen on your lock screen.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/FujiXI1.1.html
-Author: Emil Avara
-Section: Widgets
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/FujiXI1.1.deb
-Size: 61704
-MD5sum: f7793a0f26f832648f8487674ed8dbb2
 
 Package: com.AKiiimFrankyN0uva.CCDataMore1.0-3
 Name: CCDataMore
