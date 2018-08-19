@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Appstore0.0-beta4a
+Name: Appstore Unrestrict
+Version: 0.0-beta4a
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! No Download Size Limit In AppStore Over Cellular
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Appstore0.0-beta4a.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: preferenceloader, mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Appstore0.0-beta4a.deb
+Size: 26204
+MD5sum: b915694348875f87a1ce2491d1c851a8
+
 Package: com.AKiiimFrankyN0uva.QuickShuffleRepeat0.0.1
 Name: QuickShuffleRepeat
 Version: 0.0.1
