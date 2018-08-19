@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.gridiculous0.1-beta
+Name: gridiculous
+Version: 0.1-beta
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Icons Anywhere? That's Gridiculous
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/gridiculous0.1-beta.html
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/gridiculous0.1-beta.deb
+Size: 13876
+MD5sum: 3a2fd0993b44b141ef8ba4e3b68414ae
+
 Package: com.AKiiimFrankyN0uva.MessageHeadsXI1.1-1k
 Name: MessageHeadsXI
 Version: 1.1-1k
