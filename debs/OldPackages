@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.TapTapLS1.0
+Name: TapTapLS
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Tap the lock screen to perform actions
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TapTapLS1.0.html
+Author: dunkston
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TapTapLS1.0.deb
+Size: 13542
+MD5sum: ec8b4ddee34482de0855cc41e8b6eff9
+
 Package: com.AKiiimFrankyN0uva.fixUnOfficialSource1.0
 Name: fixUnOfficialSource
 Version: 1.0
