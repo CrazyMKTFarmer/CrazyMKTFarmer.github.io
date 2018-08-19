@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.MessageHeadsXI1.1-1k
+Name: MessageHeadsXI
+Version: 1.1-1k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Floating chat heads for SMS, WhatsApp, and Facebook Messenger!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/MessageHeadsXI1.1-1k.html
+Author: c1d3r,re-pack by FrankyNouva
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/MessageHeadsXI1.1-1k.deb
+Size: 3158438
+MD5sum: a3606e066d2541a5ab0cc6737ce9b477
+
 Package: com.AKiiimFrankyN0uva.FixAll0.0.3
 Name: FixAll
 Version: 0.0.3
