@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.QuickShuffleRepeat0.0.1
+Name: QuickShuffleRepeat
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add Shuffle/Repeat to ControlCenter
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/QuickShuffleRepeat0.0.1.html
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/QuickShuffleRepeat0.0.1.deb
+Size: 6482
+MD5sum: 8f9dc4786b73b1a71aaa570635ef7bc6
+
 Package: com.AKiiimFrankyN0uva.TSS1.2.0
 Name: TSS Saver
 Version: 1.2.0
