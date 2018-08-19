@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.TSS1.2.0
+Name: TSS Saver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A one-click tool to save blobs using TSSsaver.1conan.com
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TSS1.2.0.html
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: IOS 11.3.1
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TSS1.2.0.deb
+Size: 177786
+MD5sum: 6a1d14487d5c868eea1889fb1369acbb
+
 Package: com.AKiiimFrankyN0uva.TapTapLS1.0
 Name: TapTapLS
 Version: 1.0
@@ -1555,20 +1569,6 @@ Replaces: com.alex.tweaksnumber
 Filename: /debs/Tweak1.0.1.deb
 Size: 32124
 MD5sum: 242b2a2259089f744f3a7c492cb8fc14
-
-Package: com.AKiiimFrankyN0uva.TSS1.2.0
-Name: TSS Saver
-Version: 1.2.0
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A one-click tool to save blobs using TSSsaver.1conan.com
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/TSS1.2.0.html
-Author: Jamie Bishop <jamie@dynastic.co>
-Section: IOS 11.3.1
-Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/TSS1.2.0.deb
-Size: 177788
-MD5sum: 890aa202db9a715045d86a4f75f59de2
 
 Package: com.AKiiimFrankyN0uva.SwipeSelection1.0.3-1
 Name: SwipeSelection Pro
