@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.fixUnOfficialSource1.0
+Name: fixUnOfficialSource
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! ngăn không cho phát hiện cài tweak từ nguồn không chính chủ.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/fixUnOfficialSource1.0.html
+Author: Kiiimo Repositoty
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/fixUnOfficialSource1.0.deb
+Size: 4146
+MD5sum: 6b53d262d9d03750dcf8316e011965d8
+
 Package: com.AKiiimFrankyN0uva.gridiculous0.1-beta
 Name: gridiculous
 Version: 0.1-beta
