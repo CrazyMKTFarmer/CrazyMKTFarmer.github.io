@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.VolumeUnlock1.0
+Name: VolumeUnlock
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! mở khoá bằng nút Volume.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/VolumeUnlock1.0.html
+Author: dunkston
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/VolumeUnlock1.0.deb
+Installed-Size: 13658
+Size: 13658
+MD5sum: 9e68fff6f5cc8419628eadadaa48a98b
+
 Package: com.AKiiimFrankyN0uva.Appstore0.0-beta4a
 Name: Appstore Unrestrict
 Version: 0.0-beta4a
