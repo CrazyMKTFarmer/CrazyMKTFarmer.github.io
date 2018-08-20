@@ -1,3 +1,32 @@
+Package: com.AKiiimFrankyN0uva.NoSubstitute1.0-1
+Name: NoSubstitute (Electra)
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Disables substitute in apps.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoSubstitute1.0-1.html
+Author: Dagzer <thatboidagzer@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoSubstitute1.0-1.deb
+Size: 11662
+MD5sum: dc24daa5ef7b81fb85783ff32e59ab33
+
+Package: com.AKiiimFrankyN0uva.VolumeUnlock1.0
+Name: VolumeUnlock
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! mở khoá bằng nút Volume.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/VolumeUnlock1.0.html
+Author: dunkston
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/VolumeUnlock1.0.deb
+Installed-Size: 
+Size: 13656
+MD5sum: 355c77ef27a22a50c9166d177d80a052
+
 Package: com.AKiiimFrankyN0uva.VolumeUnlock1.0
 Name: VolumeUnlock
 Version: 1.0
