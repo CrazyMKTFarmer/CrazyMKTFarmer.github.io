@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.AwemeTweak1.0-1
+Name: AwemeTweak
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! tweaks for Tik Tok app
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AwemeTweak1.0-1.html
+Author: TBQ <qutianbai@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AwemeTweak1.0-1.deb
+Size: 22426
+MD5sum: 45fc543296b476db620e6f435f38588d
+
 Package: com.AKiiimFrankyN0uva.UnJailbreak1.1-5
 Name: UnJailbreak Electra (iOS11)
 Version: 1.1-5
