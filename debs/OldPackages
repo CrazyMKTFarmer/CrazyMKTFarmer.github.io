@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.UnJailbreak1.1-5
+Name: UnJailbreak Electra (iOS11)
+Version: 1.1-5
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Semi Restore iOS11 ( Electra ) - Được đóng gói bởi NGUYỄN VĂN HÀ
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/UnJailbreak1.1-5.html
+Author: KirovAir & Nguyễn Văn Hà
+Section: IOS 11.3.1
+Depends: firmware (>= 11), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/UnJailbreak1.1-5.deb
+Size: 4616
+MD5sum: 34e967609003aeacc4fae0a88c81e37f
+
 Package: com.AKiiimFrankyN0uva.FullFolderX1.1-2
 Name: FullFolderX
 Version: 1.1-2
