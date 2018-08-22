@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Abeo0.0.1-19+debug
+Name: Abeo
+Version: 0.0.1-19+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Removes the dock and adds a new row of icons.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Abeo0.0.1-19+debug.html
+Author: CP Digital Darkroom <admin@cpdiggitaldarkroom.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Abeo0.0.1-19+debug.deb
+Size: 126722
+MD5sum: 1d6251b073e76982cadb8cdf20929cc9
+
 Package: com.AKiiimFrankyN0uva.CirDock1.3.0
 Name: CirDock
 Version: 1.3.0
