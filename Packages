@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.CirDock1.3.0
+Name: CirDock
+Version: 1.3.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! evolutionizes the device's dock!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CirDock1.3.0.html
+Author: Brave Heart <alsafa7dev@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CirDock1.3.0.deb
+Size: 793306
+MD5sum: 9210cc4cfcb081fc32edb17080e0461e
+
+Package: com.AKiiimFrankyN0uva.CCBackground1.0
+Name: CCBackground
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! An awesome ControlCentreBackgroundImage tweak! for IOS 11 Only
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CCBackground1.0.html
+Author: chloe k <neckdeeptour@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CCBackground1.0.deb
+Size: 11038
+MD5sum: c51486f65a4f4362cdcd5209c561a3b3
+
 Package: com.AKiiimFrankyN0uva.AwemeTweak1.0-1
 Name: AwemeTweak
 Version: 1.0-1
@@ -54,36 +82,6 @@ Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common 
 Filename: /debs/ToneHelper0.2.10.deb
 Size: 156790
 MD5sum: 0f7989376719307ba16f77246470b6f5
-
-Package: com.AKiiimFrankyN0uva.FullFolderX1.1-2
-Name: FullFolderX
-Version: 1.1-2
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Full screen folders on homescreen
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/FullFolderX1.1-2.html
-Author: Lizynz <lizynz@ya.ru>
-Section: IOS 11.3.1
-Depends: mobilesubstrate, firmware (>= 11.0), com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercolor, com.lizynz.fullfolder9, com.lizynz.fullfolder11, com.cydiageek.huefolderbg
-Filename: /debs/FullFolderX1.1-2.deb
-Size: 
-MD5sum: 
-
-Package: com.AKiiimFrankyN0uva.SemiRestore111.0.1
-Name: SemiRestore11 / Rollectra
-Version: 1.0.1
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Only for iOS 11.3 - 11.4b3 for now...
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/SemiRestore111.0.1.html
-Author: Pwn20wnd <pwn20wndstuff@gmail.com>
-Section: IOS 11.3.1
-Depends: cy+cpu.arm64, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Pre-depends: firmware (>= 11.3), firmware (<< 11.4.1)
-Filename: /debs/SemiRestore111.0.1.deb
-Size: 
-MD5sum: 
 
 Package: com.AKiiimFrankyN0uva.UnJailbreak1.1-5
 Name: UnJailbreak Electra (iOS11)
