@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.StackXI0.1.1
+Name: StackXI
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Grouped notifications, iOS 12 style.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/StackXI0.1.1.html
+Author: Ominousness
+Section: IOS 11.3.1
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/StackXI0.1.1.deb
+Size: 11882
+MD5sum: 0bd7a5e6a22cafc00759cb88f1b0bc86
+
 Package: com.AKiiimFrankyN0uva.Backgrounder0.0.3
 Name: Backgrounder Action
 Version: 0.0.3
