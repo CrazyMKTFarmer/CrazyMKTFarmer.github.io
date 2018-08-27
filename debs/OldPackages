@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DontSwipe1.1-97+debug
+Name: DontSwipe !
+Version: 1.1-97+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Use an activator gesture to prevent people from swiping when showing them a photo! Works in any application.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DontSwipe1.1-97+debug.html
+Author: SecondEight1
+Section: IOS 11.3.1
+Depends: mobilesubstrate, libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DontSwipe1.1-97+debug.deb
+Size: 64204
+MD5sum: 20540bbbd7301664e6c0161b4a7c1deb
+
 Package: com.AKiiimFrankyN0uva.Compatimark1.0.1
 Name: Compatimark !
 Version: 1.0.1
