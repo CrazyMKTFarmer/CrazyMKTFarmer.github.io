@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Remove1.0-2
+Name: Remove Labels !
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hide labels icons
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Remove1.0-2.html
+Author: Lizynz
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Remove1.0-2.deb
+Size: 22360
+MD5sum: e5822a2322bb05066cceb8e01c6e2868
+
 Package: com.AKiiimFrankyN0uva.Riker0.2
 Name: Riker !
 Version: 0.2
