@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.FullFolder111.1-3
+Name: FullFolder11 !
+Version: 1.1-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Full screen folders on homescreen
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FullFolder111.1-3.html
+Author: Lizynz <lizynz@ya.ru>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.lizynz.folder6plus, com.yllier.foldercloser, com.lizynz.foldercolor, com.lizynz.fullfolder9
+Filename: /debs/FullFolder111.1-3.deb
+Size: 31814
+MD5sum: 6646a217780566ac6d23dbcd576a954f
+
 Package: com.AKiiimFrankyN0uva.Remove1.0-2
 Name: Remove Labels !
 Version: 1.0-2
