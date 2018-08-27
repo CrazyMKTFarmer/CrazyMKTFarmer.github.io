@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Compatimark1.0.1
+Name: Compatimark !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Mark Compatible Cydia Packages
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Compatimark1.0.1.html
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, cydia (>= 1.1.19), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Compatimark1.0.1.deb
+Size: 10968
+MD5sum: 8038f82ca7443bc3ba9b83e8e06fb81a
+
 Package: com.AKiiimFrankyN0uva.FullFolder111.1-3
 Name: FullFolder11 !
 Version: 1.1-3
