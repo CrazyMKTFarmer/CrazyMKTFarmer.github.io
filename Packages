@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.Riker0.2
+Name: Riker !
+Version: 0.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Provides an Activator-enabled gesture bar Early beta/experiment. Adds an Activator-enabled gesture bar to SpringBoard
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Riker0.2.html
+Author: Ryan Petrich
+Section: IOS 11.3.1
+Depends: firmware (>= 7), mobilesubstrate (>= 0.9.5000), libactivator (>= 1.9.3-beta1), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Riker0.2.deb
+Size: 9792
+MD5sum: c9267f84974b1341436f59538484f250
+
+Package: com.AKiiimFrankyN0uva.CoolCC1.0
+Name: CoolCC
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! This tweak makes ControlCenter cool!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CoolCC1.0.html
+Author: 4nni3 <4nni3.14@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CoolCC1.0.deb
+Size: 6492
+MD5sum: f7ced9d32f12065810eec2e23f74ca25
+
 Package: com.AKiiimFrankyN0uva.StackXI0.1.1
 Name: StackXI
 Version: 0.1.1
