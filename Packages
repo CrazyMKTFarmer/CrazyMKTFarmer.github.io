@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.HeliusXI1.0.1
+Name: HeliusXI !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Sleek lock screen media controls
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/HeliusXI1.0.1.html
+Author: s1ris
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: org.s1ris.spinxi, com.repo.xarold.com.spinxi
+Filename: /debs/HeliusXI1.0.1.deb
+Size: 50806
+MD5sum: ed1a2e4684dfbca0a1d7b92604be7437
+
 Package: com.AKiiimFrankyN0uva.Priority0.0.2
 Name: Priority Hub !
 Version: 0.0.2
