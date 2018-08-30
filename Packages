@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Priority0.0.2
+Name: Priority Hub !
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Organize your notifications!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Priority0.0.2.html
+Author: Thomas Finch <tomf64@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Priority0.0.2.deb
+Size: 47612
+MD5sum: ceaa77bb0e67c971b71c4f3d732ee45e
+
 Package: com.AKiiimFrankyN0uva.Imperium2.0
 Name: Imperium !
 Version: 2.0
