@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.HoldToClear1.0
+Name: HoldToClear !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hold the "Clear" button to clear all notifications
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/HoldToClear1.0.html
+Author: dunkston
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/HoldToClear1.0.deb
+Size: 4984
+MD5sum: dcbb22966627e400292bdb268b632bb8
+
 Package: com.AKiiimFrankyN0uva.CallBar0.3-34k
 Name: CallBar X !
 Version: 0.3-34k
