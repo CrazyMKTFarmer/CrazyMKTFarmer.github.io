@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.VoiceChangerX0.1-16k
+Name: VoiceChangerX Cr4ck !
+Version: 0.1-16k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/VoiceChangerX0.1-16k.html
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/VoiceChangerX0.1-16k.deb
+Size: 94350
+MD5sum: c1f20aebd1b4b74c0c06fc43030d752f
+
 Package: com.AKiiimFrankyN0uva.HeliusXI1.0.1
 Name: HeliusXI !
 Version: 1.0.1
