@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CallBar0.3-34k
+Name: CallBar X !
+Version: 0.3-34k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Don’t let incoming calls interrupt you!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CallBar0.3-34k.html
+Author: Elias Limneos
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CallBar0.3-34k.deb
+Size: 185124
+MD5sum: 4272517d1ba9f6ec5cfdb6dd08bf61e2
+
 Package: com.AKiiimFrankyN0uva.VoiceChangerX0.1-16k
 Name: VoiceChangerX Cr4ck !
 Version: 0.1-16k
