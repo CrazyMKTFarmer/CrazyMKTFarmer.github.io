@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.countingNotes1.0.0
+Name: countingNotes !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Enable the Characters Counting in Your Notes App!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/countingNotes1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/countingNotes1.0.0.deb
+Size: 4206
+MD5sum: 81b9c850ad4f53dd5f8f34bb92d2f98b
+
 Package: com.AKiiimFrankyN0uva.NoMoreDisabled1.0.0
 Name: NoMoreDisabled !
 Version: 1.0.0
