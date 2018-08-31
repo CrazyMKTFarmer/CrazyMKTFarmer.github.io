@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.NoMoreDisabled1.0.0
+Name: NoMoreDisabled !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Prevent Permanent Passcode Locking by Mistake!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoMoreDisabled1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoMoreDisabled1.0.0.deb
+Size: 7132
+MD5sum: cf515a273632668bbb99929bc0f0a60e
+
 Package: com.AKiiimFrankyN0uva.HoldToClear1.0
 Name: HoldToClear !
 Version: 1.0
