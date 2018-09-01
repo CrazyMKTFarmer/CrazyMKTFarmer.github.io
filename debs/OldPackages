@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CCSpeedUp1.0.1
+Name: CCSpeedUp !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! disables animations of Control Center
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CCSpeedUp1.0.1.html
+Author: xCeReLoN <xtremegun92@hotmail.de>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CCSpeedUp1.0.1.deb
+Size: 3364
+MD5sum: 68735c60296f29edd0e796b4148b84a4
+
 Package: com.AKiiimFrankyN0uva.MiDevice0.0.1-8+debug
 Name: MiDevice !
 Version: 0.0.1-8+debug
