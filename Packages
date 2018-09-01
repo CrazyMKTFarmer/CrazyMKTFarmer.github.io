@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.MiDevice0.0.1-8+debug
+Name: MiDevice !
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! An awesome MobileSubstrate tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/MiDevice0.0.1-8+debug.html
+Author: DODGraphics
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, org.thebigboss.libcolorpicker, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/MiDevice0.0.1-8+debug.deb
+Size: 187430
+MD5sum: c9a70885822e2f637d16e1f21e0fa303
+
 Package: com.AKiiimFrankyN0uva.countingNotes1.0.0
 Name: countingNotes !
 Version: 1.0.0
