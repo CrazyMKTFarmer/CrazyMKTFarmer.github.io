@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.camshot1.01-6+debug
+Name: camshot !
+Version: 1.01-6+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Command line tool to take pictures
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/camshot1.01-6+debug.html
+Author: Ziph0n
+Section: IOS 11.3.1
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: org.thebigboss.camshot
+Filename: /debs/camshot1.01-6+debug.deb
+Size: 15658
+MD5sum: f979c5aa10f183a64553256316e5e1b5
+
 Package: com.AKiiimFrankyN0uva.DiaSilent1.0
 Name: DiaSilent !
 Version: 1.0
@@ -21,7 +36,7 @@ Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/Fluidity0.1.0.html
 Author: Sam Breadman
 Section: Tweaks
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/Fluidity0.1.0.deb
 Size: 263768
 MD5sum: b3634be2d7d969147d06b8bb4ec8dedc
