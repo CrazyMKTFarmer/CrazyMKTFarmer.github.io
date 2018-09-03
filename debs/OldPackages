@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FUGap2.1-2
+Name: FUGap !
+Version: 2.1-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Close the gap at the top of the cc !
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FUGap2.1-2.html
+Author: smokin1337
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FUGap2.1-2.deb
+Size: 172668
+MD5sum: 7a7314f04047657cd9f7b8b2ec3cf781
+
 Package: com.AKiiimFrankyN0uva.SmoothTable0.0.1-1+debug
 Name: SmoothTable !
 Version: 0.0.1-1+debug
