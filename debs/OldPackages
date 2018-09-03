@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.NoStatusBarNC1.0
+Name: NoStatusBarNC !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Remove Status Bar On Notification Center
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoStatusBarNC1.0.html
+Author: Makwan BK <makwanbarzan@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoStatusBarNC1.0.deb
+Size: 4770
+MD5sum: aaf2c4cd6ac98dcc99f5fc2ab2af9ab7
+
 Package: com.AKiiimFrankyN0uva.camshot1.01-6+debug
 Name: camshot !
 Version: 1.01-6+debug
@@ -7,7 +21,7 @@ Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/camshot1.01-6+debug.html
 Author: Ziph0n
 Section: IOS 11.3.1
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Conflicts: org.thebigboss.camshot
 Filename: /debs/camshot1.01-6+debug.deb
 Size: 15658
