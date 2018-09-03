@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.AudioRecorder1.8-23
+Name: AudioRecorder 2 (iOS 8,9,10,11) !
+Version: 1.8-23
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Most Advanced iOS Call Recorder Ever!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AudioRecorder1.8-23.html
+Author: Elias Limneos
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
+Filename: /debs/AudioRecorder1.8-23.deb
+Size: 3907432
+MD5sum: c66bbd7bbd3224c2642070cfd74f03a0
+
 Package: com.AKiiimFrankyN0uva.MitsuhaXI0.5.3
 Name: MitsuhaXI !
 Version: 0.5.3
@@ -22,7 +37,7 @@ Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/AudioSnapshotServer1.0.0.html
 Author: Ominousness
 Section: Tweaks
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/AudioSnapshotServer1.0.0.deb
 Size: 6452
 MD5sum: bc4cff81c38393f9ae5edbb491ba1189
