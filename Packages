@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.Upscale0.3.0-3
+Name: Upscale !
+Version: 0.3.0-3
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! An awesome MobileSubstrate tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Upscale0.3.0-3.html
+Author: bd452
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.bd452.upscale
+Filename: /debs/Upscale0.3.0-3.deb
+Size: 20820
+MD5sum: 7faecd9e0064ce25af0efbe100479c44
+
 Package: com.AKiiimFrankyN0uva.RealLPMToggle1.0-2+debug
 Name: RealLPMToggle !
 Version: 1.0-2+debug
