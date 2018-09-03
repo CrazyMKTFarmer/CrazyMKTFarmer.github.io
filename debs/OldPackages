@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Priority0.0.6-7
+Name: Priority Hub !
+Version: 0.0.6-7
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Organize your notifications!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Priority0.0.6-7.html
+Author: Thomas Finch <tomf64@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Priority0.0.6-7.deb
+Size: 60662
+MD5sum: 4ecb3d49bd2edac0ec00bb8970577eb6
+
 Package: com.AKiiimFrankyN0uva.MusicSection0.0-beta1
 Name: MusicSection !
 Version: 0.0-beta1
