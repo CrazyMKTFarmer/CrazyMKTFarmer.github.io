@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.AudioRecorder1.6-93k
+Name: AudioRecorder 2 (iOS 8,9,10,11) !
+Version: 1.6-93k
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AudioRecorder1.6-93k.html
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: net.limneos.callrecorder
+Filename: /debs/AudioRecorder1.6-93k.deb
+Size: 3837930
+MD5sum: 337dfdf36a22c6ff465d17fd2065d9dc
+
 Package: com.AKiiimFrankyN0uva.CCViewCharge1.0.0
 Name: CCViewCharge !
 Version: 1.0.0
