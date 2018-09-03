@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DLGMemor1.1.1
+Name: DLGMemor Injected !
+Version: 1.1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Injection library that allows you to alter memory in app. Once installed go into settings go to DLGMemorInjected and select the app you want to hack the memory in. Great alternative to gameplayer and Gamegem. Works great on iOS 11.3.1 This was uploaded by @MODZ4FUN420 Please send donations to cloverdeth420@yahoo.com I accept PayPal and Amazon GiftRewards. Buy me a a coffee or something if you want me to help get these goodies. Have a few screenshots in the screenshots section that should help with use of this.To get this updated first add my repo to Cydia and install from there first. Add this source https://modz4fun420.yourepo.com/
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DLGMemor1.1.1.html
+Author: AnonymousxiosdeV
+Section: IOS 11.3.1
+Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DLGMemor1.1.1.deb
+Size: 264678
+MD5sum: 22857a32c82a084f70d28dc65af72aa1
+
 Package: com.AKiiimFrankyN0uva.NoStatusBarNC1.0
 Name: NoStatusBarNC !
 Version: 1.0
