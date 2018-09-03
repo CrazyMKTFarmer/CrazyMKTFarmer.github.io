@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.AudioSnapshotServer1.0.0
+Name: AudioSnapshotServer !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AudioSnapshotServer1.0.0.html
+Author: Ominousness
+Section: Tweaks
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AudioSnapshotServer1.0.0.deb
+Size: 6452
+MD5sum: bc4cff81c38393f9ae5edbb491ba1189
+
 Package: com.AKiiimFrankyN0uva.Upscale0.3.0-3
 Name: Upscale !
 Version: 0.3.0-3
