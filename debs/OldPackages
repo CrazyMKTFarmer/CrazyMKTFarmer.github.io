@@ -1,3 +1,88 @@
+Package: com.AKiiimFrankyN0uva.DiaSilent1.0
+Name: DiaSilent !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Disable Dialer Buttons Sound On Phone app
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DiaSilent1.0.html
+Author: Makwan BK <makwanbarzan@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DiaSilent1.0.deb
+Size: 5058
+MD5sum: 5ddde3c0136424d9e4e42ecc866a62d2
+
+Package: com.AKiiimFrankyN0uva.Fluidity0.1.0
+Name: Fluidity !
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add iPX UI to other iOS 11 devices. Can be installed over FluidEnabler. Respring if Cydia doesn't.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Fluidity0.1.0.html
+Author: Sam Breadman
+Section: Tweaks
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Fluidity0.1.0.deb
+Size: 263768
+MD5sum: b3634be2d7d969147d06b8bb4ec8dedc
+
+Package: com.AKiiimFrankyN0uva.NoUNLockAnimXI1.0
+Name: NoUNLockAnimXI !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Remove Unlock Animation On iOS 11
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoUNLockAnimXI1.0.html
+Author: Makwan BK <makwanbarzan@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoUNLockAnimXI1.0.deb
+Size: 5164
+MD5sum: 596e27d7b1d9943926b8fc493aea70ae
+
+Package: com.AKiiimFrankyN0uva.PickPocket0.92-58
+Name: PickPocket 3 (iOS 11) !
+Version: 0.92-58
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A powerful, full featured and highly customizable tweak against thieves!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PickPocket0.92-58.html
+Author: Ziph0n
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.repo.xarold.com.camshot, ws.hbang.common, com.a3tweaks.flipswitch, org.thebigboss.libcolorpicker, com.repo.xarold.com.karenlocalizer, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.runnersaw.hud, com.ziph0n.pickpocket, com.repo.xarold.com.pickpocket, com.ziph0n.pickpocket10
+Filename: /debs/PickPocket0.92-58.deb
+Size: 710408
+MD5sum: 228433b1d69d4134454378b693f934e2
+
+Package: com.AKiiimFrankyN0uva.RealLPM1.0-8+debug
+Name: RealLPM !
+Version: 1.0-8+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A real low power mode
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/RealLPM1.0-8+debug.html
+Author: DylanDuff
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/RealLPM1.0-8+debug.deb
+Size: 2111086
+MD5sum: a3431ef63681adf8e8a71aea41807577
+
+Package: com.AKiiimFrankyN0uva.Windmill1.1
+Name: Windmill !
+Version: 1.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Windmill for iOS 11
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Windmill1.1.html
+Author: LaughingQuoll
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Windmill1.1.deb
+Size: 74852
+MD5sum: 3ad95f1781f70d002725942e7e799295
+
 Package: com.AKiiimFrankyN0uva.AudioRecorder1.6-93k
 Name: AudioRecorder 2 (iOS 8,9,10,11) !
 Version: 1.6-93k
