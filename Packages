@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.SmoothTable0.0.1-1+debug
+Name: SmoothTable !
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SmoothTable0.0.1-1+debug.html
+Author: pr0crustes
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SmoothTable0.0.1-1+debug.deb
+Size: 18918
+MD5sum: d3c51cfd8a2c03c820803e098f68375a
+
 Package: com.AKiiimFrankyN0uva.CCSpeedUp1.0.1
 Name: CCSpeedUp !
 Version: 1.0.1
