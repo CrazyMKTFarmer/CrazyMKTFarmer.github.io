@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.PassBy1.2
+Name: PassBy !
+Version: 1.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Bypass passcode in many ways
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PassBy1.2.html
+Author: Giorgio Iavicoli <giorgio.iavicoli@icloud.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PassBy1.2.deb
+Size: 42706
+MD5sum: ebf664e8b2e2d027572fa5123db5eb74
+
 Package: com.AKiiimFrankyN0uva.DLGMemor1.1.1
 Name: DLGMemor Injected !
 Version: 1.1.1
