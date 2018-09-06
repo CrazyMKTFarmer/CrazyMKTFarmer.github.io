@@ -1,3 +1,59 @@
+Package: com.AKiiimFrankyN0uva.NoLowPowerAutoLock1.1.2
+Name: NoLowPowerAutoLock !
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Control 'Auto-Lock' when in Low Power mode
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoLowPowerAutoLock1.1.2.html
+Author: Spark
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoLowPowerAutoLock1.1.2.deb
+Size: 87864
+MD5sum: 678314116b7e7c2b3ba3e038a50cb84a
+
+Package: com.AKiiimFrankyN0uva.SneakyCam0.0.5-1-2
+Name: SneakyCam [Members Plus] !
+Version: 0.0.5-1-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Discretely take a photo or record a video from anywhere, even with your screen off.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SneakyCam0.0.5-1-2.html
+Author: Spark
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SneakyCam0.0.5-1-2.deb
+Size: 58772
+MD5sum: ec7e1b2f472ee8544043d0d8170eb001
+
+Package: com.AKiiimFrankyN0uva.AppStore++1.0.0.0
+Name: AppStore++ !
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! No Ads On AppStore
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AppStore++1.0.0.0.html
+Author: Hollr2099
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 10.3.3), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AppStore++1.0.0.0.deb
+Size: 4868
+MD5sum: 989e4edc42e3a31f47843d9214bc20b7
+
+Package: com.AKiiimFrankyN0uva.Safari++1.0.0.0
+Name: Safari++ !
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Background Playback On Safari
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Safari++1.0.0.0.html
+Author: Hollr2099
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.4.1), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Safari++1.0.0.0.deb
+Size: 4416
+MD5sum: 75418331695e32db6ce1d423d74b3ece
+
 Package: com.AKiiimFrankyN0uva.PassBy1.2
 Name: PassBy !
 Version: 1.2
