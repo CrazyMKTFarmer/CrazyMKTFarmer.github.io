@@ -1,3 +1,34 @@
+Package: com.AKiiimFrankyN0uva.Hyperion0.3.2-2
+Name: Hyperion [Members Plus] !
+Version: 0.3.2-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! OLED notification tweak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Hyperion0.3.2-2.html
+Author: Spark
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Hyperion0.3.2-2.deb
+Size: 2211136
+MD5sum: f415f46523dd10c82bd034c4d744189b
+
+Package: com.AKiiimFrankyN0uva.PowerSelector1.1-2
+Name: PowerSelector (iOS 11) !
+Version: 1.1-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! The power supply relation of a device is operated.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PowerSelector1.1-2.html
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Section: IOS 11.3.1
+Depends: preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.powerselector
+Replaces: com.ichitaso.powerselector11
+Filename: /debs/PowerSelector1.1-2.deb
+Size: 79706
+MD5sum: e24ae2b0e1b7dc3b4dd887c5c8aade9f
+
 Package: com.AKiiimFrankyN0uva.EvanescoXI1.3.1
 Name: EvanescoXI !
 Version: 1.3.1
