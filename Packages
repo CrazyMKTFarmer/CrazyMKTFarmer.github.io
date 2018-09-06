@@ -1,3 +1,33 @@
+Package: com.AKiiimFrankyN0uva.EvanescoXI1.3.1
+Name: EvanescoXI !
+Version: 1.3.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Clear Your Homescreen After Inactivity
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/EvanescoXI1.3.1.html
+Author: CP Digital Darkroom, 1Conan
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.cpdigitaldarkroom.evanesco
+Filename: /debs/EvanescoXI1.3.1.deb
+Size: 137376
+MD5sum: 1556329997dd1ac4078446663a75d779
+
+Package: com.AKiiimFrankyN0uva.HideKBSettings1.0.0
+Name: HideKBSettings (iOS 11) !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hide "Keyboard Settings" from the globe button switcher
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/HideKBSettings1.0.0.html
+Author: ichitaso
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: firmware (>= 11.0)
+Filename: /debs/HideKBSettings1.0.0.deb
+Size: 43406
+MD5sum: 0d447b31f2fcd44d4b7607f0df17313d
+
 Package: com.AKiiimFrankyN0uva.NoLowPowerAutoLock1.1.2
 Name: NoLowPowerAutoLock !
 Version: 1.1.2
