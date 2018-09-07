@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Accelerated1.6
+Name: Accelerated Home Button !
+Version: 1.6
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Speeds up home button presses
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Accelerated1.6.html
+Author: Mehul Rao <mehulrao@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Accelerated1.6.deb
+Size: 4192
+MD5sum: 175aff97ebcd8d8b0f80a7d4c21828a8
+
 Package: com.AKiiimFrankyN0uva.AdBlock1.0.7
 Name: AdBlock for YouTube !
 Version: 1.0.7
