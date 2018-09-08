@@ -1,3 +1,19 @@
+Package: com.AKiiimFrankyN0uva.Super2.40-2
+Name: Super Recorder !
+Version: 2.40-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Call Recorder & Voice Amplifier
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Super2.40-2.html
+Author: hAcx <superrecorder@hacx.org>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.4), com.rpetrich.rocketbootstrap (>= 1.0.6), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder.ios9
+Replaces: repo.so.superrecorder
+Filename: /debs/Super2.40-2.deb
+Size: 8285418
+MD5sum: 96c02feecca45b8dd224e7d3f28c30da
+
 Package: com.AKiiimFrankyN0uva.ImageBoard2.0
 Name: ImageBoard !
 Version: 2.0
