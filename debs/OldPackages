@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.CatchaThief1.0.0-1+debug
+Name: CatchaThief !
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CatchaThief1.0.0-1+debug.html
+Author: Jake James
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CatchaThief1.0.0-1+debug.deb
+Size: 16850
+MD5sum: 3a9bfcc91717ed8d0850b53b8038969f
+
+Package: com.AKiiimFrankyN0uva.WeatherLock0.0.1-102+debug
+Name: WeatherLock !
+Version: 0.0.1-102+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! animated weather background on the lock and home screen
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/WeatherLock0.0.1-102+debug.html
+Author: rainwolf <rainwolf@submanifold.be>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/WeatherLock0.0.1-102+debug.deb
+Size: 44294
+MD5sum: 0a5610a85a6390ec1206998d6f7b90ec
+
 Package: com.AKiiimFrankyN0uva.Abeo0.0.1-19-debug
 Name: Abeo !
 Version: 0.0.1-19-debug
