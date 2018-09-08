@@ -1,3 +1,88 @@
+Package: com.AKiiimFrankyN0uva.Cabello1.0
+Name: Cabello !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Buttons, your way.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Cabello1.0.html
+Author: daniel63194
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader, ws.hbang.common (>= 1.11), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Cabello1.0.deb
+Size: 719492
+MD5sum: d3ce307b15d254fb0d418928247ff70d
+
+Package: com.AKiiimFrankyN0uva.SafeShutdown1.01-beta
+Name: SafeShutdown !
+Version: 1.01-beta
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Avoid re-jailbreaking when battery runs out.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SafeShutdown1.01-beta.html
+Author: Kurrt
+Section: IOS 11.3.1
+Depends: mobilesubstrate, net.limneos.libbulletin, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SafeShutdown1.01-beta.deb
+Size: 61712
+MD5sum: 4107a7187f0686f72964e8a04cab6f6b
+
+Package: com.AKiiimFrankyN0uva.CoolFolder2.1
+Name: CoolFolder !
+Version: 2.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! This tweak makes Folder cool!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CoolFolder2.1.html
+Author: 4nni3 <4nni3.14@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CoolFolder2.1.deb
+Size: 55402
+MD5sum: 67bdee2d68f903ef384f5a5013efb0e3
+
+Package: com.AKiiimFrankyN0uva.ByeBlurNotifiBanners1.0
+Name: ByeBlurNotifiBanners !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Remove Blur Notifications Banners
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ByeBlurNotifiBanners1.0.html
+Author: Makwan BK <makwanbarzan@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ByeBlurNotifiBanners1.0.deb
+Size: 4878
+MD5sum: 07b4cba870614240855f19dcde574538
+
+Package: com.AKiiimFrankyN0uva.BetterViber1.0.0
+Name: BetterViber !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Better options for Viber & More!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BetterViber1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/BetterViber1.0.0.deb
+Size: 80350
+MD5sum: fe07302e1c04bd0e3a5eddd2684df215
+
+Package: com.AKiiimFrankyN0uva.AquaBoard0.1-2
+Name: AquaBoard X !
+Version: 0.1-2
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Amazing Water Effects On SpringBoard
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AquaBoard0.1-2.html
+Author: Elias Limneos
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: net.limneos.aquaboard, net.limneos.aquaboard8, com.fuyuchi.unlockize
+Filename: /debs/AquaBoard0.1-2.deb
+Size: 98224
+MD5sum: 952cb23bb03fcf6f73bc896b8346e4f7
+
 Package: com.AKiiimFrankyN0uva.Accelerated1.6
 Name: Accelerated Home Button !
 Version: 1.6
