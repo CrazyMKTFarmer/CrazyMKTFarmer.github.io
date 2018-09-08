@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Abeo0.0.1-19-debug
+Name: Abeo !
+Version: 0.0.1-19-debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Abeo0.0.1-19-debug.html
+Author: CP Digital Darkroom
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Abeo0.0.1-19-debug.deb
+Size: 126762
+MD5sum: db044ac5c6528734c95418de02f81c93
+
 Package: com.AKiiimFrankyN0uva.App1.0r-101
 Name: App Admin !
 Version: 1.0r-101
@@ -823,20 +837,6 @@ Depends: mobilesubstrate, libactivator (>= 1.9.2), firmware (>= 11.0), com.akiii
 Filename: /debs/Backgrounder0.0.3.deb
 Size: 7994
 MD5sum: 3a2347801becc6a3fb6311836b2c503c
-
-Package: com.AKiiimFrankyN0uva.Abeo0.0.1-19+debug
-Name: Abeo
-Version: 0.0.1-19+debug
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Removes the dock and adds a new row of icons.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Abeo0.0.1-19+debug.html
-Author: CP Digital Darkroom <admin@cpdiggitaldarkroom.com>
-Section: IOS 11.3.1
-Depends: mobilesubstrate, com.chpwn.iconsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/Abeo0.0.1-19+debug.deb
-Size: 126722
-MD5sum: 1d6251b073e76982cadb8cdf20929cc9
 
 Package: com.AKiiimFrankyN0uva.CirDock1.3.0
 Name: CirDock
