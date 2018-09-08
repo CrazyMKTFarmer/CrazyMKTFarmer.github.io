@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Falcon1.0-169+debug
+Name: Falcon !
+Version: 1.0-169+debug
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! A powerful, dynamic lock screen and NC add-on!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Falcon1.0-169+debug.html
+Author: Logan O'Connell
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.a3tweaks.flipswitch, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Falcon1.0-169+debug.deb
+Size: 116910
+MD5sum: 85099408e95d5ce8febadc2030314dca
+
 Package: com.AKiiimFrankyN0uva.Cabello1.0
 Name: Cabello !
 Version: 1.0
