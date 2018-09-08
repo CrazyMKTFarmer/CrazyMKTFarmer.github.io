@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ImageBoard2.0
+Name: ImageBoard !
+Version: 2.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Add an image as your background for the keyboard
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ImageBoard2.0.html
+Author: Orangebananaspy <support@orangebananaspy.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ImageBoard2.0.deb
+Size: 1486682
+MD5sum: af083b40a9fa2620c545f8e9866441b5
+
 Package: com.AKiiimFrankyN0uva.CatchaThief1.0.0-1+debug
 Name: CatchaThief !
 Version: 1.0.0-1+debug
