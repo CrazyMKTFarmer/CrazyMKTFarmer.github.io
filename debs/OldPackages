@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.App1.0r-101
+Name: App Admin !
+Version: 1.0r-101
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Downgrade iOS apps to any previous version! No AppSync needed!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/App1.0r-101.html
+Author: UnlimApps Inc.
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
+Filename: /debs/App1.0r-101.deb
+Size: 861462
+MD5sum: 6291cd4f57a327b213904525efe39b9a
+
 Package: com.AKiiimFrankyN0uva.BetterCCIconsPro1.0.7
 Name: BetterCCIconsPro !
 Version: 1.0.7
@@ -468,21 +483,6 @@ Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/MusicSection0.0-beta1.deb
 Size: 5326
 MD5sum: c045ef2b78ad5a6c00422314a3d45c1d
-
-Package: com.AKiiimFrankyN0uva.AudioRecorder1.8-23
-Name: AudioRecorder 2 (iOS 8,9,10,11) !
-Version: 1.8-23
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Most Advanced iOS Call Recorder Ever!
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/AudioRecorder1.8-23.html
-Author: Elias Limneos
-Section: IOS 11.3.1
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
-Filename: /debs/AudioRecorder1.8-23.deb
-Size: 3907432
-MD5sum: c66bbd7bbd3224c2642070cfd74f03a0
 
 Package: com.AKiiimFrankyN0uva.MitsuhaXI0.5.3
 Name: MitsuhaXI !
@@ -1325,21 +1325,6 @@ Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfranky
 Filename: /debs/CCSpaceItems1.0.0.deb
 Size: 68816
 MD5sum: 72122e352dd8cbc83cdb9ef03de3c2d9
-
-Package: com.AKiiimFrankyN0uva.App1.0r-101
-Name: App Admin
-Version: 1.0r-101
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Downgrade iOS apps to any previous version! No AppSync needed!!!
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/App1.0r-101.html
-Author: UnlimApps Inc.
-Section: IOS 11.3.1
-Depends: firmware (>= 7.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: it.marcocristalli.asupdatehider, com.repo.xarold.com.asupdatehider
-Filename: /debs/App1.0r-101.deb
-Size: 861452
-MD5sum: db21365f6d18645ab18bf50fd74c760c
 
 Package: com.AKiiimFrankyN0uva.Activator1.0
 Name: Activator Việt Hoá
@@ -2855,21 +2840,6 @@ Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.akiiimfran
 Filename: /debs/BetterCCXI1.3.9.deb
 Size: 60980
 MD5sum: ad42c853848721a6914133ad0d3a4971
-
-Package: com.AKiiimFrankyN0uva.AudioRecorder1.6-93
-Name: AudioRecorder 2 (iOS 8,9,10,11)
-Version: 1.6-93
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Most Advanced iOS Call Recorder Ever!
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/AudioRecorder1.6-93.html
-Author: Elias Limneos
-Section: IOS 11.3.1
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Conflicts: net.limneos.callrecorder, com.repo.xarold.com.callrecorder
-Filename: /debs/AudioRecorder1.6-93.deb
-Size: 3834558
-MD5sum: 9026d4555230969ede3b869922716aaa
 
 Package: com.AKiiimFrankyN0uva.BigShotJb0.0.2-2
 Name: BigShotJb (iOS 11)
