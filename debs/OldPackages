@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.AutoWall0.0-beta1f
+Name: AutoWall !
+Version: 0.0-beta1f
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Scheduled Wallpapers
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AutoWall0.0-beta1f.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AutoWall0.0-beta1f.deb
+Size: 53440
+MD5sum: 25bd33fc6cedbec2910caebfedd51fb4
+
 Package: com.AKiiimFrankyN0uva.BetterBlurCCXI1.1
 Name: BetterBlurCCXI !
 Version: 1.1
