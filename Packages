@@ -1,3 +1,60 @@
+Package: com.AKiiimFrankyN0uva.TinXieNotJailbrokenRichartDog1.0.0
+Name: TinXieNotJailbrokenRichartDog !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Prevent the Richart app detecting jailbreak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/TinXieNotJailbrokenRichartDog1.0.0.html
+Author: TinXie <s2339956@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/TinXieNotJailbrokenRichartDog1.0.0.deb
+Size: 26710
+MD5sum: cd70f374edc837fbb6d889dc6535fed9
+
+Package: com.AKiiimFrankyN0uva.stretcher0.6.0b
+Name: stretcher !
+Version: 0.6.0b
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! force apps to use full screen on iPhone X
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/stretcher0.6.0b.html
+Author: CreatureSurvive
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/stretcher0.6.0b.deb
+Size: 2892
+MD5sum: a73d48bac638853c84682bb0dacc72d0
+
+Package: com.AKiiimFrankyN0uva.PowerAdvanced1.0.1
+Name: PowerAdvanced !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Menu Power with Advanced Options.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PowerAdvanced1.0.1.html
+Author: SharkLatan
+Section: IOS 11.3.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PowerAdvanced1.0.1.deb
+Size: 23738
+MD5sum: 7007f66bd77aa3e0c0269067549dcf03
+
+Package: com.AKiiimFrankyN0uva.DraGo++1.9.3r-30
+Name: DraGo++ for Electra! !
+Version: 1.9.3r-30
+Architecture: iphoneos-arm
+Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Hacks and more for Draconius GO!!! Bypass JB Detection.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DraGo++1.9.3r-30.html
+Author: Global++ Devs
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 7.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.cokepokes.masterball, com.ryleyangus.pokepatch, com.repo.xarold.com.pokepatch, com.williamcobb.pokemonpatch, com.sull.masterball, com.williamcobb.pokemongoanywhere, com.repo.xarold.com.pokemongoanywhere, com.williamcobb.pokemongoanywherebeta, com.pokego2.draconiuspp
+Filename: /debs/DraGo++1.9.3r-30.deb
+Size: 4260522
+MD5sum: 866f29b23c19bdf866e9c689c00007ee
+
 Package: com.AKiiimFrankyN0uva.FrontPage1.1
 Name: FrontPage !
 Version: 1.1
