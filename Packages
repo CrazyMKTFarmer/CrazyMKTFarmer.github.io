@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Deluminator1.0.1
+Name: Deluminator !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Night mode for the web
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Deluminator1.0.1.html
+Author: FoxfortMobile
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Deluminator1.0.1.deb
+Size: 162008
+MD5sum: 940ec6416a7ec0cdb5417122a1f458bb
+
 Package: com.AKiiimFrankyN0uva.LockGlyphXI11.2.2
 Name: LockGlyphXI !
 Version: 11.2.2
