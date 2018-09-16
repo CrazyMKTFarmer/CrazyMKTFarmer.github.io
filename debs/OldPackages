@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.LockGlyphXI11.2.2
+Name: LockGlyphXI !
+Version: 11.2.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Mô phỏng quét vân tay trên màn hình khoá iOS.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LockGlyphXI11.2.2.html
+Author: mur1sdev, remyla
+Section: IOS 11.3.1
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/LockGlyphXI11.2.2.deb
+Size: 118568
+MD5sum: 1f53e1337ba3ab6798a7c583537c12e5
+
 Package: com.AKiiimFrankyN0uva.TinXieNotJailbrokenRichartDog1.0.0
 Name: TinXieNotJailbrokenRichartDog !
 Version: 1.0.0
