@@ -1,3 +1,45 @@
+Package: com.AKiiimFrankyN0uva.NoSlowAnimationsXI5.1.3-1+debug
+Name: NoSlowAnimationsXI !
+Version: 5.1.3-1+debug
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Don’t get slowed down by animations on iOS 11!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoSlowAnimationsXI5.1.3-1+debug.html
+Author: Patrick Knauf
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoSlowAnimationsXI5.1.3-1+debug.deb
+Size: 24292
+MD5sum: a0d2d62eabb0f46289a32b995a23e996
+
+Package: com.AKiiimFrankyN0uva.BTRenamer1.51
+Name: BTRenamer !
+Version: 1.51
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Rename your bluetooth devices
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BTRenamer1.51.html
+Author: Arthur da Paz
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/BTRenamer1.51.deb
+Size: 16134
+MD5sum: e34e9c26de8af6fcad9d98b4d9b2155c
+
+Package: com.AKiiimFrankyN0uva.LendMyPhone1.0.4
+Name: LendMyPhone !
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! A true guest mode for iOS
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LendMyPhone1.0.4.html
+Author: Luke Muris
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.muris.libgraphite (>= 1.1-beta3), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/LendMyPhone1.0.4.deb
+Size: 7222392
+MD5sum: ec3539301819ccbbe1fe8f5005c00ab5
+
 Package: com.AKiiimFrankyN0uva.Deluminator1.0.1
 Name: Deluminator !
 Version: 1.0.1
