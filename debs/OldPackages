@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.DockInSwitcher1.0-17+debug
+Name: DockInSwitcher !
+Version: 1.0-17+debug
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Makes the dock visible in the App Switcher at all times.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DockInSwitcher1.0-17+debug.html
+Author: SecondEight1
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.imkpatil.floatingdock, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DockInSwitcher1.0-17+debug.deb
+Size: 20870
+MD5sum: ce83fadeb51f5b1882f849f519091e0e
+
 Package: com.AKiiimFrankyN0uva.Safari1.6.2
 Name: Safari Plus !
 Version: 1.6.2
@@ -36,23 +50,9 @@ Depiction: https://frankynouva.github.io/depic/IconRepo.html
 Author: FrankyNouva
 Section: System
 Essential: yes
-Filename: /debs/Repo.deb
+Filename: /debs/IconRepo.deb
 Size: 4704
 MD5sum: 3486c6e512e5ed00eb2697fe1ff73925
-
-Package: com.AKiiimFrankyN0uva.Plus1.0.2
-Name: Plus Crack !
-Version: 1.0.2
-Architecture: iphoneos-arm
-Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Plus Crack removes ADS in the following tweaks: Facebook++, WhatsApp++, Twitter++, Instagram++, Viber++, Vine++, Netflix++, Tinder++.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Plus1.0.2.html
-Author: PjStarsky
-Section: Tweaks
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/Plus1.0.2.deb
-Size: 75196
-MD5sum: 387e5344ed37f3b73e49b1e0484a8f8b
 
 Package: com.AKiiimFrankyN0uva.PlusNoAds0.0.1-16+debug
 Name: PlusNoAds !
