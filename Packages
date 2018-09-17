@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Safari1.6.2
+Name: Safari Plus !
+Version: 1.6.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Various enhancements to Safari!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Safari1.6.2.html
+Author: opa334 <opa334@protonmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, net.limneos.libbulletin, com.rpetrich.rocketbootstrap, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Safari1.6.2.deb
+Size: 540554
+MD5sum: 0642d9f8e9d9b5d2c7fa8e2f2d2211b8
+
 Package: com.AKiiimFrankyN0uva.NavAway0.7
 Name: NavAway !
 Version: 0.7
