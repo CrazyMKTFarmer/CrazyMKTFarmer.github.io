@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.PlusNoAds0.0.1-16+debug
+Name: PlusNoAds !
+Version: 0.0.1-16+debug
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Blocks ads on the ++ tweaks. At this moment works only on Youtube ++, Twitter ++, Facebook ++, Instagram ++ and Whatsapp ++
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PlusNoAds0.0.1-16+debug.html
+Author: Jake James
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PlusNoAds0.0.1-16+debug.deb
+Size: 
+MD5sum: 
+
 Package: com.AKiiimFrankyN0uva.SettingsCollapse1.0
 Name: SettingsCollapse !
 Version: 1.0
