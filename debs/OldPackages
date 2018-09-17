@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Nebula1.0.0
+Name: Nebula !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Universal darkmode for webpages.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Nebula1.0.0.html
+Author: Squ1dd13, Muirey03
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), applist, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Nebula1.0.0.deb
+Size: 197290
+MD5sum: 5471f68c07fdf5c59a41f039d789363f
+
 Package: com.AKiiimFrankyN0uva.DockInSwitcher1.0-17+debug
 Name: DockInSwitcher !
 Version: 1.0-17+debug
@@ -65,8 +79,8 @@ Author: Jake James
 Section: IOS 11.3.1
 Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/PlusNoAds0.0.1-16+debug.deb
-Size: 
-MD5sum: 
+Size: 12886
+MD5sum: 1007a5fa01fc0b5e7b00ae2311080743
 
 Package: com.AKiiimFrankyN0uva.SettingsCollapse1.0
 Name: SettingsCollapse !
