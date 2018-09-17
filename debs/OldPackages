@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.NavAway0.7
+Name: NavAway !
+Version: 0.7
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! hide nav bar when swiping in scroll views
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NavAway0.7.html
+Author: Wh0ba <whappfanr@yahoo.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NavAway0.7.deb
+Size: 19630
+MD5sum: caab7a3846ccbef42fdf1bc032b82f97
+
+Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
+Name: AKiiim Repo Icons
+Version: 3.0
+Architecture: iphoneos-arm
+Description: Officials AKiiim Repo Icons
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/IconRepo.html
+Author: FrankyNouva
+Section: System
+Essential: yes
+Filename: /debs/Repo.deb
+Size: 4704
+MD5sum: 3486c6e512e5ed00eb2697fe1ff73925
+
 Package: com.AKiiimFrankyN0uva.Plus1.0.2
 Name: Plus Crack !
 Version: 1.0.2
