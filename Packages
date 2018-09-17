@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.SafeShutdown1.03-beta
+Name: SafeShutdown Cracked !
+Version: 1.03-beta
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SafeShutdown1.03-beta.html
+Author: Kurrt <dev@kurrt.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, net.limneos.libbulletin, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.kurrt.safeshutdown, com.yourepo.mohadu31.safeshutdown, com.hackyouriphone.safeshutdown, com.repo.xarold.com.safeshutdown
+Filename: /debs/SafeShutdown1.03-beta.deb
+Size: 78736
+MD5sum: efb74545742e48cf6416e55a33e4dfd7
+
 Package: com.AKiiimFrankyN0uva.Nebula1.0.0
 Name: Nebula !
 Version: 1.0.0
@@ -481,20 +496,6 @@ Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader,
 Filename: /debs/Cabello1.0.deb
 Size: 719492
 MD5sum: d3ce307b15d254fb0d418928247ff70d
-
-Package: com.AKiiimFrankyN0uva.SafeShutdown1.01-beta
-Name: SafeShutdown !
-Version: 1.01-beta
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Avoid re-jailbreaking when battery runs out.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/SafeShutdown1.01-beta.html
-Author: Kurrt
-Section: IOS 11.3.1
-Depends: mobilesubstrate, net.limneos.libbulletin, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/SafeShutdown1.01-beta.deb
-Size: 61712
-MD5sum: 4107a7187f0686f72964e8a04cab6f6b
 
 Package: com.AKiiimFrankyN0uva.CoolFolder2.1
 Name: CoolFolder !
