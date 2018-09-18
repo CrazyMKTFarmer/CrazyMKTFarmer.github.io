@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ByeClocknDate111.0.2
+Name: ByeClocknDate11 !
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! This Tweak let you of getting rid of the Clock and Date on the LockScreen. Works also on iOS 11!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ByeClocknDate111.0.2.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ByeClocknDate111.0.2.deb
+Size: 3524
+MD5sum: 140a6e01001bddb06046b61d189a87f2
+
 Package: com.AKiiimFrankyN0uva.SwipeUptoKillX1.0.0
 Name: SwipeUptoKillX !
 Version: 1.0.0
@@ -17,7 +31,7 @@ Name: test
 Version: 1.1
 Architecture: iphoneos-arm
 Description: Test thôi, không cài nhé
- Depiction: https://ispeas.blogspot.com
+Depiction: https://ispeas.blogspot.com
 Author: CydiaGeek <lucaluca86@aol.com>
 Section: Tweaks
 Maintainer: CydiaGeek <lucaluca86@aol.com>
