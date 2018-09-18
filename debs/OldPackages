@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.SwipeUptoKillX1.0.0
+Name: SwipeUptoKillX !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Just Swipe Up the Applications in the Switcher to Simply Kill Them! Thanks mxmlashlah.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SwipeUptoKillX1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SwipeUptoKillX1.0.0.deb
+Size: 6854
+MD5sum: a7a61b1ba5019d0a4a91a9b8a983a6a9
+
+Package: com.yourepo.cydiageek.test
+Name: test
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Test thôi, không cài nhé
+ Depiction: https://ispeas.blogspot.com
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: Tweaks
+Maintainer: CydiaGeek <lucaluca86@aol.com>
+Depends: mobilesubstrate
+Filename: /debs/test.deb
+Size: 2768
+MD5sum: 4c29c93d4a4dc3d08613963c32d8807a
+
 Package: com.AKiiimFrankyN0uva.FlightRadar247.5.0
 Name: FlightRadar24 GOLD !
 Version: 7.5.0
