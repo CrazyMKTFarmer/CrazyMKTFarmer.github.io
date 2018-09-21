@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ChangeMyOldies1.0.0
+Name: ChangeMyOldies !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Change "No Older Notification" text to whatever you want!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ChangeMyOldies1.0.0.html
+Author: Kiet Ha <kaitouiet@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ChangeMyOldies1.0.0.deb
+Size: 42454
+MD5sum: 307b1918c9cebb93ba2fc2dc5ec61a64
+
 Package: com.AKiiimFrankyN0uva.ByeClocknDate111.0.2
 Name: ByeClocknDate11 !
 Version: 1.0.2
