@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Lifeguard1.0
+Name: Lifeguard !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Respring your device using the hardware buttons.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Lifeguard1.0.html
+Author: Kurrt
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Lifeguard1.0.deb
+Size: 136588
+MD5sum: 777d5aa7ba73e418feac2b439663a919
+
 Package: com.AKiiimFrankyN0uva.MusicDockX0.0.6-8k
 Name: MusicDockX !
 Version: 0.0.6-8k
@@ -77,7 +91,7 @@ Depiction: https://ispeas.blogspot.com/2018/09/sbboosterxi-speed-up-your-springb
 Maintainer: NTNghia & FrankyNouva
 Author: NTNghia & FrankyNouva
 Section: Tweaks
-Version: 1.0.1
+Version: 1.0.2
 Installed-Size: 228
 Filename: /debs/SBBoosterXI.deb
 Size: 27530
