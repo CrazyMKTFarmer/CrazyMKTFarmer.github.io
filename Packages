@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CustomCallBackground1.0.0
+Name: CustomCallBackground !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Choose Custom Calls Backgrounds Style!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CustomCallBackground1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CustomCallBackground1.0.0.deb
+Size: 72176
+MD5sum: 639e273595d2ed1d7e0c13aabfae5498
+
 Package: com.AKiiimFrankyN0uva.AssistiveTouchX1.0
 Name: AssistiveTouchX !
 Version: 1.0
@@ -28,7 +42,7 @@ MD5sum: eb4196766c359b1c242b26b45c925ca1
 
 Package: com.frankynghia.sbboosterxi
 Name: SBBoosterXI
-Depends: mobilesubstrate, firmware (>= 11.0) , com.akiiimfrankynouva.SBBoosterXIDeam, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
 Architecture: iphoneos-arm
 Description: Speedup your springboard!
 Depiction: https://ispeas.blogspot.com/2018/09/sbboosterxi-speed-up-your-springboard.html
@@ -38,8 +52,8 @@ Section: Tweaks
 Version: 1.0.1
 Installed-Size: 228
 Filename: /debs/SBBoosterXI.deb
-Size: 27554
-MD5sum: 8c7ada95c0f4e20b74a97a0d8ae8fe98
+Size: 27542
+MD5sum: 63b88f9a62428ddee0cca2b76fae22b9
 
 Package: com.AKiiimFrankyN0uva.MessageHeadsXI1.1-7b1
 Name: MessageHeadsXI - cracked !
