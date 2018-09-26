@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.ElevenCydiaHome1.2
+Name: ElevenCydiaHome !
+Version: 1.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Thiết kế lại giao diện cho Cydia.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ElevenCydiaHome1.2.html
+Author: G0ky <goky08@outlook.es>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ElevenCydiaHome1.2.deb
+Size: 1071734
+MD5sum: d26000918332cadc6a324aad5af4457e
+
 Package: com.AKiiimFrankyN0uva.CustomCallBackground1.0.0
 Name: CustomCallBackground !
 Version: 1.0.0
@@ -45,7 +59,7 @@ Name: SBBoosterXI
 Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
 Architecture: iphoneos-arm
 Description: Speedup your springboard!
-Depiction: https://ispeas.blogspot.com/2018/09/sbboosterxi-speed-up-your-springboard.html
+Depiction: https://ispeas.blogspot.com/2018/09/sbboosterxi-speed-up-your-springboard_26.html
 Maintainer: NTNghia & FrankyNouva
 Author: NTNghia & FrankyNouva
 Section: Tweaks
