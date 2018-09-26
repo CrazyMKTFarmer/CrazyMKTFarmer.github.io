@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.NoPlsOCSP1.0-3-debug
+Name: NoPlsOCSP !
+Version: 1.0-3-debug
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoPlsOCSP1.0-3-debug.html
+Author: Pwn20wnd <pwn20wndstuff@gmail.com>
+Section: IOS 11.3.1
+Depends: bash, cy+cpu.arm64, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Pre-depends: dpkg (>= 1.14.25-8)
+Filename: /debs/NoPlsOCSP1.0-3-debug.deb
+Size: 10760
+MD5sum: ab9d2fbda9531b5d8a5d575fb4e5bb09
+
 Package: com.AKiiimFrankyN0uva.JSTTeam1.0
 Name: JSTTeam !
 Version: 1.0
