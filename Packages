@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.MusicDockX0.0.6-8k
+Name: MusicDockX !
+Version: 0.0.6-8k
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Trình phát nhạc bên dưới thanh Dock.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/MusicDockX0.0.6-8k.html
+Author: Spark
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/MusicDockX0.0.6-8k.deb
+Size: 131500
+MD5sum: 017bf5f5cd7b022da555f63713c89c57
+
 Package: com.AKiiimFrankyN0uva.ElevenCydiaHome1.2
 Name: ElevenCydiaHome !
 Version: 1.2
@@ -66,8 +80,8 @@ Section: Tweaks
 Version: 1.0.1
 Installed-Size: 228
 Filename: /debs/SBBoosterXI.deb
-Size: 27542
-MD5sum: 63b88f9a62428ddee0cca2b76fae22b9
+Size: 27530
+MD5sum: 3006af2dca5ebd7d2ec560be8af8db1b
 
 Package: com.AKiiimFrankyN0uva.MessageHeadsXI1.1-7b1
 Name: MessageHeadsXI - cracked !
