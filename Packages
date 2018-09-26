@@ -1,3 +1,32 @@
+Package: com.AKiiimFrankyN0uva.DontKillMyMusic1.0.2-1
+Name: DontKillMyMusic !
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! A tweak that prevents you from killing the app that is currently playing.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DontKillMyMusic1.0.2-1.html
+Author: Karimo299
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/DontKillMyMusic1.0.2-1.deb
+Size: 33446
+MD5sum: eb4196766c359b1c242b26b45c925ca1
+
+Package: com.frankynghia.sbboosterxi
+Name: SBBoosterXI
+Depends: mobilesubstrate, firmware (>= 11.0) , com.akiiimfrankynouva.SBBoosterXIDeam, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Architecture: iphoneos-arm
+Description: Speedup your springboard!
+Depiction: https://ispeas.blogspot.com/2018/09/sbboosterxi-speed-up-your-springboard.html
+Maintainer: NTNghia & FrankyNouva
+Author: NTNghia & FrankyNouva
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 228
+Filename: /debs/SBBoosterXI.deb
+Size: 27554
+MD5sum: 8c7ada95c0f4e20b74a97a0d8ae8fe98
+
 Package: com.AKiiimFrankyN0uva.MessageHeadsXI1.1-7b1
 Name: MessageHeadsXI - cracked !
 Version: 1.1-7b1
