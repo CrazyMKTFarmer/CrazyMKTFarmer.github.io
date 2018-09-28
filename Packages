@@ -2,6 +2,20 @@ Package: com.AKiiimFrankyN0uva.Ultrasound1.0
 Name: Ultrasound !
 Version: 1.0
 Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! The volume HUD you deserve. ‚Äî Since iOS 7, the volume HUD has been abysmal. Blocking a large portion of the screen when shown, requiring you to use the buttons to quickly adjust, and taking a long time to dismiss, it is one of the most comm
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Ultrasound1.0.html
+Author: AppleBetas
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Ultrasound1.0.deb
+Size: 553944
+MD5sum: 7e9f90a50a4e1f5bd397cdf08f1b8b6f
+
+Package: com.AKiiimFrankyN0uva.Ultrasound1.0
+Name: Ultrasound !
+Version: 1.0
+Architecture: iphoneos-arm
 Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!!
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/Ultrasound1.0.html
@@ -325,7 +339,7 @@ MD5sum: caab7a3846ccbef42fdf1bc032b82f97
 
 Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Name: AKiiim Repo Icons
-Version: 3.0
+Version: 3.1
 Architecture: iphoneos-arm
 Description: Officials AKiiim Repo Icons
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
@@ -334,8 +348,8 @@ Author: FrankyNouva
 Section: System
 Essential: yes
 Filename: /debs/IconRepo.deb
-Size: 4704
-MD5sum: 3486c6e512e5ed00eb2697fe1ff73925
+Size: 4724
+MD5sum: bbd564d149bd5f9b9ccd6766ddf0863c
 
 Package: com.AKiiimFrankyN0uva.PlusNoAds0.0.1-16+debug
 Name: PlusNoAds !
