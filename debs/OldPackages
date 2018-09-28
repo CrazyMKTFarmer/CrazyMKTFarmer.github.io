@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.AlbumHider0.0-beta1
+Name: AlbumHider !
+Version: 0.0-beta1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AlbumHider0.0-beta1.html
+Author: julioverne
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/AlbumHider0.0-beta1.deb
+Size: 17764
+MD5sum: b9008e1b195cc6eb4f15a131c6098474
+
 Package: com.AKiiimFrankyN0uva.Ultrasound1.0
 Name: Ultrasound !
 Version: 1.0
