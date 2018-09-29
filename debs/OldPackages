@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.Gif2Ani2.0-beta1
+Name: Gif2Ani V2 !
+Version: 2.0-beta1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! iOS Respring animations from any gif you want
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Gif2Ani2.0-beta1.html
+Author: wizages <wizagesmax@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker, com.wizages.writeanywhere, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.wizages.gif2ani
+Filename: /debs/Gif2Ani2.0-beta1.deb
+Size: 30552
+MD5sum: 1fc2a2e880e975366bb9cd5be22c6ad6
+
 Package: com.AKiiimFrankyN0uva.AlbumHider0.0-beta1
 Name: AlbumHider !
 Version: 0.0-beta1
