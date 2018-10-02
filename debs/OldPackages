@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.Activator++1.0.0.0
+Name: Activator++ !
+Version: 1.0.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! No Ads On Activator from Cydia
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator++1.0.0.0.html
+Author: Hollr2099
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), firmware (<= 11.4.1), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Activator++1.0.0.0.deb
+Size: 7514
+MD5sum: 0f0a8442b1d28fe8e6c0ef663c7f3661
+
 Package: com.AKiiimFrankyN0uva.BOOM1.2.5
 Name: BOOM cr4cked !
 Version: 1.2.5
