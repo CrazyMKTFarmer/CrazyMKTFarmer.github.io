@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.StrongerFi1.0.0-beta3
+Name: StrongerFi !
+Version: 1.0.0-beta3
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Auto switch to the strongest WiFi Network.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/StrongerFi1.0.0-beta3.html
+Author: tateu (Josh Harris)
+Section: IOS 11.3.1
+Depends: firmware (>= 9.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/StrongerFi1.0.0-beta3.deb
+Size: 85580
+MD5sum: d54b7ec3e9b4d210b8a0437898460102
+
 Package: com.AKiiimFrankyN0uva.Activator++1.0.0.0
 Name: Activator++ !
 Version: 1.0.0.0
