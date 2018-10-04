@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.NotchStatusBar1.2
+Name: NotchStatusBar !
+Version: 1.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! True iPhone X statusBar system wide.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NotchStatusBar1.2.html
+Author: midkin
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NotchStatusBar1.2.deb
+Size: 39890
+MD5sum: 30763065a90bfd96978532297546af9b
+
 Package: com.AKiiimFrankyN0uva.NoLowPowerAlert0.1-1
 Name: NoLowPowerAlert !
 Version: 0.1-1
@@ -21,7 +35,7 @@ Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/NeverLowerMusic1.1.html
 Author: Rishanan
 Section: Tweaks
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/NeverLowerMusic1.1.deb
 Size: 2140
 MD5sum: 9d55175d52434dc223fe7dbc02c04bbe
