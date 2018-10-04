@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.NoLowPowerAlert0.1-1
+Name: NoLowPowerAlert !
+Version: 0.1-1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Disables low battery alerts
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoLowPowerAlert0.1-1.html
+Author: hiroshit <hiroshieatworld@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoLowPowerAlert0.1-1.deb
+Size: 3212
+MD5sum: 9898adf07475969c754bf22359a861b2
+
+Package: com.AKiiimFrankyN0uva.NeverLowerMusic1.1
+Name: NeverLowerMusic !
+Version: 1.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal: zilliasrepo@gmail.com
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NeverLowerMusic1.1.html
+Author: Rishanan
+Section: Tweaks
+Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NeverLowerMusic1.1.deb
+Size: 2140
+MD5sum: 9d55175d52434dc223fe7dbc02c04bbe
+
 Package: com.AKiiimFrankyN0uva.StrongerFi1.0.0-beta3
 Name: StrongerFi !
 Version: 1.0.0-beta3
