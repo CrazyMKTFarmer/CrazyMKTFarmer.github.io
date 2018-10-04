@@ -1,16 +1,16 @@
-Package: com.AKiiimFrankyN0uva.BarsXI0.0.3
-Name: BarsXI !
-Version: 0.0.3
+Package: com.AKiiimFrankyN0uva.NoSkypeRotation1.0.0
+Name: NoSkypeRotation !
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Signal Bars from iOS11 .
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! The Tweak just Disables the Rotation on the Skype Application!
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/BarsXI0.0.3.html
-Author: bboyheadman
-Section: System
-Depends: , com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/BarsXI0.0.3.deb
-Size: 3415866
-MD5sum: ef668ff9c996dfbf2243fa1c45ed454e
+Depiction: https://frankynouva.github.io/depic/NoSkypeRotation1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoSkypeRotation1.0.0.deb
+Size: 6586
+MD5sum: b73c68d10f46af1d9980ff4b032b4199
 
 Package: com.AKiiimFrankyN0uva.NotchStatusBar1.2
 Name: NotchStatusBar !
