@@ -7,11 +7,11 @@ Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/Snowboard1.0.html
 Author: Spark & Dennis D. Bednarz
 Section: IOS 11.3.1
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.techsupport1.5.0.1-1, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Depends: mobilesubstrate, jp.ashikase.techsupport, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: /debs/Snowboard1.0.deb
-Size: 433316
-MD5sum: 4dec82406b56f4fa881a7744386bcdc5
+Size: 433306
+MD5sum: 2707a86d053730e88966a17de3606782
 
 Package: com.AKiiimFrankyN0uva.NoDescription0.0.1
 Name: NoDescription (for Cydia) !
@@ -40,21 +40,6 @@ Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
 Filename: /debs/Cydlight1.1.deb
 Size: 3276
 MD5sum: c9d4021b6f7c9e9a3b28a3ad71bbb6dc
-
-Package: com.AKiiimFrankyN0uva.TechSupport1.5.0.1-1
-Name: TechSupport Framework !
-Version: 1.5.0.1-1
-Architecture: iphoneos-arm
-Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Framework to assist in providing feedback to developers.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/TechSupport1.5.0.1-1.html
-Author: Lance Fetters (ashikase) <support@ashikase.com>
-Section: IOS 11.3.1
-Depends: jp.ashikase.libpackageinfo, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Pre-depends: firmware (>= 3.0)
-Filename: /debs/TechSupport1.5.0.1-1.deb
-Size: 114976
-MD5sum: a8c06ef446ba8e02111f6e40ff17fffb
 
 Package: com.AKiiimFrankyN0uva.NoSkypeRotation1.0.0
 Name: NoSkypeRotation !
