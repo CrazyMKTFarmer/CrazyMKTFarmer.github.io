@@ -1,3 +1,18 @@
+Package: com.AKiiimFrankyN0uva.Snowboard1.0
+Name: Snowboard !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Snowboard theming engine
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Snowboard1.0.html
+Author: Spark & Dennis D. Bednarz
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.techsupport1.5.0.1-1, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: /debs/Snowboard1.0.deb
+Size: 433316
+MD5sum: 4dec82406b56f4fa881a7744386bcdc5
+
 Package: com.AKiiimFrankyN0uva.NoDescription0.0.1
 Name: NoDescription (for Cydia) !
 Version: 0.0.1
