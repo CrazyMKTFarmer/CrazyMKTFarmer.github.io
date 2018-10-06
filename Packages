@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FastDeleteX1.2
+Name: FastDeleteX !
+Version: 1.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! An awesome Photos tweak!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FastDeleteX1.2.html
+Author: Mohammad Ghzayel <mohmad_agzail@hotmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FastDeleteX1.2.deb
+Size: 25288
+MD5sum: ed11b80eaf6792e52ef15bab7b664005
+
 Package: com.AKiiimFrankyN0uva.Snowboard1.0
 Name: Snowboard !
 Version: 1.0
