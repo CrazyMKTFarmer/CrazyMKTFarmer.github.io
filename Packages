@@ -1,3 +1,45 @@
+Package: com.AKiiimFrankyN0uva.BioCancel1.0
+Name: BioCancel !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Shows the "Cancel" and "Emergency Call" buttons when on the "Face ID" screen.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/BioCancel1.0.html
+Author: AppleBetas
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/BioCancel1.0.deb
+Size: 2706
+MD5sum: 511edd89093f1875ef2423cf26f87ecf
+
+Package: com.AKiiimFrankyN0uva.NoMoreSeparators0.0.1-54
+Name: NoMoreSeparators !
+Version: 0.0.1-54
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! A tweak to remove the table view separators
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoMoreSeparators0.0.1-54.html
+Author: Umar
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoMoreSeparators0.0.1-54.deb
+Size: 5110
+MD5sum: e3eee8e90b480f448a9a430e89942928
+
+Package: com.AKiiimFrankyN0uva.NoPasscodeButtonLightup2.0.2
+Name: NoPasscodeButtonLightup !
+Version: 2.0.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Prevents the passcode buttons from lighting up.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoPasscodeButtonLightup2.0.2.html
+Author: LeroyB
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoPasscodeButtonLightup2.0.2.deb
+Size: 4458
+MD5sum: ce0ec61e11ad4abc729c7c55f9324007
+
 Package: com.AKiiimFrankyN0uva.CustomSBIconList2.0.2
 Name: CustomSBIconList !
 Version: 2.0.2
