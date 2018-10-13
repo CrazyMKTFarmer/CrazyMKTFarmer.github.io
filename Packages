@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FVideo0.5
+Name: FVideo !
+Version: 0.5
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Facebook video downloader inspired by Prenesi
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FVideo0.5.html
+Author: Arthur da Paz <arthurdapaz@me.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FVideo0.5.deb
+Size: 20444
+MD5sum: 46701ffb3129edac64aa3d5bd2c02941
+
 Package: com.AKiiimFrankyN0uva.Swipe2ViewAccounts1.1
 Name: Swipe2ViewAccounts !
 Version: 1.1
