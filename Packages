@@ -1,3 +1,45 @@
+Package: com.AKiiimFrankyN0uva.CustomNoOlderNotifications1.0.2
+Name: CustomNoOlderNotifications !
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Replaces "No Older Notifications" text with a custom one
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CustomNoOlderNotifications1.0.2.html
+Author: YaYPIXXO
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CustomNoOlderNotifications1.0.2.deb
+Size: 11672
+MD5sum: 8db3617013e7badbfd1e5260342dd8d4
+
+Package: com.AKiiimFrankyN0uva.Cornuicopia1.0.3-1
+Name: Cornuicopia !
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! rounded corners for UI in iOS 11
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Cornuicopia1.0.3-1.html
+Author: i0s_tweak3r <djvs23@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Cornuicopia1.0.3-1.deb
+Size: 33846
+MD5sum: 59356131dc76327691f21ed887659bad
+
+Package: com.AKiiimFrankyN0uva.Clean0.0.1
+Name: Clean Tab !
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Remove iOS Tab Bar Labels
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Clean0.0.1.html
+Author: midnightchips
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Clean0.0.1.deb
+Size: 38758
+MD5sum: 13faade1125d0fc9b4d70e5213d4b5fa
+
 Package: com.AKiiimFrankyN0uva.BioCancel1.0
 Name: BioCancel !
 Version: 1.0
