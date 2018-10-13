@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.FBDarkAdmin1.0.0
+Name: FBDarkAdmin !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Dark mode for Facebook Page
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FBDarkAdmin1.0.0.html
+Author: FoxfortMobile
+Section: IOS 11.3.1
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/FBDarkAdmin1.0.0.deb
+Size: 110296
+MD5sum: 1f8363087c7ca08c271d4f2f633b423f
+
 Package: com.AKiiimFrankyN0uva.CallBar0.3-68
 Name: CallBar X !
 Version: 0.3-68
