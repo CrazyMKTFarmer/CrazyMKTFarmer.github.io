@@ -1,3 +1,17 @@
+Package: com.AKiiimFrankyN0uva.CallBar0.3-68
+Name: CallBar X !
+Version: 0.3-68
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Don't let incoming calls interrupt you!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CallBar0.3-68.html
+Author: Elias Limneos <limneoselias@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CallBar0.3-68.deb
+Size: 189862
+MD5sum: 15aec094e32b3b8dec9ef241e5db3f7b
+
 Package: com.AKiiimFrankyN0uva.FVideo0.5
 Name: FVideo !
 Version: 0.5
