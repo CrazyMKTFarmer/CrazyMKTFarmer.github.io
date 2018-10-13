@@ -1,3 +1,59 @@
+Package: com.AKiiimFrankyN0uva.CustomCC0.2.4BETA2
+Name: CustomCC !
+Version: 0.2.4BETA2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Customize the Control Center!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CustomCC0.2.4BETA2.html
+Author: LeroyB
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CustomCC0.2.4BETA2.deb
+Size: 35974
+MD5sum: 7eae60087a7bdb397b29ef201e4f92ce
+
+Package: com.AKiiimFrankyN0uva.Better3DMenus2.0-85
+Name: Better3DMenus !
+Version: 2.0-85
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Better 3D-Touch Menus!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Better3DMenus2.0-85.html
+Author: dpkg_ <Dpkg9510@gmail.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Better3DMenus2.0-85.deb
+Size: 24230
+MD5sum: 47532f561e6460d79c6130e17b0ebb35
+
+Package: com.AKiiimFrankyN0uva.Amour1.0
+Name: Amour !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Brings additional animations to iOS
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Amour1.0.html
+Author: Luke Muris
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.muris.libgraphite (>= 1.1-beta5), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Amour1.0.deb
+Size: 234464
+MD5sum: 38630104cf95c7ad2526efb90f4012fc
+
+Package: com.AKiiimFrankyN0uva.PhoneForceOpenKeypad1.0.0
+Name: PhoneForceOpenKeypad !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! The Tweak Forces the Phone Application to Always Open the Keypad by Default! Help by Patch of poopoo.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhoneForceOpenKeypad1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhoneForceOpenKeypad1.0.0.deb
+Size: 6594
+MD5sum: 5ea4d561ad81b2a3d7fcf6c68ee6f466
+
 Package: com.AKiiimFrankyN0uva.NoLockScreenCamXI1.0-1+debug
 Name: NoLockScreenCamXI !
 Version: 1.0-1+debug
