@@ -1,3 +1,87 @@
+Package: com.AKiiimFrankyN0uva.Swipe2ViewAccounts1.1
+Name: Swipe2ViewAccounts !
+Version: 1.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Swipe to view accounts in Twitter app.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Swipe2ViewAccounts1.1.html
+Author: b01s <b01s2791@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Swipe2ViewAccounts1.1.deb
+Size: 4430
+MD5sum: 0254cff0b762d130a4ce90e8a8e833dc
+
+Package: com.AKiiimFrankyN0uva.SlimmerBanners1.0
+Name: SlimmerBanners !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Make those banners slimmer, Apple is getting lazy.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SlimmerBanners1.0.html
+Author: Antique
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/SlimmerBanners1.0.deb
+Size: 11756
+MD5sum: 6a1dbed8bb593b95b7b89132cabd51af
+
+Package: com.AKiiimFrankyN0uva.RoundLockScreen1.0
+Name: RoundLockScreen !
+Version: 1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! iPhone X's display has rounded corners. The Lock Screen should too.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/RoundLockScreen1.0.html
+Author: AppleBetas
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/RoundLockScreen1.0.deb
+Size: 5720
+MD5sum: e24de77de238db57021920e8fd3366f6
+
+Package: com.AKiiimFrankyN0uva.NoArtShadow1.0.3
+Name: NoArtShadow !
+Version: 1.0.3
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Hide the album art shadow in the Music app and Springboard
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoArtShadow1.0.3.html
+Author: level3tjg
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 10.0), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoArtShadow1.0.3.deb
+Size: 10796
+MD5sum: 456cfe66a9d34e59b1d7783ad92df0b2
+
+Package: com.AKiiimFrankyN0uva.NoYTHoverCards1.0.1
+Name: NoYTHoverCards !
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Disable YouTube hover cards at the end of videos
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/NoYTHoverCards1.0.1.html
+Author: level3tjg
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/NoYTHoverCards1.0.1.deb
+Size: 7446
+MD5sum: 7d6fb81e3e417fa56334406f001e5010
+
+Package: com.AKiiimFrankyN0uva.CustomStatusBar0.1.0
+Name: CustomStatusBar !
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! For the Statusbar. Removes Carrier text, adds date and free RAM!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CustomStatusBar0.1.0.html
+Author: LeroyB
+Section: IOS 11.3.1
+Depends: mobilesubstrate, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CustomStatusBar0.1.0.deb
+Size: 5072
+MD5sum: b67bc16a91eaf1c0ca2b672623d4080d
+
 Package: com.AKiiimFrankyN0uva.CustomNoOlderNotifications1.0.2
 Name: CustomNoOlderNotifications !
 Version: 1.0.2
