@@ -1,3 +1,61 @@
+Package: com.AKiiimFrankyN0uva.Universal2.9.2
+Name: Universal Video Downloader Plus !
+Version: 2.9.2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Download videos from almost any app!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Universal2.9.2.html
+Author: SPatrickApps <contact@spatrickapps.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 8.0), mobilesubstrate, applist, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Conflicts: com.harrisonapps.universalvideodownloader
+Replaces: com.harrisonapps.universalvideodownloader
+Filename: /debs/Universal2.9.2.deb
+Size: 1154670
+MD5sum: b239fb0fd068284ab02e83d121d42e24
+
+Package: com.AKiiimFrankyN0uva.Share0.1
+Name: Share Anywhere !
+Version: 0.1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! activator shortcuts to show sharesheets/camera.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Share0.1.html
+Author: wizages <wizagesmax@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), libactivator (>= 1.8), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Share0.1.deb
+Size: 57696
+MD5sum: f8a6be1dae80779015d746f58ce1ba9d
+
+Package: com.AKiiimFrankyN0uva.ActiHastebin0.0.1-2
+Name: ActiHastebin !
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Action to upload clipboard to Hastebin
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ActiHastebin0.0.1-2.html
+Author: ipad_kid <ipadkid358@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), libactivator, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/ActiHastebin0.0.1-2.deb
+Size: 18210
+MD5sum: 5ec4eb66f5fff8fd1a9a1aed087c971e
+
+Package: com.AKiiimFrankyN0uva.PhoneForceOpenTabs1.0.0
+Name: PhoneForceOpenTabs !
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Force Phone App to Always Open Chosen Tabs!
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/PhoneForceOpenTabs1.0.0.html
+Author: CydiaGeek <lucaluca86@aol.com>
+Section: IOS 11.3.1
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/PhoneForceOpenTabs1.0.0.deb
+Size: 65106
+MD5sum: c661586a2c6a1650dac1feedbd75f657
+
 Package: com.AKiiimFrankyN0uva.AudioRecorder1.9-2
 Name: AudioRecorder 2 (iOS 8,9,10,11) !
 Version: 1.9-2
