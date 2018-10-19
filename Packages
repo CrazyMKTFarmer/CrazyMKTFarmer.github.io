@@ -1,3 +1,31 @@
+Package: com.AKiiimFrankyN0uva.Profluence1.1.1-1
+Name: Profluence !
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Assign Workflows to Activator actions.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Profluence1.1.1-1.html
+Author: nin9tyfour <nin9tyfour@gmail.com>
+Section: IOS 11.3.1
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), libactivator, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/Profluence1.1.1-1.deb
+Size: 112350
+MD5sum: 89430a4dd1e049c8f8b916d43a3743aa
+
+Package: com.AKiiimFrankyN0uva.CrackerXI1.1.4
+Name: CrackerXI !
+Version: 1.1.4
+Architecture: iphoneos-arm
+Description:Jailbr3aker Sp3cial T3am!!!!!!!!!!!!!!! Decrypts iOS Apps
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CrackerXI1.1.4.html
+Author:
+Section: IOS 11.3.1
+Depends: firmware (>= 11.0), ldid (>= 2.0), ldid (>> 1.2.2-coolstar), com.akiiimfrankynouva.akiiimfrankynouva1.0
+Filename: /debs/CrackerXI1.1.4.deb
+Size: 318792
+MD5sum: 58dc824f116cb95b671e131c8dc43fc2
+
 Package: com.AKiiimFrankyN0uva.Universal2.9.2
 Name: Universal Video Downloader Plus !
 Version: 2.9.2
