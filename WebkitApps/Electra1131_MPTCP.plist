@@ -1,100 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://ipas.fun/Electra1141.ipa</string>
-				</dict>
-				<dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>http://ipa.kenhtao.net/images/electra1131_vfs.png</string>
-	            </dict>
-	            <dict>
-	                <key>kind</key>
-	                <string>full-size-image</string>
-	                <key>needs-shine</key>
-	                <false/>
-	                <key>url</key>
-	                <string>http://ipa.kenhtao.net/images/electra1131_vfs.png</string>
-	            </dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>fun.ignition.Electra1141</string>
-				<key>bundle-version</key>
-				<string>420.4.20</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-                <string>Ignition</string>
-				<key>title</key>
-				<string>
-Electra-JSTeam
-</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://ipas.fun/yalu102.ipa</string>
 </dict>
-</plist>
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://ipas.fun/Electra1141.ipa</string>
-				</dict>
-				<dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <false/>
-                    <key>url</key>
-                    <string>https://cdn.ipas.fun/images/electra1131_mptcp.png</string>
-	            </dict>
-	            <dict>
-	                <key>kind</key>
-	                <string>full-size-image</string>
-	                <key>needs-shine</key>
-	                <false/>
-	                <key>url</key>
-	                <string>https://cdn.ipas.fun/images/electra1131_mptcp.png</string>
-	            </dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>fun.ignition.Electra1141</string>
-				<key>bundle-version</key>
-				<string>420.4.20</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>subtitle</key>
-                <string>Ignition</string>
-				<key>title</key>
-				<string>Electra1131 MPTCP JST</string>
-			</dict>
-		</dict>
-	</array>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://ipa.kenhtao.net/images/yalu.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.tweakbox.Jailbreak Yalu102 b7</string>
+<key>bundle-version</key>
+<string>0.33.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Yalu102</string>
+</dict>
+</dict>
+</array>
 </dict>
 </plist>
