@@ -1,0 +1,21 @@
+.app-icon {
+	border-radius: 30%;
+	width: 60px;
+	height: 60px;
+    box-shadow:0px 0px 10px 0px rgba(46,46,46,1);
+
+}
+.logo {
+	border-radius: 30%;
+	width: 150px;
+	height: 150px;
+    box-shadow:0px 0px 10px 0px rgba(46,46,46,1);
+
+}
+ .contact-header {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+}
+   
