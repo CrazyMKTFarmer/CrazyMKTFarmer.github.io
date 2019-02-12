@@ -45,15 +45,6 @@
      });
 </script>
 </head>
-
-
-
-
-
-
-
-
-
 <body>
 <div class="page-content pull-to-refresh-content transitioning" data-ptr-distance="55">
 <div class="pull-to-refresh-layer">
