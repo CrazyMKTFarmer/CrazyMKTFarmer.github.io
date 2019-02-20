@@ -26,6 +26,7 @@
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="css/style.css">
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1"></script>
 <script>
 	  window.dataLayer = window.dataLayer || [];
@@ -38,6 +39,13 @@
 
 </head>
 <body>
+<body onload="myFunction()">
+<script>
+function myFunction() {
+  alert("Chào mừng bạn đã ghé thăm trang của Franky Nouva");
+}
+</script>
+
 <div class="wrapper">
 <div class="profile-card js-profile-card">
 <div class="profile-card__img">
@@ -102,6 +110,25 @@ img {
 <center>
 (2012 - 2019)
 </center>
+<div id='open_login'>
+      <div class='open_login_'>
+        <center>
+          <div class='title_login'>
+            Franky Nouva
+          </div>
+          <div class='sht-title-login'>
+            Chào mừng bạn đến với trang Jailb3aker Special Team&#39;s Blog
+          </div>
+          <!--<a class='close' href='javascript:void(0)' id='cosnhan' onclick='clickYes()' target='_blank' title='Yes'><i aria-hidden='true' class='fa fa-check'/> Có</a>-->
+          <div class='btnlogin-tkn'>
+            
+            <a class='close btnlog1 btnlog2 btnlog3t btnlog4 btnlog5' href='#close' id='deonhan' onclick='clickNo(&apos;đéo&apos;)' title='Close'>
+              Okie
+            </a>
+          </div>
+        </center>
+      </div>
+    </div>
 <svg hidden="hidden">
 <defs>
 <symbol id="icon-codepen" viewBox="0 0 32 32">
