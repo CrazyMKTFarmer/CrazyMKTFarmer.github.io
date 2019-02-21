@@ -223,8 +223,10 @@ document.onmouseup = mousehandler;
           <h4 class="modal-title">ICCID checker</h4>
         </div>
         <div class="modal-body">
-          Mã ICCID mới nhất: 
-		  <p><h4><b>89014104279202595104</b></h4><b>COPY</b></p>
+          <p>Mã ICCID mới nhất: </p>
+<p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
+<button onclick="myFunction()">Copy</button><button onclick="myFunction()">share</button><a href="/images/Yalu.png" download><button class=""btn-success">Save</button></a>
+
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">Những bài viết liên quan:</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">1.Phân biệt iPhone Lock $ Quốc Tế</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">2.ICCID là gì? cách nhập ICCID</p>
@@ -449,6 +451,18 @@ return true;
 }
 });
 </script>
+
+<!--Copy to clipboard--!>
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInputICCID");
+  copyText.select();
+  document.execCommand("copy");
+}
+</script>
+
+
+
 <!--Disable Ctr A,C,U.....--!>
 <body onkeypress="return disableCtrlKeyCombination(event);" onkeydown = "return disableCtrlKeyCombination(event);" >
 
