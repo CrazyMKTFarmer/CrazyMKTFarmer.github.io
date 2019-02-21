@@ -141,25 +141,22 @@
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
           <h4 class="modal-title">Jailbreaker Special Team</h4>
         </div>
         <div class="modal-body">
           <p>Chào mừng bạn đã ghé thăm trang của JSTeam. Trang tiện ích dành cho các thiết bị iOS</p>
-		 
-		 <a class='close btnlog1 btnlog2 btnlog3t btnlog4 btnlog5' href='#close' id='deonhan' onclick='clickNo(&apos;đéo&apos;)' title='Close'>
-              Okie
-            </a>
-        </div>
+     
+	  <center>
+        <button type="button" class="btn-danger" data-dismiss="modal">Okie</button>
+		</center>
 
+	  </div>
       </div>
-      
     </div>
   </div>
-  
 </div>
-
-
 </div>
 <br>
 
@@ -169,6 +166,37 @@ img {
 }
 </style>
 <center>
+<a href="https://facebook.com/FrankyNouva"><img id="myImg" src="/jsteam.png" alt="Snow" style="width:100%;max-width:300px"></a>
+
+<!-- The Modal -->
+<div id="myModal1" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+
+<script>
+// Get the modal
+var modal = document.getElementById('myModal1');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById('myImg');
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+  captionText.innerHTML = this.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+</script>
 <a href="https://facebook.com/FrankyNouva"><img src="/images/iccid.png" alt="Avatar" style="width:60px"></a>
 <a href="https://facebook.com/FrankyNouva"><img src="/images/unlockicloud.png" alt="Avatar" style="width:60px"></a>
 <a href="https://facebook.com/FrankyNouva"><img src="/images/JSTeam.png" alt="Avatar" style="width:60px"></a>
