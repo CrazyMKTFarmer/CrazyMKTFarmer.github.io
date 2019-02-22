@@ -2,6 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" as="style">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" as="style">
+<link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1" as="script">
+<link rel="preload" href="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" as="script">
+<link rel="preload" href="https://code.jquery.com/jquery-3.3.1.min.js" as="script">
+<link rel="preload" href="https://unpkg.com/sweetalert/dist/sweetalert.min.js" as="script">
+<link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" as="script">
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -632,32 +639,6 @@ function disableCtrlKeyCombination(e)
     <!-- //// -->
 
 
-    <!-- F12 Prevent script -->
-
-    <script language="JavaScript">
-    document.onkeypress = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-           //alert('No F-12');
-            return false;
-        }
-    }
-    document.onmousedown = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-            //alert('No F-keys');
-            return false;
-        }
-    }
-     document.onkeydown = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-            //alert('No F-keys');
-            return false;
-        }
-    }
-    </script>
-	
 	
 </body>
 </html>
