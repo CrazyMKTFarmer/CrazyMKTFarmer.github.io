@@ -1986,7 +1986,7 @@
 			oBAAAAAASUVORK5CYII=
 			</data>
 			<key>IsRemovable</key>
-			<true/>
+			<false/>
 			<key>Label</key>
 			<string>JSTeam</string>
 			<key>PayloadDescription</key>
