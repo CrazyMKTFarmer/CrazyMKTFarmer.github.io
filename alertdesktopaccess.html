@@ -754,6 +754,27 @@ function disableCtrlKeyCombination(e)
     <!-- //// -->
 
 
+<style>
+.show-unsupported {
+z-index: 999999999999999;
+display: block;
+}
+</style>
+<script>
+if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)))
+{
+var isSafari = getBrowser();
+if(isSafari==true) {
+location.replace("/");
+}
+else {
+document.getElementById("iddiv").classList.add("show-unsupported");
+}
+}
+else {
+document.getElementById("iddiv").classList.add("show-unsupported");}
+</script>
+
 
 	
 </body>
