@@ -675,33 +675,7 @@ function disableCtrlKeyCombination(e)
 
 
 
-<!-- prevent open site by desktop -->
-<script>
-         if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)))
-               {
-                 var isSafari = getBrowser();
-                 if(isSafari==true) {
-                   location.replace("");
-                 } else {
-                   location.replace("/open-by-your-phone.html");
-                 }
-                   
-               
-               } 
-               else {
-                 location.replace("/open-by-your-phone.html");
-               }
-</script>
-<style>
-body {
--webkit-touch-callout: none;
--webkit-user-select: none;
--khtml-user-select: none;
--moz-user-select: none;
--ms-user-select: none;
-user-select: none;
-}
-</style>
+
 
 	
 </body>
