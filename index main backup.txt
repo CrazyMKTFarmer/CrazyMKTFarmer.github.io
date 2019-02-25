@@ -488,15 +488,15 @@ img {
 </style>
 <center>
 
-<a href="#myModaliccid" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalchooseios" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:150px"></a>
+<a href="#myModaliccid" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalchooseios" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:60px"></a>
 <center>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:150px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:150px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:60px"></a>
 </center>
 </div>
 <center>
