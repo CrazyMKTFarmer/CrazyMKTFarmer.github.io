@@ -13,19 +13,19 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="nI1viW5j60gr4iLN3oail8c0VlUMCmwL9guqpVF0lBc" />
-    <meta name="description" content="Trang web tải về Phần mềm Jailbreak và Ứng dụng tiện ích cho iPhone iPad hoặc iPod touch nhanh nhất.">
-    <meta name="keywords" content="Cydia, Jailbreak iOS, Apple, App Store, unc0ver, th0r, electra jailbreak, jailbreak, kenhtao, iOS">
-    <meta name="author" content="IPA.KENHTAO.NET">
+    <meta name="description" content="Trang check ICCID, cài tool Jailbreak,app & game hack cùng vô số tiện ích khác">
+    <meta name="keywords" content="Cydia, Jailbreak iOS, Apple, AppStore, unc0ver, th0r, electra jailbreak, jailbreak, iOS, Franky Nouva, Jailbreaker Special Team">
+    <meta name="author" content="frankynouva.github.io">
    <title>Jailbreaker Special Team | Franky Nouva</title>
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Kho IPA Jailbreak | Kênh Táo"/>
-    <meta property="og:description" content="Trang web tải về Phần mềm Jailbreak và Ứng dụng tiện ích cho iPhone iPad hoặc iPod touch nhanh nhất."/>
-    <meta property="og:url" content="https://ipa.kenhtao.net/"/>
-    <meta property="og:site_name" content="IPA.KENHTAO.NET"/>
-    <meta property="fb:app_id" content="310782786365633"/>
-    <meta property="og:image" content="images/cydia.jpg"/>
-    <meta property="og:image:secure_url" content="images/cydia.jpg"/>
+    <meta property="og:title" content="Jailbreaker Special Team | Franky Nouva"/>
+    <meta property="og:description" content="Trang check ICCID, cài tool Jailbreak,app & game hack cùng vô số tiện ích khác"/>
+    <meta property="og:url" content="https://frankynouva.github.io/"/>
+    <meta property="og:site_name" content="frankynouva.github.io"/>
+    <meta property="fb:app_id" content="310782788886365633"/>
+    <meta property="og:image" content="images/thumnail.png"/>
+    <meta property="og:image:secure_url" content="images/thumnail.png"/>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -34,23 +34,78 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1"></script>
 
 
-
-
 <style>
-.button {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
 
-.buttoncaidattienich {border-radius: 50%;}
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 18px;
+  width: 18px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 2s;
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
 </style>
 
 
@@ -198,250 +253,68 @@ document.onmouseup = mousehandler;
 <div class="container">
   
   <button type="button" class="profile-card__button button--orange" data-toggle="modal" data-target="#myModalalertdesktopaccess"><img src="/images/download.png" alt="Avatar" style="width:30px">   Cài Đặt Tiện Ích</button>
-
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <!-- Close Modal button      <button type="button" class="close" data-dismiss="modal">&times;</button>   -->
-          <h4 class="modal-title">Cài Đặt Tiện Ích</h4>
-        </div>
-        <div class="modal-body">
-          <p>Sau khi cài đặt, JSTeam sẽ xuất hiện ở màn hình homescreen, bạn dễ dàng truy cập bất cứ lúc nào . (only iOS)</p>
-		  <a href="https://raw.githubusercontent.com/frankynouva/frankynouva.github.io/master/WebkitApps/JSTeam.mobileconfig"><button class="profile-card__button button--orange" id="create-card">&nbsp;&nbsp;Đồng Ý</button></a>
-		  		  <p></p>
-        </div>
-
-      </div>
-      
-    </div>
-  </div>
   
-  <!-- Modal -->
-  <div class="modal fade" id="myModalchao" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>Jailbreaker Special Team</b></h4>
-        </div>
-        <div class="modal-body">
-          <p>Chào mừng bạn đã ghé thăm trang của JSTeam. Trang tiện ích dành cho các thiết bị iOS, bao gồm: check ICCID, tải app Jailbreak, ver thấp, game hack, bài viết công nghệ và giải trí.</p>
-     
-	  <center>
-        <a href="#myModalcontact" data-toggle="modal"><button type="button" class="btn-success" data-dismiss="modal" width:"60px">Liên hệ</button></a>&nbsp;<a href="https://facebook.com/groups/jsteam.group" target="_blank"><button class="btn-primary">Join Group</button></a>&nbsp;<a href="https://facebook.com/jsteam.page" target="_blank"><button class="btn-info">Like Page</button></a>
-		<p></p>
-       <p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Close</button></p>
-		<p></p>
-		</center>
-	  </div>
-      </div>
- </div>
+
+
+
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalalertdesktopaccess" data-toggle="modal">Franky Nouva</a></b></div>
+  <div class="text"><a href="#myModalalertdesktopaccess" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+  <img src="/images/background.jpg" style="width:100%">  
 </div>
-	  
-	  
-	  
-	  
-		<!-- Modal -->
-  <div class="modal fade" id="myModalcontact" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>Thông tin liên hệ</b></h4>
-        </div>
-        <div class="modal-body">
-          <p>Vui lòng chỉ liên hệ khi có giao dịch (mua bán-trao đổi-sửa chữa). Mọi vấn đề khác bạn hãy tham gia Group <a href="https://facebook.com/groups/jsteam.group">Jailbreaker Special Team</a> để được hỗ trợ nhanh chóng. Vào <b>mỗi tối</b> mình luôn dành thời gian quản lí và trả lời các câu hỏi trên Group cho mọi thành viên.</p>
-     
-	  <center>
-        <a href="tel:0933998772"><button type="button" class="btn-danger btn-md">Phone</button></a><a href="https://m.me/frankynouva" target="_blank"><button type="button" class="btn-success btn-md">Messenger</button></a><a href="http://zalo.me/0933998772"><button type="button" class="btn-info btn-md">Zalo</button></a>
-		</div>
-		<center>
-		</br>
-		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
-		</center>
-		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalalertdesktopaccess" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalalertdesktopaccess" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
 
 
 
+</div>
+<br>
 
+<div style="text-align:center">
+  <span class="dot">1</span> 
+  <span class="dot">2</span> 
+  <span class="dot">3</span> 
+  <span class="dot">4</span> 
+  <span class="dot">5</span> 
+  <span class="dot">6</span> 
+  <span class="dot">7</span> 
+  <span class="dot">8</span> 
+  <span class="dot">9</span> 
+  <span class="dot">10</span> 
+</div>
+<script>
+var slideIndex = 0;
+showSlides();
 
-<!-- Modal -->
-  <div class="modal fade" id="myModaliccid" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>Mã ICCID mới nhất</b></h4>
-        </div>
-        <div class="modal-body">
-		
-<p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
-<button class="btn-primary btn-md" onclick="myFunction()">Copy</button><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/FrankyNouva/posts/1483832451746907" target="_blank" rel="noopener"><button class="btn-success btn-md">share</button><a/><a href="#myModalsaveiccid" data-toggle="modal"><button class="btn-danger btn-md">Save</button></a>
-
-
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 3000); // Change image every 2 seconds
+}
+</script> 
   
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak"><b>Những bài viết liên quan:</b></p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">1.Phân biệt iPhone Lock-Quốc Tế</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">2.ICCID là gì? cách nhập ICCID</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">3.Sim ghép (thần thánh) là gì?</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">4.Mua sim ghép tại Hồ Chí Minh?</p>
-          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">5.Nên dùng iPhone Lock or QT?</p>
-	  <center>
-        <a href="tel:0933998772"><button type="button" class="btn-danger btn-md">Phone</button></a><a href="https://m.me/frankynouva"><button type="button" class="btn-success btn-md">Messenger</button></a><a href="http://zalo.me/0933998772"><button type="button" class="btn-info btn-md">Zalo</button></a>
-		</div>
-		<center>
-		</br>
-		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
-		</center>
-		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Close</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
- 
- 
- 
- 
- 
- 
- <!-- Modal -->
-  <div class="modal fade" id="myModalsaveiccid" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>hướng dẫn</b></h4>
-        </div>
-        <div class="modal-body">
-<p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
-<a href="/images/saveiccid.png" download><button class="btn-success btn-lg">SAVE</button></a>
- <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh và share bạn bè</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Android: Nhấn Save, ảnh sẽ tự tải về.</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- iOS: Nhấn Save, nhấn giữ ảnh để tải.</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Desktop: Nhấn Save để tải.</p>
-	  <center>
-        <a href="tel:0933998772"><button type="button" class="btn-danger btn-md">Phone</button></a><a href="https://m.me/frankynouva"><button type="button" class="btn-success btn-md">Messenger</button></a><a href="http://zalo.me/0933998772"><button type="button" class="btn-info btn-md">Zalo</button></a>
-		</div>
-		<center>
-		</br>
-		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
-		</center>
-		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Close</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
- 
- 
- 
- 
- 
- 
-
-
-<!-- Modal -->
-  <div class="modal fade" id="myModalchooseios" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>Chọn phiên bản iOS</b></h4>
-        </div>
-        <div class="modal-body">
-	  		</div>
-			<center>
-	<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios12.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios11.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios10.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios9.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios8.png" alt="Avatar" style="width:40px"></a>
-	</center>
-          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak"><b>Những bài viết liên quan:</b></p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">1.Những phiên bản iOS có Jailbreak?</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">2.Video hướng dẫn Jailbreak chi tiết</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">3.Bộ Tweak hay cho máy Jailbreak</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">4.Fix lỗi, hỗ trợ cho máy Jailbreak</p>
-          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">5.Nguồn AkiiimFrankyNouva cho Cydia</p>
-		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">6.Mua máy Jailbreak giá tốt (member)</p>
-		  <p></p>
-		  <p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
- 
- 
- 
- <!-- Modal -->
-  <div class="modal fade" id="myModaljailbreakapp" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title"><b>Chọn phiên bản iOS</b></h4>
-        </div>
-        <div class="modal-body">
-	  		</div>
-	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/iccid.png" alt="Avatar" style="width:40px"></a>  iOS 12.0-12.1.2</p>
-	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Electra.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><img src="/images/Unc0ver.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><img src="/images/Thor.png" alt="Avatar" style="width:40px"></a>  iOS 11.0-11.4.1</p>
-	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Yalu.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><a href="#myModaljailbreak"><a href="#myModaljailbreak"><img src="/images/Doubleh3lix.png" alt="Avatar" style="width:40px"></a> iOS 10.0-10.2-10.3.3</p>
-	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Phoenix.png" alt="Avatar" style="width:40px"></a>  iOS 9.3.5<a href="#myModaljailbreak"><img src="/images/H3lix.png" alt="Avatar" style="width:40px"></a>  iOS 8.4.1</p>
-	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Allinone.png" alt="Avatar" style="width:40px"></a>  iOS 3-4-5-6-7-8-9-10-11-12</p>
-
-		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
- 
- 
- 
- 
- 
- <!-- Modal -->
-  <div class="modal fade" id="myModalcommingsoon" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-		
-          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title">đang cập nhật</h4>
-        </div>
-        <div class="modal-body">
-		<p align="left">&nbsp;&nbsp;tính năng đang được cập nhật, vui lòng quay lại sau</p>
-
-	  		</div>
-chưa có nội dung
-
-		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
-			  </div>
-      </div>
- </div>
-
-
-
-
-
- <!-- Modal -->
+  
+  
+  <!-- Modal -->
   <div class="modal fade" id="myModalalertdesktopaccess" role="dialog">
     <div class="modal-dialog">
     
@@ -450,30 +323,32 @@ chưa có nội dung
         <div class="modal-header">
 		
           <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
-          <h4 class="modal-title">JSTeam chào bạn, hãy truy cập trang này bằng iPhone</h4>
+          <h4 class="modal-title"><b>CẢNH BÁO</b></h4>
         </div>
-		<b>Tất cả Link trên trang này đã khóa, chỉ có thể truy cập bằng iPhone, iPod, iPad...Bạn vui lòng thực hiện theo các gợi ý sau:</b>
+		<b>Nội dung đã ẩn, hãy truy cập bằng iPhone để xem</b>
         <div class="modal-body">
 		<p align="left"><b>&nbsp;&nbsp;CÁCH 1:</b></p>
-		<p align="left">&nbsp;&nbsp;Bước1: Quay lại copy link ban đầu từ Facebook.</p>
-        <p align="left">&nbsp;&nbsp;Bước2: Nhấn <a href="https://www.facebook.com/messages/t/frankynouva" target="_blank" rel="noopener"><b>vào đây</b></a> để gửi "nhờ" link vừa copy</p>
+		<p align="left">&nbsp;&nbsp;Bước1:   <input type="text" value="chưa update" id="myInputICCID">
+<button class="btn-primary btn-md" onclick="myFunction()">Copy</button></p>
+        <p align="left">&nbsp;&nbsp;Bước2: Nhấn <a href="https://www.facebook.com/messages/t/260705331320465" target="_blank" rel="noopener"><b>vào đây</b></a> để gửi "nhờ" link vừa copy</p>
 		<p align="left">&nbsp;&nbsp;Bước3: Kiểm tra <b>Messenger</b> trên <b>iPhone</b> và truy cập</p>
 		<p align="left"><b>&nbsp;&nbsp;CÁCH 2:</b></p>
 		<p align="left">&nbsp;&nbsp;Bước1: Nhấn <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/FrankyNouva/posts/1483832451746907" target="_blank" rel="noopener"><b>vào đây</b></a> để share, đặt chế độ riêng tư "chỉ mình tôi"</p>
         <p align="left">&nbsp;&nbsp;Bước2: Kiểm tra <b>Facebook</b> trên iPhone và truy cập</p>
-
+		<p align="left"><b>&nbsp;&nbsp;CÁCH 3:  </b>  (nhanh nhất)</p>
+		<p align="left">&nbsp;&nbsp; Dùng app quét QR trên iPhone để truy cập nhanh.
+		<p><img src="/images/qr01.jpg" style="width:100px"></p>
+		
 </div>
+<p>xem hướng dẫn dùng app QR <a href="https://youtube.com/c/frankynouva" target="_blank" rel="noopener">tại đây</a></p>
 		<p align="right"><a href="#myModalalertdesktopaccess" data-toggle="modal"><button class="btn-danger">Okie</button></a>&nbsp;&nbsp;&nbsp;</p>
 			  </div>
       </div>
  </div>
-
-
-
-
-
- <!-- Youtube buton  <script src="https://apis.google.com/js/platform.js"></script>   -->
-  <!-- Youtube button <div class="g-ytsubscribe" data-channel="kjmtjzhan" data-layout="default" data-count="default"></div>    -->
+ 
+ 
+  
+  
 
 
 
@@ -488,21 +363,29 @@ img {
 </style>
 <center>
 
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:130px"></a>
 <center>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:60px"></a>
-<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:60px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:130px"></a>
+<a href="#myModalalertdesktopaccess" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:130px"></a>
 </center>
 </div>
+<div id="menu" align="middle" >
+<a href="https://frankynouva.github.io/" id="frankynouva01">Homepage</a> | 
+<a href="https://facebook.com/jsteam.page" target="_blank">Fanpage</a> |  
+<a href="https://facebook.com/groups/jsteam.group" target="_blank">Group</a> |  
+<a href="https://youtube.com/c/frankynouva" target="_blank">Youtube</a>	|
+<a href="#myModalalertdesktopaccess" data-toggle="modal">Contact</a>	
+<p></p>
 <center>
 <a href="#myModalalertdesktopaccess" data-toggle="modal"><b>Franky Nouva</b></a>
 <center>
 (2012 - 2019)
+</center>
 </center>
 
 
@@ -754,26 +637,8 @@ function disableCtrlKeyCombination(e)
     <!-- //// -->
 
 
-<style>
-.show-unsupported {
-z-index: 999999999999999;
-display: block;
-}
-</style>
-<script>
-if((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i)) || (navigator.userAgent.match(/iPad/i)))
-{
-var isSafari = getBrowser();
-if(isSafari==true) {
-location.replace("/");
-}
-else {
-document.getElementById("iddiv").classList.add("show-unsupported");
-}
-}
-else {
-document.getElementById("iddiv").classList.add("show-unsupported");}
-</script>
+
+
 
 
 	
