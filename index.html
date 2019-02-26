@@ -32,7 +32,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="css/style.css">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1"></script>
-
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
 
 
 
@@ -198,6 +202,14 @@ document.onmouseup = mousehandler;
 <div class="container">
   
   <button type="button" class="profile-card__button button--orange" data-toggle="modal" data-target="#myModal"><img src="/images/download.png" alt="Avatar" style="width:30px">   Cài Đặt Tiện Ích</button>
+  
+  
+  <div class="w3-content w3-section" style="max-width:500px">
+  <img class="mySlides" src="img_la.jpg" style="width:100%">
+  <img class="mySlides" src="img_ny.jpg" style="width:100%">
+  <img class="mySlides" src="img_chicago.jpg" style="width:100%">
+</div>
+
 
   <!-- Modal -->
   <div class="modal fade" id="myModal" role="dialog">
@@ -487,23 +499,23 @@ img {
 </style>
 <center>
 
-<a href="#myModaliccid" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalchooseios" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:70px"></a>
+<a href="#myModaliccid" data-toggle="modal"><img src="/images/iccid.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalchooseios" data-toggle="modal"><img src="/images/jailbreakidevice.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/JSTeam.png" alt="Avatar" style="width:65px"></a>
 <center>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:70px"></a>
-<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:70px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/muaban.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/unlockicloud.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/batterychange.png" alt="Avatar" style="width:65px"></a>
+<a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/suachua.png" alt="Avatar" style="width:65px"></a>
 </center>
 </div>
 <div id="menu" align="middle" >
-<a href="https://frankynouva.github.io">Homepage</a> |  
-<a href="https://facebook.com/jsteam.page">Fanpage</a> |  
-<a href="https://facebook.com/groups/jsteam.group">Group</a> |  
-<a href="https://youtube.com/c/frankynouva">Youtube</a>	|
-<a href="#myModalcontact" data-toggle="modal">Contact</a>	
+<a href="https://frankynouva.github.io/" id="frankynouva01">Homepage</a> | 
+<a href="https://frankynouva.github.io/" id="frankynouva02">Fanpage</a> |  
+<a href="https://frankynouva.github.io/" id="frankynouva03">Group</a> |  
+<a href="https://frankynouva.github.io/" id="frankynouva04">Youtube</a>	|
+<a href="#myModalcontact" data-toggle="modal" id="frankynouva05">Contact</a>	
 <p></p>
 <center>
 <a href="#myModalcontact" data-toggle="modal"><b>Franky Nouva</b></a>
@@ -758,6 +770,27 @@ function disableCtrlKeyCombination(e)
         });
     </script>
     <!-- //// -->
+
+
+
+
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
 
 
 
