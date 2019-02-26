@@ -345,7 +345,51 @@ function showSlides() {
       </div>
  </div>
  
- 
+  <script type="text/javascript">
+$('#myModalalertdesktopaccess').modal('show');
+</script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="js/index.js"></script>
+<!-- <script>
+	var modal = document.getElementById('myModal');
+	
+	var btn = document.getElementById("myBtn");
+	
+	var span = document.getElementsByClassName("close")[0];
+	 
+	btn.onclick = function() {
+	  modal.style.display = "block";
+	}
+	
+	span.onclick = function() {
+	  modal.style.display = "none";
+	}
+	
+	window.onclick = function(event) {
+	  if (event.target == modal) {
+		modal.style.display = "none";
+	  }
+	}
+</script> -->
+
+<script>
+	function someFunction(){
+		var modal = document.getElementById('myModal');
+		var btn = document.getElementById("myBtn");
+		var span = document.getElementsByClassName("close")[0];
+		
+		span.onclick = function() {
+			modal.classList.remove('show');
+		}
+		btn.onclick = function() {
+			modal.classList.add('show');
+		}
+
+		btn.click();
+	} 
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   
   
 
@@ -409,51 +453,11 @@ img {
 	};
   </script>
 
-  <script type="text/javascript">
-$('#myModalalertdesktopaccess').modal('show');
-</script>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="js/index.js"></script>
-<!-- <script>
-	var modal = document.getElementById('myModal');
-	
-	var btn = document.getElementById("myBtn");
-	
-	var span = document.getElementsByClassName("close")[0];
-	 
-	btn.onclick = function() {
-	  modal.style.display = "block";
-	}
-	
-	span.onclick = function() {
-	  modal.style.display = "none";
-	}
-	
-	window.onclick = function(event) {
-	  if (event.target == modal) {
-		modal.style.display = "none";
-	  }
-	}
-</script> -->
-
-<script>
-	function someFunction(){
-		var modal = document.getElementById('myModal');
-		var btn = document.getElementById("myBtn");
-		var span = document.getElementsByClassName("close")[0];
-		
-		span.onclick = function() {
-			modal.classList.remove('show');
-		}
-		btn.onclick = function() {
-			modal.classList.add('show');
-		}
-
-		btn.click();
-	} 
-</script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+ 
+ 
+ 
+ 
+ 
 <script>
 document.onkeydown = function(e) {
         if (e.ctrlKey && 
