@@ -51,18 +51,6 @@ body {
   padding: 0px 0;
   border: 1px solid #888;
 }
-
-.sidenavr {
-  width: 40px;
-  position: fixed;
-  z-index: 1;
-  top: 120px;
-  right: 0px;
-  background: rgba(255, 255, 255, .7);
-  overflow-x: hidden;
-  padding: 0px 0;
-  border: 1px solid #888;
-}
 .sidenav a {
   padding: 2px 5px 5px 5px;
   text-decoration: none;
@@ -87,6 +75,49 @@ body {
 }
 </style>
 
+
+
+
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenavr {
+  width: 40px;
+  position: fixed;
+  z-index: 1;
+  top: 120px;
+  right: 0px;
+  background: rgba(255, 255, 255, .7);
+  overflow-x: hidden;
+  padding: 0px 0;
+  border: 1px solid #888;
+}
+.sidenavr a {
+  padding: 2px 5px 5px 5px;
+  text-decoration: none;
+  font-size: 10px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenavr a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 2px;
+}
+
+@media screen and (max-height: 350px) {
+  .sidenavr {padding-top: 15px;}
+  .sidenavr a {font-size: 18px;}
+}
+</style>
 
 
 
