@@ -119,6 +119,47 @@ body {
 </style>
 
 
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenavt {
+  width: 400px;
+  position: fixed;
+  z-index: 1;
+  top: 0px;
+  left: 0px;
+  background: rgba(255, 255, 255, .7);
+  overflow-x: hidden;
+  padding: 0px 0;
+  border: 1px solid #888;
+}
+.sidenavt a {
+  padding: 5px 5px 5px 0px;
+  text-decoration: none;
+  font-size: 10px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenavt a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 2px;
+}
+
+@media screen and (max-height: 350px) {
+  .sidenavt {padding-top: 15px;}
+  .sidenavt a {font-size: 18px;}
+}
+</style>
+
+
 
 
 <style>
@@ -354,6 +395,8 @@ document.onmouseup = mousehandler;
 </div>
 
 
+
+
 <div class="sidenavr">
 <a href="fb://"><img src="https://www.chino.k12.ca.us/cms/lib/CA01902308/Centricity/Domain/2174/fblogo.png" alt="Avatar" style="width:25px"></a>
 <a href="https://m.me" target="_blank"><img src="https://res.cloudinary.com/rapidweavercommunity/image/upload/s--PjuL1aG0--/c_fill,f_auto,fl_lossy,h_256,q_auto,w_256/v1519187799/addons/icons/626669839.png" alt="Avatar" style="width:25px"></a>
@@ -361,6 +404,14 @@ document.onmouseup = mousehandler;
   <a href="#contact">JSTeam fb://</a>
 </div>
 
+
+<div id="sidenavt" align="middle" >
+<a href="https://frankynouva.github.io/" id="frankynouva01">Homepage</a> | 
+<a href="https://facebook.com/jsteam.page" target="_blank">Fanpage</a> |  
+<a href="https://facebook.com/groups/jsteam.group" target="_blank">Group</a> |  
+<a href="https://youtube.com/c/frankynouva" target="_blank">Youtube</a>	|
+<a href="#myModalcontact" data-toggle="modal">Contact</a>	
+</div>
 
 
 
