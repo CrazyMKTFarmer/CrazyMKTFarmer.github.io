@@ -1,3 +1,17 @@
+Package: com.frankynouva.AVLock1.0.2
+Version: 1.0.2
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.frankynouva.RepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.gilshahar7.avlock_1.0.2_iphoneos-arm.deb
+Size: 26332
+MD5sum: ff0f35673f47e16dbc187bf94b6a4858
+Description: JSTeam - Add an orientation lock button to the iOS 11/12 stock video player
+Name: AVLock
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AVLock1.0.2.html
+
 Package: com.frankynouva.BetterCCXI1.4.8
 Version: 1.4.8
 Section: IOS 8/9/10
