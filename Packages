@@ -1,3 +1,17 @@
+Package: com.frankynouva.CoolFolder2.3
+Version: 2.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.4nni3.coolfolder_2.3_iphoneos-arm.deb
+Size: 45408
+MD5sum: 13df034d85f78412cef9b93bffa20e11
+Description: JSTeam - This tweak makes Folders cool!
+Name: CoolFolder
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CoolFolder2.3.html
+
 Package: com.frankynouva.HuddyX1.0
 Version: 1.0
 Section: Tw3ak
@@ -24,7 +38,7 @@ Section: Tw3ak
 Depends: mobilesubstrate
 Size: 60628
 MD5sum: 8e35de1d00fc81ddda157ca6e43f1081
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.1_iphoneos-arm
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.1_iphoneos-arm.deb
 
 Package: com.frankynouva.AVLock1.0.2
 Version: 1.0.2
