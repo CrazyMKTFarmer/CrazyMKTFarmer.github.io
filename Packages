@@ -1,3 +1,17 @@
+Package: com.frankynouva.TypeTab3.2
+Version: 3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/ml.andrewhyatt.typetab_3.2_iphoneos-arm.deb
+Size: 19360
+MD5sum: 53f80c75f6dc34c9ae6099977a3649a9
+Description: JSTeam - Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+Depiction: https://frankynouva.github.io/depic/TypeTab3.2.html
+
 Package: com.frankynouva.CoolFolder2.3
 Version: 2.3
 Section: Tw3ak
@@ -12,20 +26,6 @@ Name: CoolFolder
 Author: 4nni3 <4nni3.14@gmail.com>
 Depiction: https://frankynouva.github.io/depic/CoolFolder2.3.html
 
-Package: com.frankynouva.HuddyX1.0
-Version: 1.0
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 12.0), mobilesubstrate, com.frankynouva.RepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.maximehip.huddyx_1.0_iphoneos-arm.deb
-Size: 26286
-MD5sum: f0b3ad521861c676ab263f235942b5c5
-Description: JSTeam - A new volume HUD for notch devices.
-Name: HuddyX
-Author: maximehip <imax-my@live.fr>
-Depiction: https://frankynouva.github.io/depic/HuddyX1.0.html
-
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Name: AKiiimFrankyN0uva Icon
 Version: 4.0.1
@@ -39,160 +39,3 @@ Depends: mobilesubstrate
 Size: 60628
 MD5sum: 8e35de1d00fc81ddda157ca6e43f1081
 Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.1_iphoneos-arm.deb
-
-Package: com.frankynouva.AVLock1.0.2
-Version: 1.0.2
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.frankynouva.RepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.gilshahar7.avlock_1.0.2_iphoneos-arm.deb
-Size: 26332
-MD5sum: ff0f35673f47e16dbc187bf94b6a4858
-Description: JSTeam - Add an orientation lock button to the iOS 11/12 stock video player
-Name: AVLock
-Author: gilshahar7 <gilshahardex99@gmail.com>
-Depiction: https://frankynouva.github.io/depic/AVLock1.0.2.html
-
-Package: com.frankynouva.BetterCCXI1.4.8
-Version: 1.4.8
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.frankynouva.RepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
-Size: 61530
-MD5sum: 68e9c7060e890c417f30c72bd535999a
-Description: JSTeam - Enhance your control center on iOS 11 and iOS 12
-Name: BetterCCXI
-Author: ATWiiks
-Depiction: https://frankynouva.github.io/depic/BetterCCXI1.4.8.html
-
-Package: com.frankynouva.TypeTab3.2
-Version: 3.2
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.frankynouva.RepoIcon
-Architecture: iphoneos-arm
-Filename: debs/ml.andrewhyatt.typetab_3.2_iphoneos-arm.deb
-Size: 19360
-MD5sum: 1226c93d7a4bb03b8c8b9a2a33dee69c
-Description: JSTeam - Faster address entry for Safari tabs
-Name: TypeTab
-Author: Andrew Hyatt <ahyattdev@icloud.com>
-Depiction: https://frankynouva.github.io/depic/TypeTab3.2.html
-
-Package: com.frankynouva.Gyration1.0.5
-Version: 1.0.5
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist, com.frankynouva.RepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.cydiageek.gyration_1.0.5_iphoneos-arm.deb
-Size: 46718
-MD5sum: e09db1e01bf1802d37de1d5517422ed2
-Description: JSTeam - Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!
-Name: Gyration
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: https://frankynouva.github.io/depic/Gyration1.0.5.html
-
-Package: com.frankynouva.Melior1.0.8-1
-Version: 1.0.8-1
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.frankynouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.melior_1.0.8-1_iphoneos-arm.deb
-Size: 181202
-MD5sum: f4592090f75e812a22380c506b44a5bf
-Description: Custom volume HUD
-Name: Melior [Public]
-Author: Spark & Dennis Bednarz
-Depiction: https://frankynouva.github.io/depic/Melior1.0.8-1.html
-
-Package: com.frankynouva.Launchtron0.1.3
-Version: 0.1.3
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), applist, com.rpetrich.rocketbootstrap, com.frankynouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.launchtron_0.1.3_iphoneos-arm.deb
-Size: 59002
-MD5sum: 37b6e5161c6debd804b229219b91a42e
-Description: Fast circular app launcher
-Name: Launchtron
-Author: Nepeta
-Depiction: https://frankynouva.github.io/depic/Launchtron0.1.3.html
-
-Package: com.frankynouva.DarkSounds1.2.6
-Version: 1.2.6
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankyouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.darksounds_1.2.6_iphoneos-arm.deb
-Size: 260286
-MD5sum: 1f790959c2dbc66aa79710f4000dfa08
-Description: Dark mode for Apple Music
-Name: DarkSounds
-Author: FoxfortMobile
-Depiction: https://frankynouva.github.io/depic/DarkSounds1.2.6.html
-
-Package: com.frankynouva.Dark2.0.1
-Version: 2.0.1
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.darkmessenger_2.0.1_iphoneos-arm.deb
-Size: 363654
-MD5sum: 8369f7a1baed7f984daac227e92516f6
-Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! Dark mode for Messenger
-Name: Dark Messenger
-Author: FoxfortMobile
-Depiction: https://frankynouva.github.io/depic/Dark2.0.1.html
-
-Package: com.frankynouva.BetterCCXI1.4.0
-Version: 1.4.0
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.betterccxi_1.4.0_iphoneos-arm.deb
-Size: 61016
-MD5sum: 77e2d8b5d1791f188001484eec8a3864
-Description: iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! Enhance your control center on iOS 11
-Name: BetterCCXI
-Author: ATWiiks
-Depiction: https://frankynouva.github.io/depic/BetterCCXI1.4.0.html
-
-Package: com.frankynouva.CallBar0.2-2
-Version: 0.2-2
-Section: IOS 8/9/10
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
-Architecture: iphoneos-arm
-Filename: debs/CallBar0.2-2.deb
-Size: 183462
-MD5sum: b21a490f68724760c2d29c58cbd0aadc
-Description: iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Don't let incoming calls interrupt you!
-Name: CallBar X
-Author: Elias Limneos
-Depiction: https://frankynouva.github.io/depic/CallBar0.2-2.html
-
-Package: apt
-Version: 1:0-23
-Priority: required
-Section: Packaging
-Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: apt7
-Conflicts: cydia (<< 1.0.2843-1)
-Architecture: iphoneos-arm
-Filename: debs/apt_0-23_iphoneos-arm.deb
-Size: 686
-Installed-Size: 12
-MD5sum: c26a27bdd7e7edbc496ed16aafcdf408
-Description: any advanced packaging tool from Debian
-Name: APT 0.6 Transitional
-
