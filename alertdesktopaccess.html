@@ -35,6 +35,50 @@
 
 
 <style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenavt {
+  width: 5000px;
+  position: fixed;
+  z-index: 1;
+  top: 0px;
+  left: 0px;
+  background: rgba(255, 255, 255, .7);
+  overflow-x: hidden;
+  padding: 0px 0;
+  border: 1px solid #888;
+}
+.sidenavt a {
+  
+  text-decoration: none;
+  font-size: 10px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenavt a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 2px;
+}
+
+@media screen and (max-height: 5000px) {
+  .sidenavt {padding-top: 15px;}
+  .sidenavt a {font-size: 18px;}
+}
+</style>
+
+
+
+
+
+<style>
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
