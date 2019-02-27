@@ -1,3 +1,31 @@
+Package: com.frankynouva.HuddyX1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.frankynouva.RepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.huddyx_1.0_iphoneos-arm.deb
+Size: 26286
+MD5sum: f0b3ad521861c676ab263f235942b5c5
+Description: JSTeam - A new volume HUD for notch devices.
+Name: HuddyX
+Author: maximehip <imax-my@live.fr>
+Depiction: https://frankynouva.github.io/depic/HuddyX1.0.html
+
+Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Name: AKiiimFrankyN0uva Icon
+Version: 4.0.1
+Architecture: iphoneos-arm
+Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
+Depiction: https://frankynouva.github.io/depic/jsteam.html
+Author: FrankyNouva
+Maintainer: FrankyNouva <frankynouva@gmail.com>
+Section: Tw3ak
+Depends: mobilesubstrate
+Size: 60628
+MD5sum: 8e35de1d00fc81ddda157ca6e43f1081
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.1_iphoneos-arm
+
 Package: com.frankynouva.AVLock1.0.2
 Version: 1.0.2
 Section: IOS 8/9/10
