@@ -1,3 +1,17 @@
+Package: com.frankynouva.Better1.2-7
+Version: 1.2-7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.iturki.betterhud_1.2-7_iphoneos-arm.deb
+Size: 119788
+MD5sum: dc031210d54e4a219a4a04d323b537e8
+Description: JSTeam - move the HUD; change HUD timer
+Name: Better HUD
+Author: iTurki <iTurki@my.com>
+Depiction: https://frankynouva.github.io/depic/Better1.2-7.html
+
 Package: com.frankynouva.Fast1.0
 Version: 1.0
 Section: Tw3ak
@@ -46,7 +60,7 @@ Package: com.frankynouva.BetterCCXI1.4.8
 Version: 1.4.8
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Depends: mobilesubstrate, com.frankynouva.CCSupport1.2-2, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
 Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
 Size: 61530
