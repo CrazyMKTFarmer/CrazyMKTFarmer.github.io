@@ -1,3 +1,17 @@
+Package: com.frankynouva.DLEasy1.4.3
+Version: 1.4.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ahmedbafkir.dleasy_1.4.3_iphoneos-arm.deb
+Size: 1231778
+MD5sum: b7cfe253af657991f12e4f8fcc19f8bb
+Description: JSTeam - Download images & videos from social apps easily!
+Name: DLEasy
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DLEasy1.4.3.html
+
 Package: com.frankynouva.TypeTab3.2
 Version: 3.2
 Section: Tw3ak
