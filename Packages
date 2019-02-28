@@ -1,3 +1,45 @@
+Package: com.frankynouva.libCSColorPicker0.7.9
+Version: 0.7.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.creaturesurvive.libcscolorpicker_0.7.9_iphoneos-arm.deb
+Size: 104676
+MD5sum: e1b2251845ea496bf3ed0e4f73c1ed85
+Description: JSTeam - A minimal color picker library for developers
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://frankynouva.github.io/depic/libCSColorPicker0.7.9.html
+
+Package: com.frankynouva.libCSPreferences1.0.6
+Version: 1.0.6
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.creaturecoding.libcspreferences_1.0.6_iphoneos-arm.deb
+Size: 533924
+MD5sum: 242cd6694a27c8d9eb6ff72241a50483
+Description: JSTeam - An awesome Preference Library!
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://frankynouva.github.io/depic/libCSPreferences1.0.6.html
+
+Package: com.frankynouva.BetterSettings100.0.1
+Version: 0.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware (<< 11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.midnightchips.bettersettings10_0.0.1_iphoneos-arm.deb
+Size: 118256
+MD5sum: 0c7a3cecb663175804de4d3394b2b3bb
+Description: JSTeam - Settings your way
+Name: BetterSettings10
+Author: midnightchips
+Depiction: https://frankynouva.github.io/depic/BetterSettings100.0.1.html
+
 Package: com.frankynouva.HuddyX1.0
 Version: 1.0
 Section: Tw3ak
