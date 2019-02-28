@@ -1,3 +1,17 @@
+Package: com.frankynouva.CacheWipe0.0-beta1
+Version: 0.0-beta1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.cachewipe_0.0~beta1_iphoneos-arm.deb
+Size: 17150
+MD5sum: ff72da63ee43a2eed55218bff4704bb0
+Description: JSTeam - Clear Apps Caches Switch
+Name: CacheWipe
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/CacheWipe0.0-beta1.html
+
 Package: com.frankynouva.DLEasy1.4.3
 Version: 1.4.3
 Section: Tw3ak
