@@ -1,3 +1,59 @@
+Package: com.frankynouva.Avertas10.1.1
+Version: 10.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kunderscore.avertas_10.1.1_iphoneos-arm.deb
+Size: 48788
+MD5sum: d87542f064babb07383b0226130c1f26
+Description: JSTeam - Quick Switcher and Hot Corners
+Name: Avertas
+Author: kunderscore <kunderscore3@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Avertas10.1.1.html
+
+Package: com.frankynouva.BetterSettings0.0.9
+Version: 0.0.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.frankynouva.PrefixUI1.0-1, com.frankynouva.libimagepicker1.0.2, com.frankynouva.libCSColorPicker0.7.9, com.frankynouva.libCSPreferences1.0.6, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.midnightchips.bettersettings_0.0.9_iphoneos-arm.deb
+Size: 1952052
+MD5sum: 11d30d40ddb27af94da0c4661644cc65
+Description: JSTeam - Settings your way
+Name: BetterSettings
+Author: midnightchips
+Depiction: https://frankynouva.github.io/depic/BetterSettings0.0.9.html
+
+Package: com.frankynouva.libimagepicker1.0.2
+Version: 1.0.2
+Section: System
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.libimagepicker_1.0.2_iphoneos-arm.deb
+Size: 16900
+MD5sum: bddc5ad8ffc28dd0a693f8b3ebd034dc
+Description: JSTeam - A simple library for choosing images in preference bundles.
+Name: libimagepicker
+Author: Muirey03
+Depiction: https://frankynouva.github.io/depic/libimagepicker1.0.2.html
+
+Package: com.frankynouva.PrefixUI1.0-1
+Version: 1.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.laughingquoll.prefixui_1.0-1_iphoneos-arm.deb
+Size: 62102
+MD5sum: a7d223fb5c5836e0e045bd5a488338f9
+Description: JSTeam - An awesome framework of some sort!!
+Name: PrefixUI
+Author: LaughingQuoll
+Depiction: https://frankynouva.github.io/depic/PrefixUI1.0-1.html
+
 Package: com.frankynouva.libCSColorPicker0.7.9
 Version: 0.7.9
 Section: Tw3ak
@@ -30,7 +86,7 @@ Package: com.frankynouva.BetterSettings100.0.1
 Version: 0.0.1
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker, firmware (<< 11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Depends: mobilesubstrate, com.frankynouva.libCSColorPicker0.7.9, com.frankynouva.libCSPreferences1.0.6, org.thebigboss.libcolorpicker, firmware (<< 11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
 Filename: debs/com.midnightchips.bettersettings10_0.0.1_iphoneos-arm.deb
 Size: 118256
