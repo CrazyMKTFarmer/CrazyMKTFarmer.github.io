@@ -406,13 +406,16 @@ document.onmouseup = mousehandler;
                 </p> </sup></p>
 
 <div class="sidenavt">
- <a href="https://frankynouva.github.io"><img src="/images/homepage.png" alt="Avatar" style="width:30px"></a>
-	   <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:30px"></a>
-	   <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/utilities.png" alt="Avatar" style="width:30px"></a>
-	  <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/service.png" alt="Avatar" style="width:30px"></a><b> JST </b><a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:30px"></a>
+ <div class="sidenavt">
+      <a href="https://frankynouva.github.io"><img src="/images/homepage.png" alt="Avatar" style="width:30px"></a>
+	  <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:30px"></a>
+	  <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/utilities.png" alt="Avatar" style="width:30px"></a>
+	  <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/service.png" alt="Avatar" style="width:30px"></a>
+	  <a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:30px"></a>
 	  <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:30px"></a>
 	  <a href="http://youtube.com/c/frankynouva" target="_blank"><img src="/images/youtube.png" alt="Avatar" style="width:30px"></a>
-      <a href="#myModalcontact" data-toggle="modal"><img src="/images/frankynouvacircleicon.png" alt="Avatar" style="width:30px"></a>
+      
+</div>
 </div>
 
 
@@ -577,18 +580,15 @@ function showSlides() {
           <h4 class="modal-title"><b>Thông tin liên hệ</b></h4>
         </div>
         <div class="modal-body">
-          <p>Vui lòng chỉ liên hệ khi có giao dịch (<a href="https://frankynouva.github.io/muaban.html">mua bán-trao đổi-sửa chữa</a>). Mọi vấn đề khác bạn hãy tham gia Group <a href="https://facebook.com/groups/jsteam.group">Jailbreaker Special Team</a> để được hỗ trợ nhanh chóng. Vào <b>Buổi Tối</b>, sau khi <b>hết giờ làm việc </b>(21h00) mình luôn dành thời gian lên Group quản lí TypeTab trả lời các câu hỏi mọi thành viên.</p>
+          <p>Mọi vấn đề, thắc mắc bạn tham gia Group <a href="https://facebook.com/groups/jsteam.group">Jailbreaker Special Team</a> để được hỗ trợ nhanh chóng</p>
      
 	  <center>
-	  <a href="tel:0933998772"><img src="/images/phone.png" alt="Avatar" style="width:40px"></a>
-	  <a href="fb://"><img src="/images/fb.png" alt="Avatar" style="width:40px"></a>
-	  <a href="https://m.me/frankynouva" target="_blank"><img src="/images/messenger.png" alt="Avatar" style="width:40px"></a>
-	  <a href="http://zalo.me/0933998772"><img src="/images/zalo.png" alt="Avatar" style="width:40px"></a>
-      <a href="https://youtube.com/c/frankynouva"><img src="/images/youtube.png" alt="Avatar" style="width:40px"></a>
+	  <a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:30px"></a>
+	  <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:30px"></a>
+	  <a href="http://youtube.com/c/frankynouva" target="_blank"><img src="/images/youtube.png" alt="Avatar" style="width:30px"></a>
 		</div>
 		<center>
 		</br>
-		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
 		</center>
 		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
 			  </div>
@@ -657,7 +657,7 @@ function showSlides() {
         <div class="modal-body">
 <p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
 <a href="/images/saveiccid.png" download><button class="btn-success btn-lg">SAVE</button></a>
- <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh TypeTab share bạn bè</p>
+ <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh và share bạn bè</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Android: Nhấn Save, ảnh sẽ tự tải về.</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- iOS: Nhấn Save, nhấn giữ ảnh để tải.</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Desktop: Nhấn Save để tải.</p>
@@ -945,7 +945,7 @@ function disableCtrlKeyCombination(e)
                         //case-insensitive comparation
                         if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
                         {
-                                alert('Vui lòng không thực hiện các thao tác Ctr A,C,U, F12 TypeTab các hoạt động sao chép tại Jailbreaker Special Team. Trường hợp cần copy dãy ICCID, LINK bạn chỉ việc nhấn nút Copy là được');
+                                alert('Vui lòng không thực hiện các thao tác Ctr A,C,U, F12 và các hoạt động sao chép tại Jailbreaker Special Team. Trường hợp cần copy dãy ICCID, LINK bạn chỉ việc nhấn nút Copy là được');
                                 return false;
                         }
                 }
