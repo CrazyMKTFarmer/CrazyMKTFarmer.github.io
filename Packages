@@ -1,3 +1,33 @@
+Package: com.frankynouva.CCSupport1.2-2
+Version: 1.2-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: debs/com.opa334.ccsupport_1.2-2_iphoneos-arm.deb
+Size: 35348
+MD5sum: 2f5458c5dba3d824801b21c25c3bf5ba
+Description: JSTeam - Support tweak for CC modules!
+Name: CCSupport
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://frankynouva.github.io/depic/CCSupport1.2-2.html
+
+Package: com.frankynouva.BetterCCXI1.4.8
+Version: 1.4.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 61530
+MD5sum: a2677c53b0a5ebf8e06a932ce0a210b7
+Description: JSTeam - Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+Depiction: https://frankynouva.github.io/depic/BetterCCXI1.4.8.html
+
 Package: com.frankynouva.Avertas10.1.1
 Version: 10.1.1
 Section: Tw3ak
