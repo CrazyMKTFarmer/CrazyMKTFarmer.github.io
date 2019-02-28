@@ -1,3 +1,17 @@
+Package: com.frankynouva.HuddyX1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.huddyx_1.0_iphoneos-arm.deb
+Size: 26292
+MD5sum: 135aac472373841c0293211e171b740a
+Description: JSTeam - A new volume HUD for notch devices.
+Name: HuddyX
+Author: maximehip <imax-my@live.fr>
+Depiction: https://frankynouva.github.io/depic/HuddyX1.0.html
+
 Package: com.frankynouva.CacheWipe0.0-beta1
 Version: 0.0-beta1
 Section: Tw3ak
