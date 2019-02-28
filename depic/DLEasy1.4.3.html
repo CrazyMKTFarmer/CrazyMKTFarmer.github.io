@@ -213,7 +213,7 @@ img {vertical-align: middle;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 5s ease;
+  transition: background-color 0.6s ease;
 }
 
 .active {
@@ -452,47 +452,6 @@ document.onmouseup = mousehandler;
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
 
 
 </div>
@@ -528,7 +487,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 2 seconds
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
 
@@ -656,7 +615,7 @@ function showSlides() {
         <div class="modal-body">
 <p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
 <a href="/images/saveiccid.png" download><button class="btn-success btn-lg">SAVE</button></a>
- <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh DLEasy share bạn bè</p>
+ <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh và share bạn bè</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Android: Nhấn Save, ảnh sẽ tự tải về.</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- iOS: Nhấn Save, nhấn giữ ảnh để tải.</p>
 		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Desktop: Nhấn Save để tải.</p>
@@ -944,7 +903,7 @@ function disableCtrlKeyCombination(e)
                         //case-insensitive comparation
                         if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
                         {
-                                alert('Vui lòng không thực hiện các thao tác Ctr A,C,U, F12 DLEasy các hoạt động sao chép tại Jailbreaker Special Team. Trường hợp cần copy dãy ICCID, LINK bạn chỉ việc nhấn nút Copy là được');
+                                alert('Vui lòng không thực hiện các thao tác Ctr A,C,U, F12 và các hoạt động sao chép tại Jailbreaker Special Team. Trường hợp cần copy dãy ICCID, LINK bạn chỉ việc nhấn nút Copy là được');
                                 return false;
                         }
                 }
