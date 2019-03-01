@@ -1,322 +1,990 @@
 <!DOCTYPE html>
-<html>
-<style>#floatingbuttons{
-background:#aaa;
-background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #f2f2f2), color-stop(1, #aaa));
-background:-moz-linear-gradient(top, #f2f2f2, #aaa);
-border:1px solid #808080;
-float:left;
-padding:0 0 3px 0;
-position:fixed;
-top:15%;
-left:0;
-z-index:10;
-border-radius:0 5px 5px 0;
-box-shadow:2px 2px 5px rgba(0,0,0,0.3);
-}
-</style>
+<html lang="en">
 <head>
-		<title>Franky Nouva</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-	</head>
-</div>
-	<body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=1824472717596487&autoLogAppEvents=1';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-							<!-- Banner -->
-								<section id="banner">
-	<div>
-<head>
-<head>
+<meta charset="UTF-8">
+<link rel="preload" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" as="style">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" as="style">
+<link rel="preload" href="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1" as="script">
+<link rel="preload" href="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" as="script">
+<link rel="preload" href="https://code.jquery.com/jquery-3.3.1.min.js" as="script">
+<link rel="preload" href="https://unpkg.com/sweetalert/dist/sweetalert.min.js" as="script">
+<link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" as="script">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="nI1viW5j60gr4iLN3oail8c0VlUMCmwL9guqpVF0lBc" />
+    <meta name="description" content="Trang check ICCID, cài tool Jailbreak,app & game hack cùng vô số tiện ích khác">
+    <meta name="keywords" content="Cydia, Jailbreak iOS, Apple, AppStore, unc0ver, th0r, electra jailbreak, jailbreak, iOS, Franky Nouva, Jailbreaker Special Team">
+    <meta name="author" content="frankynouva.github.io">
+   <title>Jailbreaker Special Team | Franky Nouva</title>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Jailbreaker Special Team | Franky Nouva"/>
+    <meta property="og:description" content="Trang check ICCID, cài tool Jailbreak,app & game hack cùng vô số tiện ích khác"/>
+    <meta property="og:url" content="https://frankynouva.github.io/"/>
+    <meta property="og:site_name" content="frankynouva.github.io"/>
+    <meta property="fb:app_id" content="310782788886365633"/>
+    <meta property="og:image" content="images/thumnail.png"/>
+    <meta property="og:image:secure_url" content="images/thumnail.png"/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="css/style.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134240024-1"></script>
+
+
+
+
 <style>
 body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
+.sidenavt {
+  width: 400px;
+  position: fixed;
+  z-index: 2;
+  top: 2px;
+  left: 0px;
+  background: transparent;
+  overflow-x: hidden;
+  padding: 0px 0;
+.sidenavt a:hover {
+  color: #064579;
 }
 
-.topnav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: left;
-  padding: 9px 9px;
+</style>
+
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenavtdepic {
+  width: 400px;
+  position: fixed;
+  z-index: 2;
+  top: 35px;
+  left: 0px;
+  background: transparent;
+  overflow-x: hidden;
+  padding: 0px 0;
+.sidenavtdepic a:hover {
+  color: #064579;
+}
+
+</style>
+
+
+
+
+
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  width: 45px;
+  position: fixed;
+  z-index: 1;
+  top: 120px;
+  left: 0px;
+  background: rgba(255, 255, 255, .7);
+  overflow-x: hidden;
+  padding: 0px 0;
+  border: 1px solid #888;
+}
+.sidenav a {
+  padding: 5px 5px 5px 0px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 10px;
+  color: #2196F3;
+  display: block;
 }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: red;
+.sidenav a:hover {
+  color: #064579;
 }
 
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+.main {
+  margin-left: 140px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 2px;
+}
+
+@media screen and (max-height: 350px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 </style>
+
+
+
+
+
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenavr {
+  width: 50px;
+  position: fixed;
+  z-index: 1;
+  top: 120px;
+  right: 0px;
+  background: transparent;
+  overflow-x: hidden;
+  padding: 5px 0;
+}
+.sidenavr a {
+  padding: 12px 12px 12px 12px;
+  text-decoration: none;
+  font-size: 10px;
+  color: #2196F3;
+  display: block;
+}
+
+.sidenavr a:hover {
+  color: #064579;
+}
+
+.main {
+  margin-right: 20px; /* Same width as the sidebar + left position in px */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 0px;
+}
+
+@media screen and (max-height: 350px) {
+  .sidenavr {padding-top: 15px;}
+  .sidenavr a {font-size: 18px;}
+}
+</style>
+
+
+
+
+
+
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 18px;
+  width: 18px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 5s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+
+
+
+
+<script type="text/javascript">
+		(function(document,navigator,standalone) {
+			// prevents links from apps from oppening in mobile safari
+			// this javascript must be the first script in your <head>
+			if ((standalone in navigator) && navigator[standalone]) {
+				var curnode, location=document.location, stop=/^(a|html)$/i;
+				document.addEventListener('click', function(e) {
+					curnode=e.target;
+					while (!(stop).test(curnode.nodeName)) {
+						curnode=curnode.parentNode;
+					}
+					// Conditions to do this only on links to your own app
+					// if you want all links, use if('href' in curnode) instead.
+					if('href' in curnode && ( curnode.href.indexOf('http') || ~curnode.href.indexOf(location.host) ) ) {
+						e.preventDefault();
+						location.href = curnode.href;
+					}
+				},false);
+			}
+		})(document,window.navigator,'standalone');
+	</script>
+	
+	
+	
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-134240024-1');
+	</script>
+
+<style>
+	body {font-family: Arial, Helvetica, sans-serif;}
+	
+	.modal {
+	  display: none;
+	  position: fixed;
+	  z-index: 99999;
+	  padding-top: 60px;
+	  left: 0;
+	  top: 0;
+	  width: 100%;
+	  height: 100%;
+	  overflow: auto;
+	  border-radius: 10px;
+	}
+	
+	.modal-body {padding: 2px 16px;}
+	
+	.modal-content {
+	  position: relative;
+	  background-color: rgba(255, 255, 255, .9);
+	  margin: auto;
+	  padding: 0;
+	  border: 1px solid #888;
+	  width: 80%;
+	  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+	}
+	
+	.modal-footer {
+	  padding: 2px 16px;
+	  color: black;
+	}
+	
+	.modal-header {
+	  padding: 2px 16px;
+	  color: black;
+	}
+	
+	.close {
+	  color: #aaaaaa;
+	  float: right;
+	  font-size: 28px;
+	  font-weight: bold;
+	}
+	
+	.close:hover,
+	.close:focus {
+	  color: #000;
+	  text-decoration: none;
+	  cursor: pointer;
+	}
+	
+	.btn {
+		visibility: hidden;
+		height: 0;
+		width: 0;
+	}
+	.show {
+		display: block;
+	}
+	</style>
+	<script type='text/javascript'>
+var isCtrl = false;
+document.onkeyup=function(e)
+{
+if(e.which == 17)
+isCtrl=false;
+}
+document.onkeydown=function(e)
+{
+if(e.which == 17)
+isCtrl=true;
+if((e.which == 85) || (e.which == 67) &amp;&amp; isCtrl == true)
+{
+// alert(&#8216;Keyboard shortcuts are cool!&#8217;);
+return false;
+}
+}
+var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+if(navigator.appName == "Netscape") document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+function mischandler(){
+return false;
+}
+function mousehandler(e){
+var myevent = (isNS) ? e : event;
+var eventbutton = (isNS) ? myevent.which : myevent.button;
+if((eventbutton==2)||(eventbutton==3)) return false;
+}
+document.oncontextmenu = mischandler;
+document.onmousedown = mousehandler;
+document.onmouseup = mousehandler;
+</script>
+
 </head>
 <body>
+ 
+ 
+ 
+ <div id="fb-root"></div>
+<script async defer src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=1824472717596487&autoLogAppEvents=1"></script>
 
-<div class="topnav">
-<a href="https://frankynouva.github.io/topnav/home.html" target="_blank">Home</a>
-<a href="https://frankynouva.github.io/topnav/group.html" target="_blank">Group</a>
-<a href="https://frankynouva.github.io/topnav/fanpage.html" target="_blank">Fanpage</a>  
-<a href="https://frankynouva.github.io/topnav/youtube.html" target="_blank">Youtube</a>
-<a href="https://frankynouva.github.io/topnav/vip.html" target="_blank">Vip(*)</a>
+
+
+ 
+<div class="wrapper">
+<div class="profile-card js-profile-card">
+<div class="">
 
 </div>
+<div class="profile-card__cnt js-profile-cnt">
 
-	<meta charset="utf-8">
-	<title>A Kiiim FrankyNouva</title>
-	<base target="_top">
-	<link rel="stylesheet" type="text/css" href="./depictions/resources/css/style.css"/>
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	<meta name="format-detection" content="telephone=no">
-	<script type="text/javascript" src="./depictions/resources/js/thankssaurik.js"></script>
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/48.png" sizes="48x48">
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/64.png" sizes="64x64">
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/128.png" sizes="128x128">
-	<link rel="icon" type="image/png" href="/depictions/resources/logo/256.png" sizes="256x256">
-	<link rel="apple-touch-icon" sizes="120x120" href="/depictions/resources/logo/120.png">
-</head>
-<body class="pinstripe">
-<panel>
-<label></label>
-<fieldset>
-
-<!-- Thiet lap hinh nen cho bang -->
-<table background="./screenshot/snow.jpg" width="100%" height="100">
-<tr><td>
-</label>
-</fieldset>
-</block>
-<div id="menu" align="middle" >
+<div class="profile-card-ctr">
+<a href="http://www.google.com" onclick="location.href='http://www.google.com';" target="_blank"></a>
+<div class="container">
+  
+  
+  
+  <div id="menu" align="middle" >
 <a href="https://www.google.com.vn/search?q=Speed Intensifier 10.1-1">v10.1-1</a> | 
-<a href=""> 60 kb</a> | 
-<a href="">pw5a29 <pw5a29@gmail.com></a> | 
-<a href="https://frankynouva.github.io/Prohome/tweakCompatible.html"> IOS 11.3.1 </a>
-       </p>-------------✿◕ ‿ ◕✿-------------</p>
-<p> <strong></strong> <sup>Speeds up iOS Animations <a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp"><strong></strong></a>
-<label></label>
-<fieldset>
-<div>
-<div>
-<label>
-<p> <strong></strong> <sup><a href="http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=speedintensifierDp"><strong>read more</strong></a>
+<a href="https://www.google.com.vn/search?q=hướng dẫn Speed Intensifier "> 60 kb</a> | 
+<a href="https://www.google.com.vn/search?q=developer cydia tweak pw5a29">pw5a29</a> | 
+<a href=""> Tw3ak </a>
+        </p>-------------✿◕ ‿ ◕✿-------------</p>
+<p> <strong></strong> <sup> "Speeds up iOS Animations"
                 </p> </sup></p>
-hướng dẫn:<audio autoplay >
-    <source src="./screenshot/greetings.mp3" width="20px" height="20px" type="audio/mpeg">
-</audio>
-<p> <strong></strong> <sup>                </p> </sup></p>
-<audio controls >
-    <source src="./screenshot/default.mp3" width="20px" height="20px" type="audio/mpeg">
-</audio>
-<audio autoplay >
-    <source src="./screenshot/Master.mp3" width="20px" height="20px" type="audio/mpeg">
-</audio>
-</div>
-</div>
-<label></label>
-<fieldset>
-<div>
-<div>
-<label>
-<center>
-<p><a href="https://frankynouva.github.io/topnav/futurepost.html">Bài HOT hôm nay <strong>👉👉👉</strong><img src="./screenshot/whathot.png" width="30%"></>
-</div>
-</div>
-<label></label>
-<fieldset>
-<div>
-<div>
-<label>
-<center>
-<p><a href="https://cydia.saurik.com/api/share#?source=https://frankynouva.github.io"></p>
-<p><img src="./screenshot/addsource.png" width="100%"></p>
-<p>|||||||||||||||||||</p>
-<p></p> </a>
-<label></label>
-<fieldset>
-<div>
-<div>
-<label>
-<center>
-<div class="fb-page" data-href="https://www.facebook.com/ispeas.vn" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/ispeas.vn" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ispeas.vn">ISPEAs - Biệt Hội Đam Mê IOS</a></blockquote></div>
-	
-	<block>
-<fieldset>
-<label>
-<center>
-<div id="menu" align="middle" >
-<a href="https://frankynouva.github.io/topnav/sourceerror.html">source error?</a> | 
-<a href="https://frankynouva.github.io/topnav/tweakerror.html"> tweak error?</a> | 
-<a href="https://frankynouva.github.io/topnav/needhelp.html">need help?</a>
 
-<div align="center" class="ads"></div>
-<div align="center" class="ads">
-<span style="vertical-align: top;display: inline-block;"><b></b></span>
-<div style="vertical-align: top;display: inline-block;">
-<div class="fb-like" data-href="https://m.facebook.com/photo.php?fbid=566168750179953&id=100003604986147&set=a.147633825366783.31862.100003604986147&source=11&ref=bookmarks" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+<div class="sidenavt">
+ <a href="https://frankynouva.github.io"><img src="/images/homepage.png" alt="Avatar" style="width:30px"></a>
+	   <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/jsteamstore.png" alt="Avatar" style="width:30px"></a>
+	   <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/utilities.png" alt="Avatar" style="width:30px"></a>
+	  <a href="#myModalcommingsoon" data-toggle="modal"><img src="/images/service.png" alt="Avatar" style="width:30px"></a>
+	  <a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:30px"></a>
+	  <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:30px"></a>
+	  <a href="http://youtube.com/c/frankynouva" target="_blank"><img src="/images/youtube.png" alt="Avatar" style="width:30px"></a>
+	  <a href="#myModalcontact" data-toggle="modal"><img src="/images/contact.png" alt="Avatar" style="width:30px"></a>
+      
 </div>
-</div>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=1824472717596487&autoLogAppEvents=1';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
-<div align="center" class="ads">
-<div class="fb-comments" data-href="https://m.facebook.com/photo.php?fbid=566168750179953&id=100003604986147&set=a.147633825366783.31862.100003604986147&source=11&ref=bookmarks" data-num-posts="3" data-width="300">
-</div>
-</div>
-<p>----------------------------------------------</p>
-</fieldset>
-</div>
-</div>
-</fieldset>
 
-<p> Toàn bộ bài viết thủ thuật sẽ ẨN đến khi Group <strong>Biệt Hội Jailbreaker - iSPEAs</strong> đạt 2.000 thành viên !</p>
-<p><a href=""><strong>✿The Ultimate Guide to becoming ✿</strong></a></p>
-<p><a href=""><strong>✿ a great Jailbreaker ✿</strong></a></p>
-<p><a href="https://frankynouva.github.io/topnav/feature.html"> <strong>AKiiimFrankyNouva</strong> Repo (Feature)<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/jailbreak.html">How To Jailbreak iDevices Without PC<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/sources.html">Must-have Repo for Jailbroken iDevices<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/tweakcompatible.html">How To Check Compatability Tweak list<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/besttweaks.html">Top 10 Best Tweaks For Your iDevices<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/ext3nder.html">Ext3nder:Auto-resign of Jailbreaking tool<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/themefont.html">Top 3 Ways To Change Font on iDevices<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/newseventstips.html">News - Events - Tips - Solution - Relax<img src="./screenshot/new.png" width="7%"></p>
-<p><a href="https://frankynouva.github.io/topnav/vip.html">Donate now or Resister to"<strong>Vip Member</strong>"<img src="./screenshot/donatenow.jpg" width="25%"></p>
+<div class="sidenavtdepic">
+ <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/jsteamcoverfb.png" alt="Avatar" style="width:200px"></a>
+</div>
+
+
+
+
+<div class="sidenavr">
+<a href="fb://"><img src="/images/fb.png" alt="Avatar" style="width:45px"></a>
+<a href="https://m.me" target="_blank"><img src="/images/messenger.png" alt="Avatar" style="width:45px"></a>
+<a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:45px"></a>
+</div>
+
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <div class="text"><a href="https://facebook.com/FrankyNouva" target="_blank"><b>👉 xem chi tiết</b></a></div>
+  <img src="/images/background.jpg" style="width:100%">  
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
+  <img src="/images/background.jpg" style="width:100%">
+  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
+</div>
+
+
+</div>
 <br>
-<p><a href="https://frankynouva.github.io/topnav/futurepost.html"> and More and More Tip & Trick <img src="./screenshot/whathot.png" width="20%"></p>
-</div>
-</div>
-</fieldset>
-</div>
-</div>
-</fieldset>
-</td></tr>
-</table>
 
-<table background="./screenshot/background.jpg" width="100%">
-<tr><td>
-<table background="./screenshot/snow.jpg" width="100%" height="100">
-<tr><td>
+<div style="text-align:center">
+  <span class="dot">1</span> 
+  <span class="dot">2</span> 
+  <span class="dot">3</span> 
+  <span class="dot">4</span> 
+  <span class="dot">5</span> 
+  <span class="dot">6</span> 
+  <span class="dot">7</span> 
+  <span class="dot">8</span> 
+  <span class="dot">9</span> 
+  <span class="dot">10</span> 
+</div>
+<script>
+var slideIndex = 0;
+showSlides();
 
-<label></label>
-<fieldset>
-</div>
-</div>
-</a>
-<a href="https://frankynouva.github.io/topnav/ispeas.html">
-<img class="icon" src="./depictions/resources/icons/more.png" width="58" height="58">
-<div>
-<div>
-<label>
-<p><strong>Join Biệt Hội Jailbreaker (iSPEAs)</strong></p>
-</label>
-</div>
-</div>
-</a>
-<a href="https://frankynouva.github.io/topnav/giaidapcongnghe.html">
-<img class="icon" src="./depictions/resources/icons/more.png" width="58" height="58">
-<div>
-<div>
-<label>
-<p><strong> Join Giải Đáp Công Nghệ (AIO)</strong> </p>
-</label>
-</div>
-</div>
-<a href="https://frankynouva.github.io/topnav/vip.html">
-<img class="icon" src="./depictions/resources/icons/more.png" width="58" height="58">
-<div>
-<div>
-<label>
-<p><strong> Hỗ Trợ Fix Lỗi Jailbreak ( VIP) </strong></p>
-</label>
-</div>
-</div>
-</a>
-<a href="https://frankynouva.github.io/topnav/newseventstips.html">
-<img class="icon" src="./depictions/resources/icons/more.png" width="58" height="58">
-<div>
-<div>
-<label>
-<p><strong> Tin Tức - Sự Kiện - Thủ Thuật(*)</strong>&emsp; </p>
-</label>
-</div>
-</div>
-</a>
-<a href="https://frankynouva.github.io/topnav/guide.html">
-<img class="icon" src="./depictions/resources/icons/more.png" width="58" height="58">
-<div>
-<div>
-<label>
-<p><strong> Nguồn AKiiimFrankyNouva</strong>&emsp; </p>
-</label>
-</div>
-</div>
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 2 seconds
+}
+</script>
 
 
 
-</center>
-</label>
-</div>
-</div>
-</fieldset>
+<div class="fb-comments" data-href="https://www.facebook.com/BietHoiJailbreaker/photos/a.260705961320402.1073741827.260705331320465/260705937987071/?type=3&amp;theater" data-numposts="1"></div>
 
 
 
 
-<label></label>
-<fieldset>
-<div>
-<div>
-<label>
-<center>
+
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <!-- Close Modal button      <button type="button" class="close" data-dismiss="modal">&times;</button>   -->
+          <h4 class="modal-title">Cài Đặt Tiện Ích</h4>
+        </div>
+        <div class="modal-body">
+          <p>Sau khi cài đặt, JSTeam sẽ xuất hiện ở màn hình homescreen, bạn dễ dàng truy cập bất cứ lúc nào (only iOS).</p>
+		  <a href="https://raw.githubusercontent.com/frankynouva/frankynouva.github.io/master/WebkitApps/JSTeam.mobileconfig"><button class="profile-card__button button--orange" id="create-card">&nbsp;&nbsp;Đồng Ý</button></a>
+		  		  <p></p>
+        </div>
+
+      </div>
+      
+    </div>
+  </div>
+  
+
+	  
+	  
+	  
+	  
+		<!-- Modal -->
+  <div class="modal fade" id="myModalcontact" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>Thông tin liên hệ</b></h4>
+        </div>
+        <div class="modal-body">
+          <p>Mọi vấn đề, thắc mắc bạn tham gia Group <a href="https://facebook.com/groups/jsteam.group">Jailbreaker Special Team</a> để được hỗ trợ nhanh chóng</p>
+     
+	  <center>
+	  <a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:30px"></a>
+	  <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:30px"></a>
+	  <a href="http://youtube.com/c/frankynouva" target="_blank"><img src="/images/youtube.png" alt="Avatar" style="width:30px"></a>
+		</div>
+		<center>
+		</br>
+		</center>
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
 
 
 
-<div>
-<div>
-</a>
 
-<label></label>
-<fieldset>
-<label>
-<center>
-<a href="https://frankynouva.github.io/topnav/FrankyNouva.html"><strong>FrankyNouva</strong></a>
-<p> @2012-2018 </p>
+<!-- Modal -->
+  <div class="modal fade" id="myModaliccid" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>Mã ICCID mới nhất</b></h4>
+        </div>
+        <div class="modal-body">
+		
+<p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
+<button class="btn-primary btn-md" onclick="myFunction()">Copy</button><a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/FrankyNouva/posts/1483832451746907" target="_blank" rel="noopener"><button class="btn-success btn-md">share</button><a/><a href="#myModalsaveiccid" data-toggle="modal"><button class="btn-danger btn-md">Save</button></a>
+
+
+  
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak"><b>Những bài viết liên quan:</b></p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">1.Phân biệt iPhone Lock-Quốc Tế</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">2.ICCID là gì? cách nhập ICCID</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">3.Sim ghép (thần thánh) là gì?</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">4.Mua sim ghép tại Hồ Chí Minh?</p>
+          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">5.Nên dùng iPhone Lock or QT?</p>
+	  <center>
+        <a href="tel:0933998772"><img src="/images/phone.png" alt="Avatar" style="width:40px"></a>
+	  <a href="fb://"><img src="/images/fb.png" alt="Avatar" style="width:40px"></a>
+	  <a href="https://m.me/frankynouva" target="_blank"><img src="/images/messenger.png" alt="Avatar" style="width:40px"></a>
+	  <a href="http://zalo.me/0933998772"><img src="/images/zalo.png" alt="Avatar" style="width:40px"></a>
+      <a href="https://youtube.com/c/frankynouva"><img src="/images/youtube.png" alt="Avatar" style="width:40px"></a>
+		</div>
+		<center>
+		</br>
+		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
+		</center>
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Close</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ <!-- Modal -->
+  <div class="modal fade" id="myModalsaveiccid" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>hướng dẫn</b></h4>
+        </div>
+        <div class="modal-body">
+<p><input type="text" value="89014104279202595104" id="myInputICCID"></p>
+<a href="/images/saveiccid.png" download><button class="btn-success btn-lg">SAVE</button></a>
+ <p align="left">&nbsp;&nbsp;Để lưu lại ICCID dạng ảnh Speed Intensifier share bạn bè</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Android: Nhấn Save, ảnh sẽ tự tải về.</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- iOS: Nhấn Save, nhấn giữ ảnh để tải.</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">- Desktop: Nhấn Save để tải.</p>
+	  <center>
+        <a href="tel:0933998772"><button type="button" class="btn-danger btn-md">Phone</button></a><a href="https://m.me/frankynouva"><button type="button" class="btn-success btn-md">Messenger</button></a><a href="http://zalo.me/0933998772"><button type="button" class="btn-info btn-md">Zalo</button></a>
+		</div>
+		<center>
+		</br>
+		<a href="https://facebook.com/FrankyNouva"><button type="button" class="btn-primary btn-md">Donate</button></a>
+		</center>
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Close</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<!-- Modal -->
+  <div class="modal fade" id="myModalchooseios" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>Chọn phiên bản iOS</b></h4>
+        </div>
+        <div class="modal-body">
+	  		</div>
+			<center>
+	<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios12.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios11.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios10.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios9.png" alt="Avatar" style="width:40px"></a>&nbsp;&nbsp;&nbsp;<a href="#myModalcommingsoon" data-toggle="modal" data-dismiss="modal"><img src="/images/ios8.png" alt="Avatar" style="width:40px"></a>
+	</center>
+          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak"><b>Những bài viết liên quan:</b></p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">1.Những phiên bản iOS có Jailbreak?</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">2.Video hướng dẫn Jailbreak chi tiết</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">3.Bộ Tweak hay cho máy Jailbreak</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">4.Fix lỗi, hỗ trợ cho máy Jailbreak</p>
+          <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">5.Nguồn AkiiimFrankyNouva cho Cydia</p>
+		  <p align="left">&nbsp;&nbsp;<a href="#myModaljailbreak">6.Mua máy Jailbreak giá tốt (member)</p>
+		  <p></p>
+		  <p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+ 
+ 
+ 
+ <!-- Modal -->
+  <div class="modal fade" id="myModaljailbreakapp" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>Chọn phiên bản iOS</b></h4>
+        </div>
+        <div class="modal-body">
+	  		</div>
+	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/iccid.png" alt="Avatar" style="width:40px"></a>  iOS 12.0-12.1.2</p>
+	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Electra.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><img src="/images/Unc0ver.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><img src="/images/Thor.png" alt="Avatar" style="width:40px"></a>  iOS 11.0-11.4.1</p>
+	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Yalu.png" alt="Avatar" style="width:40px"></a><a href="#myModaljailbreak"><a href="#myModaljailbreak"><a href="#myModaljailbreak"><img src="/images/Doubleh3lix.png" alt="Avatar" style="width:40px"></a> iOS 10.0-10.2-10.3.3</p>
+	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Phoenix.png" alt="Avatar" style="width:40px"></a>  iOS 9.3.5<a href="#myModaljailbreak"><img src="/images/H3lix.png" alt="Avatar" style="width:40px"></a>  iOS 8.4.1</p>
+	<p align="left">&nbsp;&nbsp;&nbsp;<a href="#myModaljailbreak"><img src="/images/Allinone.png" alt="Avatar" style="width:40px"></a>  iOS 3-4-5-6-7-8-9-10-11-12</p>
+
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ <!-- Modal -->
+  <div class="modal fade" id="myModalcommingsoon" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title">đang cập nhật</h4>
+        </div>
+        <div class="modal-body">
+		<p align="left">&nbsp;&nbsp;tính năng đang được cập nhật, vui lòng quay lại sau</p>
+
+	  		</div>
+chưa có nội dung
+
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+
+
+
+
+ <!-- Youtube buton  <script src="https://apis.google.com/js/platform.js"></script>   -->
+  <!-- Youtube button <div class="g-ytsubscribe" data-channel="kjmtjzhan" data-layout="default" data-count="default"></div>    -->
 
 
 </div>
 </div>
-</fieldset>
-</td></tr>
-</table>
-<style>.fb-livechat, .fb-widget{display: none}.ctrlq.fb-button, .ctrlq.fb-close{position: fixed; right: 24px; cursor: pointer}.ctrlq.fb-button{z-index: 999; background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDEyOCAxMjgiIGhlaWdodD0iMTI4cHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB3aWR0aD0iMTI4cHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxyZWN0IGZpbGw9IiMwMDg0RkYiIGhlaWdodD0iMTI4IiB3aWR0aD0iMTI4Ii8+PC9nPjxwYXRoIGQ9Ik02NCwxNy41MzFjLTI1LjQwNSwwLTQ2LDE5LjI1OS00Niw0My4wMTVjMCwxMy41MTUsNi42NjUsMjUuNTc0LDE3LjA4OSwzMy40NnYxNi40NjIgIGwxNS42OTgtOC43MDdjNC4xODYsMS4xNzEsOC42MjEsMS44LDEzLjIxMywxLjhjMjUuNDA1LDAsNDYtMTkuMjU4LDQ2LTQzLjAxNUMxMTAsMzYuNzksODkuNDA1LDE3LjUzMSw2NCwxNy41MzF6IE02OC44NDUsNzUuMjE0ICBMNTYuOTQ3LDYyLjg1NUwzNC4wMzUsNzUuNTI0bDI1LjEyLTI2LjY1N2wxMS44OTgsMTIuMzU5bDIyLjkxLTEyLjY3TDY4Ljg0NSw3NS4yMTR6IiBmaWxsPSIjRkZGRkZGIiBpZD0iQnViYmxlX1NoYXBlIi8+PC9zdmc+) center no-repeat #0084ff; width: 60px; height: 60px; text-align: center; bottom: 550px; border: 0; outline: 0; border-radius: 60px; -webkit-border-radius: 60px; -moz-border-radius: 60px; -ms-border-radius: 60px; -o-border-radius: 60px; box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16); -webkit-transition: box-shadow .2s ease; background-size: 80%; transition: all .2s ease-in-out}.ctrlq.fb-button:focus, .ctrlq.fb-button:hover{transform: scale(1.1); box-shadow: 0 2px 8px rgba(0, 0, 0, .09), 0 4px 40px rgba(0, 0, 0, .24)}.fb-widget{background: #fff; z-index: 1000; position: fixed; width: 360px; height: 435px; overflow: hidden; opacity: 0; bottom: 0; right: 24px; border-radius: 6px; -o-border-radius: 6px; -webkit-border-radius: 6px; box-shadow: 0 5px 40px rgba(0, 0, 0, .16); -webkit-box-shadow: 0 5px 40px rgba(0, 0, 0, .16); -moz-box-shadow: 0 5px 40px rgba(0, 0, 0, .16); -o-box-shadow: 0 5px 40px rgba(0, 0, 0, .16)}.fb-credit{text-align: center; margin-top: 8px}.fb-credit a{transition: none; color: #bec2c9; font-family: Helvetica, Arial, sans-serif; font-size: 12px; text-decoration: none; border: 0; font-weight: 400}.ctrlq.fb-overlay{z-index: 0; position: fixed; height: 100vh; width: 100vw; -webkit-transition: opacity .4s, visibility .4s; transition: opacity .4s, visibility .4s; top: 0; left: 0; background: rgba(0, 0, 0, .05); display: none}.ctrlq.fb-close{z-index: 4; padding: 0 6px; background: #365899; font-weight: 700; font-size: 11px; color: #fff; margin: 8px; border-radius: 3px}.ctrlq.fb-close::after{content: "X"; font-family: sans-serif}.bubble{width: 20px; height: 20px; background: #c00; color: #fff; position: absolute; z-index: 999999999; text-align: center; vertical-align: middle; top: -2px; left: -5px; border-radius: 50%;}.bubble-msg{width: 120px; left: -140px; top: 5px; position: relative; background: rgba(59, 89, 152, .8); color: #fff; padding: 5px 8px; border-radius: 8px; text-align: center; font-size: 13px;}</style><div class="fb-livechat"> <div class="ctrlq fb-overlay"></div><div class="fb-widget"> <div class="ctrlq fb-close"></div><div class="fb-page" data-href="https://www.facebook.com/ispeas.vn" data-tabs="messages" data-width="360" data-height="400" data-small-header="true" data-hide-cover="true" data-show-facepile="false"> </div><div class="fb-credit"> <a href="https://chanhtuoi.com" target="_blank">Powered by Chanhtuoi</a> </div><div id="fb-root"></div></div><a href="https://m.me/ispeas.vn" title="Gửi tin nhắn cho chúng tôi qua Facebook" class="ctrlq fb-button"> <div class="bubble">1</div><div class="bubble-msg">Hỗ Trợ Gấp?</div></a></div><script src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><script>$(document).ready(function(){function detectmob(){if( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i) ){return true;}else{return false;}}var t={delay: 125, overlay: $(".fb-overlay"), widget: $(".fb-widget"), button: $(".fb-button")}; setTimeout(function(){$("div.fb-livechat").fadeIn()}, 8 * t.delay); if(!detectmob()){$(".ctrlq").on("click", function(e){e.preventDefault(), t.overlay.is(":visible") ? (t.overlay.fadeOut(t.delay), t.widget.stop().animate({bottom: 0, opacity: 0}, 2 * t.delay, function(){$(this).hide("slow"), t.button.show()})) : t.button.fadeOut("medium", function(){t.widget.stop().show().animate({bottom: "30px", opacity: 1}, 2 * t.delay), t.overlay.fadeIn(t.delay)})})}});</script>
+<br>
+
+<style>
+img {
+  border-radius: 5%;
+}
+</style>
+
+
+
+
+
+
+<script>
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id))
+			return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId: '2372543649442183',
+			status: true,
+			xfbml: true,
+			cookie: true
+		});
+	};
+  </script>
+  
+  <script type="text/javascript">
+$('#myModalchao').modal('show');
+</script>
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="js/index.js"></script>
+<!-- <script>
+	var modal = document.getElementById('myModal');
+	
+	var btn = document.getElementById("myBtn");
+	
+	var span = document.getElementsByClassName("close")[0];
+	 
+	btn.onclick = function() {
+	  modal.style.display = "block";
+	}
+	
+	span.onclick = function() {
+	  modal.style.display = "none";
+	}
+	
+	window.onclick = function(event) {
+	  if (event.target == modal) {
+		modal.style.display = "none";
+	  }
+	}
+</script> -->
+<script>
+	function someFunction(){
+		var modal = document.getElementById('myModal');
+		var btn = document.getElementById("myBtn");
+		var span = document.getElementsByClassName("close")[0];
+		
+		span.onclick = function() {
+			modal.classList.remove('show');
+		}
+		btn.onclick = function() {
+			modal.classList.add('show');
+		}
+
+		btn.click();
+	} 
+</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+};
+$(document).keypress("u",function(e) {
+  if(e.ctrlKey)
+  {
+return false;
+}
+else
+{
+return true;
+}
+});
+</script>
+
+<!--Copy to clipboard--!>
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInputICCID");
+  copyText.select();
+  document.execCommand("copy");
+}
+</script>
+
+
+
+<!--Disable Ctr A,C,U.....--!>
+<body onkeypress="return disableCtrlKeyCombination(event);" onkeydown = "return disableCtrlKeyCombination(event);" >
+
+<script language=JavaScript>
+<!--
+//Disable right mouse click Script
+var message="Function Disabled!";
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+document.oncontextmenu=new Function("return false")
+
+function disableCtrlKeyCombination(e)
+{
+        //list all CTRL + key combinations you want to disable
+        var forbiddenKeys = new Array('a', 'c', 'x', 'v');
+        var key;
+        var isCtrl;
+        if(window.event)
+        {
+                key = window.event.keyCode;     //IE
+                if(window.event.ctrlKey)
+                        isCtrl = true;
+                else
+                        isCtrl = false;
+        }
+        else
+        {
+                key = e.which;     //firefox
+                if(e.ctrlKey)
+                        isCtrl = true;
+                else
+                        isCtrl = false;
+        }
+        //if ctrl is pressed check if other key is in forbidenKeys array
+        if(isCtrl)
+        {
+                for(i=0; i<forbiddenKeys.length; i++)
+                {
+                        //case-insensitive comparation
+                        if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
+                        {
+                                alert('Vui lòng không thực hiện các thao tác Ctr A,C,U, F12 Speed Intensifier các hoạt động sao chép tại Jailbreaker Special Team. Trường hợp cần copy dãy ICCID, LINK bạn chỉ việc nhấn nút Copy là được');
+                                return false;
+                        }
+                }
+        }
+        return true;
+}
+// --> 
+</script>
+
+
+<script>
+     document.onkeydown = function(e) {
+        if (e.ctrlKey &&
+            (e.keyCode === 67 ||
+             e.keyCode === 86 ||
+             e.keyCode === 85 ||
+             e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+       };
+         $(document).keypress("u",function(e) {
+           if(e.ctrlKey)
+          {
+            return false;
+           }
+            else
+           {
+           return true;
+          }
+        });
+    </script>
+    <!-- //// -->
+
+
+
+
+
+
+	
 </body>
 </html>
