@@ -1,3 +1,18 @@
+Package: com.frankynouva.KillBackground101.1.2
+Version: 1.1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.repo.xarold.com.killbackground9, com.ichitaso.killbackground11, com.repo.xarold.com.killbackground11, com.julioverne.sbcard, com.repo.xarold.com.sbcard
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.killbackground10_1.1.2_iphoneos-arm.deb
+Size: 363496
+MD5sum: 7f550dd968c141b8bc8149caac134ebf
+Description: JSTeam - Kill background apps with style for iOS 10 & 11!
+Name: KillBackground10 (iOS 10 & 11)
+Author: ichitaso
+Depiction: https://frankynouva.github.io/depic/KillBackground101.1.2.html
+
 Package: com.frankynouva.Better1.2-7
 Version: 1.2-7
 Section: Tw3ak
