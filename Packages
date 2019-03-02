@@ -1,3 +1,18 @@
+Package: com.frankynouva.HomeGesture2.1.2
+Version: 2.1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.vitataf.homegesture_2.1.2_iphoneos-arm.deb
+Size: 2318776
+MD5sum: 7a4d191e5f6c897afc170d9f08b576b9
+Description: JSTeam - Enable iPhone X home gesture on other devices.
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://frankynouva.github.io/depic/HomeGesture2.1.2.html
+
 Package: com.frankynouva.Bazzi1.2.1
 Version: 1.2.1
 Section: Tw3ak
