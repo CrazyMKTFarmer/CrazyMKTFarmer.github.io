@@ -1,3 +1,17 @@
+Package: com.frankynouva.MarkFavourites1.0.0
+Version: 1.0.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.markfavourites_1.0.0_iphoneos-arm.deb
+Size: 11914
+MD5sum: b9a043cd8561cfd28f425dffbb0381de
+Description: JSTeam - Mark favourite multiple photos in the Photos app
+Name: MarkFavourites
+Author: Muirey03
+Depiction: https://frankynouva.github.io/depic/MarkFavourites1.0.0.html
+
 Package: com.frankynouva.Watchdog1.0.1-31
 Version: 1.0.1-31
 Section: Tw3ak
