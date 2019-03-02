@@ -1,3 +1,32 @@
+Package: com.frankynouva.AutoTouch4.3.8
+Version: 4.3.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: me.autotouch.autotouch.ios8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.autotouch8_4.3.8_iphoneos-arm.deb
+Size: 11079674
+MD5sum: 8e232ef546d99a05d3b0cae4401ae21a
+Description: JSTeam - Record and playback touch operations, play macro scripts automatically.
+Name: AutoTouch
+Author: Kent Krantz
+Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
+
+Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Name: AKiiimFrankyN0uva Icon
+Version: 4.0.2
+Architecture: iphoneos-arm
+Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
+Depiction: https://frankynouva.github.io/depic/jsteam.html
+Author: FrankyNouva
+Maintainer: FrankyNouva <frankynouva@gmail.com>
+Section: Tw3ak
+Depends: mobilesubstrate
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.2_iphoneos-arm.deb
+Size: 60612
+MD5sum: 779e1eae448730358167e5574db9309d
+
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
 Section: Tw3ak
@@ -575,17 +604,3 @@ Description: JSTeam - This tweak makes Folders cool!
 Name: CoolFolder
 Author: 4nni3 <4nni3.14@gmail.com>
 Depiction: https://frankynouva.github.io/depic/CoolFolder2.3.html
-
-Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Name: AKiiimFrankyN0uva Icon
-Version: 4.0.1
-Architecture: iphoneos-arm
-Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
-Depiction: https://frankynouva.github.io/depic/jsteam.html
-Author: FrankyNouva
-Maintainer: FrankyNouva <frankynouva@gmail.com>
-Section: Tw3ak
-Depends: mobilesubstrate
-Size: 60628
-MD5sum: 8e35de1d00fc81ddda157ca6e43f1081
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.1_iphoneos-arm.deb
