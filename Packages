@@ -1,0 +1,606 @@
+Package: com.frankynouva.AutoTouch4.3.8
+Version: 4.3.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: me.autotouch.autotouch.ios8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.autotouch8_4.3.8_iphoneos-arm.deb
+Size: 11079674
+MD5sum: 8e232ef546d99a05d3b0cae4401ae21a
+Description: JSTeam - Record and playback touch operations, play macro scripts automatically.
+Name: AutoTouch
+Author: Kent Krantz
+Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
+
+Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Name: AKiiimFrankyN0uva Icon
+Version: 4.0.2
+Architecture: iphoneos-arm
+Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
+Depiction: https://frankynouva.github.io/depic/jsteam.html
+Author: FrankyNouva
+Maintainer: FrankyNouva <frankynouva@gmail.com>
+Section: Tw3ak
+Depends: mobilesubstrate
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.2_iphoneos-arm.deb
+Size: 60612
+MD5sum: 779e1eae448730358167e5574db9309d
+
+Package: com.frankynouva.MarkFavourites1.0.0
+Version: 1.0.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.markfavourites_1.0.0_iphoneos-arm.deb
+Size: 11914
+MD5sum: b9a043cd8561cfd28f425dffbb0381de
+Description: JSTeam - Mark favourite multiple photos in the Photos app
+Name: MarkFavourites
+Author: Muirey03
+Depiction: https://frankynouva.github.io/depic/MarkFavourites1.0.0.html
+
+Package: com.frankynouva.Watchdog1.0.1-31
+Version: 1.0.1-31
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.theronen.watchdog, org.thebigboss.watchdog
+Architecture: iphoneos-arm
+Filename: debs/com.theronen.watchdoglite_1.0.1-31_iphoneos-arm.deb
+Size: 73280
+MD5sum: 77d34bc6b14ab134e74e7d76a3dd23d9
+Description: JSTeam - allow apps to run in the background
+Name: Watchdog Lite
+Author: Allan Kerr <Personal.AllanKerr@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Watchdog1.0.1-31.html
+
+Package: com.frankynouva.Watchdog1.0.2
+Version: 1.0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.thebigboss.watchdoglite, com.theronen.watchdog
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.watchdogpro_1.0.2_iphoneos-arm.deb
+Size: 119446
+MD5sum: c6fd336c3eb267de89fe9032960c6302
+Description: JSTeam - full featured app backgrounding management
+Name: Watchdog Pro
+Author: Allan Kerr
+Depiction: https://frankynouva.github.io/depic/Watchdog1.0.2.html
+
+Package: com.frankynouva.LockHTML41.3-beta1-1k
+Version: 1.3-beta1-1k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), com.bushe.lockscreengesturecleanup, com.unlimapps.uaunbox, com.repo.xarold.com.wethr (>= 1.1), org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.bushe.lockhtml4
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.lockhtml4_1.3~beta1-1k_iphoneos-arm.deb
+Size: 274796
+MD5sum: 840d000849b3d7b69e50dfd7fc9c8c60
+Description: JSTeam - LockHTML4 taking your LockScreen to a whole new level
+Name: LockHTML4
+Author: Ryan Bushe
+Depiction: https://frankynouva.github.io/depic/LockHTML41.3-beta1-1k.html
+
+Package: com.frankynouva.Flex2.0k
+Version: 2.0k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 5.1), mobilesubstrate (>= 0.9.5000), firmware (<< 7.0) | com.rpetrich.rocketbootstrap (>= 1.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: flexpackage, flexpackagebeta, flexios7packagebeta, com.fuyuchi.flex, com.fuyuchi.flex2, flex2package
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.flex2beta_2.0k_iphoneos-arm.deb
+Size: 2445838
+MD5sum: fa055eb1067c0ca3649db9f3f7bea8ed
+Description: JSTeam - Easily make your own tweaks, and share them on the Flex Community Cloud.
+Name: Flex 2
+Author: John Coates
+Depiction: https://frankynouva.github.io/depic/Flex2.0k.html
+
+Package: com.frankynouva.Phonie1.2.1
+Version: 1.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.midkin.phonie_1.2.1_iphoneos-arm.deb
+Size: 19860
+MD5sum: 7c9fbd4d3dfa7c68858fc81114e35661
+Description: JSTeam - move phone dialer's + and x buttons
+Name: Phonie
+Author: midkin <midkin@hotmail.com>
+Depiction: https://frankynouva.github.io/depic/Phonie1.2.1.html
+
+Package: com.frankynouva.AudioRecorder1.6-46k
+Version: 1.6-46k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: net.limneos.callrecorder
+Architecture: iphoneos-arm
+Filename: debs/com.AKiiimFrankyN0uva.AudioRecorder1.6-46k_1.6-46k_iphoneos-arm.deb
+Size: 3821776
+MD5sum: 04d5b8e9446b9716fcecf84653b560fa
+Description: JSTeam - Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Author: Elias Limneos
+Depiction: https://frankynouva.github.io/depic/AudioRecorder1.6-46k.html
+
+Package: com.frankynouva.CallBar1.3-169
+Version: 1.3-169
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5100), firmware (>= 7.0), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.4), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.thebigboss.callbar, com.repo.xarold.com.callbar
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.callbar7_1.3-169_iphoneos-arm.deb
+Size: 1397780
+MD5sum: 9e351c2819827fd0f2cb1a15efdc8d91
+Description: JSTeam - Don't let incoming calls interrupt you!
+Name: CallBar (iOS 10/9/8/7)
+Author: Elias Limneos & Josh Tucker
+Depiction: https://frankynouva.github.io/depic/CallBar1.3-169.html
+
+Package: com.frankynouva.Polus2.2.1
+Version: 2.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, libactivator, com.a3tweaks.flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.polus_2.2.1_iphoneos-arm.deb
+Size: 1630674
+MD5sum: 97147c1f615bd20eacb822d3b49a59a9
+Description: JSTeam - Control Center launcher for apps & actions
+Name: Polus
+Author: A3tweaks
+Depiction: https://frankynouva.github.io/depic/Polus2.2.1.html
+
+Package: com.frankynouva.3DSwitcher2.0.5
+Version: 2.0.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.coolstar.coverflowswitcher, com.repo.xarold.com.coverflowswitcher
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.3dswitcher2_2.0.5_iphoneos-arm.deb
+Size: 783068
+MD5sum: 9dfa41ad4b39bd095277376dcf726c66
+Description: JSTeam - 3D display modes for the app switcher
+Name: 3DSwitcher 2 (iOS 9 & 10)
+Author: CoolStar
+Depiction: https://frankynouva.github.io/depic/3DSwitcher2.0.5.html
+
+Package: com.frankynouva.Switchus1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.switchus_1.2_iphoneos-arm.deb
+Size: 75762
+MD5sum: 160dc5190b562b39c859fbd3e2cc9d09
+Description: JSTeam - Customize the App Switcher like never before !
+Name: Switchus
+Author: SynnyG
+Depiction: https://frankynouva.github.io/depic/Switchus1.2.html
+
+Package: com.frankynouva.HomeGesture2.1.2
+Version: 2.1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.vitataf.homegesture_2.1.2_iphoneos-arm.deb
+Size: 2318776
+MD5sum: 7a4d191e5f6c897afc170d9f08b576b9
+Description: JSTeam - Enable iPhone X home gesture on other devices.
+Name: HomeGesture
+Author: VitaTaf/MidnightChips/PINPAL
+Depiction: https://frankynouva.github.io/depic/HomeGesture2.1.2.html
+
+Package: com.frankynouva.Bazzi1.2.1
+Version: 1.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.bazzi_1.2.1_iphoneos-arm.deb
+Size: 24672
+MD5sum: 31b153c0cef83cff39c3155e04bd02fe
+Description: JSTeam - The ultimate battery icon customizer tweak.
+Name: Bazzi
+Author: Blake Boxberger
+Depiction: https://frankynouva.github.io/depic/Bazzi1.2.1.html
+
+Package: com.frankynouva.NoSpot2.1.1
+Version: 2.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.developersbliss.nospot7_2.1.1_iphoneos-arm.deb
+Size: 3618
+MD5sum: 5e8dee29de8ec06407d2289291bf99d9
+Description: JSTeam - Makes Spotlight inaccessible on iOS 7
+Name: NoSpot (iOS 9/8/7)
+Author: developersBliss <andrew@developersbliss.com>
+Depiction: https://frankynouva.github.io/depic/NoSpot2.1.1.html
+
+Package: com.frankynouva.NoSpot101.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.nospot10_1.1_iphoneos-arm.deb
+Size: 70482
+MD5sum: eaa6e88e28f55b317243a9236af70e92
+Description: JSTeam - Get Rid of the Spotlight on iOS 10!
+Name: NoSpot10
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/NoSpot101.1.html
+
+Package: com.frankynouva.Activator1.9.12
+Version: 1.9.12
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.15), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Architecture: iphoneos-arm
+Filename: debs/libactivator_1.9.12_iphoneos-arm.deb
+Size: 1177692
+MD5sum: 3674eb06d8e6a2cf1bc35afbc7203438
+Description: JSTeam - Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.9.12.html
+
+Package: com.frankynouva.GoodWiFi0.0-beta4
+Version: 0.0-beta4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.goodwifi_0.0~beta4_iphoneos-arm.deb
+Size: 54940
+MD5sum: da9ec556b291626e8f2892f3d11ed9fe
+Description: JSTeam - Better WiFi Preferences
+Name: GoodWiFi
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/GoodWiFi0.0-beta4.html
+
+Package: com.frankynouva.WiFi1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.wifitweak_1.1.1_iphoneos-arm.deb
+Size: 193600
+MD5sum: cfda4cc6e4cb4b023a18b9c0e6eec95b
+Description: JSTeam - Automatically switch to the strongest WiFi network around you... and more
+Name: WiFi - The Strongest Link
+Author: Samball
+Depiction: https://frankynouva.github.io/depic/WiFi1.1.1.html
+
+Package: com.frankynouva.DataMeter1.3-10k
+Version: 1.3-10k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.akiiimfrankyn0uva.datameter1.3-10k_1.3-10k_iphoneos-arm.deb
+Size: 348502
+MD5sum: 942fd2673832f0016ad9884206c22b81
+Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!!!!!! wifi & data traffic Notification widget
+Name: DataMeter
+Author: Minuit
+Depiction: https://frankynouva.github.io/depic/DataMeter1.3-10k.html
+
+Package: com.frankynouva.Speed10.1-1
+Version: 10.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.speedintensifier_10.1-1_iphoneos-arm.deb
+Size: 59666
+MD5sum: c77751ef2b33003158cd7617450e4b0e
+Description: JSTeam - Speeds up iOS Animations
+Name: Speed Intensifier
+Author: pw5a29
+Depiction: https://frankynouva.github.io/depic/Speed10.1-1.html
+
+Package: com.frankynouva.Flex3-EarlyAccess4
+Version: 3-EarlyAccess4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, flex3, com.repo.xarold.com.flex3, flex3beta, flex3featurecatalog
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.flex3_3~EarlyAccess4_iphoneos-arm.deb
+Size: 20615222
+MD5sum: 7beb59edab4e0a45a0989bfa08109abf
+Description: JSTeam - Develop your own tweaks and share them on the Flex Community Cloud
+Name: Flex 3
+Author: John Coates
+Depiction: https://frankynouva.github.io/depic/Flex3-EarlyAccess4.html
+
+Package: com.frankynouva.vWallpaper0.5.0-2
+Version: 0.5.0-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.akiiimfrankyn0uva.vwallpaper0.5.0-2_0.5.0-2_iphoneos-arm.deb
+Size: 17636082
+MD5sum: 5bd84ac8dcd885c563fa36eea57344c5
+Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS
+Name: vWallpaper 2 for iOS 10
+Author: skrew
+Depiction: https://frankynouva.github.io/depic/vWallpaper0.5.0-2.html
+
+Package: com.frankynouva.Springtomize1.4.5-1
+Version: 1.4.5-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.filippobiga.springtomize2
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.springtomize3_1.4.5-1_iphoneos-arm.deb
+Size: 865540
+MD5sum: 8b06d85754b4cf8467d8554165483d31
+Description: JSTeam - Customize your device like never before.
+Name: Springtomize 3 (iOS 9/8/7)
+Author: Filippo & Janosch
+Depiction: https://frankynouva.github.io/depic/Springtomize1.4.5-1.html
+
+Package: com.frankynouva.Springtomize3
+Version: 3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.filippobiga.springtomize2, com.filippobiga.springtomize3, com.repo.xarold.com.springtomize3
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.st4_3_iphoneos-arm.deb
+Size: 687740
+MD5sum: c604566f48119daf31dd5729af4272e6
+Description: JSTeam - Customize your device like never before.
+Name: Springtomize 4 (iOS 10)
+Author: Filippo & Janosch
+Depiction: https://frankynouva.github.io/depic/Springtomize3.html
+
+Package: com.frankynouva.missionAccomplished1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.repo.xarold.com.lockplusforlockhtml, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.qdf_3.9.4k_iphoneos-arm.deb
+Size: 1736120
+MD5sum: a073fdf248ff7889c33dcb5058c2410d
+Description: JSTeam - State your intentions clearly with this lock screen.
+Name: missionAccomplished for LockPlus
+Author: SPQRGuyMontag
+Depiction: https://frankynouva.github.io/depic/missionAccomplished1.0.html
+
+Package: com.frankynouva.Stylish111.0.7-1
+Version: 1.0.7-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.i0stweak3r.stylish11_1.0.7-1_iphoneos-arm.deb
+Size: 110822
+MD5sum: 72dc761083616fc67b8b2d57d3f9cda3
+Description: JSTeam - colorful UI customization features
+Name: Stylish11
+Author: i0s_tweak3r <djvs23@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Stylish111.0.7-1.html
+
+Package: com.frankynouva.HomeGesture1.3
+Version: 1.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.vitataf.homegesturelite_1.3_iphoneos-arm.deb
+Size: 5684
+MD5sum: 80f4f3012444f30843b89777152b0919
+Description: JSTeam - Enable iPhone X home gesture on other devices.
+Name: HomeGesture Lite
+Author: VitaTaf
+Depiction: https://frankynouva.github.io/depic/HomeGesture1.3.html
+
+Package: com.frankynouva.AppCake5.6.0.2
+Version: 5.6.0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 7.0), firmware (<< 12.0)
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.appcake2_5.6.0.2_iphoneos-arm.deb
+Size: 10919104
+MD5sum: 90079c098ba9a5033d67dd8b7a928038
+Description: JSTeam - The new AppCake 5.6.0.1! Introducing Direct Download/Install! Require AppSync to be installed com.repo.xarold.com.appcake2_5.6.0.2_iphoneos-arm com.repo.xarold.com.appcake2_5.6.0.2_iphoneos-arm.deb
+Name: AppCake
+Author: Mickael liang
+Depiction: https://frankynouva.github.io/depic/AppCake5.6.0.2.html
+
+Package: com.frankynouva.KillBackground101.1.2
+Version: 1.1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: tw.garynil.swipehome, com.ichitaso.killbackground9, com.repo.xarold.com.killbackground9, com.ichitaso.killbackground11, com.repo.xarold.com.killbackground11, com.julioverne.sbcard, com.repo.xarold.com.sbcard
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.killbackground10_1.1.2_iphoneos-arm.deb
+Size: 363496
+MD5sum: 7f550dd968c141b8bc8149caac134ebf
+Description: JSTeam - Kill background apps with style for iOS 10 & 11!
+Name: KillBackground10 (iOS 10 & 11)
+Author: ichitaso
+Depiction: https://frankynouva.github.io/depic/KillBackground101.1.2.html
+
+Package: com.frankynouva.Better1.2-7
+Version: 1.2-7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.iturki.betterhud_1.2-7_iphoneos-arm.deb
+Size: 119788
+MD5sum: dc031210d54e4a219a4a04d323b537e8
+Description: JSTeam - move the HUD; change HUD timer
+Name: Better HUD
+Author: iTurki <iTurki@my.com>
+Depiction: https://frankynouva.github.io/depic/Better1.2-7.html
+
+Package: com.frankynouva.Fast1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.comex.fastcopy_1.0_iphoneos-arm.deb
+Size: 1800
+MD5sum: a73a5def3d38c0e37f3ba09bc9c9b2b4
+Description: JSTeam - removes copy/paste menu choice delay
+Name: Fast Copy
+Author: comex <comexk@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Fast1.0.html
+
+Package: com.frankynouva.FastUnlockX1.4
+Version: 1.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cpdigitaldarkroom.fastunlockx_1.4_iphoneos-arm.deb
+Size: 27278
+MD5sum: 19dbf479b96151ed664cb149ae9d8c25
+Description: JSTeam - Faster unlock for iPhone X
+Name: FastUnlockX
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://frankynouva.github.io/depic/FastUnlockX1.4.html
+
+Package: com.frankynouva.CCSupport1.2-2
+Version: 1.2-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: debs/com.opa334.ccsupport_1.2-2_iphoneos-arm.deb
+Size: 35348
+MD5sum: 2f5458c5dba3d824801b21c25c3bf5ba
+Description: JSTeam - Support tweak for CC modules!
+Name: CCSupport
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://frankynouva.github.io/depic/CCSupport1.2-2.html
+
+Package: com.frankynouva.BetterCCXI1.4.8
+Version: 1.4.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.frankynouva.CCSupport1.2-2, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.betterccxi_1.4.8_iphoneos-arm.deb
+Size: 61530
+MD5sum: a2677c53b0a5ebf8e06a932ce0a210b7
+Description: JSTeam - Enhance your control center on iOS 11 and iOS 12
+Name: BetterCCXI
+Author: ATWiiks
+Depiction: https://frankynouva.github.io/depic/BetterCCXI1.4.8.html
+
+Package: com.frankynouva.Avertas10.1.1
+Version: 10.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kunderscore.avertas_10.1.1_iphoneos-arm.deb
+Size: 48788
+MD5sum: d87542f064babb07383b0226130c1f26
+Description: JSTeam - Quick Switcher and Hot Corners
+Name: Avertas
+Author: kunderscore <kunderscore3@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Avertas10.1.1.html
+
+Package: com.frankynouva.HuddyX1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.huddyx_1.0_iphoneos-arm.deb
+Size: 26292
+MD5sum: 135aac472373841c0293211e171b740a
+Description: JSTeam - A new volume HUD for notch devices.
+Name: HuddyX
+Author: maximehip <imax-my@live.fr>
+Depiction: https://frankynouva.github.io/depic/HuddyX1.0.html
+
+Package: com.frankynouva.CacheWipe0.0-beta1
+Version: 0.0-beta1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.cachewipe_0.0~beta1_iphoneos-arm.deb
+Size: 17150
+MD5sum: ff72da63ee43a2eed55218bff4704bb0
+Description: JSTeam - Clear Apps Caches Switch
+Name: CacheWipe
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/CacheWipe0.0-beta1.html
+
+Package: com.frankynouva.DLEasy1.4.3
+Version: 1.4.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ahmedbafkir.dleasy_1.4.3_iphoneos-arm.deb
+Size: 1231778
+MD5sum: b7cfe253af657991f12e4f8fcc19f8bb
+Description: JSTeam - Download images & videos from social apps easily!
+Name: DLEasy
+Author: Ahmed Bafkir <prooxy0@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DLEasy1.4.3.html
+
+Package: com.frankynouva.TypeTab3.2
+Version: 3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/ml.andrewhyatt.typetab_3.2_iphoneos-arm.deb
+Size: 19360
+MD5sum: 53f80c75f6dc34c9ae6099977a3649a9
+Description: JSTeam - Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+Depiction: https://frankynouva.github.io/depic/TypeTab3.2.html
+
+Package: com.frankynouva.CoolFolder2.3
+Version: 2.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.4nni3.coolfolder_2.3_iphoneos-arm.deb
+Size: 45408
+MD5sum: 13df034d85f78412cef9b93bffa20e11
+Description: JSTeam - This tweak makes Folders cool!
+Name: CoolFolder
+Author: 4nni3 <4nni3.14@gmail.com>
+Depiction: https://frankynouva.github.io/depic/CoolFolder2.3.html
