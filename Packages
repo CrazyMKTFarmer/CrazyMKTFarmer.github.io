@@ -1,3 +1,17 @@
+Package: com.frankynouva.Ultrasound1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.ultrasound_1.0_iphoneos-arm.deb
+Size: 858
+MD5sum: 577af9a9bf9365bda56ab4ee8af02c36
+Description: JSTeam - The volume HUD you deserve. ‚Äî Since iOS 7, the volume HUD has been abysmal. Blocking a large portion of the screen when shown, requiring you to use the buttons to quickly adjust, and taking a long time to dismiss, it is one of the most comm
+Name: Ultrasound
+Author: AppleBetas
+Depiction: https://frankynouva.github.io/depic/Ultrasound1.0.html
+
 Package: com.frankynouva.AutoTouch4.3.8
 Version: 4.3.8
 Section: Tw3ak
