@@ -1,3 +1,17 @@
+Package: com.frankynouva.RecordMusic0.0.4
+Version: 0.0.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.music_0.0.4_iphoneos-arm.deb
+Size: 83304
+MD5sum: 919fc5a0d262bb49690da22fb53e67c6
+Description: JSTeam - Allows you to play sounds Apple Music while screen recording or exit the music app. Compatible IOS 12 Only
+Name: RecordMusic
+Author: pxcex
+Depiction: https://frankynouva.github.io/depic/RecordMusic0.0.4.html
+
 Package: com.frankynouva.Activator1.9.13-beta2
 Version: 1.9.13-beta2
 Section: Tw3ak
