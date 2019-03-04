@@ -1,3 +1,33 @@
+Package: com.frankynouva.Activator1.9.13-beta2
+Version: 1.9.13-beta2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.frankynouva.fsfix0.0.2-1+debug, mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16-beta2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Architecture: iphoneos-arm
+Filename: debs/libactivator_1.9.13~beta2_iphoneos-arm.deb
+Size: 1206398
+MD5sum: 164aac189bb141b091a5e84d3728e6e2
+Description: JSTeam - Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.9.13-beta2.html
+
+Package: com.frankynouva.fsfix0.0.2-1+debug
+Version: 0.0.2-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/de.hoenig.fsfix_0.0.2_iphoneos-arm.deb
+Size: 5230
+MD5sum: b3298c43743362139e1d8903883dd5d5
+Description: JSTeam - Attempt to fix Activator on iOS 12 by adding missing methods for Flipswitch
+Name: fsfix
+Author: Lukas Hönig
+Depiction: https://frankynouva.github.io/depic/fsfix0.0.2-1+debug.html
+
 Package: com.frankynouva.Ultrasound1.0
 Version: 1.0
 Section: Tw3ak
