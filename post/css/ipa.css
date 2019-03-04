@@ -1,0 +1,183 @@
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+header h1 {
+    margin: 0;
+    font-size: 25px;
+    color: transparent;
+    background: linear-gradient(270deg,#1e5799,#2ce0bf,#76dd2c,#dba62b,#ff1493,#1e5799);
+    background-size: 1000px 100%;
+    -webkit-animation: bg 35s linear infinite;
+    animation: bg 35s linear infinite;
+    -webkit-background-clip: text;
+    background-clip: text;
+    line-height: 1;
+}
+
+header {
+    background: #fff;
+    width: 100%;
+    padding: 12px 0;
+    text-align: center;
+    color: #555;
+    font-size: 14px;
+    box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.25);
+}
+.centerqc {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mgright {
+    padding-right: 10px;
+    }
+.chip {
+    background-color: #000;
+}
+.chip {
+    font-size: 13px;
+    color: #555;
+    background: #f2f2f2;
+    height: 24px;
+    border-radius: 12px;
+    padding: 0 10px;
+}
+.chip, .chip-media {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.chip {
+    font-weight: 400;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    box-sizing: border-box;
+    vertical-align: middle;
+    margin: 2px 0;
+}
+.bg-color-green {
+    background-color: #4cd964!important;
+        padding-top:2px
+}
+.bg-color-blue {
+    background-color: #34aadc!important;
+        padding-top:2px
+}
+.chip-media {
+    width: 24px;
+    height: 24px;
+    vertical-align: middle;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 16px;
+    color: #fff;
+    font-size: 12px;
+    box-sizing: border-box;
+    margin-left: -10px;
+}
+.chip-media+.chip-label {
+    margin-left: 4px;
+
+}
+.chip-label {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    position: relative;
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    min-width: 0;
+}
+#myInput {
+  background-image: url('/images/searchicon.png');
+  background-position: 10px 12px;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+
+}
+.timkiem {
+    background: #fff;
+    width: 100%;
+    margin: auto;
+    margin-top: 15px;
+}
+.iostitle {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 5px;
+}
+.imgbeta {
+    border-radius: 10px;
+    width: 70px;
+}
+.titlebeta {
+    height: 47px!important;
+    -webkit-line-clamp: 2!important;
+    color: #fff!important;
+    font-size: 18px!important;
+    line-height: 1.4!important;
+}
+.betaframe {
+    position: relative;
+    height: 205px!important;
+    color: #fff!important;
+    text-align: center!important;
+}
+.titlesiri {
+    height: 88px!important;
+    -webkit-line-clamp: 4!important;
+    color: #fff!important;
+    line-height: 22px!important;
+}
+.siriframe {
+    position: relative;
+    height: 140px!important;
+    color: #fff!important;
+}
+.text-w {
+    color: #fff!important;
+}
+footer {
+    background: #fff;
+    padding: 20px 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #555;
+    line-height: 1.4;
+}
+#panel {
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    color: #555;
+    width: 90%;
+    margin: 15px auto;
+    text-align: center;
+}
+
+#panel {
+    display: none;
+}
+#panel img {
+    border-radius: 10px;
+}
+.wsiri {
+    width:45px;
+}
+@media screen and (min-width: 800px) {
+body {
+    max-width: 1000px!important;
+    margin: auto!important;
+    border: 10px solid #fff;
+    border-radius: 10px;
+  }
+}
