@@ -1,3 +1,31 @@
+Package: com.frankynouva.AnimationsBeFast1.4.5
+Version: 1.4.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.animationbefast_1.4.5_iphoneos-arm.deb
+Size: 34774
+MD5sum: df2642ef397a8fd8ed7f228821a2cc12
+Description: JSTeam - Speeds up animations
+Name: AnimationsBeFast
+Author: Adam Seiter
+Depiction: https://frankynouva.github.io/depic/AnimationsBeFast1.4.5.html
+
+Package: com.frankynouva.DoubleTapToWake1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.akiiimfrankyn0uva.doubletaptowake1.0_1.0_iphoneos-arm.deb
+Size: 4878
+MD5sum: adc6419c3dda6735dfeb0782e4f37049
+Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!!Waking your phone too often? Double Tap to Wake, rather than Tap to Wake, on iPhone X.
+Name: DoubleTapToWake
+Author: AppleBetas
+Depiction: https://frankynouva.github.io/depic/DoubleTapToWake1.0.html
+
 Package: com.frankynouva.RecordMusic0.0.4
 Version: 0.0.4
 Section: Tw3ak
@@ -89,7 +117,7 @@ Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Name: AKiiimFrankyN0uva Icon
-Version: 4.0.2
+Version: 4.0.3
 Architecture: iphoneos-arm
 Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
 Depiction: https://frankynouva.github.io/depic/jsteam.html
@@ -97,9 +125,9 @@ Author: FrankyNouva
 Maintainer: FrankyNouva <frankynouva@gmail.com>
 Section: Tw3ak
 Depends: mobilesubstrate
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.2_iphoneos-arm.deb
-Size: 60612
-MD5sum: 779e1eae448730358167e5574db9309d
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.3_iphoneos-arm.deb
+Size: 17058
+MD5sum: e2120d7202f90149bbe580c1ac2672da
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
