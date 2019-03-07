@@ -1,3 +1,17 @@
+Package: com.frankynouva.Aperturize1.0.4
+Version: 1.0.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.aperturize_1.0.4_iphoneos-arm.deb
+Size: 234956
+MD5sum: 7d3ff6647cef8e39184c1e900ca71b3f
+Description: JSTeam - Adjustable bokeh for portrait mode
+Name: Aperturize
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Aperturize1.0.4.html
+
 Package: com.frankynouva.AnimationsBeFast1.4.5
 Version: 1.4.5
 Section: Tw3ak
