@@ -1,3 +1,17 @@
+Package: com.frankynouva.Fascy1.0.1-2
+Version: 1.0.1-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/jp.r-plus.fascy_1.0.1-2_iphoneos-arm.deb
+Size: 4334
+MD5sum: a65045ed77440282b02eb2dc235f851e
+Description: JSTeam - Fast scroll fixity for webviews.
+Name: Fascy
+Author: r_plus <anasthasia.r+fascy@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Fascy1.0.1-2.html
+
 Package: com.frankynouva.Activator1.0
 Version: 1.0
 Section: Tw3ak
