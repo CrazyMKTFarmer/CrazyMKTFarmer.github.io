@@ -1,3 +1,17 @@
+Package: com.frankynouva.Activator1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, libactivator (>= 1.8.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.AKiiimFrankyN0uva.Activator1.0_1.0_iphoneos-arm.deb
+Size: 9274
+MD5sum: e5f32f4bc309b32c678cc6f61f37d104
+Description: JSTeam - Bản Tiếng Việt cho Activator
+Name: Activator VietSub
+Author: LoveJB <nguyenvanha9xyz@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.0.html
+
 Package: com.frankynouva.iCleaner7.7.2
 Version: 7.7.2
 Section: Tw3ak

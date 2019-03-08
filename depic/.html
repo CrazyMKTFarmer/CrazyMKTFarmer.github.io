@@ -213,7 +213,7 @@ img {vertical-align: middle;}
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  transition: background-color 5s ease;
+  transition: background-color 0.6s ease;
 }
 
 .active {
@@ -397,10 +397,10 @@ document.onmouseup = mousehandler;
   
   
   <div id="menu" align="middle" >
-<a href="https://www.google.com.vn/search?q= ">v</a> | 
-<a href="https://www.google.com.vn/search?q=hướng dẫn  "> 16 Mb</a> | 
-<a href="https://www.google.com.vn/search?q=developer cydia tweak "></a> | 
-<a href=""> Tw3ak </a>
+<a href="#myModaltweakinfo" data-toggle="modal">v</a> | 
+<a href="#myModaltweakinfo" data-toggle="modal"> 3.1 Mb</a> | 
+<a href="#myModaltweakinfo" data-toggle="modal"></a> | 
+<a href="#myModaltweakinfo" data-toggle="modal"> Tw3ak </a>
         </p>-------------✿◕ ‿ ◕✿-------------</p>
 <p> <strong></strong> <sup> ""
                 </p> </sup></p>
@@ -452,47 +452,6 @@ document.onmouseup = mousehandler;
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
-  <img src="/images/background.jpg" style="width:100%">
-  <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
-</div>
 
 
 </div>
@@ -528,7 +487,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); // Change image every 2 seconds
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 </script>
 
@@ -595,6 +554,36 @@ function showSlides() {
  </div>
 
 
+
+		<!-- Modal -->
+  <div class="modal fade" id="myModaltweakinfo" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+		
+          <!-- Modal close modal button  <button type="button" class="close" data-dismiss="modal">&times;</button> --> 
+          <h4 class="modal-title"><b>thông tin tweak</b></h4>
+        </div>
+        <div class="modal-body">
+          <p> Bạn đang xem mô tả chi tiết của <b>  </b> được trình bày theo thứ tự sau: </p>
+		  </p><h6>phiên bản | dung lượng | Tác giả | Phân mục</h6></p>
+     
+	  <center>
+	  <a href="https://facebook.com/jsteam.page" target="_blank"><img src="/images/fbpage.png" alt="Avatar" style="width:45px"></a>
+	  <a href="https://facebook.com/groups/jsteam.group" target="_blank"><img src="/images/fbgroup.png" alt="Avatar" style="width:45px"></a>
+	  <a href="http://youtube.com/c/frankynouva" target="_blank"><img src="/images/youtube.png" alt="Avatar" style="width:45px"></a>
+		</div>
+		<center>
+		</br>
+		</center>
+		<p align="right"><button type="button" class="btn-danger" data-dismiss="modal" width:"60px">Okie</button>&nbsp;&nbsp;&nbsp;</p>
+			  </div>
+      </div>
+ </div>
+ 
+ 
 
 
 <!-- Modal -->
