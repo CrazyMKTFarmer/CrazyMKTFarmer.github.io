@@ -1,3 +1,18 @@
+Package: com.frankynouva.iCleaner7.7.2
+Version: 7.7.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.icleanerpro_7.7.2_iphoneos-arm.deb
+Size: 9873054
+MD5sum: 783247b1694b9d282040870e6ae22aae
+Description: JSTeam - The first real iOS system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi
+Depiction: https://frankynouva.github.io/depic/iCleaner7.7.2.html
+
 Package: com.frankynouva.Aperturize1.0.4
 Version: 1.0.4
 Section: Tw3ak
