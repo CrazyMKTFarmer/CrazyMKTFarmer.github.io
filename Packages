@@ -1,3 +1,18 @@
+Package: com.frankynouva.Hide0.2
+Version: 0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.junesiphone.hidestatusbaritems
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.hidestatusbaritemsx_0.2_iphoneos-arm.deb
+Size: 31302
+MD5sum: 2b5ed753645967163e53aaf6eb2e7faf
+Description: JSTeam - Allows you to hide certain Statusbar items
+Name: Hide Statusbar Items X(12)k
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Hide0.2.html
+
 Package: com.frankynouva.Fascy1.0.1-2
 Version: 1.0.1-2
 Section: Tw3ak
