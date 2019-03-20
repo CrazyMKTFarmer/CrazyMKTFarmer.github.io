@@ -399,6 +399,7 @@ document.onmouseup = mousehandler;
 </div>
 
 
+
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -765,61 +766,61 @@ img {
 
 <div class="slideshow-container">
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <div class="text"><a href="https://facebook.com/FrankyNouva" target="_blank"><b>👉 xem chi tiết</b></a></div>
   <img src="/images/background.jpg" style="width:100%">  
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
 </div>
 
-<div class="mySlides fade">
+<div class="mySlides2 fade">
   <div class="numbertext"><b><a href="#myModalcontact" data-toggle="modal">Franky Nouva</a></b></div>
   <img src="/images/background.jpg" style="width:100%">
   <div class="text"><a href="#myModalcommingsoon" data-toggle="modal"><b>👉 xem chi tiết</b></a></div>
@@ -841,6 +842,31 @@ img {
   <span class="dot">9</span> 
   <span class="dot">10</span> 
 </div>
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides2 = document.getElementsByClassName("mySlides2");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 2 seconds
+}
+</script>
+
+
+
+
 </center>
 </div>
 <p></p>
