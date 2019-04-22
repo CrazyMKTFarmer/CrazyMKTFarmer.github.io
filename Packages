@@ -1,3 +1,16 @@
+Package: com.akiiimfrankynouva.blanka
+Version: 1.1.1
+Section: iOS 12
+Maintainer: AKiiim FrankyNouva
+Architecture: iphoneos-arm
+Name: Blanka
+Author: maximehip
+Filename: debs/Blanka.deb
+Size: 22026
+MD5sum: 7d3fd1680d09df068bb0eacf8a0224f7
+Description: JSTeam - Активация iCleaner Pr
+Depiction: https://frankynouva.github.io/depic/Blanka.html
+
 Package: com.frankynouva.Patch1.0
 Version: 1.0
 Section: Tw3ak
@@ -215,9 +228,9 @@ Name: AutoTouch
 Author: Kent Krantz
 Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
-Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
+Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Name: Kiiim Repo Icons
-Version: 4.1.0
+Version: 4.1.1
 Architecture: iphoneos-arm
 Description: Official AKiiim Repo Icons
 Depiction: https://frankynouva.github.io/depic/IconRepo.html
@@ -225,8 +238,7 @@ Author: Franky Nouva
 Section: Tw3ak
 Essential: yes
 Filename: debs/IconRepo.deb
-Size: 27534
-MD5sum: 3897b38b72b5c68b81801425f86d4491
+Size: 27542MD5sum: 092e123f0af66c3cd4cf6e5dfcba004a
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
