@@ -215,19 +215,18 @@ Name: AutoTouch
 Author: Kent Krantz
 Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
-Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Name: AKiiimFrankyN0uva Icon
-Version: 4.0.3
+Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
+Name: Kiiim Repo Icons
+Version: 4.1.0
 Architecture: iphoneos-arm
-Description: Tiện ích truy cập nhanh JSTeam, check ICCID, tải tool Jailbreak, app ver thấp, app, game crack,v.v...
-Depiction: https://frankynouva.github.io/depic/jsteam.html
-Author: FrankyNouva
-Maintainer: FrankyNouva <frankynouva@gmail.com>
+Description: Official AKiiim Repo Icons
+Depiction: https://frankynouva.github.io/depic/IconRepo.html
+Author: Franky Nouva
 Section: Tw3ak
-Depends: mobilesubstrate
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.0.3_iphoneos-arm.deb
-Size: 17058
-MD5sum: e2120d7202f90149bbe580c1ac2672da
+Essential: yes
+Filename: debs/IconRepo.deb
+Size: 27534
+MD5sum: 3897b38b72b5c68b81801425f86d4491
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
