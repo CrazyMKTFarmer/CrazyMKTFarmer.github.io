@@ -1,3 +1,18 @@
+Package: com.frankynouva.Slices1.0b4
+Version: 1.0b4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.yourepo.mohadu31.sudo, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.expetelek.slices
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.slices2_1.0b4_iphoneos-arm.deb
+Size: 290792
+MD5sum: 1f324a951046244dff05d9959797aa42
+Description: JSTeam - Allows you to have multiple setting and data bundles for a single application.
+Name: Slices 2
+Author: subdiox
+Depiction: https://frankynouva.github.io/depic/Slices1.0b4.html
+
 Package: com.frankynouva.Mejor1.0.5
 Version: 1.0.5
 Section: Tw3ak
