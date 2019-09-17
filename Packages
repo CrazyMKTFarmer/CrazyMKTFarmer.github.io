@@ -1,3 +1,17 @@
+Package: com.frankynouva.Dissident2.0.2
+Version: 2.0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.dissident_2.0.2_iphoneos-arm.deb
+Size: 1461536
+MD5sum: b2c3927aa10652f43e4ae25e2f671e2f
+Description: JSTeam - True background management and much more.
+Name: Dissident
+Author: Timm Kandziora (shinvou) <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/Dissident2.0.2.html
+
 Package: com.hackyouriphone.backupaz3
 Version: 1.6.1
 Section: HYI - Tweaks
