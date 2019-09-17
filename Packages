@@ -1,3 +1,17 @@
+Package: com.frankynouva.fkwatermark0.0.3
+Version: 0.0.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.xia0.fkwatermark_0.0.3_iphoneos-arm.deb
+Size: 28958
+MD5sum: a958177c26d132faddb300e6e1bdd25e
+Description: JSTeam - remove watermark when video download like tiktok。短视频下载去水印，目前支持有皮皮搞笑，抖音，皮皮虾
+Name: fkwatermark
+Author: xia0 <939529983@qq.com>
+Depiction: https://frankynouva.github.io/depic/fkwatermark0.0.3.html
+
 Package: com.frankynouva.playbackSafari1.0.1
 Version: 1.0.1
 Section: Tw3ak
