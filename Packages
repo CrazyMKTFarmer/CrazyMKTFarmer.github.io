@@ -1,3 +1,17 @@
+Package: com.frankynouva.Data2.0
+Version: 2.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/tw.hiraku.datalogoswitcher_2.0_iphoneos-arm.deb
+Size: 35422
+MD5sum: a0a230d1b35da90380395d91894ec30d
+Description: JSTeam - Change your 3G/4G/LTE logo
+Name: Data Logo Switcher
+Author: Hiraku <dev@hiraku.tw>
+Depiction: https://frankynouva.github.io/depic/Data2.0.html
+
 Package: com.frankynouva.Aweme1.1-1
 Version: 1.1-1
 Section: Tw3ak
