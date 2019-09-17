@@ -1,11 +1,11 @@
-Origin: A Kiiim Franky Nouva 
-Label: FrankyNouva
+Origin: A Kiiim Franky Nouva 🇻🇳🇻🇳🇻🇳
+Label: 🇻🇳 FrankyNouva
 Suite: stable
-Version: 1.0
-Codename: FrankyNouva
+Version: 2.0
+Codename: frankynouva
 Architectures: iphoneos-arm
 Components: main
-Description:  JSTeam - Jailbreak3r Special Team
+Description:  Jailbreak3r Special Team
 MD5Sum:
- 0a64e9ab77199918f9bbce2d56750e9f 37691 Packages
- e2a07ff004234e8d274b87f21b387fb7 7351 Packages.bz2
+ 4084480c70c51817d76d463b844a6cc4 38275 Packages
+ 310665bb490f638976bd154c55f2f22c 7458 Packages.bz2

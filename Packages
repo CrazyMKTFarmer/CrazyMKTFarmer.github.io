@@ -1,3 +1,17 @@
+Package: com.frankynouva.Blanka1.3.2
+Version: 1.3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.blanka_1.3.2_iphoneos-arm.deb
+Size: 28302
+MD5sum: 22aca7672911d98320e12b958bc5b8b5
+Description: JSTeam - Blanka allow to lock your apps with FaceID/Touch ID
+Name: Blanka
+Author: maximehip <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/Blanka1.3.2.html
+
 Package: com.akiiimfrankynouva.blanka
 Version: 1.1.1
 Section: iOS 12
@@ -238,7 +252,7 @@ Author: Franky Nouva
 Section: Tw3ak
 Essential: yes
 Filename: debs/IconRepo.deb
-Size: 27542MD5sum: 092e123f0af66c3cd4cf6e5dfcba004a
+Size: 27542MD5sum: 83ffc932e23288a2b685afd00653b6c1
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
