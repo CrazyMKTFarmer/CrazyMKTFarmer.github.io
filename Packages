@@ -1,3 +1,18 @@
+Package: com.hackyouriphone.backupaz3
+Version: 1.6.1
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, apt7, shell-cmds, unzip
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.backupaz3_1.6.1_iphoneos-arm.deb
+Size: 6731072
+MD5sum: ff88b78414ec57542872c4c4275df4a2
+Description: Backup all your tweaks and preferences
+Name: BackupAZ 3
+Author: SynnyG <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=backupaz3
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=backupaz3
+
 Package: com.frankynouva.Mejor1.0.4
 Version: 1.0.4
 Section: Tw3ak
