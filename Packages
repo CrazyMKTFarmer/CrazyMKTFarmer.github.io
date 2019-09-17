@@ -1,3 +1,17 @@
+Package: com.frankynouva.Mejor1.0.4
+Version: 1.0.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, com.ouraigua.jodebox, ws.hbang.common, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/n.uf.mejor_1.0.4_iphoneos-arm.deb
+Size: 386754
+MD5sum: feaa3109757f7059fa6b22961f09a3ff
+Description: JSTeam - Features for popular social network apps
+Name: Mejor
+Author: Azozz ALFiras <azozzalfiras@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Mejor1.0.4.html
+
 Package: com.frankynouva.BatteryHomeBar1.2
 Version: 1.2
 Section: Tw3ak
