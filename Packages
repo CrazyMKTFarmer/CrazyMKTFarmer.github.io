@@ -1,3 +1,31 @@
+Package: com.frankynouva.AppTools1.5.1-3
+Version: 1.5.1-3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.flex2areo.apptools_1.5.1-3_iphoneos-arm.deb
+Size: 679576
+MD5sum: df8c59b542dbbb6ab2636845f458c39a
+Description: JSTeam - 一款图标增强工具
+Name: AppTools
+Author: aReo <minikissbye@foxmail.com>
+Depiction: https://frankynouva.github.io/depic/AppTools1.5.1-3.html
+
+Package: com.frankynouva.ReProvision0.4.4
+Version: 0.4.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.reprovision_0.4.4_iphoneos-arm.deb
+Size: 10669320
+MD5sum: eb1ddc3161d035c3849caf46119d6a38
+Description: JSTeam - Re-sign applications on your device
+Name: ReProvision
+Author: Matt Clarke
+Depiction: https://frankynouva.github.io/depic/ReProvision0.4.4.html
+
 Package: com.frankynouva.ReProvision0.4.4
 Version: 0.4.4
 Section: Tw3ak
