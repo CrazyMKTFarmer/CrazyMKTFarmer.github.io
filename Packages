@@ -1,3 +1,17 @@
+Package: com.frankynouva.playbackSafari1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.playbacksafari_1.0.1_iphoneos-arm.deb
+Size: 7698
+MD5sum: 89c69c48a5b789856fa5eb1fd93ab080
+Description: JSTeam - Make Videos Background Playback on Safari!
+Name: playbackSafari
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/playbackSafari1.0.1.html
+
 Package: com.frankynouva.Slices1.0b4
 Version: 1.0b4
 Section: Tw3ak
