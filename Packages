@@ -1,3 +1,17 @@
+Package: com.frankynouva.Mejor1.0.5
+Version: 1.0.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.ouraigua.jodebox, ws.hbang.common, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.mejor_1.0.5_iphoneos-arm.deb
+Size: 384418
+MD5sum: e3978c41c60419f94552fb9c2202d03a
+Description: JSTeam - Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak)
+Name: Mejor
+Author: Azozz ALFiras <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/Mejor1.0.5.html
+
 Package: com.frankynouva.Snapper2.1-1
 Version: 2.1-1
 Section: Tw3ak
