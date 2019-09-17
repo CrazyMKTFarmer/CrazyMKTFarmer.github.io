@@ -1,3 +1,17 @@
+Package: com.frankynouva.ReProvision0.4.4
+Version: 0.4.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.reprovision_0.4.4_iphoneos-arm.deb
+Size: 10669320
+MD5sum: 691fcace2e648320bb8aee5738006186
+Description: JSTeam - Re-sign applications on your device
+Name: ReProvision
+Author: Matt Clarke
+Depiction: https://frankynouva.github.io/depic/ReProvision0.4.4.html
+
 Package: com.frankynouva.Limneosos1.1.3
 Version: 1.1.3
 Section: Tw3ak
