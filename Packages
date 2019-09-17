@@ -1,3 +1,18 @@
+Package: com.frankynouva.AppStore++0.9.6-1
+Version: 0.9.6-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.unlimapps.uaupdatetools
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.appstoreplusplus_0.9.6-1_iphoneos-arm.deb
+Size: 1315122
+MD5sum: da97d4dc23991f2e424f3b56f78e76b4
+Description: JSTeam - Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
+Name: AppStore++
+Author: CokePokes
+Depiction: https://frankynouva.github.io/depic/AppStore++0.9.6-1.html
+
 Package: com.frankynouva.Boxy3.4.2
 Version: 3.4.2
 Section: Tw3ak
