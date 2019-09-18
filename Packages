@@ -1,3 +1,19 @@
+Package: com.frankynouva.Activator1.9.12
+Version: 1.9.12
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.15), com.rpetrich.rocketbootstrap (>= 1.0.5) | firmware (<< 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch
+Architecture: iphoneos-arm
+Filename: debs/libactivator_1.9.12_iphoneos-arm.deb
+Size: 1177694
+MD5sum: 375f6d1a054a60a9bfdd6329d3eb519e
+Description: JSTeam - Centralized gestures, button and shortcut management for iOS
+Name: Activator
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.9.12.html
+
 Package: com.frankynouva.NoCallBlur1.0.1
 Version: 1.0.1
 Section: Tw3ak
@@ -12,94 +28,6 @@ Name: NoCallBlur
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://frankynouva.github.io/depic/NoCallBlur1.0.1.html
 
-Package: com.frankynouva.Apple1.0.3
-Version: 1.0.3
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Architecture: iphoneos-arm
-Filename: debs/com.cannathea.afc2d-arm64_1.0.3_iphoneos-arm.deb
-Size: 26906
-MD5sum: 94002101ece554096ad4be79943ddf27
-Description: JSTeam - Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
-Name: Apple File Conduit "2" (arm64/KPPLess)
-Author: saurik, Cannathea <csupport@cannathea.com>
-Depiction: https://frankynouva.github.io/depic/Apple1.0.3.html
-
-Package: com.frankynouva.fkwatermark0.0.3
-Version: 0.0.3
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.xia0.fkwatermark_0.0.3_iphoneos-arm.deb
-Size: 28958
-MD5sum: a958177c26d132faddb300e6e1bdd25e
-Description: JSTeam - remove watermark when video download like tiktok。短视频下载去水印，目前支持有皮皮搞笑，抖音，皮皮虾
-Name: fkwatermark
-Author: xia0 <939529983@qq.com>
-Depiction: https://frankynouva.github.io/depic/fkwatermark0.0.3.html
-
-Package: com.frankynouva.playbackSafari1.0.1
-Version: 1.0.1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.cydiageek.playbacksafari_1.0.1_iphoneos-arm.deb
-Size: 7698
-MD5sum: 89c69c48a5b789856fa5eb1fd93ab080
-Description: JSTeam - Make Videos Background Playback on Safari!
-Name: playbackSafari
-Author: CydiaGeek <lucaluca86@aol.com>
-Depiction: https://frankynouva.github.io/depic/playbackSafari1.0.1.html
-
-Package: com.frankynouva.Slices1.0b4
-Version: 1.0b4
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 8), mobilesubstrate, preferenceloader, applist (>= 1.5.0), com.yourepo.mohadu31.sudo, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: com.expetelek.slices
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.slices2_1.0b4_iphoneos-arm.deb
-Size: 290792
-MD5sum: 1f324a951046244dff05d9959797aa42
-Description: JSTeam - Allows you to have multiple setting and data bundles for a single application.
-Name: Slices 2
-Author: subdiox
-Depiction: https://frankynouva.github.io/depic/Slices1.0b4.html
-
-Package: com.frankynouva.Mejor1.0.5
-Version: 1.0.5
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.ouraigua.jodebox, ws.hbang.common, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.hackyouriphone.mejor_1.0.5_iphoneos-arm.deb
-Size: 384418
-MD5sum: e3978c41c60419f94552fb9c2202d03a
-Description: JSTeam - Add features to apps beautifully. (Downloads not works well, It is not a crack problem, the same thing happens with the original tweak)
-Name: Mejor
-Author: Azozz ALFiras <repo@hackyouriphone.org>
-Depiction: https://frankynouva.github.io/depic/Mejor1.0.5.html
-
-Package: com.frankynouva.Snapper2.1-1
-Version: 2.1-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.snapper2_2.1-1_iphoneos-arm.deb
-Size: 403824
-MD5sum: 8aa5e5358ddebaf439730d798dfa85ca
-Description: JSTeam - Pin screenshots on the screen.
-Name: Snapper 2 k
-Author: Jonathan Winger-lang
-Depiction: https://frankynouva.github.io/depic/Snapper2.1-1.html
 
 Package: com.akiiimfrankynouva.blanka
 Version: 1.1.1
