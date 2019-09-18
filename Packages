@@ -1,3 +1,17 @@
+Package: com.frankynouva.TypeTab4.1
+Version: 4.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/ml.andrewhyatt.typetab_4.1_iphoneos-arm.deb
+Size: 25040
+MD5sum: 34f06d22b131394b4f3be6e63c4375fb
+Description: JSTeam - Faster address entry for Safari tabs
+Name: TypeTab
+Author: Andrew Hyatt <ahyattdev@icloud.com>
+Depiction: https://frankynouva.github.io/depic/TypeTab4.1.html
+
 Package: com.frankynouva.AppSync41.1-NoA12
 Version: 41.1-NoA12
 Section: Tw3ak
