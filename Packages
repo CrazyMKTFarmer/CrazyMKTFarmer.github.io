@@ -1,3 +1,17 @@
+Package: com.frankynouva.CacheClearer0.1a
+Version: 0.1a
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.cacheclearer_0.1a_iphoneos-arm.deb
+Size: 9302
+MD5sum: 84c471c56e4152072aaf73dd2517a07a
+Description: JSTeam - Clear app caches from the Usage section in Settings
+Name: CacheClearer
+Author: Ryan Petrich <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/CacheClearer0.1a.html
+
 Package: com.frankynouva.CacheWipe0.0-beta1
 Version: 0.0-beta1
 Section: Tw3ak
