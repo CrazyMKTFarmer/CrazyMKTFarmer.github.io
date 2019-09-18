@@ -1,3 +1,31 @@
+Package: com.frankynouva.AppTools1.5.1-3
+Version: 1.5.1-3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.flex2areo.apptools_1.5.1-3_iphoneos-arm.deb
+Size: 679576
+MD5sum: d082addce99cca622197d9922652c213
+Description: JSTeam - 一款图标增强工具
+Name: AppTools
+Author: aReo <minikissbye@foxmail.com>
+Depiction: https://frankynouva.github.io/depic/AppTools1.5.1-3.html
+
+Package: com.frankynouva.playbackSafari1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.playbacksafari_1.0.1_iphoneos-arm.deb
+Size: 7698
+MD5sum: 9f1d4df0d3dc6fcdb95973ecfed1b036
+Description: JSTeam - Make Videos Background Playback on Safari!
+Name: playbackSafari
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/playbackSafari1.0.1.html
+
 Package: com.frankynouva.Slices0.2.7-2
 Version: 0.2.7-2
 Section: Tw3ak
