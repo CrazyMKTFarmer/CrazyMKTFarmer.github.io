@@ -1,3 +1,19 @@
+Package: com.frankynouva.AppSync41.1-NoA12
+Version: 41.1-NoA12
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 12.4), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Architecture: iphoneos-arm
+Filename: debs/net.angelxwind.appsyncunified_41.1-NoA12_iphoneos-arm.deb
+Size: 49002
+MD5sum: ee80e72d0e977f9d032aff9de9868d12
+Description: JSTeam - Enables the ability to install unsigned/fakesigned iOS applications.
+Name: AppSync Unified (NO A12 SUPPORT)
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://frankynouva.github.io/depic/AppSync41.1-NoA12.html
+
 Package: com.frankynouva.Wifi1.0.1-1
 Version: 1.0.1-1
 Section: Tw3ak
