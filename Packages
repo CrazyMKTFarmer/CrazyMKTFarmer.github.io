@@ -1,3 +1,17 @@
+Package: com.frankynouva.Easy3.1
+Version: 3.1
+Section: Tweaks
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kobisnir.easy-ringtone_3.1_iphoneos-arm.deb
+Size: 2001882
+MD5sum: ec7099155cb154c6f341d0f723ec9a67
+Description: JSTeam - Download any video / track from YouTube, SoundCloud or any other website and convert it to Ringtone.
+Name: Easy Ringtone
+Author: ioslinks <kobisn@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Easy3.1.html
+
 Package: com.frankynouva.GamePlayer3.4
 Version: 3.4
 Section: Tw3ak
