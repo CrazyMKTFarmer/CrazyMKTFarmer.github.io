@@ -1,3 +1,20 @@
+Package: com.frankynouva.iCleaner7.6.4
+Version: 7.6.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: debs/com.akiiimfrankyn0uva.icleaner7.6.4_7.6.4_iphoneos-arm.deb
+Size: 5228220
+MD5sum: e7b2188f503baee17b60ae59f406a511
+Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS
+Name: iCleaner Pro v7.6.4
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://frankynouva.github.io/depic/iCleaner7.6.4.html
+
 Package: com.frankynouva.AudioRecorder3.0-79k
 Version: 3.0-79k
 Section: Tw3ak
