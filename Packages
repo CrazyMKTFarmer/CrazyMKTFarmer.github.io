@@ -1,3 +1,18 @@
+Package: com.frankynouva.AudioRecorder1.6-46k
+Version: 1.6-46k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: net.limneos.callrecorder, com.hackyouriphone.callrecorder
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.audiorecorder2_1.6-46k_iphoneos-arm.deb
+Size: 3821798
+MD5sum: b021ec2280eabeb9ec6bfc1a5214f96b
+Description: JSTeam - Most Advanced iOS Call Recorder Ever!
+Name: AudioRecorder 2 (iOS 8,9,10,11)
+Author: Elias Limneos <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/AudioRecorder1.6-46k.html
+
 Package: com.frankynouva.Activator1.0
 Version: 1.0
 Section: Tw3ak
