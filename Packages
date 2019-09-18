@@ -1,3 +1,20 @@
+Package: com.frankynouva.Apple1.0.3
+Version: 1.0.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Architecture: iphoneos-arm
+Filename: debs/com.cannathea.afc2d-arm64_1.0.3_iphoneos-arm.deb
+Size: 26906
+MD5sum: 94002101ece554096ad4be79943ddf27
+Description: JSTeam - Allow full file-system access over USB for arm64 devices, especially for those using a KPPLess jailbreak.
+Name: Apple File Conduit "2" (arm64/KPPLess)
+Author: saurik, Cannathea <csupport@cannathea.com>
+Depiction: https://frankynouva.github.io/depic/Apple1.0.3.html
+
 Package: com.frankynouva.fkwatermark0.0.3
 Version: 0.0.3
 Section: Tw3ak
