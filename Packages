@@ -1,3 +1,17 @@
+Package: com.frankynouva.NoCallBlur1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.tr1fecta.nocallblur_1.0.1_iphoneos-arm.deb
+Size: 5116
+MD5sum: 05cbd37e75c2c3c1846fcfd8cb1d629c
+Description: JSTeam - Remove the blur from the call background.
+Name: NoCallBlur
+Author: Tr1Fecta <tr1fecta@pm.me>
+Depiction: https://frankynouva.github.io/depic/NoCallBlur1.0.1.html
+
 Package: com.frankynouva.Apple1.0.3
 Version: 1.0.3
 Section: Tw3ak
