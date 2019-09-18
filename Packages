@@ -1,3 +1,17 @@
+Package: com.frankynouva.FullSafari1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.bensge.fullsafari_1.1.1_iphoneos-arm.deb
+Size: 9052
+MD5sum: 6d5587a69efef1754cd334c12de77fc1
+Description: JSTeam - Enable iPad-like Safari tabs on any device, always.
+Name: FullSafari
+Author: Bensge <benno@bensge.com>
+Depiction: https://frankynouva.github.io/depic/FullSafari1.1.1.html
+
 Package: com.frankynouva.Appcon1.4.5
 Version: 1.4.5
 Section: Tw3ak
