@@ -1,3 +1,17 @@
+Package: com.frankynouva.Slices0.2.7-2
+Version: 0.2.7-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist (>= 1.5.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.slices_0.2.7-2_iphoneos-arm.deb
+Size: 238840
+MD5sum: 9d3d415fae29a231b0a6afc68c460872
+Description: JSTeam - multiple setting & data bundles for apps
+Name: Slices iOS10
+Author: Stevie Hetelekides
+Depiction: https://frankynouva.github.io/depic/Slices0.2.7-2.html
+
 Package: com.frankynouva.AppStore++0.9.6
 Version: 0.9.6
 Section: Tw3ak
