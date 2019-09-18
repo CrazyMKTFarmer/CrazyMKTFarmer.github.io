@@ -1,3 +1,18 @@
+Package: com.frankynouva.QuickDo3.9.4k
+Version: 3.9.4k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.quickdo, com.repo.xarold.com.quickdo, com.clezz.clezzqd, com.clezz.qda, com.clezz.qdb, com.clezz.qdc, com.clezz.qdd, com.clezz.qde
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.quickdoactivator_3.9.4k_iphoneos-arm.deb
+Size: 1736218
+MD5sum: 72db80d90810da6edd154ffdf07c4ce6
+Description: JSTeam - Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.
+Name: QuickDo (Activator)
+Author: Ma Jun
+Depiction: https://frankynouva.github.io/depic/QuickDo3.9.4k.html
+
 Package: com.hackyouriphone.dleasy
 Version: 2.6.2k
 Section: HYI - Tweaks
