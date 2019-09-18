@@ -1,3 +1,17 @@
+Package: com.frankynouva.NtSpeed0.2-beta6a
+Version: 0.2-beta6a
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.julioverne.ntspeed_0.2~beta6a_iphoneos-arm.deb
+Size: 46018
+MD5sum: 6042203146903f2c4c341d32c06f4d63
+Description: JSTeam - See Active Traffic Network Speed
+Name: NtSpeed
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/NtSpeed0.2-beta6a.html
+
 Package: com.frankynouva.SnowBoard1.2.14-Beta1
 Version: 1.2.14-Beta1
 Section: Tw3ak
