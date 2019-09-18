@@ -1,3 +1,18 @@
+Package: com.frankynouva.Sonus3.0.2-3
+Version: 3.0.2-3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.4), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.9), com.rpetrich.rocketbootstrap (>= 1.0.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: io.github.himynameisubik.sonus
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.sonus_3.0.2-3_iphoneos-arm.deb
+Size: 176114
+MD5sum: 7eee675a50d6ed7be24872d2daba95ae
+Description: JSTeam - A better & highly customizable volume hud.
+Name: Sonus
+Author: ubik
+Depiction: https://frankynouva.github.io/depic/Sonus3.0.2-3.html
+
 Package: com.frankynouva.NtSpeed0.2-beta6a
 Version: 0.2-beta6a
 Section: Tw3ak
