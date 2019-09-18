@@ -1,3 +1,17 @@
+Package: com.frankynouva.Tage1.2.2-1-beta2k2
+Version: 1.2.2-1-beta2k2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader (>= 2.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.tage_1.2.2-1~beta2k2_iphoneos-arm.deb
+Size: 620340
+MD5sum: 493a5aa8d3b15e9ee92db28427b46f26
+Description: JSTeam - Awesome multitasking gestures and more. / 功能强大的多任务手势。
+Name: Tage
+Author: Ma Jun <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/Tage1.2.2-1-beta2k2.html
+
 Package: com.frankynouva.QuickDo3.9.4k
 Version: 3.9.4k
 Section: Tw3ak
