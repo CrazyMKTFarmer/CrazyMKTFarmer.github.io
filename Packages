@@ -1,3 +1,18 @@
+Package: com.frankynouva.ActIf1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), libactivator, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.bigboss.actif
+Architecture: iphoneos-arm
+Filename: debs/org.thebigboss.actif2_1.2_iphoneos-arm.deb
+Size: 160088
+MD5sum: 07581d6185f503c97e245cb6182ba4f2
+Description: JSTeam - Conditionals for Activator!
+Name: ActIf 2
+Author: Jay Zuerndorfer <jzplusplus@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ActIf1.2.html
+
 Package: com.frankynouva.ActIf1.2-1
 Version: 1.2-1
 Section: Tw3ak
