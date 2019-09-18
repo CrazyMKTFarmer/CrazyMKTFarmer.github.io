@@ -1,3 +1,18 @@
+Package: com.hackyouriphone.dleasy
+Version: 2.6.2k
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.dleasy_2.6.2k_iphoneos-arm.deb
+Size: 2151568
+MD5sum: 1e4a04038a13f383a83d33a733df7158
+Description: Download images and videos from social apps easily!
+Name: DLEasy
+Author: AhmedBafkir <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dleasy
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dleasy
+
 Package: com.frankynouva.Fascy1.0.1-2
 Version: 1.0.1-2
 Section: Tw3ak
