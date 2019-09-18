@@ -1,3 +1,18 @@
+Package: com.frankynouva.GamePlayer3.4
+Version: 3.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 6.0), mobilesubstrate
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.gameplayer_3.4_iphoneos-arm.deb
+Size: 1502914
+MD5sum: 963ea4cc4c63a77369d2d4f01f393a4d
+Description: JSTeam - GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x, 8.x and 9.x are supported.
+Name: GamePlayer
+Author: Maocai Luo
+Depiction: https://frankynouva.github.io/depic/GamePlayer3.4.html
+
 Package: com.frankynouva.Boxy3.6.2
 Version: 3.6.2
 Section: Tw3ak
