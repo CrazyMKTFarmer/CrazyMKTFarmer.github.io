@@ -1,3 +1,17 @@
+Package: com.frankynouva.Appcon1.4.5
+Version: 1.4.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.thebigboss.appcon_1.4.5_iphoneos-arm.deb
+Size: 375170
+MD5sum: 6bae8f8ec248dd99d492c508f91db6c1
+Description: JSTeam - Set icon images from your photo library.
+Name: Appcon
+Author: merdok <merdok87@o2.pl>
+Depiction: https://frankynouva.github.io/depic/Appcon1.4.5.html
+
 Package: com.frankynouva.TypeTab4.1
 Version: 4.1
 Section: Tw3ak
