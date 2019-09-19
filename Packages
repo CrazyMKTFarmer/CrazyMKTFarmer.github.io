@@ -1,3 +1,18 @@
+Package: com.frankynouva.SwipeSelection1.0.3-1
+Version: 1.0.3-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.iky1e.swipeselection
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.swipeselection-pro_1.0.3-1_iphoneos-arm.deb
+Size: 44846
+MD5sum: 350b7db849a172841ac2f36a26db2c9f
+Description: JSTeam - Swipe along the keyboard to move cursor & select text.
+Name: SwipeSelection Pro
+Author: iKy1e (Kyle Howells) <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/SwipeSelection1.0.3-1.html
+
 Package: com.pulandres.autotouch
 Version: 5.1.5
 Section: Utilities
