@@ -1,32 +1,17 @@
-Package: com.frankynouva.Gauss1.2.1-1
-Version: 1.2.1-1
+Package: com.frankynouva.AppList1.5.15-beta1
+Version: 1.5.15-beta1
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.nin9tyfour.libspex, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7-beta3) | firmware (<< 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
 Architecture: iphoneos-arm
-Filename: debs/vn.gsm.gauss_1.2.1-1_iphoneos-arm.deb
-Size: 221062
-MD5sum: 7b1a193ff89f638c43f60da971658c25
-Description: JSTeam - Add nice blurs to Music app
-Name: Gauss
-Author: nin9tyfour
-Depiction: https://frankynouva.github.io/depic/Gauss1.2.1-1.html
-
-Package: com.frankynouva.Grabby1.3.11
-Version: 1.3.11
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5001), firmware (>= 5.1), preferenceloader (>= 2.2.2), libactivator (>= 1.9.6), com.a3tweaks.flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis, vn.gsm.stride, vn.gsm.axis
-Replaces: me.adambell.stride, de.neorame.noisy (<= 1.2), com.nickf.anylockapp, com.nickf.cameralocker, com.myrepospace.maxkatzmann.jellylock, com.a3tweaks.axis, vn.gsm.stride, vn.gsm.axis
-Architecture: iphoneos-arm
-Filename: debs/vn.gsm.grabby_1.3.11_iphoneos-arm.deb
-Size: 279370
-MD5sum: 83c625a12f24a510291eee6f6834921d
-Description: JSTeam - Customizable camera grabber
-Name: Grabby
-Author: Ryan Petrich
-Depiction: https://frankynouva.github.io/depic/Grabby1.3.11.html
+Filename: debs/applist_1.5.15~beta1_iphoneos-arm.deb
+Size: 186220
+MD5sum: ae9818d453a4de0af4685135ba7a8c5e
+Description: JSTeam - Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AppList1.5.15-beta1.html
 
 Package: com.frankynouva.HomeGesture1.3
 Version: 1.3
