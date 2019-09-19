@@ -1,3 +1,17 @@
+Package: com.frankynouva.SugarCane1.0.0
+Version: 1.0.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ioscreatix.sugarcane_1.0.0_iphoneos-arm.deb
+Size: 7502
+MD5sum: bf933432369a6c6ec7d0b8a16f2f07bc
+Description: JSTeam - Get percentages for the sliders in the Control Center on iOS 11
+Name: SugarCane
+Author: iOS Creatix
+Depiction: https://frankynouva.github.io/depic/SugarCane1.0.0.html
+
 Package: com.frankynouva.SwipeSelection1.0.3-1
 Version: 1.0.3-1
 Section: Tw3ak
