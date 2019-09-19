@@ -1,3 +1,17 @@
+Package: com.frankynouva.Fast-LS1.6.5
+Version: 1.6.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.1), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.plat-ykor.fastls_1.6.5_iphoneos-arm.deb
+Size: 47624
+MD5sum: b6f50dbac544f64f7fa087498880caa8
+Description: JSTeam - The fastest way to lock your phone!
+Name: Fast-LS
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depiction: https://frankynouva.github.io/depic/Fast-LS1.6.5.html
+
 Package: com.frankynouva.X1.1-official-1+debug
 Version: 1.1-official-1+debug
 Section: Tw3ak
