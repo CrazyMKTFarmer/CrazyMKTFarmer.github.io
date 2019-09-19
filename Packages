@@ -1,3 +1,17 @@
+Package: com.frankynouva.HomeGesture1.3
+Version: 1.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.vitataf.homegesturelite_1.3_iphoneos-arm.deb
+Size: 5686
+MD5sum: bc0b63920b18be2efcca9dac8cb8bc2a
+Description: JSTeam - Enable iPhone X home gesture on other devices.
+Name: HomeGesture Lite
+Author: VitaTaf
+Depiction: https://frankynouva.github.io/depic/HomeGesture1.3.html
+
 Package: com.frankynouva.Fast-LS1.6.5
 Version: 1.6.5
 Section: Tw3ak
