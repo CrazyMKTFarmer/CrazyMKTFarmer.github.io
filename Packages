@@ -1,3 +1,17 @@
+Package: com.frankynouva.ProTube1.12.1k
+Version: 1.12.1k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 4.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.protube_1.12.1k_iphoneos-arm.deb
+Size: 7511704
+MD5sum: b0576b380b6ad8ceeccd00550332440b
+Description: JSTeam - complete feature-filled YouTube app
+Name: ProTube
+Author: Jonas Gessner <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/ProTube1.12.1k.html
+
 Package: com.frankynouva.BottomToolBar0.999-b1k
 Version: 0.999-b1k
 Section: Tw3ak
