@@ -1,3 +1,33 @@
+Package: com.frankynouva.SwipeExpander1.0.11-1
+Version: 1.0.11-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: jp.ashikase.showcase, org.thebigboss.deleteword, com.sassoty.keycuts, com.a3tweaks.altkeyboard2
+Replaces: jp.ashikase.showcase
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.swipeexpander_1.0.11-1_iphoneos-arm.deb
+Size: 154466
+MD5sum: d487467ad39865c8397ed0e356a2d7ea
+Description: JSTeam - keyboard key swipes for text & actions
+Name: SwipeExpander
+Author: Jerry En <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/SwipeExpander1.0.11-1.html
+
+Package: com.frankynouva.DarkModuleCCXI1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.thebigboss.darkmoduleccxi_1.0_iphoneos-arm.deb
+Size: 5318
+MD5sum: e9d96f39bb4f188b6004c721a6cf4d64
+Description: JSTeam - Add Dark Mode To Control Center Modules Background
+Name: DarkModuleCCXI
+Author: Makwan BK <makwanbarzan@gmail.com>
+Depiction: https://frankynouva.github.io/depic/DarkModuleCCXI1.0.html
+
 Package: com.frankynouva.AppList1.5.15-beta1
 Version: 1.5.15-beta1
 Section: Tw3ak
