@@ -1,3 +1,130 @@
+Package: com.frankynouva.Copypasta0.1.4
+Version: 0.1.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.copypasta_0.1.4_iphoneos-arm.deb
+Size: 92480
+MD5sum: ba9dbf4c84e7a9288b2f005d6cc42647
+Description: JSTeam - Minimalist clipboard manager
+Name: Copypasta
+Author: Nepeta <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/Copypasta0.1.4.html
+
+Package: com.frankynouva.StatusBarXS1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.statusbarxs_1.2_iphoneos-arm.deb
+Size: 5072
+MD5sum: e908304d7f0d6c7674ce4cd4ed34ac76
+Description: JSTeam - Enable the “modern” statusbar on any device.
+Name: StatusBarXS
+Author: dpkg_ <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/StatusBarXS1.2.html
+
+Package: com.frankynouva.StatusBarX1.0-1
+Version: 1.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.douliuroczy.sbarxlite_1.0-1_iphoneos-arm.deb
+Size: 5176
+MD5sum: aaa335d81e3550d29b8d6dd36a22247c
+Description: JSTeam - Bring the iPhone X StatusBar style to any idevice
+Name: StatusBarX
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Depiction: https://frankynouva.github.io/depic/StatusBarX1.0-1.html
+
+Package: org.cydia.kiimo.system-memory-reset-fix
+Version: 1.0
+Section: System
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/org.cydia.kiimo.system-memory-reset-fix_1.0_iphoneos-arm.deb
+Size: 2162
+Installed-Size: 56
+MD5sum: a47afa82d3b171e40f84c01347434a6e
+Name: System Memory Reset Fix
+Author: Pwn20wnd
+
+Package: com.frankynouva.FastOpenApp1.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/ajbbotech.com.fastopenapp_1.1_iphoneos-arm.deb
+Size: 24298
+MD5sum: 359230510b219383447dc943c01d3a50
+Description: JSTeam - open apps bypassing launch animation
+Name: FastOpenApp
+Author: aJBboCydia <aJBboCydia@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FastOpenApp1.1.html
+
+Package: com.frankynouva.Batchomatic3.2
+Version: 3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, gawk, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.batchomatic_3.2_iphoneos-arm.deb
+Size: 88202
+MD5sum: 027c50d3ae700ea82e9b4987f882cf0b
+Description: JSTeam - Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Batchomatic3.2.html
+
+Package: com.frankynouva.NiceBarX0.2
+Version: 0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.niceios.nicebarx, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.nicebarx_0.2_iphoneos-arm.deb
+Size: 826
+MD5sum: a8fa7d5e71ef169a9bedea9497bb6852
+Description: JSTeam - NiceBarX free
+Name: NiceBarX
+Author: Вадим®️ <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/NiceBarX0.2.html
+
+Package: com.frankynouva.Mystic0.0.1-1
+Version: 0.0.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kaitouiet.mystic_0.0.1-1_iphoneos-arm.deb
+Size: 4900
+MD5sum: a7ca2abf6ef76dd87b72a2742eb19225
+Description: JSTeam - show Battery % on "Press Home To Unlock" or "Swipe up to Unlock"
+Name: Mystic
+Author: Kiet Ha <kaitouiet@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Mystic0.0.1-1.html
+
+Package: com.pulandres.safestdn
+Version: 1.40
+Priority: optional
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.safestdn_1.40_iphoneos-arm.deb
+Size: 372860
+Installed-Size: 850
+MD5sum: 946f6ac47c793dd6062e16ea1c6a7b09
+Description: Avoid re-jailbreaking when your iDevice have not battery
+Name: SafeShutdown Cracked
+Author: Kurrt <dev@kurrt.com>
+Depiction: https://pulandres.me/repo/index.php?pid=44
+
 Package: com.frankynouva.SugarCane1.0.0
 Version: 1.0.0
 Section: Tw3ak
