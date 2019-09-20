@@ -1,4 +1,90 @@
-Package: com.frankynouva.ActIf1.2-1
+Package: net.kenhtao.pasithea2
+Version: 2.1.8
+Section: Tweaks
+Maintainer: Kênh Táo
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.cannathea.pasithea2
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.pasithea2_2.1.8_iphoneos-arm.deb
+Size: 784920
+Installed-Size: 2644
+MD5sum: d01dbfc1ee94e2ed5492c685b77cec54
+Description: Best clipboardmanager ever
+Name: Pasithea 2 Cracked
+Author: Cannathea
+Depiction: https://repo.kenhtao.net/view/941
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: org.cydia.kiimo.blanka
+Version: 1.1.1
+Section: iOS 12
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
+Size: 22126
+Installed-Size: 224
+MD5sum: 439dcf7d1345526d391e446c8f8bf77a
+Name: Blanka
+Author: maximehip
+
+Package: com.frankynouva.SafeShutdown1.40
+Version: 1.40
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11), jp.ashikase.libpackageinfo, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.safestdn_1.40_iphoneos-arm.deb
+Size: 372886
+MD5sum: 2d0667090a3b3b4b608d62fad4860d1d
+Description: JSTeam - Avoid re-jailbreaking when your iDevice have not battery
+Name: SafeShutdown Cracked
+Author: Kurrt <dev@kurrt.com>
+Depiction: https://frankynouva.github.io/depic/SafeShutdown1.40.html
+
+Package: com.frankynouva.Blanka1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Blanka1.1.1_1.1.1_iphoneos-arm.deb
+Size: 22174
+MD5sum: 77be4df4dea7073c7ff00df407f7cccf
+Description: JSTeam - hianajsksk hssjsjsj
+Name: Blanka
+Author: maximehip
+Depiction: https://frankynouva.github.io/depic/Blanka1.1.1.html
+
+Package: org.cydia.kiimo.blanka
+Version: 1.1.1
+Section: iOS 12
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
+Size: 22150
+Installed-Size: 224
+MD5sum: 6d213ef5ea26bfda14015e142666b99f
+Description: hianajsksk hssjsjsj
+Name: Blanka
+Author: maximehip
+
+Package: org.cydia.kiimo.blanka
+Version: 1.1.1
+Section: iOS 12
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
+Size: 22128
+Installed-Size: 224
+MD5sum: 3faf83452bb6774acb2f279bf6845c9c
+Name: Blanka
+Author: maximehip
+
+ Package: com.frankynouva.ActIf1.2-1
 Version: 1.2-1
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
