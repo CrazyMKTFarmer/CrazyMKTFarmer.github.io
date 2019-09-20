@@ -1,3 +1,17 @@
+Package: com.frankynouva.Blanka1.3.2
+Version: 1.3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.blanka_1.3.2_iphoneos-arm.deb
+Size: 28266
+MD5sum: b29855ebab060bf227975eb7a2ec936c
+Description: JSTeam - An awesome MobileSubstrate tweak!
+Name: Blanka
+Author: maximehip
+Depiction: https://frankynouva.github.io/depic/Blanka1.3.2.html
+
 Package: com.frankynouva.BetterShutdown0.0.1-1
 Version: 0.0.1-1
 Section: Tw3ak
@@ -83,19 +97,6 @@ Description: JSTeam - Best clipboardmanager ever
 Name: Pasithea 2 Cracked
 Author: Cannathea
 Depiction: https://frankynouva.github.io/depic/Pasithea2.1.8.html
-
-Package: org.cydia.kiimo.blanka
-Version: 1.1.1
-Section: iOS 12
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Architecture: iphoneos-arm
-Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
-Size: 22126
-Installed-Size: 224
-MD5sum: 439dcf7d1345526d391e446c8f8bf77a
-Name: Blanka
-Author: maximehip
 
 Package: com.frankynouva.SafeShutdown1.40
 Version: 1.40
@@ -1021,20 +1022,6 @@ Description: JSTeam - Remove the blur from the call background.
 Name: NoCallBlur
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://frankynouva.github.io/depic/NoCallBlur1.0.1.html
-
-
-Package: com.akiiimfrankynouva.blanka
-Version: 1.1.1
-Section: iOS 12
-Maintainer: AKiiim FrankyNouva
-Architecture: iphoneos-arm
-Name: Blanka
-Author: maximehip
-Filename: debs/Blanka.deb
-Size: 22026
-MD5sum: 7d3fd1680d09df068bb0eacf8a0224f7
-Description: JSTeam - Активация iCleaner Pr
-Depiction: https://frankynouva.github.io/depic/Blanka.html
 
 Package: com.frankynouva.Patch1.0
 Version: 1.0
