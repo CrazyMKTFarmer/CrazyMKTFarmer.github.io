@@ -1,3 +1,20 @@
+Package: kenhtao.scribble
+Version: 1.0.3-1k
+Section: Tweaks
+Maintainer: Kênh Táo
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)
+Replaces: repo.kenhtao.net.scribb
+Architecture: iphoneos-arm
+Filename: debs/kenhtao.scribble_1.0.3-1k_iphoneos-arm.deb
+Size: 211406
+Installed-Size: 704
+MD5sum: 35422b44bf381d2cc1a447fa52f0b5bb
+Description: Mở khoá bằng cách vẽ lên màn hình.
+Name: Scribble Cracked
+Author: Boo
+Depiction: https://repo.kenhtao.net/view/1105
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.frankynouva.Pasithea2.1.8
 Version: 2.1.8
 Section: Tw3ak
