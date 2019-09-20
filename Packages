@@ -1,3 +1,18 @@
+Package: com.frankynouva.netKillUIbeta0.2.1-1
+Version: 0.2.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: eu.teggers.netkillui
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.netkillui11_0.2.1-1_iphoneos-arm.deb
+Size: 813518
+MD5sum: 7df25002c8ac112ef4356e436f4e3fa4
+Description: JSTeam - GUI for arp-scan and arp-spoof.
+Name: netKillUIbeta (iOS 11)
+Author: Teggers <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/netKillUIbeta0.2.1-1.html
+
 Package: com.frankynouva.netKillUI1.1
 Version: 1.1
 Section: Tw3ak
