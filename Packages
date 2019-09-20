@@ -1,3 +1,17 @@
+Package: com.frankynouva.BetterShutdown0.0.1-1
+Version: 0.0.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.arab-cydia.bettershutdown_0.0.1-1_iphoneos-arm.deb
+Size: 46796
+MD5sum: e30c390af3fea5f3585121366bef649e
+Description: JSTeam - Quick access to turn off the device or insert it into the sword mode or enter in the multipoint mode through the double button push button
+Name: BetterShutdown
+Author: System Administrator <rwmeo2004@hotmail.com>
+Depiction: https://frankynouva.github.io/depic/BetterShutdown0.0.1-1.html
+
 Package: com.frankynouva.BetterShutdown0.9.2
 Version: 0.9.2
 Section: Tw3ak
