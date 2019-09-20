@@ -1,3 +1,17 @@
+Package: com.frankynouva.sudo1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.sudo_1.0.1_iphoneos-arm.deb
+Size: 5402
+MD5sum: a7032f1d5a6e2e89d2a2941330d812ad
+Description: JSTeam - sudo command, electra jailbreak supported
+Name: sudo
+Author: subdiox
+Depiction: https://frankynouva.github.io/depic/sudo1.0.1.html
+
 Package: com.frankynouva.Easy3.1
 Version: 3.1
 Section: Tw3ak
@@ -902,20 +916,6 @@ Description: JSTeam - Allows you to have multiple setting and data bundles for a
 Name: Slices 2
 Author: subdiox
 Depiction: https://frankynouva.github.io/depic/Slices1.0b4.html
-
-Package: com.frankynouva.sudo1.0.1
-Version: 1.0.1
-Section: System
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.sudo_1.0.1_iphoneos-arm.deb
-Size: 5402
-MD5sum: d7dac4815f3f9dc0ebb380b910cc8606
-Description: JSTeam - sudo command, electra jailbreak supported
-Name: sudo
-Author: subdiox
-Depiction: https://frankynouva.github.io/depic/sudo1.0.1.html
 
 Package: com.frankynouva.SmoothLockX1.3.0
 Version: 1.3.0
