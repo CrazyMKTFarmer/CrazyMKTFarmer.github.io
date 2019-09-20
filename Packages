@@ -1,3 +1,17 @@
+Package: com.frankynouva.ActIf1.2-1
+Version: 1.2-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000), libactivator, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.thebigboss.actif_1.2-1_iphoneos-arm.deb
+Size: 51040
+MD5sum: 01476982b91899678ef1f9c0f5ad7945
+Description: JSTeam - Add conditionals to Activator.
+Name: ActIf
+Author: Jay Zuerndorfer <jzplusplus@gmail.com>
+Depiction: https://frankynouva.github.io/depic/ActIf1.2-1.html
+
 Package: net.kenhtao.cydown
 Version: 6.9.9
 Section: Tweaks
