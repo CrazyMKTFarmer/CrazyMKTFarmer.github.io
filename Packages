@@ -1,3 +1,17 @@
+Package: com.frankynouva.vizoForever1.0-2+debug
+Version: 1.0-2+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/cydia.kiiimo.org.vizoforever_1.0-2+debug_iphoneos-arm.deb
+Size: 6056
+MD5sum: 263e9cb87853a191a4bfc0fcc16019f3
+Description: JSTeam - Remove time limit while recording screen using vizoRec application
+Name: vizoForever
+Author: Ahmad
+Depiction: https://frankynouva.github.io/depic/vizoForever1.0-2+debug.html
+
 Package: com.frankynouva.Blanka1.3.2
 Version: 1.3.2
 Section: Tw3ak
