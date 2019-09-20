@@ -1,3 +1,33 @@
+Package: com.frankynouva.netKillUIbeta0.1.9-4
+Version: 0.1.9-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.frankynouva.arpscan1.8.1-1, com.frankynouva.dsniff2.4b2-1, adv-cmds, grep, network-cmds, shell-cmds, gawk, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.heaveniphone.netKillUI_0.1.9-4_iphoneos-arm.deb
+Size: 261214
+MD5sum: 4961bee60bb87e449c4260d1888f6f98
+Description: JSTeam - GUI for arp-scan and arp-spoof.
+Name: netKillUIbeta (iOS 5.0-8.4.1)
+Author: Teggers
+Depiction: https://frankynouva.github.io/depic/netKillUIbeta0.1.9-4.html
+
+Package: com.frankynouva.Dsniff2.4b2-1
+Version: 2.4b2-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.mulliner.dsniff
+Replaces: org.mulliner.dsniff
+Architecture: iphoneos-arm
+Filename: debs/com.heaveniphone.dsniff_2.4b2-1_iphoneos-arm.deb
+Size: 2110956
+MD5sum: 86f382628ec289bc7d291c660d8f1d3f
+Description: JSTeam - Dsniff Suite Of Pentesting Tools For iPhone dsniff is a collection of tools for network auditing and penetration testing. dsniff, filesnarf, mailsnarf, msgsnarf, urlsnarf, and webspy passively monitor a network for interesting data (passwords, e-mail, files, etc.). arpspoof, dnsspoof, and macof facilitate the interception of network traffic normally unavailable to an attacker (e.g, due to layer-2 switching). sshmitm and webmitm implement active monkey-in-the-middle attacks against redirected SSH and HTTPS sessions by exploiting weak bindings in ad-hoc PKI.
+Name: Dsniff Suite
+Author: Dug Song
+Depiction: https://frankynouva.github.io/depic/Dsniff2.4b2-1.html
+
 Package: com.frankynouva.netKillUIbeta0.2.1-1
 Version: 0.2.1-1
 Section: Tw3ak
