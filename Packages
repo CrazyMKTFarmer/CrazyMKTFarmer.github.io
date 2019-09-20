@@ -1,19 +1,16 @@
-Package: kenhtao.scribble
-Version: 1.0.3-1k
-Section: Tweaks
-Maintainer: Kênh Táo
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)
-Replaces: repo.kenhtao.net.scribb
+Package: com.frankynouva.BatteryPercentX1.3.9-19
+Version: 1.3.9-19
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/kenhtao.scribble_1.0.3-1k_iphoneos-arm.deb
-Size: 211406
-Installed-Size: 704
-MD5sum: 35422b44bf381d2cc1a447fa52f0b5bb
-Description: Mở khoá bằng cách vẽ lên màn hình.
-Name: Scribble Cracked
-Author: Boo
-Depiction: https://repo.kenhtao.net/view/1105
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Filename: debs/com.hackyouriphone.batterypercentx_1.3.9-19_iphoneos-arm.deb
+Size: 175980
+MD5sum: c577df2f85bd21fe871b6b6cc16433df
+Description: JSTeam - Replaces the battery icon with percentage on the iPhone X
+Name: BatteryPercentX
+Author: Spark <repo@hackyouriphone.org>
+Depiction: https://frankynouva.github.io/depic/BatteryPercentX1.3.9-19.html
 
 Package: com.frankynouva.Pasithea2.1.8
 Version: 2.1.8
@@ -30,24 +27,6 @@ Description: JSTeam - Best clipboardmanager ever
 Name: Pasithea 2 Cracked
 Author: Cannathea
 Depiction: https://frankynouva.github.io/depic/Pasithea2.1.8.html
-
-Package: net.kenhtao.pasithea2
-Version: 2.1.8
-Section: Tweaks
-Maintainer: Kênh Táo
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
-Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
-Replaces: com.cannathea.pasithea2
-Architecture: iphoneos-arm
-Filename: debs/net.kenhtao.pasithea2_2.1.8_iphoneos-arm.deb
-Size: 784920
-Installed-Size: 2644
-MD5sum: d01dbfc1ee94e2ed5492c685b77cec54
-Description: Best clipboardmanager ever
-Name: Pasithea 2 Cracked
-Author: Cannathea
-Depiction: https://repo.kenhtao.net/view/941
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: org.cydia.kiimo.blanka
 Version: 1.1.1
@@ -89,33 +68,6 @@ Description: JSTeam - hianajsksk hssjsjsj
 Name: Blanka
 Author: maximehip
 Depiction: https://frankynouva.github.io/depic/Blanka1.1.1.html
-
-Package: org.cydia.kiimo.blanka
-Version: 1.1.1
-Section: iOS 12
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Architecture: iphoneos-arm
-Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
-Size: 22150
-Installed-Size: 224
-MD5sum: 6d213ef5ea26bfda14015e142666b99f
-Description: hianajsksk hssjsjsj
-Name: Blanka
-Author: maximehip
-
-Package: org.cydia.kiimo.blanka
-Version: 1.1.1
-Section: iOS 12
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Architecture: iphoneos-arm
-Filename: debs/org.cydia.kiimo.blanka_1.1.1_iphoneos-arm.deb
-Size: 22128
-Installed-Size: 224
-MD5sum: 3faf83452bb6774acb2f279bf6845c9c
-Name: Blanka
-Author: maximehip
 
  Package: com.frankynouva.ActIf1.2-1
 Version: 1.2-1
