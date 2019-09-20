@@ -1,3 +1,17 @@
+Package: com.frankynouva.Mystic0.0.1-1
+Version: 0.0.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kaitouiet.mystic_0.0.1-1_iphoneos-arm.deb
+Size: 4898
+MD5sum: 8927160e5bc487a157a371bcde1f8146
+Description: JSTeam - show Battery % on "Press Home To Unlock" or "Swipe up to Unlock"
+Name: Mystic
+Author: Kiet Ha <kaitouiet@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Mystic0.0.1-1.html
+
 Package: com.frankynouva.vizoForever1.0-2+debug
 Version: 1.0-2+debug
 Section: Tw3ak
@@ -280,20 +294,6 @@ Description: JSTeam - NiceBarX free
 Name: NiceBarX
 Author: Вадим®️ <repo@hackyouriphone.org>
 Depiction: https://frankynouva.github.io/depic/NiceBarX0.2.html
-
-Package: com.frankynouva.Mystic0.0.1-1
-Version: 0.0.1-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.kaitouiet.mystic_0.0.1-1_iphoneos-arm.deb
-Size: 4900
-MD5sum: a7ca2abf6ef76dd87b72a2742eb19225
-Description: JSTeam - show Battery % on "Press Home To Unlock" or "Swipe up to Unlock"
-Name: Mystic
-Author: Kiet Ha <kaitouiet@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Mystic0.0.1-1.html
 
 Package: com.pulandres.safestdn
 Version: 1.40
