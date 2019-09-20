@@ -1,3 +1,19 @@
+Package: com.frankynouva.Pasithea2.1.8
+Version: 2.1.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4-beta1), applist (>= 1.5.15-beta1), com.rpetrich.rocketbootstrap (>= 1.0.7-beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.cannathea.pasithea2
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.pasithea2_2.1.8_iphoneos-arm.deb
+Size: 784878
+MD5sum: e9f026254396152c86baa9629aceed5f
+Description: JSTeam - Best clipboardmanager ever
+Name: Pasithea 2 Cracked
+Author: Cannathea
+Depiction: https://frankynouva.github.io/depic/Pasithea2.1.8.html
+
 Package: net.kenhtao.pasithea2
 Version: 2.1.8
 Section: Tweaks
