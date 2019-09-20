@@ -1,3 +1,46 @@
+Package: com.frankynouva.netKillUI1.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.frankynouva.arpscan1.8.1-1, com.frankynouva.dsniffsuite2.5.1, network-cmds, libpcap, gawk, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.devntnghia.netkillui_1.1_iphoneos-arm.deb
+Size: 261748
+MD5sum: f5bffd95582fb9a21855602a4b5d5966
+Description: JSTeam - netKillUI cho iOS 10.3.x được mod lại bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
+Name: netKillUI Cho iOS (10.0-10.3.x)
+Author: NTNghia <hiimnghia@icloud.com>
+Depiction: https://frankynouva.github.io/depic/netKillUI1.1.html
+
+Package: com.frankynouva.ArpScan1.8.1-1
+Version: 1.8.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.devntnghia.arpscan_1.8.1-1_iphoneos-arm.deb
+Size: 283544
+MD5sum: c4b5188eb83a0bd4c73742163e1f8e4c
+Description: JSTeam - ArpScan cho iOS 10.3.x được mod lại bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê)
+Name: ArpScan Cho netKillUI
+Author: NTNghia <hiimnghia@icloud.com>
+Depiction: https://frankynouva.github.io/depic/ArpScan1.8.1-1.html
+
+Package: com.frankynouva.DsniffSuite2.5.1
+Version: 2.5.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.mulliner.dsniff
+Architecture: iphoneos-arm
+Filename: debs/DsniffSuite.deb
+Size: 2110798
+MD5sum: cff218db2e1581d7ff7305643940323a
+Description: JSTeam - DsniffSuite cho iOS 10.3.x được mod lại bởi DevNTNghia. Người hiện đang là Admin trong nhóm Thủ Thuật Cydia và Jailbreak, Group Jailbreak (Chia sẻ niềm đam mê).
+Name: DsniffSuite Cho netKillUI
+Author: NTNghia <hiimnghia@icloud.com>
+Depiction: https://frankynouva.github.io/depic/DsniffSuite2.5.1.html
+
 Package: com.frankynouva.sudo1.0.1
 Version: 1.0.1
 Section: Tw3ak
