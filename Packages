@@ -1,3 +1,17 @@
+Package: com.frankynouva.Easy3.1
+Version: 3.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kobisnir.easy-ringtone_3.1_iphoneos-arm.deb
+Size: 2001882
+MD5sum: 11ac618b68fb2c48048f4e90472637f5
+Description: JSTeam - Download any video / track from YouTube, SoundCloud or any other website and convert it to Ringtone.
+Name: Easy Ringtone
+Author: ioslinks <kobisn@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Easy3.1.html
+
 Package: com.frankynouva.CyDown6.9.9
 Version: 6.9.9
 Section: Tw3ak
@@ -196,22 +210,6 @@ Description: JSTeam - Add conditionals to Activator.
 Name: ActIf
 Author: Jay Zuerndorfer <jzplusplus@gmail.com>
 Depiction: https://frankynouva.github.io/depic/ActIf1.2-1.html
-
-Package: net.kenhtao.cydown
-Version: 6.9.9
-Section: Tweaks
-Maintainer: Kênh Táo
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Replaces: com.repo.kenhtao.net.cydown
-Architecture: iphoneos-arm
-Filename: debs/net.kenhtao.cydown_6.9.9_iphoneos-arm.deb
-Size: 1540352
-MD5sum: dbfffac110e71174af01a1ef19bb0c18
-Description: Trình quản lý nâng cao hơn dành cho Cydia.
-Name: CyDown
-Author: julioverne <julioverne@me.com>
-Depiction: https://repo.kenhtao.net/view/1018
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.frankynouva.Serial1.0.3
 Version: 1.0.3
@@ -511,20 +509,6 @@ Name: BottomControlX
 Author: XCXiao <958169971@qq.com>
 Depiction: https://frankynouva.github.io/depic/BottomControlX1.2.1.html
 
-Package: com.frankynouva.Easy3.1
-Version: 3.1
-Section: Tweaks
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.kobisnir.easy-ringtone_3.1_iphoneos-arm.deb
-Size: 2001882
-MD5sum: ec7099155cb154c6f341d0f723ec9a67
-Description: JSTeam - Download any video / track from YouTube, SoundCloud or any other website and convert it to Ringtone.
-Name: Easy Ringtone
-Author: ioslinks <kobisn@icloud.com>
-Depiction: https://frankynouva.github.io/depic/Easy3.1.html
-
 Package: com.frankynouva.GamePlayer3.4
 Version: 3.4
 Section: Tw3ak
@@ -688,20 +672,6 @@ Description: JSTeam - Bản Tiếng Việt cho Activator
 Name: Activator VietSub
 Author: LoveJB <nguyenvanha9xyz@gmail.com>
 Depiction: https://frankynouva.github.io/depic/Activator1.0.html
-
-Package: com.frankynouva.CyDown6.9.7
-Version: 6.9.7
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.cydown_6.9.7_iphoneos-arm.deb
-Size: 1546708
-MD5sum: a69bb07476f3b67d839eb8ca8af184af
-Description: JSTeam - Cydia Download Manager & Extra Features!
-Name: CyDown
-Author: julioverne
-Depiction: https://frankynouva.github.io/depic/CyDown6.9.7.html
 
 Package: com.frankynouva.Tage1.2.2-1-beta2k2
 Version: 1.2.2-1-beta2k2
