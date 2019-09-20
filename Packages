@@ -1,3 +1,18 @@
+Package: com.frankynouva.CyDown6.9.9
+Version: 6.9.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Replaces: com.repo.kenhtao.net.cydown
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.cydown_6.9.9_iphoneos-arm.deb
+Size: 1540352
+MD5sum: 92317dfa7ca413e52b49099171fa5f9a
+Description: JSTeam - Trình quản lý nâng cao hơn dành cho Cydia.
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Depiction: https://frankynouva.github.io/depic/CyDown6.9.9.html
+
 Package: com.frankynouva.SugarCane1.0.0
 Version: 1.0.0
 Section: Tw3ak
