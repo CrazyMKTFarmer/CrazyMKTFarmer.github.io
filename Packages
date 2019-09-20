@@ -1,3 +1,19 @@
+Package: net.kenhtao.cydown
+Version: 6.9.9
+Section: Tweaks
+Maintainer: Kênh Táo
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Replaces: com.repo.kenhtao.net.cydown
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.cydown_6.9.9_iphoneos-arm.deb
+Size: 1540352
+MD5sum: dbfffac110e71174af01a1ef19bb0c18
+Description: Trình quản lý nâng cao hơn dành cho Cydia.
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Depiction: https://repo.kenhtao.net/view/1018
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.frankynouva.Serial1.0.3
 Version: 1.0.3
 Section: Tw3ak
