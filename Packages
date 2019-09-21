@@ -1,3 +1,18 @@
+Package: com.pulandres.icamera
+Version: 2.0
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.icamera_2.0_iphoneos-arm.deb
+Size: 17730
+Installed-Size: 164
+MD5sum: 85863b09ea6f8dd346bb5f3b9f06aa72
+Description: Add properties to the camera application.
+Name: iCamera R
+Author: Victor Tim <victor1m@gmail.com>
+Depiction: https://repo.pulandres.me/index.php?pid=537
+
 Package: com.frankynouva.Mejor1.0.4
 Version: 1.0.4
 Section: Tw3ak
