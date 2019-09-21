@@ -1,3 +1,19 @@
+Package: net.kenhtao.harpy
+Version: 2.0.1
+Section: Utilities
+Maintainer: Kênh Táo
+Depends: firmware (>= 9.0), network-cmds
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.harpy_2.0.1_iphoneos-arm.deb
+Size: 6607936
+Installed-Size: 12760
+MD5sum: 29440c9d04a215da2e7acfbf88d3b5b2
+Description: Trình quản lí Wifi, khoá, chặn các kiểu con đà điểu.
+Name: Harpy Cracked
+Author: midnightchips
+Depiction: https://repo.kenhtao.net/view/1013
+Icon: file:///Applications/Cydia.app/Sections/tienich.png
+
 Package: iloveapple.popcorntime
 Version: 3.2.20
 Section: i-Tweaks
