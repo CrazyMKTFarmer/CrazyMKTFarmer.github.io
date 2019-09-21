@@ -1,3 +1,46 @@
+Package: iloveapple.popcorntime
+Version: 3.2.20
+Section: i-Tweaks
+Maintainer: admin@ilove-apple.com
+Depends: firmware(>= 9.0)
+Architecture: iphoneos-arm
+Filename: debs/iloveapple.popcorntime_3.2.20_iphoneos-arm.deb
+Size: 98716988
+MD5sum: 178046c2e51b3286189e491cfb351c7f
+Description: An iOS application to torrent movies and tv shows for streaming.
+Name: Popcorn Time
+Author: Support@ilove-apple.com
+Depiction: http://ilove-apple.com/depiction/popcorntime.html
+
+Package: com.frankynouva.CrackTool44.0-beta5
+Version: 4.0-beta5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.cracktool4_4.0~beta5_iphoneos-arm.deb
+Size: 125272
+MD5sum: 0022f637acc944798aef163a5416d227
+Description: JSTeam - Crack Tweaks on one click
+Name: CrackTool4 (iOS 12)
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/CrackTool44.0-beta5.html
+
+Package: com.frankynouva.DarkKeys1.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.gnos.bloard
+Architecture: iphoneos-arm
+Filename: debs/com.patrick.darkkeysxii_1.1_iphoneos-arm.deb
+Size: 20598
+MD5sum: f4dbd4d9ec9e7c6b349f06079c57f59c
+Description: JSTeam - Have a whole new dark universal keyboard with DarkKeys! update: 2019-09-21
+Name: DarkKeys
+Author: Patrick & Ultra
+Depiction: https://frankynouva.github.io/depic/DarkKeys1.1.html
+
 Package: com.frankynouva.netKillUIbeta0.1.9-4
 Version: 0.1.9-4
 Section: Tw3ak
