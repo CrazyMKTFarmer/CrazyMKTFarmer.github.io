@@ -1,3 +1,18 @@
+Package: com.hackyouriphone.harpy
+Version: 2.0.1
+Section: HYI - Tweaks
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: firmware (>= 9.0), network-cmds
+Architecture: iphoneos-arm
+Filename: debs/com.hackyouriphone.harpy_2.0.1_iphoneos-arm.deb
+Size: 6647764
+MD5sum: 41ee4a928cb155adfc8cf8c397eb9be6
+Description: Control your network with ease.
+Name: Harpy
+Author: midnightchips <repo@hackyouriphone.org>
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=harpy
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=harpy
+
 Package: com.pulandres.icamera
 Version: 2.0
 Section: Tweaks
@@ -26,22 +41,6 @@ Description: JSTeam - Add features to apps beautifully. (Downloads not works wel
 Name: Mejor Cracked
 Author: Azozz ALFiras
 Depiction: https://frankynouva.github.io/depic/Mejor1.0.4.html
-
-Package: net.kenhtao.harpy
-Version: 2.0.1
-Section: Utilities
-Maintainer: Kênh Táo
-Depends: firmware (>= 9.0), network-cmds
-Architecture: iphoneos-arm
-Filename: debs/net.kenhtao.harpy_2.0.1_iphoneos-arm.deb
-Size: 6607936
-Installed-Size: 12760
-MD5sum: 29440c9d04a215da2e7acfbf88d3b5b2
-Description: Trình quản lí Wifi, khoá, chặn các kiểu con đà điểu.
-Name: Harpy Cracked
-Author: midnightchips
-Depiction: https://repo.kenhtao.net/view/1013
-Icon: file:///Applications/Cydia.app/Sections/tienich.png
 
 Package: iloveapple.popcorntime
 Version: 3.2.20
@@ -526,21 +525,6 @@ Description: JSTeam - Swipe along the keyboard to move cursor & select text.
 Name: SwipeSelection Pro
 Author: iKy1e (Kyle Howells) <repo@hackyouriphone.org>
 Depiction: https://frankynouva.github.io/depic/SwipeSelection1.0.3-1.html
-
-Package: com.pulandres.autotouch
-Version: 5.1.5
-Section: Utilities
-Maintainer: Pulandres
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2)
-Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
-Architecture: iphoneos-arm
-Filename: debs/com.pulandres.autotouch_5.1.5_iphoneos-arm.deb
-Size: 45080242
-MD5sum: bc9c92684db746b387fb41160eb95cff
-Description: Automation touches iOS
-Name: AutoTouch Cracked
-Author: Kent Krantz <kentkrantz@gmail.com>
-Depiction: https://pulandres.me/repo/index.php?pid=320
 
 Package: com.frankynouva.Xen0.3.5k
 Version: 0.3.5k
