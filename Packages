@@ -1,32 +1,18 @@
-Package: com.hackyouriphone.harpy
-Version: 2.0.1
-Section: HYI - Tweaks
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
-Depends: firmware (>= 9.0), network-cmds
+Package: com.frankynouva.iCleaner7.7.5k
+Version: 7.7.5k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7, org.cydia.kiimo.crackicleanerpro, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
 Architecture: iphoneos-arm
-Filename: debs/com.hackyouriphone.harpy_2.0.1_iphoneos-arm.deb
-Size: 6647764
-MD5sum: 41ee4a928cb155adfc8cf8c397eb9be6
-Description: Control your network with ease.
-Name: Harpy
-Author: midnightchips <repo@hackyouriphone.org>
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=harpy
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=harpy
-
-Package: com.pulandres.icamera
-Version: 2.0
-Section: Tweaks
-Maintainer: Pulandres
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.pulandres.icamera_2.0_iphoneos-arm.deb
-Size: 17730
-Installed-Size: 164
-MD5sum: 85863b09ea6f8dd346bb5f3b9f06aa72
-Description: Add properties to the camera application.
-Name: iCamera R
-Author: Victor Tim <victor1m@gmail.com>
-Depiction: https://repo.pulandres.me/index.php?pid=537
+Filename: debs/cydia.kiiimo.org.icleanerpro10_7.7.5k_iphoneos-arm.deb
+Size: 9921646
+MD5sum: f3abda91381f56a6e6a26279d0cd2602
+Description: JSTeam - JSTeam -
+Name: iCleaner Pro Cracked
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: https://frankynouva.github.io/depic/iCleaner7.7.5k.html
 
 Package: com.frankynouva.Mejor1.0.4
 Version: 1.0.4
@@ -41,20 +27,6 @@ Description: JSTeam - Add features to apps beautifully. (Downloads not works wel
 Name: Mejor Cracked
 Author: Azozz ALFiras
 Depiction: https://frankynouva.github.io/depic/Mejor1.0.4.html
-
-Package: iloveapple.popcorntime
-Version: 3.2.20
-Section: i-Tweaks
-Maintainer: admin@ilove-apple.com
-Depends: firmware(>= 9.0)
-Architecture: iphoneos-arm
-Filename: debs/iloveapple.popcorntime_3.2.20_iphoneos-arm.deb
-Size: 98716988
-MD5sum: 178046c2e51b3286189e491cfb351c7f
-Description: An iOS application to torrent movies and tv shows for streaming.
-Name: Popcorn Time
-Author: Support@ilove-apple.com
-Depiction: http://ilove-apple.com/depiction/popcorntime.html
 
 Package: com.frankynouva.CrackTool44.0-beta5
 Version: 4.0-beta5
@@ -455,19 +427,6 @@ Description: JSTeam - Bring the iPhone X StatusBar style to any idevice
 Name: StatusBarX
 Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
 Depiction: https://frankynouva.github.io/depic/StatusBarX1.0-1.html
-
-Package: org.cydia.kiimo.system-memory-reset-fix
-Version: 1.0
-Section: System
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/org.cydia.kiimo.system-memory-reset-fix_1.0_iphoneos-arm.deb
-Size: 2162
-Installed-Size: 56
-MD5sum: a47afa82d3b171e40f84c01347434a6e
-Name: System Memory Reset Fix
-Author: Pwn20wnd
 
 Package: com.frankynouva.FastOpenApp1.1
 Version: 1.1
@@ -875,21 +834,6 @@ Description: JSTeam - Gestures, shortcuts, toggles, app switcher and multitaskin
 Name: QuickDo (Activator)
 Author: Ma Jun
 Depiction: https://frankynouva.github.io/depic/QuickDo3.9.4k.html
-
-Package: com.hackyouriphone.dleasy
-Version: 2.6.2k
-Section: HYI - Tweaks
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
-Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox
-Architecture: iphoneos-arm
-Filename: debs/com.hackyouriphone.dleasy_2.6.2k_iphoneos-arm.deb
-Size: 2151568
-MD5sum: 1e4a04038a13f383a83d33a733df7158
-Description: Download images and videos from social apps easily!
-Name: DLEasy
-Author: AhmedBafkir <repo@hackyouriphone.org>
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dleasy
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=dleasy
 
 Package: com.frankynouva.Fascy1.0.1-2
 Version: 1.0.1-2
