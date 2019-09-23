@@ -1,3 +1,17 @@
+Package: com.frankynouva.SimpleLS21.1.0
+Version: 1.1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.xcxiao.simplels2_1.1.0_iphoneos-arm.deb
+Size: 431640
+MD5sum: 6144dbd894ae4474b0b0000f34169113
+Description: JSTeam - SimpleLS
+Name: SimpleLS2
+Author: XCXiao
+Depiction: https://frankynouva.github.io/depic/SimpleLS21.1.0.html
+
 Package: com.frankynouva.QuickCC1.0.4
 Version: 1.0.4
 Section: Tw3ak
