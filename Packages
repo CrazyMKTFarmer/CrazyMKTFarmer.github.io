@@ -1,3 +1,17 @@
+Package: com.frankynouva.QuickCC1.0.4
+Version: 1.0.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), firmware (<< 13.0), mobilesubstrate, preferenceloader (>= 2.2.4-beta1), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.quickcc_1.0.4_iphoneos-arm.deb
+Size: 88286
+MD5sum: 735df6f952d855727cf58396bf80b5f1
+Description: JSTeam - Expands Wifi and Bluetooth connectivity in Control Center
+Name: QuickCC
+Author: ichitaso
+Depiction: https://frankynouva.github.io/depic/QuickCC1.0.4.html
+
 Package: com.frankynouva.iCleaner7.7.5k
 Version: 7.7.5k
 Section: Tw3ak
