@@ -1,3 +1,19 @@
+Package: com.frankynouva.Activator1.9.13-beta5
+Version: 1.9.13-beta5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16-beta5), com.rpetrich.rocketbootstrap (>= 1.0.7-beta3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), sbsettings (<= 3.0.6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, libhide (<< 2.4.1), com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Replaces: com.booleanmagic.overboard (<= 1.1), com.ashman.lockinfo (<= 2.0.0-6), com.fuyuchi.missionboardpro (<= 1.3), com.kindadev.nobetaalert, com.fortysixandtwo.activ8rfix, net.tateu.actisearch, com.jakeashacks.activator
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Activator1.9.13-beta5_1.9.13-beta5_iphoneos-arm.deb
+Size: 1149108
+MD5sum: dba48f6533cccd1cd6b812fd581d41b3
+Description: JSTeam - Centralized gestures, button and shortcut management for iOS
+Name: Activator (iOS 11, 12)
+Author: Ryan Petrich <rpetrich+activator@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Activator1.9.13-beta5.html
+
 Package: com.frankynouva.ByeHomeBottomBarX1.0.1
 Version: 1.0.1
 Section: Tw3ak
@@ -1382,15 +1398,15 @@ Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Name: Kiiim Repo Icons
-Version: 4.1.1
+Version: 4.1.2
 Architecture: iphoneos-arm
 Description: Official AKiiim Repo Icons
 Depiction: https://frankynouva.github.io/depic/IconRepo.html
 Author: Franky Nouva
 Section: Tw3ak
 Essential: yes
-Filename: debs/IconRepo.deb
-Size: 27542MD5sum: 83ffc932e23288a2b685afd00653b6c1
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.2_iphoneos-arm.deb
+Size: 27870MD5sum: 906a1022f6a11d8c41f87b2489162171
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
