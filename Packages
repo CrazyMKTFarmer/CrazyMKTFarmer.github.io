@@ -1,3 +1,19 @@
+Package: com.frankynouva.Slyd0.2.4
+Version: 0.2.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Slyd0.2.4_0.2.4_iphoneos-arm.deb
+Size: 29422
+MD5sum: 0e1b01dcdcb4a1e36d470da273f1bf54
+Description: JSTeam - Trượt để mở khoá cho iOS 11 & 12.
+Name: Slyd (SlideToUnlock)
+Author: Nepeta
+Depiction: https://frankynouva.github.io/depic/Slyd0.2.4.html
+
+
 Package: com.frankynouva.KillX1.1
 Version: 1.1
 Section: Tw3ak
