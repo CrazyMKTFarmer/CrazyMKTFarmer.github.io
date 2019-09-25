@@ -1,3 +1,17 @@
+Package: com.frankynouva.Co1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.akiiimfrankynouva.ringtonemaker_1.0_iphoneos-arm.deb
+Size: 1254402
+MD5sum: 5815b962070777eff361c4e5af5e3226
+Description: JSTeam - Nhạc chuông tạo bởi FrankyNouva, yêu cầu thêm bài hát tại https://facebook.com/FrankyNouva hoặc soạn tin nhắn TenBaiHat gui 0933998772.
+Name: Co Tham Khong Ve - JSTeam
+Author: cut by JSTeam <frankynouva@vn>
+Depiction: https://frankynouva.github.io/depic/Co1.0.html
+
 Package: com.frankynouva.AutoUnlockX1.0.6
 Version: 1.0.6
 Section: Tw3ak
