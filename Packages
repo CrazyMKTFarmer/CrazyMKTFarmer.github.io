@@ -1,3 +1,34 @@
+Package: com.frankynouva.eSim+1.0.2-beta-1
+Version: 1.0.2-beta-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), com.frankynouva.libiarrays1.0.11-beta-6, com.rpetrich.rocketbootstrap, com.opa334.ccsupport, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.simplus_1.0.2-beta-1_iphoneos-arm.deb
+Size: 675110
+MD5sum: 26d0a4a15724256d6d6a191da29b8b1c
+Description: JSTeam - The way Apple has done it for you, but do not worry. We have done it for you. Choose a way how to call or text while using eSim/dual sim iPhones.
+Name: eSim+ Cracked
+Author: IArrays <support@iarrays.com>
+Depiction: https://frankynouva.github.io/depic/eSim+1.0.2-beta-1.html
+
+Package: com.frankynouva.libiarrays1.0.11-beta-6
+Version: 1.0.11-beta-6
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 7.0)
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.iarrays.libiarrays1, com.iarrays.libiarrays
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.libiarrays1.0.11-beta-6_1.0.11-beta-6_iphoneos-arm.deb
+Size: 288858
+MD5sum: 2ceda0d001967412d4bda7a27fe35e9f
+Description: JSTeam - Should be used only by IArrays products. This is closed library and no support is provided for this package. Vui lòng gõ mọi libiarrays đã cài từ nguồn khác tránh lỗi.
+Name: libiarrays Cracked
+Author: IArrays <support@iarrays.com>
+Depiction: https://frankynouva.github.io/depic/libiarrays1.0.11-beta-6.html
+
 Package: com.frankynouva.Co1.0
 Version: 1.0
 Section: Tw3ak
