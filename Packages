@@ -1,3 +1,17 @@
+Package: com.frankynouva.FlipConvert0.0-beta6-A12
+Version: 0.0-beta6-A12
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.flipconvertA12_0.0~beta6~A12_iphoneos-arm.deb
+Size: 20446
+MD5sum: 5789fada9061405e9b6f0be00d8a634d
+Description: JSTeam - Bổ sung các nút hữu ích vào Trung tâm kiểm soát
+Name: FlipConvert A12
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/FlipConvert0.0-beta6-A12.html
+
 Package: com.frankynouva.Slyd0.2.4
 Version: 0.2.4
 Section: Tw3ak
@@ -12,7 +26,6 @@ Description: JSTeam - Trượt để mở khoá cho iOS 11 & 12.
 Name: Slyd (SlideToUnlock)
 Author: Nepeta
 Depiction: https://frankynouva.github.io/depic/Slyd0.2.4.html
-
 
 Package: com.frankynouva.KillX1.1
 Version: 1.1
