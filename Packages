@@ -1,3 +1,17 @@
+Package: com.frankynouva.AppHeads1.0.8-4
+Version: 1.0.8-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader (>= 2.2.2), applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.appheads_1.0.8-4_iphoneos-arm.deb
+Size: 1197064
+MD5sum: 28dcf77453bdb8437990628c838afb82
+Description: JSTeam - A new App Multitasking Experience
+Name: AppHeads
+Author: sharedRoutine
+Depiction: https://frankynouva.github.io/depic/AppHeads1.0.8-4.html
+
 Package: com.frankynouva.Auris1.3.1k
 Version: 1.3.1k
 Section: Tw3ak
