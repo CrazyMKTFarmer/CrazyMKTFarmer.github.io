@@ -1,3 +1,17 @@
+Package: com.frankynouva.ByeHomeBottomBarX1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.byehomebottombarx_1.0.1_iphoneos-arm.deb
+Size: 77632
+MD5sum: 14e4c426257f499642612dca8f226b57
+Description: JSTeam - Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!
+Name: ByeHomeBottomBarX
+Author: CydiaGeek
+Depiction: https://frankynouva.github.io/depic/ByeHomeBottomBarX1.0.1.html
+
 Package: com.frankynouva.Bounce0.0.1
 Version: 0.0.1
 Section: Tw3ak
