@@ -4,9 +4,9 @@ Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/com.akiiimfrankynouva.ringtonemaker_1.0_iphoneos-arm.deb
-Size: 1254402
-MD5sum: 5815b962070777eff361c4e5af5e3226
+Filename: debs/com.frankynouva.Co1.0_1.0_iphoneos-arm.deb
+Size: 1254314
+MD5sum: 47a252a1ffd078abceb1d97264c35fa7
 Description: JSTeam - Nhạc chuông tạo bởi FrankyNouva, yêu cầu thêm bài hát tại https://facebook.com/FrankyNouva hoặc soạn tin nhắn TenBaiHat gui 0933998772.
 Name: Co Tham Khong Ve - JSTeam
 Author: cut by JSTeam <frankynouva@vn>
