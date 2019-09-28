@@ -1,3 +1,87 @@
+Package: com.frankynouva.Xgesture1.4-1+debug
+Version: 1.4-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.4-1+debug_iphoneos-arm.deb
+Size: 6010
+MD5sum: 7f72c2f594be609d443b724630cc9c02
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.4-1+debug.html
+
+Package: com.frankynouva.Xgesture1.5-1+debug
+Version: 1.5-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.5-1+debug_iphoneos-arm.deb
+Size: 6108
+MD5sum: f74fb1177ea2f7f96d2ac6bc32a206a8
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.5-1+debug.html
+
+Package: com.frankynouva.Xgesture1.6-1+debug
+Version: 1.6-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.6-1+debug_iphoneos-arm.deb
+Size: 6594
+MD5sum: 203d586f0710217f06a1c36a46138a45
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.6-1+debug.html
+
+Package: com.frankynouva.Xgesture1.1-1+debug
+Version: 1.1-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.1-1+debug_iphoneos-arm.deb
+Size: 5204
+MD5sum: f83031437a158ce9414c35d464898874
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.1-1+debug.html
+
+Package: com.frankynouva.Xgesture1.2-1+debug
+Version: 1.2-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.2-1+debug_iphoneos-arm.deb
+Size: 5586
+MD5sum: 79f33e48eb6f3f1cf71df548e62212b8
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.2-1+debug.html
+
+Package: com.frankynouva.Xgesture1.3-1+debug
+Version: 1.3-1+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.congthinh.xgesture_1.3-1+debug_iphoneos-arm.deb
+Size: 5874
+MD5sum: 1896e3cccefd3d513dea3fc6d63b46bd
+Description: JSTeam - Mang trình giao diện và cử chỉ Iphone X đến cho nhưng thiết bị cũ hơn nhưng không chiếm dụng nhiều tài nguyên của thiết bị.
+Name: Xgesture
+Author: congthinh <congthinh1210@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Xgesture1.3-1+debug.html
+
 Package: com.frankynouva.Activator1.9.13-beta5
 Version: 1.9.13-beta5
 Section: Tw3ak
