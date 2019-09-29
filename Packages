@@ -1,3 +1,17 @@
+Package: com.frankynouva.Iconator111.9.9.8-3+debug-1
+Version: 1.9.9.8-3+debug-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.arab-cydia.iconresizerforios11_1.9.9.8-3+debug-1_iphoneos-arm.deb
+Size: 1490084
+MD5sum: 46b93aa049a3d83a1a8f51a0fa505b97
+Description: JSTeam - resize icon app
+Name: Iconator11 (iOS 11-12)
+Author: Soh Satoh
+Depiction: https://frankynouva.github.io/depic/Iconator111.9.9.8-3+debug-1.html
+
 Package: com.r.net.bazzi
 Version: 2.0.6
 Section: Tweaks
