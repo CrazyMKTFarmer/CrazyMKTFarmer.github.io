@@ -1,3 +1,17 @@
+Package: com.frankynouva.Apple0.3.2
+Version: 0.3.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 12.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydia.love.appleturboboost_0.3.2_iphoneos-arm.deb
+Size: 104386
+MD5sum: 8c18c8b864fa81d602185460f276e763
+Description: JSTeam - JSTeam -
+Name: Apple Turbo Boost系统优化
+Author: Halo_Michael
+Depiction: https://frankynouva.github.io/depic/Apple0.3.2.html
+
 Package: com.frankynouva.Iconator111.9.9.8-3+debug-1
 Version: 1.9.9.8-3+debug-1
 Section: Tw3ak
