@@ -1,3 +1,19 @@
+Package: com.frankynouva.SnowBoard1.2.22-Beta1
+Version: 1.2.22-Beta1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: anemoneteam.anemone, com.frankynouva.snowboard1.2.22-beta1
+Replaces: anemoneteam.anemone, com.frankynouva.snowboard1.2.22-beta1
+Architecture: iphoneos-arm
+Filename: debs/com.spark.snowboard_1.2.22~Beta1_iphoneos-arm.deb
+Size: 1230020
+MD5sum: a4da101c372f8525e01f227d7e41fa6a
+Description: JSTeam - Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: https://frankynouva.github.io/depic/SnowBoard1.2.22-Beta1.html
+
 Package: com.frankynouva.CyDown7.0.0
 Version: 7.0.0
 Section: Tw3ak
