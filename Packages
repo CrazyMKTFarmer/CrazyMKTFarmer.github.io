@@ -1,16 +1,14 @@
-Package: com.frankynouva.addsource2.2
-Version: 2.2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.com.frankynouva.addsource2.2, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Package: org.cydia.kiimo.appgrid
+Version: 0.0.2-2
+Section: iOS 12
+Maintainer: Kiiimo <support@kiiimo.org>
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.yuosaf01.addsource_2.2_iphoneos-arm.deb
-Size: 70642
-MD5sum: 24c26128522ba885a3a51d56176327de
-Description: JSTeam - Add the copied URL to Cydia sources automatically
-Name: addsource
-Author: yuosaf01 & 3bod_syr <3body373737@gmail.com.frankynouva.addsource2.2
-Depiction: https://frankynouva.github.io/depic/addsource2.2.html
+Filename: debs/org.cydia.kiimo.appgrid_0.0.2-2_iphoneos-arm.deb
+Size: 43194
+MD5sum: ddf8cbd0a11332d436094d233a9b3c9e
+Name: AppGrid
+Author: WitherTech <Witherking@Withertech.com>
 
 Package: com.frankynouva.CallSlicer1.3
 Version: 1.3
