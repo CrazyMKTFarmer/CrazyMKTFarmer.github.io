@@ -1,3 +1,19 @@
+Package: com.pulandres.animcharge
+Version: 1.2
+Section: Tweaks
+Maintainer: Pulandres
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: debs/com.pulandres.animcharge_1.2_iphoneos-arm.deb
+Size: 5461676
+Installed-Size: 102784
+MD5sum: 38f3963004de772b7840ce162679417d
+Description: Animate your Screen when Charge your Device!. A12 Added again.
+Name: AnimCharge
+Author: Pulandres
+Depiction: https://repo.pulandres.me/index.php?pid=624
+Icon: https://repo.pulandres.me/CydiaIcon.png
+
 Package: com.frankynouva.SnowBoard1.2.22-Beta1
 Version: 1.2.22-Beta1
 Section: Tw3ak
