@@ -1,3 +1,17 @@
+Package: com.frankynouva.addsource2.2
+Version: 2.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.com.frankynouva.addsource2.2, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yuosaf01.addsource_2.2_iphoneos-arm.deb
+Size: 70642
+MD5sum: 24c26128522ba885a3a51d56176327de
+Description: JSTeam - Add the copied URL to Cydia sources automatically
+Name: addsource
+Author: yuosaf01 & 3bod_syr <3body373737@gmail.com.frankynouva.addsource2.2
+Depiction: https://frankynouva.github.io/depic/addsource2.2.html
+
 Package: com.frankynouva.CallSlicer1.3
 Version: 1.3
 Section: Tw3ak
@@ -11,22 +25,6 @@ Description: JSTeam - CallSlicer enables you to receive a third-party incom.fran
 Name: CallSlicer
 Author: YuWd
 Depiction: https://frankynouva.github.io/depic/CallSlicer1.3.html
-
-Package: com.pulandres.animcharge
-Version: 1.2
-Section: Tweaks
-Maintainer: Pulandres
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Architecture: iphoneos-arm
-Filename: debs/com.pulandres.animcharge_1.2_iphoneos-arm.deb
-Size: 5461676
-Installed-Size: 102784
-MD5sum: 38f3963004de772b7840ce162679417d
-Description: Animate your Screen when Charge your Device!. A12 Added again.
-Name: AnimCharge
-Author: Pulandres
-Depiction: https://repo.pulandres.me/index.php?pid=624
-Icon: https://repo.pulandres.me/CydiaIcon.png
 
 Package: com.frankynouva.SnowBoard1.2.22-Beta1
 Version: 1.2.22-Beta1
