@@ -1,3 +1,17 @@
+Package: com.frankynouva.Originals0.0.1
+Version: 0.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.originals_0.0.1_iphoneos-arm.deb
+Size: 145326
+MD5sum: 51ad69b6cbfbdba810ae08a56bafc003
+Description: JSTeam - An awesome MobileSubstrate tweak!
+Name: Originals
+Author: maximehip
+Depiction: https://frankynouva.github.io/depic/Originals0.0.1.html
+
 Package: com.frankynouva.AVPlayerPlus1.0
 Version: 1.0
 Section: Tw3ak
@@ -97,24 +111,6 @@ Description: JSTeam - resize icon app
 Name: Iconator11 (iOS 11-12)
 Author: Soh Satoh
 Depiction: https://frankynouva.github.io/depic/Iconator111.9.9.8-3+debug-1.html
-
-Package: com.r.net.bazzi
-Version: 2.0.6
-Section: Tweaks
-Maintainer: Kênh Táo
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
-Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Architecture: iphoneos-arm
-Filename: debs/com.r.net.bazzi_2.0.6_iphoneos-arm.deb
-Size: 57506
-Installed-Size: 360
-MD5sum: b9a893eb80b10245acb7cc7acce7c21d
-Description: Custom battery iCon iPhone X.
-Name: Bazzi Cracked
-Author: Blake Boxberger
-Depiction: http://repo.kenhtao.net/index.php?pid=16
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.frankynouva.Xgesture1.4-1+debug
 Version: 1.4-1+debug
