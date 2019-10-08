@@ -1,17 +1,16 @@
-Package: com.pulandres.nicebarx
-Version: 2.0.5.2-1
-Section: Tweaks
-Maintainer: Pulandres
-Depends: com.rpetrich.rocketbootstrap,mobilesubstrate
+Package: com.frankynouva.AVPlayerPlus1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/com.pulandres.nicebarx_2.0.5.2-1_iphoneos-arm.deb
-Size: 1676358
-Installed-Size: 4912
-MD5sum: 98bc6ab26f9cf07a7b95cf15d5dc63bc
-Description: statusbar tweak..
-Name: NiceBarX Cracked byJulio
-Author: niceios
-Depiction: https://repo.pulandres.me/index.php?pid=637
+Filename: debs/com.tr1fecta.avplayerplus_1.0_iphoneos-arm.deb
+Size: 2084
+MD5sum: 401f748072adbd9c6bddc83020b85d33
+Description: JSTeam - A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.
+Name: AVPlayerPlus
+Author: Tr1Fecta
+Depiction: https://frankynouva.github.io/depic/AVPlayerPlus1.0.html
 
 Package: com.frankynouva.AnimationsBeFast1.1k
 Version: 1.1k
