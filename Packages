@@ -1,44 +1,16 @@
-Package: com.frankynouva.Originals0.0.1
-Version: 0.0.1
+Package: com.frankynouva.Appstore0.0-beta4a
+Version: 0.0-beta4a
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Depends: preferenceloader, mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/com.maximehip.originals_0.0.1_iphoneos-arm.deb
-Size: 145326
-MD5sum: 51ad69b6cbfbdba810ae08a56bafc003
-Description: JSTeam - An awesome MobileSubstrate tweak!
-Name: Originals
-Author: maximehip
-Depiction: https://frankynouva.github.io/depic/Originals0.0.1.html
-
-Package: com.frankynouva.AVPlayerPlus1.0
-Version: 1.0
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.tr1fecta.avplayerplus_1.0_iphoneos-arm.deb
-Size: 2084
-MD5sum: 401f748072adbd9c6bddc83020b85d33
-Description: JSTeam - A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.
-Name: AVPlayerPlus
-Author: Tr1Fecta
-Depiction: https://frankynouva.github.io/depic/AVPlayerPlus1.0.html
-
-Package: com.frankynouva.AnimationsBeFast1.1k
-Version: 1.1k
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.cydia.love.animationsbefastplus_1.1k_iphoneos-arm.deb
-Size: 76540
-MD5sum: 194f955691c9ef1521c434a8f6bcf5c5
-Description: JSTeam - JSTeam -
-Name: AnimationsBeFast Plus
-Author: eXqusic
-Depiction: https://frankynouva.github.io/depic/AnimationsBeFast1.1k.html
+Filename: debs/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26174
+MD5sum: 8b296d6897d36ae414022ae352caed60
+Description: JSTeam - No Download Size Limit In AppStore Over Cellular
+Name: Appstore Unrestrict
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/Appstore0.0-beta4a.html
 
 Package: com.frankynouva.CallSlicer1.3
 Version: 1.3
