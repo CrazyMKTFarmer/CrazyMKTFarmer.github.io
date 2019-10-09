@@ -1,3 +1,17 @@
+Package: com.frankynouva.SoundCloudPro1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.soundcloudpro_1.2_iphoneos-arm.deb
+Size: 42340
+MD5sum: 46973d5a1f6966336559b3802e145831
+Description: JSTeam - Enable downloads and remove ads.
+Name: SoundCloudPro
+Author: DzMohaipa
+Depiction: https://frankynouva.github.io/depic/SoundCloudPro1.2.html
+
 Package: com.frankynouva.iSwitch1.2
 Version: 1.2
 Section: Tw3ak
