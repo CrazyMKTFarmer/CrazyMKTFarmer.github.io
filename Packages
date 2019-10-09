@@ -1,3 +1,17 @@
+Package: com.frankynouva.AOD1.8.3
+Version: 1.8.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.com.frankynouva.aod1.8.3, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.aod_1.8.3_iphoneos-arm.deb
+Size: 194304
+MD5sum: 3c3dc019de79ab0cece16d74c3063021
+Description: JSTeam - Always On-screen
+Name: AOD
+Author: Soh Satoh
+Depiction: https://frankynouva.github.io/depic/AOD1.8.3.html
+
 Package: com.frankynouva.ActiContact1.0.1-2
 Version: 1.0.1-2
 Section: Tw3ak
