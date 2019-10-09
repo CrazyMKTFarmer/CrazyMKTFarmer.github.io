@@ -1,3 +1,17 @@
+Package: com.frankynouva.AutoBlue2.2.0
+Version: 2.2.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.com.frankynouva.autoblue2.2.0, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.karimo299.autoblue_2.2.0_iphoneos-arm.deb
+Size: 281372
+MD5sum: 58988c71a0ae1f7c04e09fca80067c28
+Description: JSTeam - Disables Bluetooth and WiFi after a certain amount of time if there are not connected.
+Name: AutoBlue
+Author: Karimo299
+Depiction: https://frankynouva.github.io/depic/AutoBlue2.2.0.html
+
 Package: com.frankynouva.ActiContact1.0.1-2
 Version: 1.0.1-2
 Section: Tw3ak
