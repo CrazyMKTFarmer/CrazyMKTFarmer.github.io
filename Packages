@@ -1,3 +1,18 @@
+Package: com.frankynouva.ActiContact1.0.1-2
+Version: 1.0.1-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/ws.hbang.acticontact_1.0.1-2_iphoneos-arm.deb
+Size: 11966
+MD5sum: bd6d20360293a6f9de2e60449c058a5d
+Description: JSTeam - Add new contacts with an Activator gesture
+Name: ActiContact
+Author: HASHBANG Productions <acticontact@hbang.ws>
+Depiction: https://frankynouva.github.io/depic/ActiContact1.0.1-2.html
+
 Package: com.frankynouva.SoundCloudPro1.2
 Version: 1.2
 Section: Tw3ak
