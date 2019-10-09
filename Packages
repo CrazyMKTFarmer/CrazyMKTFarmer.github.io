@@ -2,11 +2,11 @@ Package: com.frankynouva.AOD1.8.3
 Version: 1.8.3
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, ws.hbang.com.frankynouva.aod1.8.3, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/net.kenhtao.aod_1.8.3_iphoneos-arm.deb
-Size: 194304
-MD5sum: 3c3dc019de79ab0cece16d74c3063021
+Filename: debs/com.frankynouva.AOD1.8.3_1.8.3_iphoneos-arm.deb
+Size: 194288
+MD5sum: c81891e089d87ee770b0db6974d41cc6
 Description: JSTeam - Always On-screen
 Name: AOD
 Author: Soh Satoh
