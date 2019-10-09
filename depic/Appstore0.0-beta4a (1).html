@@ -124,22 +124,23 @@
 
 <fieldset>
 <div class="container">
-      <a href="https://zalo.me/0933998772" target="_new"><img src="./icons/banner.jpg" width="300" height="125"></a>
+      <a href="https://zalo.me/0933998772" target="_new"><img src="./icons/banner.jpg" width="320" height="200"></a>
+<center>
   <div class="top-left"> <script>
         var videos = ["https://www.youtube.com/embed/61oAs_uaK_I", "https://www.youtube.com/embed/TowuhWt7wpA", "https://www.youtube.com/embed/4ZfPEfTeh14", "https://www.youtube.com/embed/7v2YOSJ9nDQ", "https://www.youtube.com/embed/PU71HKY5MwY"];
         window.onload = function () {
             var playerDiv = document.getElementById("random_player");
             var player = document.createElement("IFRAME");
             var randomVideoUrl = videos[Math.floor(Math.random() * videos.length)];
-            player.setAttribute('width', '200');
-            player.setAttribute('height', '125');
+            player.setAttribute('width', '380');
+            player.setAttribute('height', '200');
             player.setAttribute('src', randomVideoUrl);
             playerDiv.appendChild(player);
         };
     </script>
 
     <div id="random_player" />
-    
+    </center>
 
 </div>
 </div>
@@ -156,13 +157,13 @@
 .top-left {
   position: absolute;
   top: 0px;
-  left: 1px;
+  left: 0px;
 }
 
 .top-right {
   position: absolute;
   top: 0px;
-  right: 1px;
+  right: 0px;
 }
 </style>
 </head>

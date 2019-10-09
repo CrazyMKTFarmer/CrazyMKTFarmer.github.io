@@ -1,3 +1,17 @@
+Package: com.frankynouva.Alympus1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, com.frankynouva.alympus1.2, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.alympus_1.2_iphoneos-arm.deb
+Size: 593588
+MD5sum: 86b3983adf30e3d3ab81bbb198523c82
+Description: JSTeam - A new home for your apps, music and toggles
+Name: Alympus
+Author: Kyle Howells & Surenix
+Depiction: https://frankynouva.github.io/depic/Alympus1.2.html
+
 Package: com.frankynouva.Appstore0.0-beta4a
 Version: 0.0-beta4a
 Section: Tw3ak
