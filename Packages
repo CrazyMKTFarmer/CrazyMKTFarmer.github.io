@@ -1,3 +1,17 @@
+Package: com.frankynouva.SoundCloudPro1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.soundcloudpro_1.2_iphoneos-arm.deb
+Size: 42340
+MD5sum: 4e0f2aad7257ea58140839aeca5050ba
+Description: JSTeam - Enable downloads and remove ads.
+Name: SoundCloudPro
+Author: DzMohaipa
+Depiction: https://frankynouva.github.io/depic/SoundCloudPro1.2.html
+
 Package: com.frankynouva.AutoBlue2.2.0
 Version: 2.2.0
 Section: Tw3ak
@@ -11,78 +25,6 @@ Description: JSTeam - Disables Bluetooth and WiFi after a certain amount of time
 Name: AutoBlue
 Author: Karimo299
 Depiction: https://frankynouva.github.io/depic/AutoBlue2.2.0.html
-
-Package: com.frankynouva.ActiContact1.0.1-2
-Version: 1.0.1-2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/ws.hbang.acticontact_1.0.1-2_iphoneos-arm.deb
-Size: 11966
-MD5sum: 7d184d5e530d110de18c22704a02f1f0
-Description: JSTeam - Add new contacts with an Activator gesture
-Name: ActiContact
-Author: HASHBANG Productions <acticontact@hbang.ws>
-Depiction: https://frankynouva.github.io/depic/ActiContact1.0.1-2.html
-
-Package: com.frankynouva.SoundCloudPro1.2
-Version: 1.2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.soundcloudpro_1.2_iphoneos-arm.deb
-Size: 42340
-MD5sum: 46973d5a1f6966336559b3802e145831
-Description: JSTeam - Enable downloads and remove ads.
-Name: SoundCloudPro
-Author: DzMohaipa
-Depiction: https://frankynouva.github.io/depic/SoundCloudPro1.2.html
-
-Package: com.frankynouva.iSwitch1.2
-Version: 1.2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: com.frankynouva.iswitch1.2
-Architecture: iphoneos-arm
-Filename: debs/com.maximehip.iswitch_1.2_iphoneos-arm.deb
-Size: 101620
-MD5sum: 784c583f943a75e881f4c3687e820d38
-Description: JSTeam - add transparency to the app switcher.
-Name: iSwitch
-Author: maximehip <imax-my@live.fr>
-Depiction: https://frankynouva.github.io/depic/iSwitch1.2.html
-
-Package: com.frankynouva.Alympus1.2
-Version: 1.2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate, com.frankynouva.alympus1.2, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.alympus_1.2_iphoneos-arm.deb
-Size: 593588
-MD5sum: 86b3983adf30e3d3ab81bbb198523c82
-Description: JSTeam - A new home for your apps, music and toggles
-Name: Alympus
-Author: Kyle Howells & Surenix
-Depiction: https://frankynouva.github.io/depic/Alympus1.2.html
-
-Package: com.frankynouva.Appstore0.0-beta4a
-Version: 0.0-beta4a
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: preferenceloader, mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
-Size: 26174
-MD5sum: 8b296d6897d36ae414022ae352caed60
-Description: JSTeam - No Download Size Limit In AppStore Over Cellular
-Name: Appstore Unrestrict
-Author: julioverne
-Depiction: https://frankynouva.github.io/depic/Appstore0.0-beta4a.html
 
 Package: com.frankynouva.CallSlicer1.3
 Version: 1.3
