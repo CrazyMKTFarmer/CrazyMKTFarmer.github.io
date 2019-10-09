@@ -1,3 +1,18 @@
+Package: com.frankynouva.iSwitch1.2
+Version: 1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.frankynouva.iswitch1.2
+Architecture: iphoneos-arm
+Filename: debs/com.maximehip.iswitch_1.2_iphoneos-arm.deb
+Size: 101620
+MD5sum: 784c583f943a75e881f4c3687e820d38
+Description: JSTeam - add transparency to the app switcher.
+Name: iSwitch
+Author: maximehip <imax-my@live.fr>
+Depiction: https://frankynouva.github.io/depic/iSwitch1.2.html
+
 Package: com.frankynouva.Alympus1.2
 Version: 1.2
 Section: Tw3ak
