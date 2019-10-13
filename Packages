@@ -1,3 +1,45 @@
+Package: com.frankynouva.Bypass1.1.6.0-7
+Version: 1.1.6.0-7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Bypass1.1.6.0-7_1.1.6.0-7_iphoneos-arm.deb
+Size: 204282
+MD5sum: 67688d360127a52c23a76646653c8d8a
+Description: JSTeam - use techcom.frankynouva.Bypass1.1.6.0-7
+Name: Bypass App Techcom.frankynouva.Bypass1.1.6.0-7
+Author: IPALibrary <tuanbeo22061@hotmail.com.frankynouva.Bypass1.1.6.0-7
+Depiction: https://frankynouva.github.io/depic/Bypass1.1.6.0-7.html
+
+Package: com.frankynouva.Time3.4
+Version: 3.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kenhtao.time_3.4_iphoneos-arm.deb
+Size: 658156
+MD5sum: 27531f9ec4c6d640cd1c909e1b6d323e
+Description: JSTeam - Tuỳ chỉnh thanh trạng thái
+Name: Time
+Author: NaneraManu
+Depiction: https://frankynouva.github.io/depic/Time3.4.html
+
+Package: com.cydia.love.fingerlock
+Version: 1.0.5-2
+Section: hdhsj
+Maintainer: Ant 蚂蚁源™ <admin@cydia.love>
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.cydia.love.fingerlock_1.0.5-2_iphoneos-arm.deb
+Size: 115436
+Installed-Size: 380
+MD5sum: 9feea564371bdf3901c177e27fd6d111
+Name: FingerLock
+Author: MTAC
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+
 Package: com.frankynouva.BetterSettings0.0.9
 Version: 0.0.9
 Section: Tw3ak
