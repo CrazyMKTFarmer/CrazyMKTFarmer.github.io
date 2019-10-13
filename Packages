@@ -1,3 +1,17 @@
+Package: com.frankynouva.BetterSettings0.0.9
+Version: 0.0.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.frankynouva.bettersettings0.0.9, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.midnightchips.bettersettings_0.0.9_iphoneos-arm.deb
+Size: 1951974
+MD5sum: f894545eaed521512fcf2266ffb0e4a1
+Description: JSTeam - Settings your way
+Name: BetterSettings
+Author: midnightchips
+Depiction: https://frankynouva.github.io/depic/BetterSettings0.0.9.html
+
 Package: com.frankynouva.AOD1.8.3
 Version: 1.8.3
 Section: Tw3ak
