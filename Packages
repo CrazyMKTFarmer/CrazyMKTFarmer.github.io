@@ -1,3 +1,17 @@
+Package: com.frankynouva.Batchomatic4.0-1
+Version: 4.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.batchomatic_4.0-1_iphoneos-arm.deb
+Size: 86266
+MD5sum: 6450fbf8d5805af4bf55a1d573fa4323
+Description: JSTeam - Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com.frankynouva.Batchomatic4.0-1
+Depiction: https://frankynouva.github.io/depic/Batchomatic4.0-1.html
+
 Package: com.frankynouva.ConfirmToSend1.0.7
 Version: 1.0.7
 Section: Tw3ak
