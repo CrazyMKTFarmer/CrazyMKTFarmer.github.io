@@ -1,3 +1,17 @@
+Package: com.frankynouva.ConfirmToSend1.0.7
+Version: 1.0.7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.confirmtosend_1.0.7_iphoneos-arm.deb
+Size: 114236
+MD5sum: f01c3bc47bf56382a40586af6344cb62
+Description: JSTeam - Show Confirmations Popup Before Calling and Sending Texts!
+Name: ConfirmToSend
+Author: CydiaGeek <lucaluca86@aol.com.frankynouva.ConfirmToSend1.0.7
+Depiction: https://frankynouva.github.io/depic/ConfirmToSend1.0.7.html
+
 Package: com.frankynouva.NeuralCam1.2.1
 Version: 1.2.1
 Section: Tw3ak
