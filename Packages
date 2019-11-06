@@ -1,3 +1,17 @@
+Package: com.frankynouva.BeautyFold1.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, ws.hbang.com.frankynouva.beautyfold1.1, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/my.platykor.beautyfold_1.1_iphoneos-arm.deb
+Size: 133104
+MD5sum: 161a1035758228d0c5fff95ddd46e284
+Description: JSTeam - Stylish ten icons for your folders.
+Name: BeautyFold
+Author: Plat-Ykor <plat-ykor@libero.it>
+Depiction: https://frankynouva.github.io/depic/BeautyFold1.1.html
+
 Package: com.frankynouva.Batchomatic4.0-1
 Version: 4.0-1
 Section: Tw3ak
@@ -1723,7 +1737,7 @@ Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Name: Kiiim Repo Icons
-Version: 4.1.3
+Version: 4.1.4
 Architecture: iphoneos-arm
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Description: Official AKiiim Repo Icons
@@ -1731,7 +1745,7 @@ Depiction: https://frankynouva.github.io/depic/IconRepo.html
 Author: Franky Nouva <FrankyNouva@gmail.com>
 Section: System
 Essential: yes
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.3_iphoneos-arm.deb
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.4_iphoneos-arm.deb
 Size: 27764MD5sum: 992cccc6ee60a024828318ad44d0dba9
 
 Package: com.frankynouva.MarkFavourites1.0.0
