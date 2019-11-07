@@ -1,3 +1,17 @@
+Package: com.frankynouva.Social3.9
+Version: 3.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.frankynouva.social3.9, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.idevicelover.socialdownloader_3.9_iphoneos-arm.deb
+Size: 574378
+MD5sum: d7107c1fa6e5c5d428cd79eb5ae6fba0
+Description: JSTeam - downloads videos in social apps
+Name: Social Downloader
+Author: elias <elias_sfeir@live.com.frankynouva.Social3.9
+Depiction: https://frankynouva.github.io/depic/Social3.9.html
+
 Package: com.frankynouva.Activator1.9.13-beta5
 Version: 1.9.13-beta5
 Section: Tw3ak
