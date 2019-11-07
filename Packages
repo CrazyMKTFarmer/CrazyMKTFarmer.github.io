@@ -1,3 +1,31 @@
+Package: com.frankynouva.Epoch1.0.0-4
+Version: 1.0.0-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.mtac.epoch_1.0.0-4_iphoneos-arm.deb
+Size: 53526
+MD5sum: cd6ebcba91ac34115552706c157d14ae
+Description: JSTeam - Change your Lockscreen time font
+Name: Epoch
+Author: MTAC
+Depiction: https://frankynouva.github.io/depic/Epoch1.0.0-4.html
+
+Package: com.frankynouva.ByeHomeBottomBarX1.0.8
+Version: 1.0.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.byehomebottombarx_1.0.8_iphoneos-arm.deb
+Size: 94418
+MD5sum: 6f2a98159c099c7fb1abbda4f52d737f
+Description: JSTeam - Remove/Fade Away the Ugly Home Bottom Bar of the iPhone X!
+Name: ByeHomeBottomBarX
+Author: CydiaGeek <lucaluca86@aol.com.frankynouva.ByeHomeBottomBarX1.0.8
+Depiction: https://frankynouva.github.io/depic/ByeHomeBottomBarX1.0.8.html
+
 Package: com.frankynouva.BellePlayer1.1.1
 Version: 1.1.1
 Section: Tw3ak
