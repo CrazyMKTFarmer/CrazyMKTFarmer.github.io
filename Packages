@@ -1,3 +1,31 @@
+Package: com.frankynouva.Webscrollian1.0.0-2
+Version: 1.0.0-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.chpwn.webscrollian_1.0.0-2_iphoneos-arm.deb
+Size: 2158
+MD5sum: 281561485cd01432ead7be6fe59909d2
+Description: JSTeam - faster content scrolling for web views
+Name: Webscrollian
+Author: chpwn <support@chpwn.com.frankynouva.Webscrollian1.0.0-2
+Depiction: https://frankynouva.github.io/depic/Webscrollian1.0.0-2.html
+
+Package: com.frankynouva.Speed10.1-1
+Version: 10.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 6.0), preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.pw5a29.speedintensifier_10.1-1_iphoneos-arm.deb
+Size: 59686
+MD5sum: f1ec90e2eaa3419be494aff406489c6e
+Description: JSTeam - Speeds up iOS Animations
+Name: Speed Intensifier
+Author: pw5a29 <pw5a29@gmail.com.frankynouva.Speed10.1-1
+Depiction: https://frankynouva.github.io/depic/Speed10.1-1.html
+
 Package: com.frankynouva.HideAppMenu1.0-1
 Version: 1.0-1
 Section: Tw3ak
@@ -2199,20 +2227,6 @@ Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!!!!!! wifi
 Name: DataMeter
 Author: Minuit
 Depiction: https://frankynouva.github.io/depic/DataMeter1.3-10k.html
-
-Package: com.frankynouva.Speed10.1-1
-Version: 10.1-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.repo.xarold.com.speedintensifier_10.1-1_iphoneos-arm.deb
-Size: 59666
-MD5sum: c77751ef2b33003158cd7617450e4b0e
-Description: JSTeam - Speeds up iOS Animations
-Name: Speed Intensifier
-Author: pw5a29
-Depiction: https://frankynouva.github.io/depic/Speed10.1-1.html
 
 Package: com.frankynouva.Flex3-EarlyAccess4
 Version: 3-EarlyAccess4
