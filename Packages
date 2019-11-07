@@ -1,3 +1,34 @@
+Package: com.4nni3.coolcc
+Version: 1:3.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: debs/com.4nni3.coolcc_3.1_iphoneos-arm.deb
+Size: 195674
+Installed-Size: 566
+MD5sum: abbf5f17d3a0cd3d27be27d26bfef14a
+Description: This tweak makes ControlCenter cool!
+Name: CoolCC
+Author: 4nni3 <4nni3.14@gmail.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
+Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
+
+Package: com.frankynouva.sshChanger1.8-4
+Version: 1.8-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.frankynouva.sshchanger1.8-4, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ienthach.sshchanger_1.8-4_iphoneos-arm.deb
+Size: 3137968
+MD5sum: d03f7c0b6d8d271c4b54ada79cbe3810
+Description: JSTeam - Change ssh on iOS device
+Name: sshChanger
+Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com.frankynouva.sshChanger1.8-4
+Depiction: https://frankynouva.github.io/depic/sshChanger1.8-4.html
+
 Package: com.frankynouva.Social3.9
 Version: 3.9
 Section: Tw3ak
