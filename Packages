@@ -1,3 +1,17 @@
+Package: com.frankynouva.OutOfLock1.1.0
+Version: 1.1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.frankynouva.outoflock1.1.0, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kenhtao.outoflock_1.1.0_iphoneos-arm.deb
+Size: 175034
+MD5sum: d3562e4e8f2b4f8342c624c2b190cc58
+Description: JSTeam - Vẽ hình để mở khoá máy.
+Name: OutOfLock
+Author: va2ron1
+Depiction: https://frankynouva.github.io/depic/OutOfLock1.1.0.html
+
 Package: com.frankynouva.TransLock0.0.3
 Version: 0.0.3
 Section: Tw3ak
