@@ -1,3 +1,18 @@
+Package: com.frankynouva.eSim+1.0.3-1
+Version: 1.0.3-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), net.kenhtao.libiarrays, com.frankynouva.esim+1.0.3-1, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kenhtao.simplus_1.0.3-1_iphoneos-arm.deb
+Size: 675222
+MD5sum: 68788bcbcb2f35ef72a1a38441e89a67
+Description: JSTeam - Thêm tuỳ chọn 2 Sim cho máy có eSim.
+Name: eSim+
+Author: IArrays
+Depiction: https://frankynouva.github.io/depic/eSim+1.0.3-1.html
+
 Package: com.frankynouva.Epoch1.0.0-4
 Version: 1.0.0-4
 Section: Tw3ak
