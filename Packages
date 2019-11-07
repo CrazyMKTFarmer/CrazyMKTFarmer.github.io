@@ -1,3 +1,36 @@
+Package: com.rain.hideappmenu
+Version: 1.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Filename: debs/com.rain.hideappmenu_1.0-1_iphoneos-arm.deb
+Size: 2962
+Installed-Size: 64
+MD5sum: 8ccdb3418f886d73e8c1159c4a8c40ed
+Description: hide Apps section in Settings menu
+Name: HideAppMenu
+Author: Rain. <1105100295@qq.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hideappmenuDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hideappmenuDp
+
+Package: com.chpwn.webscrollian
+Version: 1.0.0-2
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.chpwn.webscrollian_1.0.0-2_iphoneos-arm.deb
+Size: 2190
+Installed-Size: 9
+MD5sum: 2888cc0fe0216b6a764eee664b5e13f8
+Description: faster content scrolling for web views
+Name: Webscrollian
+Author: chpwn <support@chpwn.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=webscrollianData
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=webscrollianData
+
 Package: com.frankynouva.SmallSiri1.2.2
 Version: 1.2.2
 Section: Tw3ak
@@ -11,20 +44,6 @@ Description: JSTeam - Make siri smaller and unobtrusive!
 Name: SmallSiri
 Author: Muirey03
 Depiction: https://frankynouva.github.io/depic/SmallSiri1.2.2.html
-
-Package: com.frankynouva.Webscrollian1.0.0-2
-Version: 1.0.0-2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.chpwn.webscrollian_1.0.0-2_iphoneos-arm.deb
-Size: 2158
-MD5sum: 281561485cd01432ead7be6fe59909d2
-Description: JSTeam - faster content scrolling for web views
-Name: Webscrollian
-Author: chpwn <support@chpwn.com.frankynouva.Webscrollian1.0.0-2
-Depiction: https://frankynouva.github.io/depic/Webscrollian1.0.0-2.html
 
 Package: com.frankynouva.Speed10.1-1
 Version: 10.1-1
