@@ -1,3 +1,17 @@
+Package: com.frankynouva.sshChanger1.8-4
+Version: 1.8-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.frankynouva.sshchanger1.8-4, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ienthach.sshChanger_1.8-4_iphoneos-arm.deb
+Size: 3137966
+MD5sum: e9465f2cc42981db0e1abca7d24da1c7
+Description: JSTeam - Change ssh on iOS device
+Name: sshChanger
+Author: Nguyen Quang Vu <ienthach87@gmail.com.frankynouva.sshChanger1.8-4
+Depiction: https://frankynouva.github.io/depic/sshChanger1.8-4.html
+
 Package: com.frankynouva.OutOfLock1.1.0
 Version: 1.1.0
 Section: Tw3ak
@@ -42,20 +56,6 @@ Author: 4nni3 <4nni3.14@gmail.com>
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=coolccDp
 Icon: file:///Library/PreferenceBundles/CoolCCPref.bundle/icon@2x.png
-
-Package: com.frankynouva.sshChanger1.8-4
-Version: 1.8-4
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate, com.frankynouva.sshchanger1.8-4, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.ienthach.sshchanger_1.8-4_iphoneos-arm.deb
-Size: 3137968
-MD5sum: d03f7c0b6d8d271c4b54ada79cbe3810
-Description: JSTeam - Change ssh on iOS device
-Name: sshChanger
-Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com.frankynouva.sshChanger1.8-4
-Depiction: https://frankynouva.github.io/depic/sshChanger1.8-4.html
 
 Package: com.frankynouva.Social3.9
 Version: 3.9
