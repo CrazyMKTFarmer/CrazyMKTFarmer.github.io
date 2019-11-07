@@ -1,3 +1,19 @@
+Package: com.frankynouva.Sareth1.0.8-1
+Version: 1.0.8-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.com.frankynouva.sareth1.0.8-1, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.frankynouva.sareth1.0.8-1
+Replaces: com.frankynouva.sareth1.0.8-1
+Architecture: iphoneos-arm
+Filename: debs/com.ikilledappl3.sareth_1.0.8-1_iphoneos-arm.deb
+Size: 2500764
+MD5sum: 59bc49d53793f66051c0d67c9e1fe3df
+Description: JSTeam - Take charge of your Control Center!
+Name: Sareth
+Author: iKilledAppl3 <ipodnewbee234@icloud.com.frankynouva.Sareth1.0.8-1
+Depiction: https://frankynouva.github.io/depic/Sareth1.0.8-1.html
+
 Package: com.frankynouva.BeautyFold1.1
 Version: 1.1
 Section: Tw3ak
@@ -1736,17 +1752,18 @@ Author: Kent Krantz
 Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Name: Kiiim Repo Icons
-Version: 4.1.4
-Architecture: iphoneos-arm
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Description: Official AKiiim Repo Icons
-Depiction: https://frankynouva.github.io/depic/IconRepo.html
-Author: Franky Nouva <FrankyNouva@gmail.com>
+Version: 4.1.5
 Section: System
 Essential: yes
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.4_iphoneos-arm.deb
-Size: 27764MD5sum: 992cccc6ee60a024828318ad44d0dba9
+Maintainer: Jailbr3aker Special Team
+Description: Franky Nouva iCon Pack
+Architecture: iphoneos-arm
+Name: Kiiim Repo Icons
+Author: FrankyNouva
+Depiction: https://frankynouva.github.io/depic/IconRepo.html
+Icon: file:///Applications/Cydia.app/Sections/Tw3ak.png
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.5_iphoneos-arm.deb
+Size: 27832MD5sum: 79c2b8c06e31b2fdb416cf6434621d4e
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
