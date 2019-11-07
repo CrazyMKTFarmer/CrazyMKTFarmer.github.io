@@ -1,3 +1,17 @@
+Package: com.frankynouva.BellePlayer1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), net.kenhtao.libgraphite, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kenhtao.belleplayer2_1.1.1_iphoneos-arm.deb
+Size: 337742
+MD5sum: c98214c577d3227a8f790cc747d14a30
+Description: JSTeam - Tuỳ biến thêm trình phát nhạc trên iOS
+Name: BellePlayer
+Author: Geometric Software
+Depiction: https://frankynouva.github.io/depic/BellePlayer1.1.1.html
+
 Package: com.frankynouva.sshChanger1.8-4
 Version: 1.8-4
 Section: Tw3ak
