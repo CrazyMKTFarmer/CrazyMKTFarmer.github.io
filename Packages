@@ -1,3 +1,17 @@
+Package: com.frankynouva.SmallSiri1.2.2
+Version: 1.2.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.muirey03.smallsiri_1.2.2_iphoneos-arm.deb
+Size: 174554
+MD5sum: da7b7be33b688f236d06e806087e82d2
+Description: JSTeam - Make siri smaller and unobtrusive!
+Name: SmallSiri
+Author: Muirey03
+Depiction: https://frankynouva.github.io/depic/SmallSiri1.2.2.html
+
 Package: com.frankynouva.Webscrollian1.0.0-2
 Version: 1.0.0-2
 Section: Tw3ak
@@ -25,20 +39,6 @@ Description: JSTeam - Speeds up iOS Animations
 Name: Speed Intensifier
 Author: pw5a29 <pw5a29@gmail.com.frankynouva.Speed10.1-1
 Depiction: https://frankynouva.github.io/depic/Speed10.1-1.html
-
-Package: com.frankynouva.HideAppMenu1.0-1
-Version: 1.0-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.rain.hideappmenu_1.0-1_iphoneos-arm.deb
-Size: 3456
-MD5sum: d3e90100a4eac1762433d4df3f548f06
-Description: JSTeam - hide Apps section in Settings menu
-Name: HideAppMenu
-Author: Rain. <1105100295@qq.com.frankynouva.HideAppMenu1.0-1
-Depiction: https://frankynouva.github.io/depic/HideAppMenu1.0-1.html
 
 Package: com.frankynouva.eSim+1.0.3-1
 Version: 1.0.3-1
