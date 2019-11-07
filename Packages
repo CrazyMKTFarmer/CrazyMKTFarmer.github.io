@@ -1,3 +1,31 @@
+Package: com.frankynouva.AdaptiveColorAlerts1.4-4
+Version: 1.4-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.adaptivecoloralerts_1.4-4_iphoneos-arm.deb
+Size: 73210
+MD5sum: d87b9fac874151449a56e0662cc2606c
+Description: JSTeam - Color all the Alerts based on the Wallpaper's Tint!
+Name: AdaptiveColorAlerts
+Author: CydiaGeek <lucaluca86@aol.com.frankynouva.AdaptiveColorAlerts1.4-4
+Depiction: https://frankynouva.github.io/depic/AdaptiveColorAlerts1.4-4.html
+
+Package: com.frankynouva.ScreenSafe1
+Version: 1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.com.frankynouva.screensafe1, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kushy.screensafe_1_iphoneos-arm.deb
+Size: 5528402
+MD5sum: 3c82ff09ce88101500881f05286fe784
+Description: JSTeam - An OLED friendly IOS screensaver with custom video support and alot of cusomisablility
+Name: ScreenSafe
+Author: Kushy
+Depiction: https://frankynouva.github.io/depic/ScreenSafe1.html
+
 Package: com.frankynouva.MathTeacher1.1.1
 Version: 1.1.1
 Section: Tw3ak
@@ -1766,7 +1794,7 @@ Author: Kent Krantz
 Depiction: https://frankynouva.github.io/depic/AutoTouch4.3.8.html
 
 Package: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Version: 4.1.6
+Version: 4.1.7
 Section: System
 Essential: yes
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
@@ -1776,8 +1804,10 @@ Name: Kiiim Repo Icons
 Author: Franky Nouva <frankynouva@gmail.com>
 Depiction: https://frankynouva.github.io/depic/IconRepo.html
 Icon: file:///Applications/Cydia.app/Sections/Tw3ak.png
-Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.6_iphoneos-arm.deb
-Size: 27856MD5sum: d818389e63573103cbda41fb3b44b3d4
+Filename: debs/com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0_4.1.7_iphoneos-arm.deb
+Size: 27854MD5sum: cd9351054be13b178d654cccb8ac4bac
+SHA1: f0f1425d9d1dbc58e5ea8fac460e67e355791d27
+SHA256: 25123ff0ce60a335c8ced5a5503dc75d15a905ee1abe5b177eaa704699151a1c
 
 Package: com.frankynouva.MarkFavourites1.0.0
 Version: 1.0.0
