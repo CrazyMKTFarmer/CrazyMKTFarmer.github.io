@@ -1,35 +1,17 @@
-Package: com.rain.hideappmenu
-Version: 1.0-1
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Package: com.frankynouva.BundleIDsXI1.2.0-2
+Version: 1.2.0-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.frankynouva.bundleidsxi1.2.0-2
 Architecture: iphoneos-arm
-Filename: debs/com.rain.hideappmenu_1.0-1_iphoneos-arm.deb
-Size: 2962
-Installed-Size: 64
-MD5sum: 8ccdb3418f886d73e8c1159c4a8c40ed
-Description: hide Apps section in Settings menu
-Name: HideAppMenu
-Author: Rain. <1105100295@qq.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hideappmenuDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hideappmenuDp
-
-Package: com.chpwn.webscrollian
-Version: 1.0.0-2
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.chpwn.webscrollian_1.0.0-2_iphoneos-arm.deb
-Size: 2190
-Installed-Size: 9
-MD5sum: 2888cc0fe0216b6a764eee664b5e13f8
-Description: faster content scrolling for web views
-Name: Webscrollian
-Author: chpwn <support@chpwn.com>
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=webscrollianData
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=webscrollianData
+Filename: debs/com.wavelink.bundleidsxi_1.2.0-2_iphoneos-arm.deb
+Size: 130456
+MD5sum: efe03a43b6fd37c0bab4602cf4e92e4c
+Description: JSTeam - App to see installed app bundle IDs.
+Name: BundleIDsXI
+Author: TD
+Depiction: https://frankynouva.github.io/depic/BundleIDsXI1.2.0-2.html
 
 Package: com.frankynouva.SmallSiri1.2.2
 Version: 1.2.2
@@ -101,20 +83,6 @@ Description: JSTeam - Tuỳ biến thêm trình phát nhạc trên iOS
 Name: BellePlayer
 Author: Geometric Software
 Depiction: https://frankynouva.github.io/depic/BellePlayer1.1.1.html
-
-Package: com.frankynouva.sshChanger1.8-4
-Version: 1.8-4
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 10.0), mobilesubstrate, com.frankynouva.sshchanger1.8-4, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.ienthach.sshChanger_1.8-4_iphoneos-arm.deb
-Size: 3137966
-MD5sum: e9465f2cc42981db0e1abca7d24da1c7
-Description: JSTeam - Change ssh on iOS device
-Name: sshChanger
-Author: Nguyen Quang Vu <ienthach87@gmail.com.frankynouva.sshChanger1.8-4
-Depiction: https://frankynouva.github.io/depic/sshChanger1.8-4.html
 
 Package: com.frankynouva.OutOfLock1.1.0
 Version: 1.1.0
@@ -388,21 +356,6 @@ Description: JSTeam - Always On-screen
 Name: AOD
 Author: Soh Satoh
 Depiction: https://frankynouva.github.io/depic/AOD1.8.3.html
-
-Package: com.frankynouva.ActiContact1.0.1-2
-Version: 1.0.1-2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/ws.hbang.acticontact_1.0.1-2_iphoneos-arm.deb
-Size: 11966
-MD5sum: bd6d20360293a6f9de2e60449c058a5d
-Description: JSTeam - Add new contacts with an Activator gesture
-Name: ActiContact
-Author: HASHBANG Productions <acticontact@hbang.ws>
-Depiction: https://frankynouva.github.io/depic/ActiContact1.0.1-2.html
 
 Package: com.frankynouva.SoundCloudPro1.2
 Version: 1.2
