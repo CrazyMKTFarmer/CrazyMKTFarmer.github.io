@@ -1,3 +1,32 @@
+Package: com.frankynouva.TinyBar0.1.8
+Version: 0.1.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0.2), mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.tinybar92933_0.1.8_iphoneos-arm.deb
+Size: 80536
+MD5sum: ba2649d4ed05027c1d6644c6c9bb5a84
+Description: JSTeam - Thins notification banners down to size!
+Name: TinyBar iOS 10
+Author: Alex Zielenski
+Depiction: https://frankynouva.github.io/depic/TinyBar0.1.8.html
+
+Package: com.frankynouva.FullFolder910.3-4-1
+Name: FullFolder9
+Version: 10.3-4-1
+Architecture: iphoneos-arm
+Description: JSTeam - Custom folder display.
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FullFolder910.3-4-1.html
+Author: Lizynz <Lizynz@yandex.ru>
+Section: Tw3ak
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0
+Filename: debs/com.frankynouva.FullFolder910.3-4-1_10.3-4-1_iphoneos-arm.deb
+Size: 94368
+Installed-Size: 94316
+MD5sum: 044f0bdcd8bbed5f124930dfef627962
+
 Package: com.frankynouva.Batchomatic4.0-1
 Version: 4.0-1
 Section: Tw3ak
