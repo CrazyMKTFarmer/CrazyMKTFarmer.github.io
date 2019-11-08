@@ -1,3 +1,31 @@
+Package: com.frankynouva.AutoUnlockX1.0.6
+Version: 1.0.6
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.tqm-mos.autounlockx_1.0.6_iphoneos-arm.deb
+Size: 75864
+MD5sum: c257236d642dc5ef21a04cae412c1c4f
+Description: JSTeam - Unless there are notifications, the device will automatically unlock when valid Face ID is detected
+Name: AutoUnlockX
+Author: Spark
+Depiction: https://frankynouva.github.io/depic/AutoUnlockX1.0.6.html
+
+Package: com.frankynouva.CoolCC1.3.3-beta4
+Version: 1.3.3-beta4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.tqm-mos.coolcc_1.3.3~beta4_iphoneos-arm.deb
+Size: 44762
+MD5sum: ac1b28f8cbdc8657ecf26b23c25ea6a3
+Description: JSTeam - This tweak makes ControlCenter cool!
+Name: CoolCC
+Author: 4nni3 <4nni3.14@gmail.com.frankynouva.CoolCC1.3.3-beta4
+Depiction: https://frankynouva.github.io/depic/CoolCC1.3.3-beta4.html
+
 Package: com.frankynouva.Pasithea2.2.0
 Version: 2.2.0
 Section: Tw3ak
@@ -629,20 +657,6 @@ Description: JSTeam - Nhạc chuông tạo bởi FrankyNouva, yêu cầu thêm b
 Name: Co Tham Khong Ve - JSTeam
 Author: cut by JSTeam <frankynouva@vn>
 Depiction: https://frankynouva.github.io/depic/Co1.0.html
-
-Package: com.frankynouva.AutoUnlockX1.0.6
-Version: 1.0.6
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.autounlockx_1.0.6_iphoneos-arm.deb
-Size: 75848
-MD5sum: 79ad1cb5888d88047c82609ba6042867
-Description: JSTeam - Unless there are notifications, the device will automatically unlock when valid Face ID is detected
-Name: AutoUnlockX
-Author: Spark
-Depiction: https://frankynouva.github.io/depic/AutoUnlockX1.0.6.html
 
 Package: com.frankynouva.AppShortcut1.0.4k
 Version: 1.0.4k
