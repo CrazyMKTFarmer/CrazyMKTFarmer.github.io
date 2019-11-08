@@ -1,3 +1,17 @@
+Package: com.frankynouva.sshChanger1.8-4
+Version: 1.8-4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, openssh, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ienthach.sshchanger_1.8-4_iphoneos-arm.deb
+Size: 3137986
+MD5sum: 1cae0aa981c971bbaf5fa4f811e7b46a
+Description: JSTeam - Change ssh on iOS device
+Name: sshChanger
+Author: Nguyen Quang Vu (ienthach) <ienthach87@gmail.com>
+Depiction: https://frankynouva.github.io/depic/sshChanger1.8-4.html
+
 Package: com.frankynouva.Webscrollian1.0.0-2
 Version: 1.0.0-2
 Section: Tw3ak
