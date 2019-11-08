@@ -1,3 +1,17 @@
+Package: com.frankynouva.Batchomatic4.0-1
+Version: 4.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.captinc.batchomatic_4.0-1_iphoneos-arm.deb
+Size: 86258
+MD5sum: 159446692d6a0bea2ec7cfc523425224
+Description: JSTeam - Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Name: Batchomatic
+Author: Capt Inc <captinc37@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Batchomatic4.0-1.html
+
 Package: com.frankynouva.Bypass1.1.6.0-7
 Version: 1.1.6.0-7
 Section: Tw3ak
@@ -344,20 +358,6 @@ Description: JSTeam - Stylish ten icons for your folders.
 Name: BeautyFold
 Author: Plat-Ykor <plat-ykor@libero.it>
 Depiction: https://frankynouva.github.io/depic/BeautyFold1.1.html
-
-Package: com.frankynouva.Batchomatic4.0-1
-Version: 4.0-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.captinc.batchomatic_4.0-1_iphoneos-arm.deb
-Size: 86266
-MD5sum: 6450fbf8d5805af4bf55a1d573fa4323
-Description: JSTeam - Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
-Name: Batchomatic
-Author: Capt Inc <captinc37@gmail.com.frankynouva.Batchomatic4.0-1
-Depiction: https://frankynouva.github.io/depic/Batchomatic4.0-1.html
 
 Package: com.frankynouva.ConfirmToSend1.0.7
 Version: 1.0.7
@@ -1201,20 +1201,6 @@ Description: JSTeam - open apps bypassing launch animation
 Name: FastOpenApp
 Author: aJBboCydia <aJBboCydia@gmail.com>
 Depiction: https://frankynouva.github.io/depic/FastOpenApp1.1.html
-
-Package: com.frankynouva.Batchomatic3.2
-Version: 3.2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, gawk, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.captinc.batchomatic_3.2_iphoneos-arm.deb
-Size: 88202
-MD5sum: 027c50d3ae700ea82e9b4987f882cf0b
-Description: JSTeam - Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
-Name: Batchomatic
-Author: Capt Inc <captinc37@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Batchomatic3.2.html
 
 Package: com.frankynouva.NiceBarX0.2
 Version: 0.2
