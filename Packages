@@ -1,3 +1,64 @@
+Package: com.frankynouva.NtSpeed0.2-beta7
+Version: 0.2-beta7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
+Size: 110770
+MD5sum: 716b8edb04e43ad84506dc7029c2098a
+Description: JSTeam - See Active Traffic Network Speed
+Name: NtSpeed
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/NtSpeed0.2-beta7.html
+
+Package: com.frankynouva.SBBoosterXS1.4
+Version: 1.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 9.0), firmware (<= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.frankynghia.sbboosterxi, com.frankynghia.sbbooster
+Architecture: iphoneos-arm
+Filename: debs/com.frankynghia.sbbxslite_1.4-Lite_iphoneos-arm.deb
+Size: 66234
+MD5sum: 78b8bdb544aa0b21a9d39f937b604247
+Description: JSTeam - Optimize Your Device! This is the Lite version of SBBoosterXS.
+Name: SBBoosterXS Lite
+Author: FrankyNouva, NTNghia
+Depiction: https://frankynouva.github.io/depic/SBBoosterXS1.4.html
+
+Package: com.frankynouva.SBBoosterXS1.5.4
+Version: 1.5.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 9.0), cy+cpu.arm64
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.frankynghia.sbbooster
+Architecture: iphoneos-arm
+Filename: debs/com.frankynghia.sbboosterxi_1.5.4_iphoneos-arm.deb
+Size: 92682
+MD5sum: 299adf0e387a884cec0cc11dd0fd5998
+Description: JSTeam - Optimize Your SpringBoard!
+Name: SBBoosterXS
+Author: FrankyNouva, NTNghia
+Depiction: https://frankynouva.github.io/depic/SBBoosterXS1.5.4.html
+
+Package: com.frankynouva.Noctis121.8.9.2
+Version: 1.8.9.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.laughingquoll.noctisxi
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.noctis12_1.8.9.2_iphoneos-arm.deb
+Size: 257718
+MD5sum: 4a5207e8df3e13e5d0dd08d7dcac38e5
+Description: JSTeam - Darkmode for iOS 12
+Name: Noctis12 (iOS 12)
+Author: LaughingQuoll
+Depiction: https://frankynouva.github.io/depic/Noctis121.8.9.2.html
+
 Package: com.frankynouva.Chat2.0.8
 Version: 2.0.8
 Section: Tw3ak
