@@ -1,3 +1,18 @@
+Package: com.frankynouva.Chat2.0.8
+Version: 2.0.8
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10), mobilesubstrate, com.rpetrich.rocketbootstrap, com.tqm-mos.crack, com.tqm-mos.mhfbsupport, com.tqm-mos.mhwasupport, com.tqm-mos.mhsmssupport, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.c1d3r.mhfbsupport, com.c1d3r.mhwasupport, com.c1d3r.mhsmssupport
+Architecture: iphoneos-arm
+Filename: debs/com.c1d3r.messageheadsxi_2.0.8_iphoneos-arm.deb
+Size: 6420952
+MD5sum: dcf96d314b4d38a7c9113dffca017923
+Description: JSTeam - Chát messager bong bóng như android ,tiện hơn khi bạn là ng hay nt
+Name: Chat Bong Bóng
+Author: C1d3 <anhminh311105@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Chat2.0.8.html
+
 Package: com.frankynouva.TinyBar0.1.8
 Version: 0.1.8
 Section: Tw3ak
@@ -11,21 +26,6 @@ Description: JSTeam - Thins notification banners down to size!
 Name: TinyBar iOS 10
 Author: Alex Zielenski
 Depiction: https://frankynouva.github.io/depic/TinyBar0.1.8.html
-
-Package: com.frankynouva.FullFolder910.3-4-1
-Name: FullFolder9
-Version: 10.3-4-1
-Architecture: iphoneos-arm
-Description: JSTeam - Custom folder display.
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/FullFolder910.3-4-1.html
-Author: Lizynz <Lizynz@yandex.ru>
-Section: Tw3ak
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0
-Filename: debs/com.frankynouva.FullFolder910.3-4-1_10.3-4-1_iphoneos-arm.deb
-Size: 94368
-Installed-Size: 94316
-MD5sum: 044f0bdcd8bbed5f124930dfef627962
 
 Package: com.frankynouva.Batchomatic4.0-1
 Version: 4.0-1
