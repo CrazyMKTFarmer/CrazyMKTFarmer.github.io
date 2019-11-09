@@ -1,3 +1,17 @@
+Package: com.frankynouva.antirevoke0.0.1
+Version: 0.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.180.antirevoke_0.0.1_iphoneos-arm.deb
+Size: 32772
+MD5sum: 204597479bb74200277a4c807e313847
+Description: JSTeam - JSTeam -
+Name: antirevoke
+Author: stem grade
+Depiction: https://frankynouva.github.io/depic/antirevoke0.0.1.html
+
 Package: com.frankynouva.NtSpeed0.2-beta7
 Version: 0.2-beta7
 Section: Tw3ak
