@@ -1,3 +1,17 @@
+Package: com.frankynouva.Safari1.7.7-2
+Version: 1.7.7-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.opa334.safariplus_1.7.7-2_iphoneos-arm.deb
+Size: 1694668
+MD5sum: 4dd10a0c2b455492bb77d9bd49515892
+Description: JSTeam - Various enhancements to Safari!
+Name: Safari Plus
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://frankynouva.github.io/depic/Safari1.7.7-2.html
+
 Package: com.frankynouva.Canvas1.2
 Version: 1.2
 Section: Tw3ak
