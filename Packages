@@ -1,3 +1,17 @@
+Package: com.frankynouva.Siliqua2.2.1
+Version: 2.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydia.love.siliqua2_2.2.1_iphoneos-arm.deb
+Size: 55900
+MD5sum: 4136c5fcc90decf601573170b4d5a2e6
+Description: JSTeam - JSTeam -
+Name: Siliqua 2
+Author: LaughingQuoll
+Depiction: https://frankynouva.github.io/depic/Siliqua2.2.1.html
+
 Package: com.frankynouva.Safari1.7.7-2
 Version: 1.7.7-2
 Section: Tw3ak
