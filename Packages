@@ -1,3 +1,60 @@
+Package: com.frankynouva.Speedy1.4-1
+Version: 1.4-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.pw5a29.speedyhomey_1.4-1_iphoneos-arm.deb
+Size: 7316
+MD5sum: 6804a56ce97021aa6a963d8572c8ab71
+Description: JSTeam - Speeds up home button response by disabling multiple clicks.
+Name: Speedy Homey
+Author: pw5a29 <pw5a29@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Speedy1.4-1.html
+
+Package: com.frankynouva.AirPort2.0
+Version: 2.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.yourepo.exfoliate.glitchpods
+Architecture: iphoneos-arm
+Filename: debs/com.boo.airport_2.0_iphoneos-arm.deb
+Size: 18475526
+MD5sum: 34050cab963bffe67f7bbd7b4d065960
+Description: JSTeam - The Ultimate AirPods Customization Tweak
+Name: AirPort
+Author: Boo
+Depiction: https://frankynouva.github.io/depic/AirPort2.0.html
+
+Package: com.frankynouva.EQE2.1
+Version: 2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.6), firmware (<< 13), mobilesubstrate, dpkg, coreutils, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.r333d.eqe_2.1_iphoneos-arm.deb
+Size: 7969074
+MD5sum: d5d11ec70f2a1ee263683fab9c46d770
+Description: JSTeam - System-wide parametric equalizer
+Name: EQE
+Author: r333d <rweichler+cydia+eqe@gmail.com>
+Depiction: https://frankynouva.github.io/depic/EQE2.1.html
+
+Package: com.frankynouva.BoardBanner121.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 12.0), cy+cpu.arm64, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.nothanks_1.1.1_iphoneos-arm.deb
+Size: 57946
+MD5sum: dfa57026ce505a72d1c5eece27ab4f0d
+Description: JSTeam - Thông báo đẹp hơn cho dòng iPhone có tai thỏ.
+Name: BoardBanner12
+Author: PeterDev
+Depiction: https://frankynouva.github.io/depic/BoardBanner121.1.1.html
+
 Package: com.frankynouva.Siliqua2.2.1
 Version: 2.2.1
 Section: Tw3ak
