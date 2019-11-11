@@ -1,3 +1,59 @@
+Package: com.frankynouva.ADs0.2-beta1
+Version: 0.2-beta1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Size: 10038
+MD5sum: 9ce16c40a951f0d3d10f1552d0c25786
+Description: JSTeam - ADs Blocker for Apps.. Note: may not load page or app crash.
+Name: ADs Blocker
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/ADs0.2-beta1.html
+
+Package: com.frankynouva.AppHide0.2.3-2
+Version: 0.2.3-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.AppHide0.2.3-2_0.2.3-2_iphoneos-arm.deb
+Size: 13394
+MD5sum: 2f4fec126c332d45ddfde69b4b954e5b
+Description: JSTeam - Ẩn iCon app khỏi màn hình chính.
+Name: AppHide Rus
+Author: Jerry En <Jerry+apphide@jerryen.com>
+Depiction: https://frankynouva.github.io/depic/AppHide0.2.3-2.html
+
+Package: com.frankynouva.FasterScroll1.0.0-1
+Version: 1.0.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.FasterScroll1.0.0-1_1.0.0-1_iphoneos-arm.deb
+Size: 23402
+MD5sum: 5e40d17a30d4112f6596ea9711c8542f
+Description: JSTeam - Cuộn nhanh mọi nơi dạng thanh cuộn.
+Name: FasterScroll
+Author: LonestarX <me@lonestarx.net>
+Depiction: https://frankynouva.github.io/depic/FasterScroll1.0.0-1.html
+
+Package: com.frankynouva.Siliqua2.4
+Version: 2.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Siliqua2.4_2.4_iphoneos-arm.deb
+Size: 39274
+MD5sum: ae1bab7cad554bfbd71eeb786420347b
+Description: JSTeam - Thêm cử chỉ tiện ích cho Airpods, Airpods Pro.
+Name: Siliqua 2
+Author: LaughingQuoll
+Depiction: https://frankynouva.github.io/depic/Siliqua2.4.html
+
 Package: com.frankynouva.System2.3.1-2
 Version: 2.3.1-2
 Section: Tw3ak
