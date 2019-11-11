@@ -1,3 +1,17 @@
+Package: com.frankynouva.FasterScroll1.0.0-1
+Version: 1.0.0-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.FasterScroll1.0.0-1_1.0.0-1_iphoneos-arm.deb
+Size: 23402
+MD5sum: 5e40d17a30d4112f6596ea9711c8542f
+Description: JSTeam - Cuộn nhanh mọi nơi dạng thanh cuộn.
+Name: FasterScroll
+Author: LonestarX <me@lonestarx.net>
+Depiction: https://frankynouva.github.io/depic/FasterScroll1.0.0-1.html
+
 Package: com.frankynouva.Siliqua2.4
 Version: 2.4
 Section: Tw3ak
