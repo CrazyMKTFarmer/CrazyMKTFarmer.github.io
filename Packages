@@ -1,3 +1,17 @@
+Package: com.frankynouva.Siliqua2.4
+Version: 2.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Siliqua2.4_2.4_iphoneos-arm.deb
+Size: 39274
+MD5sum: ae1bab7cad554bfbd71eeb786420347b
+Description: JSTeam - Thêm cử chỉ tiện ích cho Airpods, Airpods Pro.
+Name: Siliqua 2
+Author: LaughingQuoll
+Depiction: https://frankynouva.github.io/depic/Siliqua2.4.html
+
 Package: com.frankynouva.LocalIAPStore1.4-2
 Version: 1.4-2
 Section: Tw3ak
