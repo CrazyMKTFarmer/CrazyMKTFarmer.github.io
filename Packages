@@ -1,73 +1,16 @@
-Package: com.frankynouva.FasterScroll1.0.0-1
-Version: 1.0.0-1
+Package: com.frankynouva.System2.3.1-2
+Version: 2.3.1-2
 Section: Tw3ak
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
 Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/com.frankynouva.FasterScroll1.0.0-1_1.0.0-1_iphoneos-arm.deb
-Size: 23402
-MD5sum: 5e40d17a30d4112f6596ea9711c8542f
-Description: JSTeam - Cuộn nhanh mọi nơi dạng thanh cuộn.
-Name: FasterScroll
-Author: LonestarX <me@lonestarx.net>
-Depiction: https://frankynouva.github.io/depic/FasterScroll1.0.0-1.html
-
-Package: com.frankynouva.Siliqua2.4
-Version: 2.4
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.frankynouva.Siliqua2.4_2.4_iphoneos-arm.deb
-Size: 39274
-MD5sum: ae1bab7cad554bfbd71eeb786420347b
-Description: JSTeam - Thêm cử chỉ tiện ích cho Airpods, Airpods Pro.
-Name: Siliqua 2
-Author: LaughingQuoll
-Depiction: https://frankynouva.github.io/depic/Siliqua2.4.html
-
-Package: com.frankynouva.LocalIAPStore1.4-2
-Version: 1.4-2
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.frankynouva.LocalIAPStore1.4-2_1.4-2_iphoneos-arm.deb
-Size: 71072
-MD5sum: 0dc19de2db0ca3c480330544d6558149
-Description: JSTeam - Mua ứng dụng dạng purchase in-app.
-Name: LocalIAPStore (iOS 6-13)
-Author: anondev
-Depiction: https://frankynouva.github.io/depic/LocalIAPStore1.4-2.html
-
-Package: com.frankynouva.Speedy1.4-1
-Version: 1.4-1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.pw5a29.speedyhomey_1.4-1_iphoneos-arm.deb
-Size: 7316
-MD5sum: 6804a56ce97021aa6a963d8572c8ab71
-Description: JSTeam - Speeds up home button response by disabling multiple clicks.
-Name: Speedy Homey
-Author: pw5a29 <pw5a29@gmail.com>
-Depiction: https://frankynouva.github.io/depic/Speedy1.4-1.html
-
-Package: com.frankynouva.AirPort2.0
-Version: 2.0
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Conflicts: com.yourepo.exfoliate.glitchpods
-Architecture: iphoneos-arm
-Filename: debs/com.boo.airport_2.0_iphoneos-arm.deb
-Size: 18475526
-MD5sum: 34050cab963bffe67f7bbd7b4d065960
-Description: JSTeam - The Ultimate AirPods Customization Tweak
-Name: AirPort
-Author: Boo
-Depiction: https://frankynouva.github.io/depic/AirPort2.0.html
+Filename: debs/com.frankynouva.System2.3.1-2_2.3.1-2_iphoneos-arm.deb
+Size: 563118
+MD5sum: 7627898cf14cf3e288204a13f2c2d06d
+Description: JSTeam - Thông tin toàn diện cho thiết bị iOS.
+Name: System Info
+Author: ARX8x
+Depiction: https://frankynouva.github.io/depic/System2.3.1-2.html
 
 Package: com.frankynouva.EQE2.1
 Version: 2.1
@@ -96,20 +39,6 @@ Description: JSTeam - Thông báo đẹp hơn cho dòng iPhone có tai thỏ.
 Name: BoardBanner12
 Author: PeterDev
 Depiction: https://frankynouva.github.io/depic/BoardBanner121.1.1.html
-
-Package: com.frankynouva.Siliqua2.2.1
-Version: 2.2.1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, com.laughingquoll.prefixui, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.cydia.love.siliqua2_2.2.1_iphoneos-arm.deb
-Size: 55900
-MD5sum: 4136c5fcc90decf601573170b4d5a2e6
-Description: JSTeam - JSTeam -
-Name: Siliqua 2
-Author: LaughingQuoll
-Depiction: https://frankynouva.github.io/depic/Siliqua2.2.1.html
 
 Package: com.frankynouva.Safari1.7.7-2
 Version: 1.7.7-2
