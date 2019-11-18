@@ -1,3 +1,17 @@
+Package: com.frankynouva.ResetAllKiller1.0.2
+Version: 1.0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 3.2), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.crazy.resetallkiller_1.0.2_iphoneos-arm.deb
+Size: 6322
+MD5sum: 1626b1728e96693f972f438fdd740893
+Description: JSTeam - disable dangerous Reset buttons in Settings App
+Name: ResetAllKiller
+Author: Lunatik <lunatik@crazy.net>
+Depiction: https://frankynouva.github.io/depic/ResetAllKiller1.0.2.html
+
 Package: com.frankynouva.AppSync64.0
 Version: 64.0
 Section: Tw3ak
