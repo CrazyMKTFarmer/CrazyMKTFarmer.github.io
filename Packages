@@ -1,3 +1,17 @@
+Package: com.frankynouva.HideLabels131.0.0
+Version: 1.0.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydia.love.hidelabels13_1.0.0_iphoneos-arm.deb
+Size: 3714
+MD5sum: 7b41ba17ac92785786b3627b864561c9
+Description: JSTeam - JSTeam -
+Name: HideLabels13
+Author: Ryan Nair
+Depiction: https://frankynouva.github.io/depic/HideLabels131.0.0.html
+
 Package: com.frankynouva.ResetAllKiller1.0.2
 Version: 1.0.2
 Section: Tw3ak
