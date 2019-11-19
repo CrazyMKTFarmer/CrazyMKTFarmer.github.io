@@ -1,3 +1,45 @@
+Package: com.frankynouva.CrackTool44.0-beta9c
+Version: 4.0-beta9c
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.cracktool4_4.0~beta9c_iphoneos-arm.deb
+Size: 516702
+MD5sum: 32288352b5c944237935a800f1cb5353
+Description: JSTeam - Crack Tweaks on one click
+Name: CrackTool4 (iOS 13)
+Author: julioverne
+Depiction: https://frankynouva.github.io/depic/CrackTool44.0-beta9c.html
+
+Package: com.frankynouva.AFakerX1.4-1
+Version: 1.4-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cunstuck.afakerx_1.4-1_iphoneos-arm.deb
+Size: 143394
+MD5sum: 9ee718519097227ed88c123830b3611f
+Description: JSTeam - hide secret App and open with password.
+Name: AFakerX
+Author: CUNSTUCK <cunstuck@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AFakerX1.4-1.html
+
+Package: com.frankynouva.AdBlock1.1.2
+Version: 1.1.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.adblockplus_1.1.2_iphoneos-arm.deb
+Size: 12724
+MD5sum: 3e82ff81465331519d84edf874a37189
+Description: JSTeam - Adblock for ++ Tweaks
+Name: AdBlock ++
+Author: ReJail
+Depiction: https://frankynouva.github.io/depic/AdBlock1.1.2.html
+
 Package: com.frankynouva.Appcon1.4.6
 Version: 1.4.6
 Section: Tw3ak
