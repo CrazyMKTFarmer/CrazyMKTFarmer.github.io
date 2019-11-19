@@ -1,3 +1,32 @@
+Package: com.frankynouva.ReProvision0.5-experimental4
+Version: 0.5-experimental4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.reprovision_0.5~experimental4_iphoneos-arm.deb
+Size: 14236808
+MD5sum: 01f73868745586dcddcfd4d08eeccc76
+Description: JSTeam - Re-sign applications on your device
+Name: ReProvision (iOS10-13)
+Author: Matt Clarke
+Depiction: https://frankynouva.github.io/depic/ReProvision0.5-experimental4.html
+
+Package: com.frankynouva.iCleaner7.7.5k
+Version: 7.7.5k
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.altervista.exilecom.icleaner
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.icleanerpro_7.7.5k_iphoneos-arm.deb
+Size: 3254424
+MD5sum: ef88b00311ae97fec7b11db3847f4a31
+Description: JSTeam - The first real iOS system cleaner & optimize
+Name: iCleaner Pro (iOS 13)
+Author: Ivano Bilenchi
+Depiction: https://frankynouva.github.io/depic/iCleaner7.7.5k.html
+
 Package: com.frankynouva.CrackTool44.0-beta9c
 Version: 4.0-beta9c
 Section: Tw3ak
