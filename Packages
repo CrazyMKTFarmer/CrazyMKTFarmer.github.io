@@ -1,3 +1,88 @@
+Package: com.frankynouva.OwnSpy1.7.0.7-2
+Version: 1.7.0.7-2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9-1), net.mobileinnova.libpush, gsc.armv7, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.ownspy.daemon_1.7.0.7-2_iphoneos-arm.deb
+Size: 1311786
+MD5sum: 5cf0efa6c37a9262a747774650153bff
+Description: JSTeam - Remote iPhone Spy or Backup utility Remote iPhone Spy or Backup utility FREE for 24h! Only with OwnSpy you will be able to track <b>deleted SMS, CallHistory, Pictures, AddressBook</b> and even <b>WhatsApp</b> messages! Spy an iPhone remotely with OwnSpy or export your data using your computer. You will be able to see and export <b>SMS, AddressBook, CallHistory, Pictures taken, App usage, WhatsApp messages</b> and even <b>track your iPhone location</b> easily in a nice interface from your computer. OwnSpy will be <b>completely stealth</b> and it will be <b>hidden from installed packages</b> on Cydia. You will be able to uninstall it remotely without touching your iPhone at all! And it will be autoupdated when new features will be available. If you are concerned about your data you can be sure that <b>your data is safe</b>. All your data will be travelling using <b>an encrypted connection</b> to OwnSpy servers and it will be stored into a database. Also <b>your pictures will be stored encrypted</b> on the OwnSpy servers using your password so only you will be able to see them. Start using OwnSpy <b>for FREE for 24hours Premium service</b>.
+Name: OwnSpy
+Author: Antonio Calatrava <antonio@antoniocalatrava.com>
+Depiction: https://frankynouva.github.io/depic/OwnSpy1.7.0.7-2.html
+
+Package: com.frankynouva.Carrierizer1.0.4
+Version: 1.0.4
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.carrierizer_1.0.4_iphoneos-arm.deb
+Size: 83436
+MD5sum: 5f14437690238d95686eabfa79d2d629
+Description: JSTeam - Custom Text for your Carrier!
+Name: Carrierizer
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/Carrierizer1.0.4.html
+
+Package: com.frankynouva.AVLock1.0.3
+Version: 1.0.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.gilshahar7.avlock_1.0.3_iphoneos-arm.deb
+Size: 34166
+MD5sum: 5d28a820a05bbba49ad946d97a0fe77f
+Description: JSTeam - Add an orientation lock button to the iOS 11/12 stock video player
+Name: AVLock
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Depiction: https://frankynouva.github.io/depic/AVLock1.0.3.html
+
+Package: com.frankynouva.SorryLowBattery1.5
+Version: 1.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.rob311.sorrylowbattery_1.5_iphoneos-arm.deb
+Size: 790416
+MD5sum: b27598061b1e7eb8b77436da53515445
+Description: JSTeam - set fake battery percentage from Settings
+Name: SorryLowBattery
+Author: rob311 <rob@rob311.com>
+Depiction: https://frankynouva.github.io/depic/SorryLowBattery1.5.html
+
+Package: com.frankynouva.LocationFakerX1.5-1
+Version: 1.5-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: org.thebigboss.locationchangerx, org.thebigboss.locationfaker8
+Architecture: iphoneos-arm
+Filename: debs/com.cunstuck.locationfakerx_1.5-1_iphoneos-arm.deb
+Size: 1128802
+MD5sum: 42743d33b65e000b08825162fc53a5c9
+Description: JSTeam - change your Location in any App
+Name: LocationFakerX
+Author: CUNSTUCK <cunstuck@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LocationFakerX1.5-1.html
+
+Package: com.frankynouva.ByeBreadcrumbs1.0.3
+Version: 1.0.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.byebreadcrumbs_1.0.3_iphoneos-arm.deb
+Size: 8882
+MD5sum: a919e2114d470a9f6990ac1b51d61ad2
+Description: JSTeam - Get Rid of the Breadcrumbs on StatusBar!
+Name: ByeBreadcrumbs
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/ByeBreadcrumbs1.0.3.html
+
 Package: com.frankynouva.NewTerm2.2.1
 Version: 2.2.1
 Section: Tw3ak
