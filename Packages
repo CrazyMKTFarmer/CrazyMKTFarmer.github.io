@@ -1,3 +1,18 @@
+Package: com.frankynouva.NewTerm2.2.1
+Version: 2.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: ws.hbang.newterm
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.newterm2_2.2.1_iphoneos-arm.deb
+Size: 1255476
+MD5sum: 8248bd4de636e3f4f574ea194f5fa0b3
+Description: JSTeam - A powerful terminal app for iOS
+Name: NewTerm 2 (iOS 10-13)
+Author: HASHBANG Productions
+Depiction: https://frankynouva.github.io/depic/NewTerm2.2.1.html
+
 Package: com.frankynouva.ReProvision0.5-experimental4
 Version: 0.5-experimental4
 Section: Tw3ak
