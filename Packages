@@ -1,3 +1,31 @@
+Package: com.frankynouva.Translomatic1.2.10.5
+Version: 1.2.10.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.foxforttools, com.yourepo.mohadu31.libfoxfortutils64, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.translomatic_1.2.10.5_iphoneos-arm.deb
+Size: 227766
+MD5sum: 40bbfa1de4671a6cf0a608d612829361
+Description: JSTeam - Quickly translate any text
+Name: Translomatic (A7-A11)
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.5.html
+
+Package: com.frankynouva.Translomatic1.2.10.1
+Version: 1.2.10.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.foxforttools, com.yourepo.mohadu31.libfoxfortutils64e, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.translomatice_1.2.10.1_iphoneos-arm.deb
+Size: 223400
+MD5sum: 2e71279f2b5102542476d6ae574f5b2e
+Description: JSTeam - Quickly translate any text
+Name: Translomatic (A12)
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.1.html
+
 Package: com.frankynouva.Trim0.0.5
 Version: 0.0.5
 Section: Tw3ak
