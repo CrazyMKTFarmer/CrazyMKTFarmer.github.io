@@ -1,3 +1,59 @@
+Package: com.frankynouva.Trim0.0.5
+Version: 0.0.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.kaneb.kbpreferences, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.kaneb.trimtimes_0.0.5_iphoneos-arm.deb
+Size: 41362
+MD5sum: 9dbc77e951e108ab76d6b82d9ef95c5f
+Description: JSTeam - Tweak to add trim times when editing videos.
+Name: Trim Times
+Author: Kane Buckthorpe
+Depiction: https://frankynouva.github.io/depic/Trim0.0.5.html
+
+Package: com.frankynouva.WiFiCarrier1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.noisyflake.wificarrier_1.1.1_iphoneos-arm.deb
+Size: 41408
+MD5sum: b84a2a5b765fa2b8e16556f22ce379f7
+Description: JSTeam - Display the WiFi SSID as Carrier
+Name: WiFiCarrier
+Author: NoisyFlake
+Depiction: https://frankynouva.github.io/depic/WiFiCarrier1.1.1.html
+
+Package: com.frankynouva.YTStatus1.2.0
+Version: 1.2.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.karimo299.ytstatus_1.2.0_iphoneos-arm.deb
+Size: 4160
+MD5sum: 05a347c054a8adf0a28642f5b96e6c12
+Description: JSTeam - Adds statusBar to Youtube when the pause screen is on
+Name: YTStatus
+Author: Karimo299
+Depiction: https://frankynouva.github.io/depic/YTStatus1.2.0.html
+
+Package: com.frankynouva.BottomBannersX21.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.rishanan.bbannerx2_1.0_iphoneos-arm.deb
+Size: 4800
+MD5sum: b24990fb270189f0f81a56726760df13
+Description: JSTeam - Move notification banners to the bottom of the screen
+Name: BottomBannersX2
+Author: Rishanan
+Depiction: https://frankynouva.github.io/depic/BottomBannersX21.0.html
+
 Package: com.frankynouva.OwnSpy1.7.0.7-2
 Version: 1.7.0.7-2
 Section: Tw3ak
