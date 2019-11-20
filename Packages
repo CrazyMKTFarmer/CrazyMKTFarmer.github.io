@@ -1,3 +1,18 @@
+Package: com.frankynouva.FullFolder910.3-4-1
+Version: 10.3-4-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader, com.chpwn.iconsupport, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.lizynz.folderblur, com.lizynz.folder6plus, com.yllier.foldercloser, com.iadam1n.statusfolder
+Architecture: iphoneos-arm
+Filename: debs/com.arab-cydia.fullfolder9_10.3-4-1_iphoneos-arm.deb
+Size: 94410
+MD5sum: 1b544cfa2ec787504d2190fd60150aa5
+Description: JSTeam - اظهار المجلدات بكاملة الشاشة على الشاشة الرئيسية
+Name: FullFolder9
+Author: Lizynz <Lizynz@yandex.ru>
+Depiction: https://frankynouva.github.io/depic/FullFolder910.3-4-1.html
+
 Package: com.frankynouva.Translomatic1.2.10.1
 Version: 1.2.10.1
 Section: Tw3ak
