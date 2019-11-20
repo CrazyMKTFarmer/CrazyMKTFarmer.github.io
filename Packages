@@ -1,3 +1,60 @@
+Package: com.frankynouva.Translomatic1.2.10.1
+Version: 1.2.10.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.frankynouva.foxfort1.0.7, com.frankynouva.libfoxfortutils641.0.9, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Translomatic1.2.10.1_1.2.10.1_iphoneos-arm.deb
+Size: 223392
+MD5sum: 201a173c3b123ba378f1676c489e5830
+Description: JSTeam - Quickly translate any text
+Name: Translomatic (A12)
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.1.html
+
+Package: com.frankynouva.Translomatic1.2.10.5
+Version: 1.2.10.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.frankynouva.foxfort1.0.7, com.frankynouva.libfoxfortutils641.0.9, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.frankynouva.Translomatic1.2.10.5_1.2.10.5_iphoneos-arm.deb
+Size: 227748
+MD5sum: 2026517be24c8591a1ae49f93a97e9dc
+Description: JSTeam - Quickly translate any text
+Name: Translomatic (A7-A11)
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.5.html
+
+Package: com.frankynouva.libfoxfortutils641.0.9
+Version: 1.0.9
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.libfoxfortutils64_1.0.9_iphoneos-arm.deb
+Size: 151080
+MD5sum: 2a26a1705887a77727bd296381fdea77
+Description: JSTeam - Basic utilities for Foxfort tweaks
+Name: libfoxfortutils64
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/libfoxfortutils641.0.9.html
+
+Package: com.frankynouva.FoxFort1.0.7
+Version: 1.0.7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack
+Architecture: iphoneos-arm
+Filename: debs/com.yourepo.mohadu31.foxforttools_1.0.7_iphoneos-arm.deb
+Size: 233088
+MD5sum: 007fb18eccbbf0dc7cc352ab8a17784c
+Description: JSTeam - Helper tools for Foxfort tweaks
+Name: FoxFort Tools
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/FoxFort1.0.7.html
+
 Package: com.frankynouva.Noire1.0.0-1
 Version: 1.0.0-1
 Section: Tw3ak
@@ -26,34 +83,6 @@ Description: JSTeam - Give iPad capabilities to your iPhone.
 Name: ipadify
 Author: Guilherme Rambo
 Depiction: https://frankynouva.github.io/depic/ipadify0.0.1.html
-
-Package: com.frankynouva.Translomatic1.2.10.5
-Version: 1.2.10.5
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.foxforttools, com.yourepo.mohadu31.libfoxfortutils64, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.translomatic_1.2.10.5_iphoneos-arm.deb
-Size: 227766
-MD5sum: 40bbfa1de4671a6cf0a608d612829361
-Description: JSTeam - Quickly translate any text
-Name: Translomatic (A7-A11)
-Author: FoxfortMobile
-Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.5.html
-
-Package: com.frankynouva.Translomatic1.2.10.1
-Version: 1.2.10.1
-Section: Tw3ak
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.yourepo.mohadu31.foxforttools, com.yourepo.mohadu31.libfoxfortutils64e, com.rpetrich.rocketbootstrap (>= 1.0.3), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
-Architecture: iphoneos-arm
-Filename: debs/com.yourepo.mohadu31.translomatice_1.2.10.1_iphoneos-arm.deb
-Size: 223400
-MD5sum: 2e71279f2b5102542476d6ae574f5b2e
-Description: JSTeam - Quickly translate any text
-Name: Translomatic (A12)
-Author: FoxfortMobile
-Depiction: https://frankynouva.github.io/depic/Translomatic1.2.10.1.html
 
 Package: com.frankynouva.Trim0.0.5
 Version: 0.0.5
