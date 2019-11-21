@@ -1,3 +1,19 @@
+Package: com.frankynouva.Tweak1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), cydia (>= 1.1.19), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.alex.tweaksnumber
+Replaces: com.alex.tweaksnumber
+Architecture: iphoneos-arm
+Filename: debs/com.alex.tweakcount2_1.0.1_iphoneos-arm.deb
+Size: 32098
+MD5sum: 21ac0e6b69cc05dd79c6e34fe99d8bfd
+Description: JSTeam - count of installed tweaks in Cydia
+Name: Tweak Count 2
+Author: Alexandre <Alexandre31.tweak@gmail.com>
+Depiction: https://frankynouva.github.io/depic/Tweak1.0.1.html
+
 Package: com.frankynouva.FullFolder910.3-4-1
 Version: 10.3-4-1
 Section: Tw3ak
