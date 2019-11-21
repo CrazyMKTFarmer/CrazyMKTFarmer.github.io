@@ -1,3 +1,17 @@
+Package: com.frankynouva.BottomControlX1.3.0
+Version: 1.3.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.xcxiao.bottomcontrolx_1.3.0_iphoneos-arm.deb
+Size: 177880
+MD5sum: 87925cd3c4af90fd7b38ac4df69ee8af
+Description: JSTeam - Easier access to your ControlCenter on iPhone X.
+Name: BottomControlX
+Author: XCXiao <958169971@qq.com>
+Depiction: https://frankynouva.github.io/depic/BottomControlX1.3.0.html
+
 Package: com.frankynouva.Tweak1.0.1
 Version: 1.0.1
 Section: Tw3ak
