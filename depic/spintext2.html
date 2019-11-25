@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<form action="/action_page.php">
+  <textarea name="message" style="width:200px; height:300px;" id="myInput">
+  GIÁ TRỊ CỦA THỜI GIAN
+- Muốn biết giá trị thật sự của 1 năm, hãy hỏi 1 học sinh thi rớt ĐH.
+- Muốn biết giá trị thật sự của 1 tháng, hãy hỏi người mẹ đã sanh con non.
+- Muốn biết giá trị thật sự của 1 tuần, hãy hỏi biên tập viên của 1
+tạp chí ra hàng tuần.
+- Muốn biết giá trị thật sự của 1 giờ, hãy hỏi những người đang yêu chờ đợi để được gặp nhau.
+  </textarea>
+  <br>
+</form>
+
+<button onclick="myFunction()">Copy text</button>
+
+
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy")
+}
+</script>
+
+</body>
+</html>
