@@ -1,3 +1,17 @@
+Package: com.frankynouva.Gestures131.1
+Version: 1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.5000), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.icraze.gestures13_1.1_iphoneos-arm.deb
+Size: 4338
+MD5sum: 4e5e5fa3f918ac05af503ae21a745b4f
+Description: JSTeam - Enable iPhone X Gestures On All Devices! (iOS 13)
+Name: Gestures13
+Author: iCraze & Ryan Nair <icrazeios@protonmail.com>
+Depiction: https://frankynouva.github.io/depic/Gestures131.1.html
+
 Package: com.frankynouva.Gump0.0.1
 Version: 0.0.1
 Section: Tw3ak
