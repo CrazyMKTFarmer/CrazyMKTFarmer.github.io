@@ -1,3 +1,19 @@
+Package: com.frankynouva.FiveColumnHomeScreen130.0.2
+Version: 0.0.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: gsc.ipad
+Architecture: iphoneos-arm
+Filename: debs/com.cydia.love.fivehome13_0.0.2_iphoneos-arm.deb
+Size: 6434
+MD5sum: 22c3957aef02c744f4362e1c58b0896a
+Description: JSTeam - JSTeam -
+Name: FiveColumnHomeScreen13
+Author: ichitaso
+Depiction: https://frankynouva.github.io/depic/FiveColumnHomeScreen130.0.2.html
+
 Package: com.frankynouva.ChatLock1.2.1
 Version: 1.2.1
 Section: Tw3ak
