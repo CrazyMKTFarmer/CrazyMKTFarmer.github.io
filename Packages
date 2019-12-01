@@ -1,3 +1,17 @@
+Package: com.frankynouva.Fix2.0
+Version: 2.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.lovejb.fixshuttersound_2.0_iphoneos-arm.deb
+Size: 1414
+MD5sum: 27fc72bf8890f6d9448a0ca4847b5174
+Description: JSTeam - Fix Shutter Sound on iPhone J/A and KH/A
+Name: Fix Shutter Sound
+Author: iGosu <igosu@icloud.com>
+Depiction: https://frankynouva.github.io/depic/Fix2.0.html
+
 Package: com.frankynouva.FiveColumnHomeScreen130.0.2
 Version: 0.0.2
 Section: Tw3ak
