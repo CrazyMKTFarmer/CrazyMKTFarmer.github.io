@@ -1,3 +1,17 @@
+Package: com.frankynouva.Harpy2.0.1
+Version: 2.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, network-cmds, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.harpy_2.0.1_iphoneos-arm.deb
+Size: 6562760
+MD5sum: 4ae65ba602b8a5879db5ee2204f81398
+Description: JSTeam - Trình quản lý mạng Wi-Fi tốt nhất cho bạn
+Name: Harpy VN
+Author: midnightchips
+Depiction: https://frankynouva.github.io/depic/Harpy2.0.1.html
+
 Package: com.frankynouva.Spotlightless111.1.3
 Version: 1.1.3
 Section: Tw3ak
