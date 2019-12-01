@@ -1,3 +1,17 @@
+Package: com.frankynouva.ChatLock1.2.1
+Version: 1.2.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.kenhtao.chatlock_1.2.1_iphoneos-arm.deb
+Size: 325686
+MD5sum: 9e794518f1de0eb223f3ca6903bfbe36
+Description: JSTeam - Dễ dàng khóa cuộc trò chuyện trong ứng dụng tin nhắn của bạn.
+Name: ChatLock VN
+Author: elias
+Depiction: https://frankynouva.github.io/depic/ChatLock1.2.1.html
+
 Package: com.frankynouva.DarkKeys1.1.3
 Version: 1.1.3
 Section: Tw3ak
