@@ -1,3 +1,17 @@
+Package: com.frankynouva.Appcon1.4.7
+Version: 1.4.7
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/org.thebigboss.appcon_1.4.7_iphoneos-arm.deb
+Size: 371386
+MD5sum: fe99b8f5dcbe16fe076546510d414a65
+Description: JSTeam - Set icon images from your photo library.
+Name: Appcon
+Author: merdok <merdok87@o2.pl>
+Depiction: https://frankynouva.github.io/depic/Appcon1.4.7.html
+
 Package: com.frankynouva.NoLowPowerAlert0.1-1
 Version: 0.1-1
 Section: Tw3ak
