@@ -1,3 +1,18 @@
+Package: com.frankynouva.TubeFixer2.0-152+debug
+Version: 2.0-152+debug
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Pre-Depends: dpkg (>= 1.13.25-5)
+Depends: mobilesubstrate, firmware (>= 2.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/uk.invoxiplaygames.tubefixer_2.0-152+debug_iphoneos-arm.deb
+Size: 32930
+MD5sum: 35dd7a16fdcf7a0cf87886017ebf0201
+Description: JSTeam - Package to fix YouTube on iOS 3-5
+Name: TubeFixer for iOS
+Author: InvoxiPlayGames <webmaster@invoxiplaygames.uk>
+Depiction: https://frankynouva.github.io/depic/TubeFixer2.0-152+debug.html
+
 Package: com.frankynouva.Appcon1.4.7
 Version: 1.4.7
 Section: Tw3ak
