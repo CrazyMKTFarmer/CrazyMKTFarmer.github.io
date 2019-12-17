@@ -1,3 +1,17 @@
+Package: com.frankynouva.SlideCut0.6
+Version: 0.6
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 5.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/jp.r-plus.slidecut_0.6_iphoneos-arm.deb
+Size: 22844
+MD5sum: 22b31f53a311d8ac45cca98217c34d58
+Description: JSTeam - Slide shortcut via space key.
+Name: SlideCut
+Author: r_plus <anasthasia.r+aa@gmail.com>
+Depiction: https://frankynouva.github.io/depic/SlideCut0.6.html
+
 Package: com.frankynouva.TSS1.2.0
 Version: 1.2.0
 Section: Tw3ak
