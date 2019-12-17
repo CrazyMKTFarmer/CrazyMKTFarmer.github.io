@@ -1,3 +1,17 @@
+Package: com.frankynouva.AudioExplorer+2.7.2-1
+Version: 2.7.2-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 4.0), applist, com.ouraigua.jodebox, com.rpetrich.rocketbootstrap, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/net.erike.audioexplorerplus_2.7.2-1_iphoneos-arm.deb
+Size: 1495652
+MD5sum: 53103a75f8a0fe9a5eeead04723b2242
+Description: JSTeam - find & use audio from your device files
+Name: AudioExplorer+
+Author: Erik E. <audioexplorer@erike.net>
+Depiction: https://frankynouva.github.io/depic/AudioExplorer+2.7.2-1.html
+
 Package: com.frankynouva.SlideCut0.6
 Version: 0.6
 Section: Tw3ak
