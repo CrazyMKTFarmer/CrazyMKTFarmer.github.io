@@ -1,3 +1,17 @@
+Package: com.frankynouva.NoDescription0.0.1
+Version: 0.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 7.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.aborakan.nodescription_0.0.1_iphoneos-arm.deb
+Size: 5826
+MD5sum: c6b89998b0d467caaaa6c92ea6cef576
+Description: JSTeam - Hide the description of the tweak under the name
+Name: NoDescription (for Cydia)
+Author: Abo Rakan <aborakan.x5@icloud.com>
+Depiction: https://frankynouva.github.io/depic/NoDescription0.0.1.html
+
 Package: com.frankynouva.AudioExplorer+2.7.2-1
 Version: 2.7.2-1
 Section: Tw3ak
