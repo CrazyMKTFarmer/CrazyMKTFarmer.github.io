@@ -1,3 +1,18 @@
+Package: com.frankynouva.AlarmFade1.1.1
+Version: 1.1.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: com.blandry.alarmvolume
+Architecture: iphoneos-arm
+Filename: debs/com.exormeter.alarmfade_1.1.1_iphoneos-arm.deb
+Size: 60932
+MD5sum: 2de18873490dbfaf177f21231e70dc0f
+Description: JSTeam - Fades in the alarm
+Name: AlarmFade
+Author: Nils Kirchhof <nils.kirchhof@t-online.de>
+Depiction: https://frankynouva.github.io/depic/AlarmFade1.1.1.html
+
 Package: com.frankynouva.NoDescription0.0.1
 Version: 0.0.1
 Section: Tw3ak
