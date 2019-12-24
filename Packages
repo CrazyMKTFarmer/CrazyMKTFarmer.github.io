@@ -1,3 +1,17 @@
+Package: com.frankynouva.FloatyDock2.0.5
+Version: 2.0.5
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.chpwn.iconsupport, com.muirey03.iconsupportfix | firmware (<< 13.0), applist, org.thebigboss.libcolorpicker, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.synnyg.floatydock_2.0.5_iphoneos-arm.deb
+Size: 98620
+MD5sum: 1285079e3ff7e6f1eaa9901b7ca605eb
+Description: JSTeam - iPad dock power, for all !
+Name: FloatyDock
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://frankynouva.github.io/depic/FloatyDock2.0.5.html
+
 Package: com.frankynouva.Choicy1.1.2
 Version: 1.1.2
 Section: Tw3ak
