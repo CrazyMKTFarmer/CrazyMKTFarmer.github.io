@@ -1,3 +1,17 @@
+Package: com.frankynouva.SettingsIP0.0.1-9+debug-1
+Version: 0.0.1-9+debug-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.arab-cydia.settingsip_0.0.1-9+debug-1_iphoneos-arm.deb
+Size: 28094
+MD5sum: 5d8c44d79b9f93b78e1f84db1202712a
+Description: JSTeam - hiện địa chỉ iP Ừii ngay bên ngoài Cài đặt wifi.
+Name: SettingsIP
+Author: MTAC
+Depiction: https://frankynouva.github.io/depic/SettingsIP0.0.1-9+debug-1.html
+
 Package: com.frankynouva.PhotoManager1.1.1-1
 Version: 1.1.1-1
 Section: Tw3ak
