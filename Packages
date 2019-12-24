@@ -1,3 +1,18 @@
+Package: com.frankynouva.PhotoManager1.1.1-1
+Version: 1.1.1-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Conflicts: repo.kenhtao.net.photomanager12
+Architecture: iphoneos-arm
+Filename: debs/netksgshsh.photomanager12_1.1.1-1_iphoneos-arm.deb
+Size: 472870
+MD5sum: 489889eaf902e44f93b01b982c6a8b54
+Description: JSTeam - Trình quản lý hình ảnh cho thiết bị của bạn!
+Name: PhotoManager (iOS 12/13)
+Author: Frozen Penguin
+Depiction: https://frankynouva.github.io/depic/PhotoManager1.1.1-1.html
+
 Package: com.frankynouva.FloatyDock2.0.5
 Version: 2.0.5
 Section: Tw3ak
