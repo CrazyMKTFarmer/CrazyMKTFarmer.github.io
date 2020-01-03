@@ -1,3 +1,17 @@
+Package: com.frankynouva.ByeSeparatorsCell1.0.3
+Version: 1.0.3
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.byeseparatorscell_1.0.3_iphoneos-arm.deb
+Size: 82434
+MD5sum: 69210f803328dc60ba70e01448436069
+Description: JSTeam - Remove the Space Between the Cells on System Wide!
+Name: ByeSeparatorsCell
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/ByeSeparatorsCell1.0.3.html
+
 Package: com.frankynouva.SettingsIP0.0.1-9+debug-1
 Version: 0.0.1-9+debug-1
 Section: Tw3ak
