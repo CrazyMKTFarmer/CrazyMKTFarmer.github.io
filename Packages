@@ -1,3 +1,17 @@
+Package: com.frankynouva.ByeBadges1.1.0
+Version: 1.1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.byebadges_1.1.0_iphoneos-arm.deb
+Size: 182502
+MD5sum: 2a61403a147d0ef255608c3ecebf8649
+Description: JSTeam - Bye bye all Apps Badges!
+Name: ByeBadges
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/ByeBadges1.1.0.html
+
 Package: com.frankynouva.ByeSeparatorsCell1.0.3
 Version: 1.0.3
 Section: Tw3ak
