@@ -1,3 +1,17 @@
+Package: com.frankynouva.Temporary1.0.3-1
+Version: 1.0.3-1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 12.0), cy+cpu.arm64 | cy+cpu.arm64e, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.toggleable.tempspawn_1.0.3-1_iphoneos-arm.deb
+Size: 14014
+MD5sum: 6d98e9f8e1ce73a5f680b04ace9b7a0b
+Description: JSTeam - Kills apps spawned in the background after 30 seconds, or as soon as background activity ceases.
+Name: Temporary Background Spawn
+Author: Travis Roman <travis@toggleable.com>
+Depiction: https://frankynouva.github.io/depic/Temporary1.0.3-1.html
+
 Package: com.frankynouva.ByeBadges1.1.0
 Version: 1.1.0
 Section: Tw3ak
