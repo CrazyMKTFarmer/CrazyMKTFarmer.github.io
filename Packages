@@ -1,3 +1,17 @@
+Package: com.frankynouva.LetMeKnow1.4.2
+Version: 1.4.2
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/com.imkpatil.letmeknow_1.4.2_iphoneos-arm.deb
+Size: 32576
+MD5sum: a6c03342b828195950f30ea57902ff09
+Description: JSTeam - This tweak will let you know exactly when the call connects/disconnects so that you don't have to keep holding!
+Name: LetMeKnow
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://frankynouva.github.io/depic/LetMeKnow1.4.2.html
+
 Package: com.frankynouva.AZinstaller1.0
 Version: 1.0
 Section: Tw3ak
