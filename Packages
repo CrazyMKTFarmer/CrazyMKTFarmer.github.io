@@ -1,15 +1,30 @@
-Package: com.cydia.love.flyjb
-Version: 0.2~beta39
-Section: 应用插件
-Maintainer: Ant 蚂蚁源™ <admin@cydia.love>
+Package: com.frankynouva.Gestures131.1.ok
+Version: 1.1.ok
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
 Architecture: iphoneos-arm
-Filename: debs/com.cydia.love.flyjb_0.2~beta39_iphoneos-arm.deb
-Size: 256948
-Installed-Size: 844
-MD5sum: e910cec5ba936b24a562fa902f3a460b
-Name: FlyJB
+Filename: debs/com.icraze.gestures13_1.1.ok_iphoneos-arm.deb
+Size: 4652
+MD5sum: d5feaad5240bb85ffc2cef5605aa3621
+Description: JSTeam - Enable iPhone X Gestures On All Devices! (iOS 13)
+Name: Gestures13
+Author: iCraze & Ryan Nair
+Depiction: https://frankynouva.github.io/depic/Gestures131.1.ok.html
+
+Package: com.frankynouva.FlyJB0.2-beta36
+Version: 0.2-beta36
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/kr.xsf1re.flyjb_0.2-beta36_iphoneos-arm.deb
+Size: 334576
+MD5sum: 910ca5c612853cbf2364826ed6ecf323
+Description: JSTeam - Chống ứng dụng phát hiện ra máy jailbreak.
+Name: FlyJB Việt Nam
 Author: XsF1re
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Depiction: https://frankynouva.github.io/depic/FlyJB0.2-beta36.html
 
 Package: com.frankynouva.LetMeKnow1.4.2
 Version: 1.4.2
