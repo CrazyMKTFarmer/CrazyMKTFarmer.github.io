@@ -1,3 +1,31 @@
+Package: com.frankynouva.NoLowStorage1.0
+Version: 1.0
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 8.0), com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/nl.d4ni.plsnoreset_1.0_iphoneos-arm.deb
+Size: 3550
+MD5sum: c5cd487d25a0c11f1691a2460747d12c
+Description: JSTeam - disables low storage space warning
+Name: NoLowStorage
+Author: Dani Winter <mail@d4ni.nl>
+Depiction: https://frankynouva.github.io/depic/NoLowStorage1.0.html
+
+Package: com.frankynouva.Maximization1.0.1
+Version: 1.0.1
+Section: Tw3ak
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, com.akiiimfrankyn0uva.akiiimfrankyn0uva1.0
+Architecture: iphoneos-arm
+Filename: debs/be.rud0lf77.maximization_1.0.1_iphoneos-arm.deb
+Size: 13518
+MD5sum: 7496fa3765d80f23dc00a3cc5d5fc38b
+Description: JSTeam - Run all Apps in Fullscreen Mode!
+Name: Maximization
+Author: rud0lf77 <rud0lf77@me.com>
+Depiction: https://frankynouva.github.io/depic/Maximization1.0.1.html
+
 Package: com.frankynouva.Gestures131.1.ok
 Version: 1.1.ok
 Section: Tw3ak
