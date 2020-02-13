@@ -5,13 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="30 ngày làm thương hiệu cho kênh truyền thông của bạn">
     <meta name="author" content="JUNO_OKYO">
-    <title>30 Days Plan | JUNO_OKYO</title>
+    <title>MixContentX | Franky Nouva</title>
     <link href="https://junookyo.blogspot.com/favicon.ico" rel="icon" type="image/x-icon">
     <link crossorigin="crossorigin" href="//cdnjs.cloudflare.com" rel="preconnect">
     <link crossorigin="crossorigin" href="//ajax.googleapis.com" rel="preconnect">
     <link crossorigin="crossorigin" href="//fonts.googleapis.com" rel="preconnect">
     <link crossorigin="crossorigin" href="//fonts.gstatic.com" rel="preconnect">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
     <style>
     .bd-placeholder-img {
@@ -41,30 +40,18 @@
         <div class="container">
           <div class="row">
             <div class="col-sm-8 col-md-7 py-4">
-              <h4 class="text-white">giới thiệu</h4>
-              <p class="text-muted"> Xin chào, đây là trang MixContentX, mình lấy code từ Boss Mạnh Tuấn - J2team và edit lại cho phù hợp nhu cầu công việc !</p>
+              
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
-              <h4 class="text-white">Theo dõi tôi</h4>
-              <ul class="list-unstyled">
-                <li><a href="https://www.facebook.com/FrankyNouva" class="text-white" target="_blank" rel="noopener">Profile</a></li>
-				<li><a href="https://www.facebook.com/frankynouva.vn" class="text-white" target="_blank" rel="noopener">Page</a></li>
-				<li><a href="https://www.facebook.com/groups/jsteam.group/" class="text-white" target="_blank" rel="noopener">Group</a></li>
-                <li><a href="https://twitter.com/FrankyNouva" class="text-white" target="_blank" rel="noopener">Twitter</a></li>
-                <li><a href="http://bit.ly/SubcribeJSTeam" class="text-white" target="_blank" rel="noopener">Youtube</a></li>
-              </ul>
+              
             </div>
           </div>
         </div>
       </div>
       <div class="navbar navbar-dark bg-dark shadow-sm">
         <div class="container d-flex justify-content-between">
-          <a href="index.html" class="navbar-brand d-flex align-items-center">
-            <strong>30 Days Plan</strong>
-          </a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-          </button>
+
+   
         </div>
       </div>
     </header>
@@ -72,12 +59,40 @@
       <section class="jumbotron text-center" id="top">
         <div class="container">
           <h1 class="jumbotron-heading">MixContentX</h1>
-          <p class="lead text-muted">Định Nghĩa Lại Tính Cách Acc Clone</p>
+          <p class="lead text-muted">Sửa Chữa Điện Thoại</p>
+		  	            <p>
+            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Ép Kính</button>
+            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Thay Màn</button>
+            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Mở iCloud'}}</button>
+            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Gỡ Acc GG'}}</button>
+          </p>
+		  <p class="lead text-muted">MixContentX</p>
           <p>
-            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Tạo ngẫu nhiên</button>
-            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Bật/tắt chỉnh sửa</button>
-            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Lưu kế hoạch'}}</button>
-            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Xóa kế hoạch đã lưu'}}</button>
+            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Creat random</button>
+            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Edit mode</button>
+            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Save Project'}}</button>
+            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Remove Project'}}</button>
+          </p>
+		  		  <p class="lead text-muted">Giày Thể Thao</p>
+          <p>
+            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Creat random</button>
+            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Edit mode</button>
+            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Save Project'}}</button>
+            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Remove Project'}}</button>
+          </p>
+		  		  <p class="lead text-muted">Mask Dưỡng Da</p>
+          <p>
+            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Creat random</button>
+            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Edit mode</button>
+            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Save Project'}}</button>
+            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Remove Project'}}</button>
+          </p>
+		  		  <p class="lead text-muted">Nhân Bản Apps</p>
+          <p>
+            <button type="button" class="btn btn-primary my-2" v-on:click="getNewList">Creat random</button>
+            <button type="button" class="btn btn-secondary my-2" v-on:click="toggleEditMode">Edit mode</button>
+            <button type="button" class="btn btn-secondary my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'save')}" v-on:click="savePlan">{{(loading.state === true && loading.btn === 'save') ? 'Đang lưu...' : 'Save Project'}}</button>
+            <button type="button" class="btn btn-danger my-2" v-bind:class="{disabled: (loading.state === true && loading.btn === 'clear')}" v-on:click="clearPlan">{{(loading.state === true && loading.btn === 'clear') ? 'Đang xóa...' : 'Remove Project'}}</button>
           </p>
         </div>
       </section>
@@ -86,7 +101,7 @@
           <div class="row">
             <div class="col-md-4" v-for="(day, i) in days">
               <div class="card mb-4 shadow-sm">
-                <img class="card-img-top" :data-src="`holder.js/100px225?text=Day ${i+1}&size=30&theme=sky`" height="225" width="100%">
+
                 <div class="card-body">
                   <p class="card-text text-center" v-if="!edit_mode">{{day}}</p>
                   <input type="text" class="form-control" :value="day" v-if="edit_mode" v-on:change="saveDay(i, event.target.value)" required>
@@ -96,16 +111,9 @@
           </div>
         </div>
       </div>
+
     </main>
-    <footer class="text-muted">
-      <div class="container">
-        <p class="float-right">
-          <a href="#top">Về đầu trang</a>
-        </p>
-        <p>Nguồn: <strong>YOURCHICKGEEK</strong>. Việt hóa bởi team <strong>Biệt Đội Trăng Đen</strong> (Dịch: Ly Ly Chan - Thiết kế: Thanh Hill).</p>
-        <p>Phiên bản web phát triển bởi <a href="https://www.junookyo.com/" target="_blank" rel="noopener">JUNO_OKYO</a>.</p>
-      </div>
-    </footer>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/holder/2.9.6/holder.min.js"></script>
