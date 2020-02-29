@@ -1,47 +1,31 @@
-﻿This XML file does not appear to have any style information associated with it. The document tree is shown below.
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>https://github.com/frankynouva/frankynouva.github.io/raw/master/debs/h3lix_1.0.ipa</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>https://ipa-apps.me/Images/h3lixicon.png</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>https://ipa-apps.me/Images/h3lixicon.png</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>tv.shou.airshou.hello</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>ipa-apps.me.H3lix</string>
-<key>bundle-version</key>
-<string>7.4.1</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>H3lix</string>
-</dict>
-</dict>
-</array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/frankynouva/frankynouva.github.io/raw/master/debs/h3lix_1.0.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>oldversionapp@gmail.com</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string> MAX2020 </string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
-window.__vidChanged = function(state){if(state === 1) {document.body.dispatchEvent(new Event('vidChanged'))}} if(document.querySelector('#movie_player')){document.querySelector('#movie_player').addEventListener('onStateChange', '__vidChanged');}
