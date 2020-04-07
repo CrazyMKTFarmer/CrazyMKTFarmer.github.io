@@ -1,2 +1,2 @@
-﻿GIF89a=GIF89a
-alert('Hello world');
+﻿GIF89a = GIF89a
+alert("Hello world");
