@@ -1,0 +1,1 @@
+inputText("test ok nha");
