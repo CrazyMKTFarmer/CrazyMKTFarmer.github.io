@@ -9,7 +9,7 @@
   "description": "Livestream with comments & reactions of post. Copyright of J2Team Community (https://www.facebook.com/groups/j2team.community/)",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-player": "^1.11.0",
