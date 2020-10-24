@@ -1,8 +1,0 @@
-/* Video Player CSS */
-.videoplayer {
-    padding-left: 0.2rem;
-    grid-column: 4 / 11;
-    grid-row: 1 / 9;
-    overflow: hidden;
-    padding-bottom: 3.1rem;
-}

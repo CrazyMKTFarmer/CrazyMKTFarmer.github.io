@@ -1,1 +1,0 @@
-inputText("test ok nha");
