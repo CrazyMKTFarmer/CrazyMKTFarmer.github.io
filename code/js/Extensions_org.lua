@@ -135,9 +135,9 @@ function logging(logContent)
 end
 
 function tap(x, y)
-    touchDown(0, x, y);
+    touchDown(9, x, y);
     usleep(16000);
-    touchUp(0, x, y);
+    touchUp(9, x, y);
 end
 
 -- color: the color to find
