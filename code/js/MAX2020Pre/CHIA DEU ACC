@@ -1,0 +1,53 @@
+
+
+
+
+MAYX = string.match(GR(rtemmp().."MAY"),"%d+");
+
+MAYX =  tonumber(MAYX);usleep(100000);
+A_NAP_ACC = tonumber(GR(rtemmp().."A_NAP_ACC"));usleep(100000);                                                       --A_NAP_ACC = 9; usleep(100000);
+CountNAP_ACC = C0(rtemmp().."NAP_ACC_ALL"); usleep(100000);         --CountNAP_ACC = 119; usleep(100000);
+
+if MAYX > A_NAP_ACC or MAYX == 0 then
+toast("\n\nNạp Acc: không thành công !\nLÝ DO: sai Tên máy hoặc sai số CHIA(web)\nCách fix: sửa tên máy hoặc giảm số CHIA",100);	
+toast("\n\nNạp Acc: không thành công !\nLÝ DO: sai Tên máy hoặc sai số CHIA(web)\nCách fix: sửa tên máy hoặc giảm số CHIA",100);	
+stop();
+	
+elseif MAYX < A_NAP_ACC or MAYX == A_NAP_ACC then
+if CountNAP_ACC < A_NAP_ACC then
+toast("\n\nNạp Acc: không thành công !\nLÝ DO: Số Acc quá ít\nCách fix: Nhập thêm acc hoặc giảm số máy CHIA",100);	
+toast("\n\nNạp Acc: không thành công !\nLÝ DO: Số Acc quá ít\nCách fix: Nhập thêm acc hoặc giảm số máy CHIA",100);
+stop();
+	else;
+	
+rACC_X = math.floor(CountNAP_ACC/A_NAP_ACC)*(MAYX-1)+1 ;usleep(100000);
+rACC_Y = math.floor(rACC_X + CountNAP_ACC/A_NAP_ACC - 1 ) ;usleep(100000);
+	
+	
+if MAYX == A_NAP_ACC and CountNAP_ACC - rACC_Y > 0 then
+rACC_Y = rACC_Y + (CountNAP_ACC - rACC_Y);usleep(100000);		
+		
+		else;end;
+	
+end;--if CountNAP_ACC < A_NAP_ACC then
+
+else;end;--	if MAYX > A_NAP_ACC or MAYX == 0 then	
+		
+C = require("pl.utils").readlines(rtemmp().."NAP_ACC_ALL");usleep(100000)
+for rCreat_ACC = rACC_X,rACC_Y,1 do
+	if C[rCreat_ACC] == nil or string.len(C[rCreat_ACC]) < 25 then
+toast("\n\nKiểm Tra ACC từ WEB\nDòng rỗng hoặc không hợp lệ!",100);toast("Nạp ACC từ WEB có dòng rỗng hoặc không hợp lệ, kiểm tra lại !",100);
+		stop();
+		else;end;--if C[rCreat_ACC] == nil or string.len(C[rCreat_ACC]) < 25 then
+toast("\n\nđang tạo và NẠP ACC :"..rCreat_ACC.."/"..math.floor(rACC_Y-rACC_X+1))
+if 	rCreat_ACC == rACC_X        then  GW(rmax().."1.ACC/ACC.txt",C[rCreat_ACC]);usleep(5000);	
+	elseif 	rCreat_ACC > rACC_X then  local f = io.open(rmax().."/1.ACC/ACC.txt", "a+");f:write("\n"..C[rCreat_ACC].."");f:close() 		
+	else;end;--
+	if rCreat_ACC == rACC_Y then 
+		toast("\n\nNẠP ACC: THÀNH CÔNG ("..(math.floor(rACC_Y-rACC_X+1))..") ACC\n\n1.Chọn CHECKLIVE từ WEB nếu muốn.\n2.Hoặc chạy các chức năng ngay.",100);
+		toast("\n\nNẠP ACC: THÀNH CÔNG ("..(math.floor(rACC_Y-rACC_X+1))..") ACC\n\n1.Chọn CHECKLIVE từ WEB nếu muốn.\n2.Hoặc chạy các chức năng ngay.",100);
+	    else;end;
+end;--for rCreat_ACC = rACC_X,rACC_Y,1 do
+
+--toast(rACC_X.."/"..rACC_Y,50)
+
