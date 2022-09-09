@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appSettings_com.burbn.instagram</key>
+	<dict>
+		<key>Containers</key>
+		<array>
+			<dict>
+				<key>identifier</key>
+				<string>DEFAULT</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>836975F0-2DEE-47BA-B00C-6F3CB7BDBAE3</string>
+				<key>name</key>
+				<string>MAX 1 ___FrankyNouvaInstagram</string>
+			</dict>
+		</array>
+		<key>activeContainer</key>
+		<string>BYK69AN0-2PFV-XOSR-8TH9-SJONACO3TWT9</string>
+		<key>containerProtectionEnabled</key>
+		<true/>
+		<key>gameCenterSupportEnabled</key>
+		<true/>
+		<key>separateSystemAccountsEnabled</key>
+		<true/>
+		<key>spoofSandboxLookupsEnabled</key>
+		<true/>
+	</dict>
+	<key>applicationShortcutEnabled</key>
+	<false/>
+	<key>keychainVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
