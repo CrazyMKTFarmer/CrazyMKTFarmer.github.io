@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appSettings_com.apple.AppStore</key>
+	<dict>
+		<key>Containers</key>
+		<array>
+			<dict>
+				<key>identifier</key>
+				<string>DEFAULT</string>
+				<key>name</key>
+				<string></string>
+				<key>requireBiometricAuthentication</key>
+				<false/>
+			</dict>
+		</array>
+		<key>activeContainer</key>
+		<string>DEFAULT</string>
+	</dict>
+	<key>appSettings_com.facebook.Facebook</key>
+	<dict>
+		<key>Containers</key>
+		<array>
+			<dict>
+				<key>identifier</key>
+				<string>DEFAULT</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>E2D678E4-EE96-4E76-A7BD-9C9112841049</string>
+				<key>name</key>
+				<string>MAX 1 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>JTUNKIGQ-HI3R-KWW3-CLVW-IX6ILCEIBCZL</string>
+				<key>name</key>
+				<string>MAX IngerEkai1293fgmm@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0PAVONY0-XWM2-TZUC-KHZS-CJ9JF8B9LQL4</string>
+				<key>name</key>
+				<string>MAX Evencia3884Hugohvks@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0PAVONY0-XWM2-TZUC-KHZS-CJ9JF8B9LQL4</string>
+				<key>name</key>
+				<string>MAX Afrae8385Joanthanxzth@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>XVB0WFQM-G9OX-T6HR-6C5N-8UXR9ZMD7WEO</string>
+				<key>name</key>
+				<string>MAX AlonzojfzlTyrrell2701@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>UYDJSYS8-XSWE-TH5B-NU0X-FCA37A33FX4D</string>
+				<key>name</key>
+				<string>MAX ArankaHaoxiangkhwa5905@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>UYDJSYS8-XSWE-TH5B-NU0X-FCA37A33FX4D</string>
+				<key>name</key>
+				<string>MAX AnnelieJeradoyov6714@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>W165YQN2-FWVQ-KSKI-SVUK-4GHTB7V0PVXF</string>
+				<key>name</key>
+				<string>MAX Ilinca6288Ginestaiodp@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>R7H3PI6E-69RP-YRG0-1C3C-HR0K85Z6UIA7</string>
+				<key>name</key>
+				<string>MAX TomasinaHafidnrky3812@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>O9JEXOTQ-6JMO-YTB2-MURI-CNJMEYQL83SK</string>
+				<key>name</key>
+				<string>MAX Bozhana1578Matricekesh@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>O9JEXOTQ-6JMO-YTB2-MURI-CNJMEYQL83SK</string>
+				<key>name</key>
+				<string>MAX TamaineAshantiljlm7460@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>XDTM8GCO-ZE09-LY3A-G7GA-3QCMMFA5GYPU</string>
+				<key>name</key>
+				<string>MAX JunsoejJatasha7225@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>YRMF9L7Y-ENWY-YMEX-O1DZ-DXJUG4THCMIA</string>
+				<key>name</key>
+				<string>MAX SarhHiromiguzg4946@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1AOAWD4R-ERV8-UAA4-JUCT-U314OSIMAAC1</string>
+				<key>name</key>
+				<string>MAX BertildaRekita1579cljl@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1AOAWD4R-ERV8-UAA4-JUCT-U314OSIMAAC1</string>
+				<key>name</key>
+				<string>MAX Guoxin8088Abigaeltsjd@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>SZC7VJEV-WERI-UOSF-D2NP-X984756QRNJZ</string>
+				<key>name</key>
+				<string>MAX Cathey4484Cidneyplny@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>N8DBT03E-WNYV-UC1M-U1MV-O1WNCTQIXCQH</string>
+				<key>name</key>
+				<string>MAX ZakaryaqhoCharonda6118@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6OGJ0VPC-QJ0F-U1ME-VU8M-JGL036NN11KR</string>
+				<key>name</key>
+				<string>MAX DominorbzoAmel9009@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6OGJ0VPC-QJ0F-U1ME-VU8M-JGL036NN11KR</string>
+				<key>name</key>
+				<string>MAX DarynwpriDasia2705@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>YG21ZUVN-QFDZ-9ZVL-PIIZ-WK6BE0LFO6ZM</string>
+				<key>name</key>
+				<string>MAX EugenigcysTimothy2783@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>QK3KIZMY-Q0G1-465D-8DG3-MAM59SJ3TVUN</string>
+				<key>name</key>
+				<string>MAX LeraiyojGregroy3037@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>QK3KIZMY-Q0G1-465D-8DG3-MAM59SJ3TVUN</string>
+				<key>name</key>
+				<string>MAX RobiKarissajtnv2083@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>I5LZ98DJ-C3RP-NVKT-64WB-GWXQVDHP22G5</string>
+				<key>name</key>
+				<string>MAX EmmalynnHaralambos7719gerr@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>NV9M1BRV-56LN-N2XW-AJ5V-02AWBUZHEJA6</string>
+				<key>name</key>
+				<string>MAX TorriChristepher2330hvye@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6UBXV2OZ-5O0M-NSO8-SEAM-JT2WRXBMBT7V</string>
+				<key>name</key>
+				<string>MAX Joanie3348Codiceho@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6UBXV2OZ-5O0M-NSO8-SEAM-JT2WRXBMBT7V</string>
+				<key>name</key>
+				<string>MAX TarynnyjhkLyssa1529@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>KQQN89GC-B81T-N335-5NYW-WA0ZQO41YU0J</string>
+				<key>name</key>
+				<string>MAX HassanvnuoChristele5385@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>5IF70FLN-BXG8-OLEJ-LJ3R-UERFY3KRRARM</string>
+				<key>name</key>
+				<string>MAX GennadiyJulieta3025mhff@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>79VBETQY-BBRS-OUAB-XE20-G75X6D7A605N</string>
+				<key>name</key>
+				<string>MAX ObieDurantdifi5411@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>79VBETQY-BBRS-OUAB-XE20-G75X6D7A605N</string>
+				<key>name</key>
+				<string>MAX BrockWardcvqq2500@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9EIJ75IR-0KLV-P4SS-0NGG-OY8GNMFF5C35</string>
+				<key>name</key>
+				<string>MAX RustylilwNorvell9308@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>ZJ31YSAV-0XN6-PAQO-RJWL-S0QV7H58MQ1D</string>
+				<key>name</key>
+				<string>MAX BojanNikitta8405gvjc@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>K0MLCAFE-0C1D-PBM7-W65W-QEL75C0P86L2</string>
+				<key>name</key>
+				<string>MAX Joshuea2377Noalaarw@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>56NFXXKC-OLX5-5Q7O-UOAR-LSESKTLVVV6J</string>
+				<key>name</key>
+				<string>MAX TyshellCraigepkdt7751@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>56NFXXKC-OLX5-5Q7O-UOAR-LSESKTLVVV6J</string>
+				<key>name</key>
+				<string>MAX Raynor6976Dabwae@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>7KCM8LCA-NVSO-CD5H-V3YA-6LMSDESLQ7UK</string>
+				<key>name</key>
+				<string>MAX GoreteuogsGuohong6835@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9PDG9Q7K-ACY4-5ZT4-B6R6-A0FJU4X5ASF9</string>
+				<key>name</key>
+				<string>MAX AlessandroAyla8581tevk@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>ZVG0WJ4R-4YOM-CXXX-8P7Y-S6A8H7DSKTAC</string>
+				<key>name</key>
+				<string>MAX TeofiloTraceyvtdu9152@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>ZVG0WJ4R-4YOM-CXXX-8P7Y-S6A8H7DSKTAC</string>
+				<key>name</key>
+				<string>MAX Sherrice3525Benjaminewemh@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>8L7I70EV-92QK-12B4-ZKXQ-QR7KPQPNSUSZ</string>
+				<key>name</key>
+				<string>MAX TouFelicito6835xeln@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>BQJCLH8Z-9QXR-QI36-NXZS-YMOYRL9FFNC2</string>
+				<key>name</key>
+				<string>MAX NeimanKimani3750sgqu@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>V2L3BMPP-UUI2-1REL-2B5N-FCIY1638P0JI</string>
+				<key>name</key>
+				<string>MAX JannetteEureka7792qcog@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>V2L3BMPP-UUI2-1REL-2B5N-FCIY1638P0JI</string>
+				<key>name</key>
+				<string>MAX JuniusfttrDanuel1272@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>499WFWVN-M2LG-WKNE-1LAF-AXC4L07CUQDL</string>
+				<key>name</key>
+				<string>MAX RandieErmapfsb9311@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>EWOYRJUT-MQNE-DLSK-KXYT-7JJUFSEVIQ84</string>
+				<key>name</key>
+				<string>MAX StevanahpmEvy6583@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>RSQFMPDS-LMQQ-D9WD-6BRB-5MC49CBKZE1O</string>
+				<key>name</key>
+				<string>MAX ShahidahimgkKynan3956@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>RSQFMPDS-LMQQ-D9WD-6BRB-5MC49CBKZE1O</string>
+				<key>name</key>
+				<string>MAX TimmyHanifahvxgm9829@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>PAZ95VRX-L7FB-WAU8-NK7V-8C84HK45B6KQ</string>
+				<key>name</key>
+				<string>MAX LaniersxnfKeri1812@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>VZXVGM0W-K1IA-D0HC-SX6M-EF1N0687LVEF</string>
+				<key>name</key>
+				<string>MAX ShaqwanaSary9393ryvi@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>U3I03EXP-K9T4-Z5CR-1CQZ-9JKOJA29RSU7</string>
+				<key>name</key>
+				<string>MAX LamarcusoemwDarnelle2212@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>U3I03EXP-K9T4-Z5CR-1CQZ-9JKOJA29RSU7</string>
+				<key>name</key>
+				<string>MAX EgidiorofjCharmin8674@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>WO3SO3Y9-TSNL-EWY5-UYB8-29FBWRXZGTHT</string>
+				<key>name</key>
+				<string>MAX Dartanion6349Bertomeuxidk@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>RXMCZC1T-KDQ8-FZGI-HHAP-5CUCYW1R1LA9</string>
+				<key>name</key>
+				<string>MAX TakeshiaKyndall4136rxua@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>OTA377II-34FI-ZFO0-05KG-RFF56TNA9LVN</string>
+				<key>name</key>
+				<string>MAX SeveroDurwinmykn2432@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>OTA377II-34FI-ZFO0-05KG-RFF56TNA9LVN</string>
+				<key>name</key>
+				<string>MAX CandaceswwjElmehdi4069@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>GCPWM4AX-8SSH-6V87-8MRM-E8NDAHUXKOPW</string>
+				<key>name</key>
+				<string>MAX CAN_NOT_SIGN_IN_Idan2181Arlettetxry@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>YVWY5F6W-JDTF-F7ZN-DHHD-M4VW20RKVBI6</string>
+				<key>name</key>
+				<string>MAX CAN_NOT_SIGN_IN_LehinnxpShenna7697@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>QM6FGTKB-RNNZ-XJAH-9Q6J-V1OE5RH5D1C7</string>
+				<key>name</key>
+				<string>MAX CAN_NOT_SIGN_IN_DurontefxJaysen7460@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>IQV9RCCU-RJC5-X8S9-VM1A-0X2E8DQHNDRR</string>
+				<key>name</key>
+				<string>MAX CAN_NOT_SIGN_IN_ConnidxesJocelynn7732@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>IQV9RCCU-RJC5-X8S9-VM1A-0X2E8DQHNDRR</string>
+				<key>name</key>
+				<string>MAX CAN_NOT_SIGN_IN_Amat2352Candelavjlk@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0IJ2AS7T-JEFP-XYDX-52PX-335XE9P4LGD4</string>
+				<key>name</key>
+				<string>MAX LaquindaMagen1106vlsa@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>X4KOWN4S-SA2A-HUUM-T14Y-DAJXUHUD2HL0</string>
+				<key>name</key>
+				<string>MAX Jorgeluis7764Lubnakmpg@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>LZ4J2XEX-I3KU-HN26-F4Y1-MDQVH5K86JF1</string>
+				<key>name</key>
+				<string>MAX LaineElan7286vxwx@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>LZ4J2XEX-I3KU-HN26-F4Y1-MDQVH5K86JF1</string>
+				<key>name</key>
+				<string>MAX MirelAscendina3834pbav@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1ROQYL3W-S6NK-705U-NI3J-V7T7PTS0589X</string>
+				<key>name</key>
+				<string>MAX Azzie8179Eliseinmdm@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>IO5TP1BO-705J-HBLE-SWVA-03W2RE66ULGH</string>
+				<key>name</key>
+				<string>MAX ArelysquijShade9019@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>NFEE6JV9-23FS-2QXY-Q96G-8OYSW41LJ9O8</string>
+				<key>name</key>
+				<string>MAX BreeannnkysDalan7891@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>NFEE6JV9-23FS-2QXY-Q96G-8OYSW41LJ9O8</string>
+				<key>name</key>
+				<string>MAX Decebal2485Kirstinefdob@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>XKGMR0UT-7F2V-2ZBW-LJDL-DD6RLSOCGOSU</string>
+				<key>name</key>
+				<string>MAX AtreyudautSharmel6335@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>KB2X9VW7-V0K6-7633-GWB5-U7MJF5YH5BBA</string>
+				<key>name</key>
+				<string>MAX Latrell7288Anasbink@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>QH3NQURG-VTND-SH6Q-BNAI-HYVT0LJ4AW8W</string>
+				<key>name</key>
+				<string>MAX RonnywkmxTunisia1042@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>QH3NQURG-VTND-SH6Q-BNAI-HYVT0LJ4AW8W</string>
+				<key>name</key>
+				<string>MAX HernanErosdlok7938@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>SYL7HE0Q-VG55-S7N8-RRLN-OO0KI6GETE16</string>
+				<key>name</key>
+				<string>MAX Fanni3859Mireyaqzsr@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>NCAPT8G0-GBZO-ISS5-DERE-SE2Y5NQRVF3H</string>
+				<key>name</key>
+				<string>MAX LasaundraDeion6523mfqa@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>62BJOBLM-GT79-J3DJ-UAVT-1IBM3IBODHE8</string>
+				<key>name</key>
+				<string>MAX AmparoCampo3176opnm@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>62BJOBLM-GT79-J3DJ-UAVT-1IBM3IBODHE8</string>
+				<key>name</key>
+				<string>MAX ArenaqugzAntionne9635@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>KMQQZVQ3-FX8L-JKUB-HJEC-YYSUW1M6O7TY</string>
+				<key>name</key>
+				<string>MAX AndreiaddkrMaresha3331@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>CDFT79I7-FB98-JYH2-PE1V-6OC9YKJ3KRE4</string>
+				<key>name</key>
+				<string>MAX RashardHasaanmcuy8709@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>7SVEUZAF-6YBR-84CO-3N09-AZ39GGVB7K45</string>
+				<key>name</key>
+				<string>MAX FatiMorena6733fuwl@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>7SVEUZAF-6YBR-84CO-3N09-AZ39GGVB7K45</string>
+				<key>name</key>
+				<string>MAX Darroll6989Aliahxnoy@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9AJMCK6Q-6VZ2-8OL2-684E-SSDO0OEHZMVZ</string>
+				<key>name</key>
+				<string>MAX SaishaTalanqhik1927@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>FZKGGCKO-ZC7X-8PXN-A6T8-QULOJJ5UPAOV</string>
+				<key>name</key>
+				<string>MAX AmarilisSharnayoavy7964@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>T3UN3SCU-EY3E-KQBH-IORB-YPZB1DAWUBIR</string>
+				<key>name</key>
+				<string>MAX JackelynAleth4823vrtd@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>T3UN3SCU-EY3E-KQBH-IORB-YPZB1DAWUBIR</string>
+				<key>name</key>
+				<string>MAX JamiafucdCheila8037@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>C007AA23-EH4Q-KD84-1THH-F6M5LUKRJ1PL</string>
+				<key>name</key>
+				<string>MAX JorunnndmcMahala6900@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>7X5BD697-W5PB-TEEF-KFEM-AI65EG246WI4</string>
+				<key>name</key>
+				<string>MAX NeriDelorse6516cqxv@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9TDJ7LZF-WLEA-TGAU-GBQD-IM4Q4OFF5F5P</string>
+				<key>name</key>
+				<string>MAX TellyDulcerinahzvp8570@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9TDJ7LZF-WLEA-TGAU-GBQD-IM4Q4OFF5F5P</string>
+				<key>name</key>
+				<string>MAX LangstonMarviskpgh9486@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>ZCGWLQ3Q-D729-Y7JF-0TB8-1C7W28WKAVTZ</string>
+				<key>name</key>
+				<string>MAX KimykcuIeltxu3934@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>8V2YBIPO-Q13Y-LSWL-RG90-T60EPW0P87DX</string>
+				<key>name</key>
+				<string>MAX DextonDevonda2104thch@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>BURF60VL-QMM8-LRUW-WBKG-FJ2EJUYGGRYI</string>
+				<key>name</key>
+				<string>MAX DarneshiaffohRanita4762@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>HQY4JGM8-17BS-MT2T-UYJY-A9CGD28MDTXL</string>
+				<key>name</key>
+				<string>MAX KeishawnfpojAmantha3624@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>HQY4JGM8-17BS-MT2T-UYJY-A9CGD28MDTXL</string>
+				<key>name</key>
+				<string>MAX Tasia2242Rayfordsypz@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>UI9H9MD2-CQEH-MLCQ-VHVW-2CJXMCV1OU4N</string>
+				<key>name</key>
+				<string>MAX JadonDecembercody9897@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>W9P01WJE-CMV6-MML8-P5ZS-5G1XG8WSK4GB</string>
+				<key>name</key>
+				<string>MAX EmiliyandzedGlennie4136@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>RW1SVROC-PS8D-MNGC-8LCA-3R8HAEB9H0N1</string>
+				<key>name</key>
+				<string>MAX AlexzandraimipKennet5101@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>RW1SVROC-PS8D-MNGC-8LCA-3R8HAEB9H0N1</string>
+				<key>name</key>
+				<string>MAX KavenGobrias9098bzvt@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>BJZCTBXA-BWMQ-4OBR-ZH0F-E4D2244EE52G</string>
+				<key>name</key>
+				<string>MAX TeranrlulNatoshia5822@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>HOV8OVYL-P4PB-4C8P-45MT-91YIC733BDPI</string>
+				<key>name</key>
+				<string>MAX DaliusisoeKeniesha4885@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>U6IDZMQJ-OSDA-9QZI-7LK5-VXZS3C2OYZJ8</string>
+				<key>name</key>
+				<string>MAX AlimBonosa8627oixu@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>U6IDZMQJ-OSDA-9QZI-7LK5-VXZS3C2OYZJ8</string>
+				<key>name</key>
+				<string>MAX ShanteaJosheuatwrh4166@gmail.com ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>CB2446EC-5ECC-42BF-8680-3F29DBB9714A</string>
+				<key>name</key>
+				<string>MAX 2 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>48D71F27-4D62-4A07-9004-9AE17C18BC77</string>
+				<key>name</key>
+				<string>MAX 3 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>833BD790-07CE-4604-B00E-0CECBC94B3BF</string>
+				<key>name</key>
+				<string>MAX 4 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>39B78960-4D2A-4B37-B04E-85347365245A</string>
+				<key>name</key>
+				<string>MAX 5 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0DF534D2-8A0C-4A3B-8EC3-3FD661DC6B7F</string>
+				<key>name</key>
+				<string>MAX 6 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>9B61AA1C-EB85-4259-83DD-D0CA0580456C</string>
+				<key>name</key>
+				<string>MAX 7 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>323FB783-A5ED-468D-B979-ADB24BFA3075</string>
+				<key>name</key>
+				<string>MAX 8 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>142C306E-081D-40D2-853B-9C33E6891AB8</string>
+				<key>name</key>
+				<string>MAX 9 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>67C2F2B4-0DFE-4783-9560-E408F4EC9346</string>
+				<key>name</key>
+				<string>MAX 10 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>44E6C1E6-8729-4232-81F7-11BD6DC23CE8</string>
+				<key>name</key>
+				<string>MAX 11 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1958D6F7-965F-4911-8634-853E0CE13572</string>
+				<key>name</key>
+				<string>MAX 12 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>C4E2BC37-6C4E-4335-A9F6-562DDE276D23</string>
+				<key>name</key>
+				<string>MAX 13 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>DE675583-DFC7-424D-9420-9ECD232A9A57</string>
+				<key>name</key>
+				<string>MAX 14 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>BEA2D16F-F335-4263-9D1C-91E80688077D</string>
+				<key>name</key>
+				<string>MAX 15 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>3EA6BC76-7347-4035-8C04-F4D4B00E78EC</string>
+				<key>name</key>
+				<string>MAX 16 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>75FE2F1B-7898-4936-B264-8473F5B7D79B</string>
+				<key>name</key>
+				<string>MAX 17 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>36B74E13-AB32-4E9D-9CAE-8DB356F0EC51</string>
+				<key>name</key>
+				<string>MAX 18 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>2859FD12-6150-4FD7-9A85-AADAA73D9EC4</string>
+				<key>name</key>
+				<string>MAX 19 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>624B0603-417F-42DF-9A6D-FC8CAE1970CA</string>
+				<key>name</key>
+				<string>MAX 20 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>DAF52AA7-2F33-4B85-AA52-B3B28F9A44B7</string>
+				<key>name</key>
+				<string>MAX 21 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>575AA1F4-5A06-4840-A079-3F2DBA989147</string>
+				<key>name</key>
+				<string>MAX 22 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>77B2AB52-73E6-4BB9-A5D0-97F14AAF920B</string>
+				<key>name</key>
+				<string>MAX 23 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>778B3376-BE21-4E13-9D67-360C06A441F1</string>
+				<key>name</key>
+				<string>MAX 24 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1C3E0594-845C-4B7F-B92C-EA5F2AB888E9</string>
+				<key>name</key>
+				<string>MAX 25 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>DEEC9194-2107-42E3-BF37-C36EC8D4ABD0</string>
+				<key>name</key>
+				<string>MAX 26 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1B1BF1B7-F3F7-47F1-95B1-D27994B9062F</string>
+				<key>name</key>
+				<string>MAX 27 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>AF48C1F3-59D6-432D-A2A4-467A892206BC</string>
+				<key>name</key>
+				<string>MAX 28 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0594EC76-D170-4FFB-B40A-448EE8B5EE78</string>
+				<key>name</key>
+				<string>MAX 29 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F319AD3E-FF41-4779-A270-96C1BD0CB35F</string>
+				<key>name</key>
+				<string>MAX 30 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>8BF4BCC1-7E4B-42F9-970E-C7779BE2FB01</string>
+				<key>name</key>
+				<string>MAX 31 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>3448616B-22C0-44D2-8A3B-0B7FB73E4D8E</string>
+				<key>name</key>
+				<string>MAX 32 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>FEBF9740-9765-4C24-BBBA-86D1154A3578</string>
+				<key>name</key>
+				<string>MAX 33 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>DBBD4248-282F-4F58-AC12-CF2332E4ADA4</string>
+				<key>name</key>
+				<string>MAX 34 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0C4E3302-82AA-4C57-BA5C-5812F49FA1ED</string>
+				<key>name</key>
+				<string>MAX 35 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>739F47A5-7BCF-4743-B2DA-D70AF52B980A</string>
+				<key>name</key>
+				<string>MAX 36 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>E0F54A9B-BC91-45FA-A94D-6CB3372B25B4</string>
+				<key>name</key>
+				<string>MAX 37 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>5112F042-EB87-442B-AFC1-41B1055A5A2C</string>
+				<key>name</key>
+				<string>MAX 38 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>2A799228-5E23-410B-A507-DC05926C0C88</string>
+				<key>name</key>
+				<string>MAX 39 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>85A94725-51E4-459B-8210-846B1BCDCDBB</string>
+				<key>name</key>
+				<string>MAX 40 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>82C9FE8E-320C-4B26-A000-7F9E1BE2E0EC</string>
+				<key>name</key>
+				<string>MAX 41 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F300A5E0-703B-4E5D-8E6F-7DF9558134B1</string>
+				<key>name</key>
+				<string>MAX 42 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>2B51D1AF-5FDA-4D46-932E-809344C72D2C</string>
+				<key>name</key>
+				<string>MAX 43 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>0ED653DC-1756-4A62-82B7-B1F8889E533A</string>
+				<key>name</key>
+				<string>MAX 44 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>4059D61F-1F80-4FB8-92B5-4121528C166A</string>
+				<key>name</key>
+				<string>MAX 45 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D43B09D6-3713-4A09-9141-D195331B07C6</string>
+				<key>name</key>
+				<string>MAX 46 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>54537F84-2D6F-4061-8EC9-5E0B2879CA1B</string>
+				<key>name</key>
+				<string>MAX 47 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>8F701ED9-37CA-4042-8CE6-D9656F5D1EAF</string>
+				<key>name</key>
+				<string>MAX 48 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>A98E1E61-1759-4AFC-BDBF-4ECE20743E7E</string>
+				<key>name</key>
+				<string>MAX 49 ___FrankyNouvaF</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1053DAA5-8043-4104-ABFD-6862BD9AB49F</string>
+				<key>name</key>
+				<string>MAX 50 ___FrankyNouvaF</string>
+			</dict>
+		</array>
+		<key>activeContainer</key>
+		<string>DEFAULT</string>
+		<key>alwaysAskBeforeLaunchEnabled</key>
+		<false/>
+		<key>containerProtectionEnabled</key>
+		<true/>
+		<key>gameCenterSupportEnabled</key>
+		<true/>
+		<key>separateSystemAccountsEnabled</key>
+		<true/>
+		<key>spoofSandboxLookupsEnabled</key>
+		<true/>
+	</dict>
+	<key>appSettings_com.facebook.Messenger</key>
+	<dict>
+		<key>Containers</key>
+		<array>
+			<dict>
+				<key>identifier</key>
+				<string>DEFAULT</string>
+				<key>name</key>
+				<string></string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>3F865F82-65BE-4753-9848-8D89311D31F1</string>
+				<key>name</key>
+				<string>MAX 1 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>A739E003-E2C6-49CF-BEE1-60848951A719</string>
+				<key>name</key>
+				<string>MAX 2 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>EE83FD90-1E82-4809-A157-BF8C34A05731</string>
+				<key>name</key>
+				<string>MAX 3 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>E5AD1FBA-025F-4FA2-9845-7E4F2F2A8B6C</string>
+				<key>name</key>
+				<string>MAX 4 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>5DB185EB-CFB9-4AA9-BBC3-4D90DE87D09F</string>
+				<key>name</key>
+				<string>MAX 5 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>B3437CFF-B9DC-469A-8E9D-0B00333976BC</string>
+				<key>name</key>
+				<string>MAX 6 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>A0346EC7-7B76-449E-8BB5-4D57CDF1CF16</string>
+				<key>name</key>
+				<string>MAX 7 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>888BEE25-3340-4F2D-9579-EDE250599922</string>
+				<key>name</key>
+				<string>MAX 8 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>C876CDF3-EF65-4657-BA84-4D7DAC9C9448</string>
+				<key>name</key>
+				<string>MAX 9 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>16505330-DC27-4F8F-B23B-FD17372DD51D</string>
+				<key>name</key>
+				<string>MAX 10 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D24039DC-7668-4D0B-855F-44A61A5A78AE</string>
+				<key>name</key>
+				<string>MAX 11 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>76E15883-65E1-40AC-8ED3-03FBCB24E8AC</string>
+				<key>name</key>
+				<string>MAX 12 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F3CC0A02-921A-49A2-A3C4-65F93D9C4FE7</string>
+				<key>name</key>
+				<string>MAX 13 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F932DE6E-67B9-4C3D-A213-DAFFBD5F55E5</string>
+				<key>name</key>
+				<string>MAX 14 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D4240F6B-53B7-448B-976F-1221B29DA1E1</string>
+				<key>name</key>
+				<string>MAX 15 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>19E4C3B2-527F-4407-ADCD-EA70CA77AB6D</string>
+				<key>name</key>
+				<string>MAX 16 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>E3A7A70B-9FBB-4C6C-A268-A6E83D6CC2C6</string>
+				<key>name</key>
+				<string>MAX 17 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>32478F57-F13C-4712-9886-0CBAC80C6DBD</string>
+				<key>name</key>
+				<string>MAX 18 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>3E11F545-7311-496F-84C0-A40AB726C196</string>
+				<key>name</key>
+				<string>MAX 19 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>8D689462-B4C7-43FC-845F-67BE7E8B6B99</string>
+				<key>name</key>
+				<string>MAX 20 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>178CD5B6-A688-418A-BA3C-5204CC2BFCFE</string>
+				<key>name</key>
+				<string>MAX 21 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F8D54F6B-D42D-4E8D-B127-61DC26422904</string>
+				<key>name</key>
+				<string>MAX 22 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>23C0CB0B-4A43-4AD4-B6EC-6616FE3AB7EB</string>
+				<key>name</key>
+				<string>MAX 23 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>EB2BDC83-DE75-4DA4-8658-4CD0965E5CB4</string>
+				<key>name</key>
+				<string>MAX 24 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>77EBA000-DA25-49D4-B977-F3CDA9F7466E</string>
+				<key>name</key>
+				<string>MAX 25 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>399D357C-4319-4FC6-85B6-6ECE8B09F1DD</string>
+				<key>name</key>
+				<string>MAX 26 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>44C72BFD-DAC1-4DDB-ADEF-6B925C31156A</string>
+				<key>name</key>
+				<string>MAX 27 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>117F3F0E-F173-4331-B391-86223DDB8406</string>
+				<key>name</key>
+				<string>MAX 28 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1A38D28D-B383-45A2-8B72-49ADC2E6F922</string>
+				<key>name</key>
+				<string>MAX 29 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>B000CE38-4B43-475D-99A7-E8DE90307852</string>
+				<key>name</key>
+				<string>MAX 30 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D41CA192-57DB-4709-ABC5-9D6E5783CAA6</string>
+				<key>name</key>
+				<string>MAX 31 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>596319D7-4F84-4D77-8AB3-83C89D461C8B</string>
+				<key>name</key>
+				<string>MAX 32 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>B744B9E4-C9F3-446F-BF06-1271D956EB6E</string>
+				<key>name</key>
+				<string>MAX 33 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6721036B-D2CF-491E-B56E-C312782F3B0F</string>
+				<key>name</key>
+				<string>MAX 34 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>2970FC7B-F184-41E7-8594-B4AB1D19FA1A</string>
+				<key>name</key>
+				<string>MAX 35 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>4FDCF0F5-7F55-40AF-B682-F10A1C366B9E</string>
+				<key>name</key>
+				<string>MAX 36 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>CB2C990F-6847-4D90-8AFB-F24E9995CE43</string>
+				<key>name</key>
+				<string>MAX 37 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>92A7B472-5B8E-45CC-9E76-0D52E6C6567F</string>
+				<key>name</key>
+				<string>MAX 38 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D2AA682E-D1D1-48E8-BD22-7F919A5830B9</string>
+				<key>name</key>
+				<string>MAX 39 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>CA1C522C-36B5-4A3B-BC41-63B91193170A</string>
+				<key>name</key>
+				<string>MAX 40 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>6BA8D8AF-F454-4912-A13C-EFD59DEADCE7</string>
+				<key>name</key>
+				<string>MAX 41 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>480E7F1F-FCA9-4F6A-AC71-5FC4B35489E6</string>
+				<key>name</key>
+				<string>MAX 42 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>049177C4-702F-4035-8268-319912D81276</string>
+				<key>name</key>
+				<string>MAX 43 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F82EB391-24D3-4CEC-9D7E-43AAF9490E87</string>
+				<key>name</key>
+				<string>MAX 44 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>35498154-68A7-4DAC-973C-35DD57D548EF</string>
+				<key>name</key>
+				<string>MAX 45 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>44F667AB-FF63-4305-8A87-F2D055BB2B56</string>
+				<key>name</key>
+				<string>MAX 46 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>FDA1E376-A294-4200-84BE-81B8C22B43CA</string>
+				<key>name</key>
+				<string>MAX 47 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>D4505123-DAE7-40EB-BFB7-EB7118100A73</string>
+				<key>name</key>
+				<string>MAX 48 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>FA899FC3-56FA-432C-8BF7-5079A5D16E22</string>
+				<key>name</key>
+				<string>MAX 49 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>1C16ECB0-A950-428D-AAB9-B6D5CCDFFCBC</string>
+				<key>name</key>
+				<string>MAX 50 ___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>FF21E241-4A0A-40B3-84C5-78DF92DFBC3B</string>
+				<key>name</key>
+				<string>Gatoz</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>83011EAC-5C7C-4DBF-AF6A-C75F1C095F12</string>
+				<key>name</key>
+				<string>GatozGatoz</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>87C37901-B56C-4E65-A5FE-27A1B240AB88</string>
+				<key>name</key>
+				<string>GatozGatoz</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>F6883955-63DE-4051-8B56-C85033B13BA8</string>
+				<key>name</key>
+				<string>Gatoz___FrankyNouvaM</string>
+			</dict>
+			<dict>
+				<key>identifier</key>
+				<string>69CB5652-4F06-4693-BFE4-00BB2470E839</string>
+				<key>name</key>
+				<string>GatozNhanPro___FrankyNouvaM</string>
+			</dict>
+		</array>
+		<key>activeContainer</key>
+		<string>DEFAULT</string>
+		<key>containerProtectionEnabled</key>
+		<true/>
+		<key>gameCenterSupportEnabled</key>
+		<true/>
+		<key>separateSystemAccountsEnabled</key>
+		<true/>
+		<key>spoofSandboxLookupsEnabled</key>
+		<true/>
+	</dict>
+	<key>applicationShortcutEnabled</key>
+	<true/>
+	<key>expandContainersShortcutEnabled</key>
+	<true/>
+	<key>keychainVersion</key>
+	<integer>2</integer>
+	<key>launchApplicationOnContainerSelectionEnabled</key>
+	<true/>
+	<key>notificationsSupportEnabled</key>
+	<true/>
+	<key>showContainerInNotificationTitleEnabled</key>
+	<true/>
+</dict>
+</plist>
