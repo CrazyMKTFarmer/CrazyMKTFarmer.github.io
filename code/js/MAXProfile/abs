@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.FrankyNouva.AES_Encrypt.Zalo1</key>
+	<false/>
+	<key>com.atebits.Tweetie2</key>
+	<true/>
+	<key>com.burbn.instagram</key>
+	<true/>
+	<key>com.facebook.Facebook</key>
+	<true/>
+	<key>com.facebook.Messenger</key>
+	<true/>
+	<key>com.google.ios.youtube</key>
+	<true/>
+	<key>stopABLivePatch</key>
+	<integer>1</integer>
+	<key>vn.com.vng.zingalo</key>
+	<true/>
+</dict>
+</plist>
